@@ -6,6 +6,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
@@ -22,9 +23,15 @@ namespace AionDPS
             LogAnalyzer.Initialize();
         }
 
+        public static Main form;
+
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Cross Thread Control Exception 방지
+            CheckForIllegalCrossThreadCalls = false;
             fortressComboBox.SelectedIndex = 0;
+
+            form = this;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -39,27 +46,30 @@ namespace AionDPS
             openFileDialog1.ShowDialog();
 
             string log;
+            int i = 0;
+            ResultForm resultForm = new ResultForm();
 
             try
             {
+                this.button1.Text = "집계중입니다.";
+                this.button1.Enabled = false;
+                this.button1.BackColor = Color.White;
+
                 using (StreamReader sr = new StreamReader(openFileDialog1.OpenFile(), Encoding.Default, true))
                 {
-                    int i = 0;
                     while ((log = sr.ReadLine()) != null)
                     {
-                        //Console.WriteLine(i++);
                         LogAnalyzer.Instance.Analyze(log, guardianComboBox.Text);
                     }
+
                 }
+                resultForm.Show();
+                this.Hide();
             }
             catch
             {
 
             }
-
-            ResultForm resultForm = new ResultForm();
-
-            resultForm.Show();
 
             //this.Hide();
         }
@@ -77,7 +87,7 @@ namespace AionDPS
         private void checkBox3_MouseHover(object sender, EventArgs e)
         {
             toolTip1.ToolTipTitle = "";
-            toolTip1.SetToolTip(checkBox3, "측정자의 데이터를 다른 색상으로 표기합니다.");
+            toolTip1.SetToolTip(showMyNick, "측정자의 데이터를 다른 색상으로 표기합니다.");
         }
 
         private void fortressComboBox_SelectedIndexChanged(object sender, EventArgs e)

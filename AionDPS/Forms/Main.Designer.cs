@@ -39,7 +39,7 @@ namespace AionDPS
             this.button1 = new System.Windows.Forms.Button();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.showMyNick = new System.Windows.Forms.CheckBox();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.SuspendLayout();
             // 
@@ -105,14 +105,17 @@ namespace AionDPS
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.button1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Location = new System.Drawing.Point(0, 125);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(326, 56);
             this.button1.TabIndex = 7;
             this.button1.Text = "측정 시작";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // checkBox2
@@ -131,24 +134,24 @@ namespace AionDPS
             this.openFileDialog1.FileName = "Chat.log";
             this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
             // 
-            // checkBox3
+            // showMyNick
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(12, 85);
-            this.checkBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(88, 16);
-            this.checkBox3.TabIndex = 9;
-            this.checkBox3.Text = "측정자 표시";
-            this.checkBox3.UseVisualStyleBackColor = true;
-            this.checkBox3.MouseHover += new System.EventHandler(this.checkBox3_MouseHover);
+            this.showMyNick.AutoSize = true;
+            this.showMyNick.Location = new System.Drawing.Point(12, 85);
+            this.showMyNick.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.showMyNick.Name = "showMyNick";
+            this.showMyNick.Size = new System.Drawing.Size(88, 16);
+            this.showMyNick.TabIndex = 9;
+            this.showMyNick.Text = "측정자 표시";
+            this.showMyNick.UseVisualStyleBackColor = true;
+            this.showMyNick.MouseHover += new System.EventHandler(this.checkBox3_MouseHover);
             // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(326, 181);
-            this.Controls.Add(this.checkBox3);
+            this.Controls.Add(this.showMyNick);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.fortressComboBox);
@@ -168,8 +171,6 @@ namespace AionDPS
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox guardianComboBox;
@@ -178,8 +179,9 @@ namespace AionDPS
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
-        private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.ToolTip toolTip1;
+        public System.Windows.Forms.CheckBox showMyNick;
+        public System.Windows.Forms.TextBox textBox1;
     }
 }
 

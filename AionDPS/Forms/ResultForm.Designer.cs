@@ -263,11 +263,12 @@ namespace AionDPS
             // 
             // idx
             // 
-            this.idx.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCellsExceptHeader;
+            this.idx.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
             this.idx.HeaderText = "#";
+            this.idx.MinimumWidth = 40;
             this.idx.Name = "idx";
             this.idx.ReadOnly = true;
-            this.idx.Width = 5;
+            this.idx.Width = 40;
             // 
             // playerClass
             // 
@@ -278,11 +279,11 @@ namespace AionDPS
             // 
             // username
             // 
-            this.username.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCellsExceptHeader;
             this.username.HeaderText = "이름";
-            this.username.MinimumWidth = 100;
+            this.username.MinimumWidth = 150;
             this.username.Name = "username";
             this.username.ReadOnly = true;
+            this.username.Width = 150;
             // 
             // dps
             // 

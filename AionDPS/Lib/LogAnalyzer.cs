@@ -29,10 +29,12 @@ namespace AionDPS
         public void Analyze(string logStr, string guardName)
         {
             Analyzed logResult = LogRegex.getLogResult(logStr, guardName);
-            Analyzed lastDeal = new Analyzed();
 
             string userName = logResult.userName;
             if (userName == "" | userName == string.Empty | userName == null)
+                return;
+
+            if (logResult.skillName.Contains("빙판") || logResult.skillName.Contains("의 축복") || logResult.skillName.Contains("의 기운") || logResult.skillName.Contains("한 기운"))
                 return;
 
             Log userLog;
@@ -57,7 +59,8 @@ namespace AionDPS
             userLog.time = GetTime(userLog, logResult.loggedTime);
             userLog.DPS = userLog.accDamage / userLog.time;
             userLog.lastLoggedTime = logResult.loggedTime;
-            userLog.userClass = getUserClass(userLog, logResult);
+            if (logResult.skillName != null && userLog.userClass == "")
+                userLog.userClass = getUserClass(userLog, logResult);
 
             userList[userName] = userLog;
 
@@ -72,10 +75,11 @@ namespace AionDPS
                 newTime = 1;
             else
             {
-                if ((int)(logTime - userLog.lastLoggedTime).Seconds < 5)
-                    newTime += (int)(logTime - userLog.lastLoggedTime).Seconds;
+                int tSpan = (int)(logTime - userLog.lastLoggedTime).Seconds;
+                if (tSpan < 5 && tSpan >= 0)
+                    newTime += tSpan;
                 else
-                    newTime += 1;
+                    newTime++;
             }
 
             
@@ -121,17 +125,15 @@ namespace AionDPS
         {
             var nodes = xmlDoc.SelectNodes("/skills/skill");
             
-            if(logResult.skillName != null && userLog.tryDetectClass < 3)
+
+            foreach (XmlNode node in nodes)
             {
-                foreach (XmlNode node in nodes)
+                if (node["name"].InnerText == logResult.skillName)
                 {
-                    if (node["name"].InnerText == logResult.skillName)
-                    {
-                        userLog.tryDetectClass += 1;
-                        return node["class"].InnerText;
-                    }
+                    return node["class"].InnerText;
                 }
             }
+            
 
             return userLog.userClass;
 
