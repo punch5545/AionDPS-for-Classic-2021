@@ -121,6 +121,7 @@ namespace AionDPS
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
+            this.checkBox2.Enabled = false;
             this.checkBox2.Location = new System.Drawing.Point(12, 105);
             this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.checkBox2.Name = "checkBox2";
@@ -137,6 +138,7 @@ namespace AionDPS
             // showMyNick
             // 
             this.showMyNick.AutoSize = true;
+            this.showMyNick.Enabled = false;
             this.showMyNick.Location = new System.Drawing.Point(12, 85);
             this.showMyNick.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.showMyNick.Name = "showMyNick";
