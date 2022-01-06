@@ -29,15 +29,24 @@ namespace AionDPS
         public void Analyze(string logStr, string guardName)
         {
             Analyzed logResult = LogRegex.getLogResult(logStr, guardName);
+            Log userLog;
+
 
             string userName = logResult.userName;
-            if (userName == "" | userName == string.Empty | userName == null)
+            string skillName = logResult.skillName;
+
+            if (userName == null || userName == "") return;
+            else if (userName.IndexOf("의 정령") != -1 || userName.IndexOf("의 기운") != -1)
+                return;
+            else if ((userName.IndexOf(" ")) != -1)
                 return;
 
-            if (logResult.skillName.Contains("빙판") || logResult.skillName.Contains("의 축복") || logResult.skillName.Contains("의 기운") || logResult.skillName.Contains("한 기운"))
-                return;
+            if (logResult.isCastSpd)
+            {
+                if (logResult.hittedObjectName != "")
+                    userName = logResult.hittedObjectName;
+            }
 
-            Log userLog;
 
             if (!userList.ContainsKey(userName))
             {
@@ -47,20 +56,52 @@ namespace AionDPS
             
             userLog = userList[userName];
 
-            if(userLog.lastLog.userName == "" || userLog.lastLog.userName == null || userLog.lastLog.userName == string.Empty)
+            if (logResult.isCastSpd)
             {
-                userLog.lastLog.userName = userName;
-                userLog.lastLog.skillName = "";
+                userLog.castSpeedCount++;
+                userList[userName] = userLog;
+                userLog.lastLog = logResult;
+                return;
             }
+
+            if (userName.IndexOf(' ') != -1 && skillName.IndexOf(userName) != -1)
+                return;
+            else if (userName == "빙판" && skillName.StartsWith("빙판") && skillName.EndsWith("효과"))
+                return;
 
             GetNewAtk(userLog, logResult);
 
-            userLog.accDamage = userLog.accDamage + logResult.damage;
+            userLog.accDamage += logResult.damage;
             userLog.time = GetTime(userLog, logResult.loggedTime);
             userLog.DPS = userLog.accDamage / userLog.time;
             userLog.lastLoggedTime = logResult.loggedTime;
+            userLog.MaxDamage = userLog.MaxDamage < logResult.damage ? logResult.damage : userLog.MaxDamage;
+            userLog.atkAccDamage += logResult.skillName == "" ? logResult.damage : 0;
+            userLog.skillAccDamage += logResult.skillName != "" ? logResult.damage : 0;
+
+            if (logResult.isCritical)
+            {
+                
+                if(userLog.userName != Main.form.textBox1.Text)
+                {
+                    userLog.skillCriticalTimes++;
+                }
+                else
+                {
+                    if (logResult.skillName == "")
+                        userLog.criticalTimes++;
+                    else userLog.skillCriticalTimes++;
+                }
+            }
             if (logResult.skillName != null && userLog.userClass == "")
                 userLog.userClass = getUserClass(userLog, logResult);
+
+            userLog.skillCriticalPercentage = userLog.skillTimes != 0 ? (int)((float)userLog.skillCriticalTimes / (float)userLog.skillTimes * 100) : 0;
+            userLog.avgAtkDamage = userLog.atkTimes != 0 ? (int)((float)userLog.atkAccDamage / (float)userLog.atkTimes) : 0;
+            userLog.avgSkillDamage = userLog.atkTimes != 0 ? (int)((float)userLog.skillAccDamage / (float)userLog.skillTimes) : 0;
+            userLog.skillPercentage = userLog.accDamage != 0 ? userLog.skillAccDamage * 100 / userLog.accDamage : 0;
+            userLog.atkPercentage = userLog.accDamage != 0 ? userLog.atkAccDamage * 100 / userLog.accDamage : 0;
+
 
             userList[userName] = userLog;
 
@@ -81,14 +122,14 @@ namespace AionDPS
                 else
                     newTime++;
             }
-
-            
             return newTime;
         }
 
         public void GetNewAtk(Log userLog, Analyzed logResult)
         {
-            if(userLog.newAtk == 0)
+            int tSpan = (int)(logResult.loggedTime - userLog.lastLoggedTime).TotalSeconds;
+            userLog.totalDealCount++;
+            if (userLog.newAtk == 0)
             {
                 userLog.newAtk++;
                 if(logResult.skillName != "") userLog.skillTimes++;
@@ -96,29 +137,44 @@ namespace AionDPS
             }
             else
             {
-                if ((int)(userLog.lastLog.damage / 10) != logResult.damage && userLog.lastLog.damage != logResult.damage)
+
+                if (userLog.lastLog.skillName != "" && logResult.skillName != "")
                 {
-                    if (userLog.lastLog.skillName != "" && logResult.skillName != "")
+                    userLog.newAtk++;
+                    userLog.skillTimes++;
+                    userLog.currentAtkCancel = 0;
+                }
+                else if ((userLog.lastLog.skillName == "" && logResult.skillName != "") || (userLog.lastLog.skillName != "" && logResult.skillName == ""))
+                {
+                    userLog.newAtk++;
+                    if (tSpan <= 3)
+                    {
+                        userLog.currentAtkCancel++;
+                        userLog.totalAtkCancel++;
+                    }
+                    else
+                    {
+                        userLog.currentAtkCancel = 0;
+                    }
+                    if (logResult.skillName == "") userLog.atkTimes++;
+                    else userLog.skillTimes++;
+                }
+                else if (userLog.lastLog.skillName == "" && logResult.skillName == "")
+                {
+                    if ((logResult.loggedTime - userLog.lastLog.loggedTime).TotalSeconds > 0)
                     {
                         userLog.newAtk++;
-                        userLog.skillTimes++;
+                        userLog.atkTimes++;
+                        userLog.currentAtkCancel = 0;
                     }
-                    else if ((userLog.lastLog.skillName == "" && logResult.skillName != "") || (userLog.lastLog.skillName != "" && logResult.skillName == ""))
-                    {
-                        userLog.newAtk++;
-                        if (logResult.skillName != "") userLog.skillTimes++;
-                        else userLog.atkTimes++;
-                    }
-                    else if (userLog.lastLog.skillName == "" && logResult.skillName == "")
-                    {
-                        if ((logResult.loggedTime - userLog.lastLog.loggedTime).TotalSeconds > 0)
-                        {
-                            userLog.newAtk++;
-                            userLog.atkTimes++;
-                        }
-                    }
+                    
                 }
             }
+
+            if (userLog.maxContinuousAtkCancel < userLog.currentAtkCancel)
+                userLog.maxContinuousAtkCancel = userLog.currentAtkCancel;
+
+            userLog.atkCancelPercentage = userLog.newAtk != 0 ? (int)((float)userLog.totalAtkCancel * 100 / (float)(userLog.newAtk - 1)) : 0;
         }
 
         private string getUserClass(Log userLog, Analyzed logResult)

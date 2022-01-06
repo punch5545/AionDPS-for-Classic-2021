@@ -33,12 +33,16 @@ namespace AionDPS
 
             form = this;
         }
-
+        string log2;
         private void button1_Click(object sender, EventArgs e)
         {
             if(guardianComboBox.Text == "")
             {
                 return;
+            }
+            if(textBox1.Text == "")
+            {
+                textBox1.Text = "<당신>";
             }
 
 
@@ -59,6 +63,7 @@ namespace AionDPS
                 {
                     while ((log = sr.ReadLine()) != null)
                     {
+                        log2 = log;
                         LogAnalyzer.Instance.Analyze(log, guardianComboBox.Text);
                     }
 
@@ -66,9 +71,10 @@ namespace AionDPS
                 resultForm.Show();
                 this.Hide();
             }
-            catch
+            catch (Exception ex)
             {
-
+                Console.WriteLine(ex);
+                Console.WriteLine(log2);
             }
 
             //this.Hide();
