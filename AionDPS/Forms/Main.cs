@@ -110,10 +110,8 @@ namespace AionDPS
             {
                 guardianComboBox.Items.Add("천족 중급 수호신장");
                 guardianComboBox.Items.Add("천족 상급 수호신장");
-                guardianComboBox.Items.Add("");
                 guardianComboBox.Items.Add("마족 중급 수호신장");
                 guardianComboBox.Items.Add("마족 상급 수호신장");
-                guardianComboBox.Items.Add("");
                 guardianComboBox.Items.Add("용족 중급 수호신장");
                 guardianComboBox.Items.Add("용족 상급 수호신장");
             }

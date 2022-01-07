@@ -41,6 +41,7 @@ namespace AionDPS
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.showMyNick = new System.Windows.Forms.CheckBox();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // textBox1
@@ -109,7 +110,7 @@ namespace AionDPS
             this.button1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.button1.FlatAppearance.BorderColor = System.Drawing.SystemColors.ActiveCaption;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Location = new System.Drawing.Point(0, 125);
+            this.button1.Location = new System.Drawing.Point(0, 149);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(326, 56);
@@ -122,7 +123,7 @@ namespace AionDPS
             // 
             this.checkBox2.AutoSize = true;
             this.checkBox2.Enabled = false;
-            this.checkBox2.Location = new System.Drawing.Point(12, 105);
+            this.checkBox2.Location = new System.Drawing.Point(12, 125);
             this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(180, 16);
@@ -138,7 +139,8 @@ namespace AionDPS
             // showMyNick
             // 
             this.showMyNick.AutoSize = true;
-            this.showMyNick.Enabled = false;
+            this.showMyNick.Checked = true;
+            this.showMyNick.CheckState = System.Windows.Forms.CheckState.Checked;
             this.showMyNick.Location = new System.Drawing.Point(12, 85);
             this.showMyNick.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.showMyNick.Name = "showMyNick";
@@ -148,11 +150,25 @@ namespace AionDPS
             this.showMyNick.UseVisualStyleBackColor = true;
             this.showMyNick.MouseHover += new System.EventHandler(this.checkBox3_MouseHover);
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Checked = true;
+            this.checkBox1.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox1.Location = new System.Drawing.Point(12, 105);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(144, 16);
+            this.checkBox1.TabIndex = 10;
+            this.checkBox1.Text = "신속의 주문 횟수 집계";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(326, 181);
+            this.ClientSize = new System.Drawing.Size(326, 205);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.showMyNick);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.button1);
@@ -179,11 +195,12 @@ namespace AionDPS
         private System.Windows.Forms.ComboBox fortressComboBox;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.ToolTip toolTip1;
         public System.Windows.Forms.CheckBox showMyNick;
         public System.Windows.Forms.TextBox textBox1;
+        public System.Windows.Forms.CheckBox checkBox2;
+        public System.Windows.Forms.CheckBox checkBox1;
     }
 }
 

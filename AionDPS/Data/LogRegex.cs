@@ -22,15 +22,12 @@ namespace AionDPS
         private static string loggedTimestamp = @"(?<loggedTime>[0-9]{4}.[0-9]{2}.[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}) : ";
         public static Analyzed getLogResult(string log, string hittedObjectName = @"[가-힣0-9A-Za-z\s]+")
         {
-            //2022.01.02 22:10:50 : 꽁떡이 신속의 주문 I을 사용해 시전속도가 변동됐습니다. 
-            //2022.01.02 22:10:50 : 꽁떡이 신속의 주문 I을 사용해 버본의 시전속도를 변경했습니다. 
-
             Regex rx = new Regex(loggedTimestamp + @"(?<isCritical>치명타! )?((?<userName>[가-힣A-Za-z\s]+)(가|이) )?((?<skillName>[가-힣\s]+ (I)?(I)?(V)?(I)?(I)?)을 사용해 )?" + $@"(?<hittedObjectName>{hittedObjectName})" + @"에게 (?<damage>[0-9,]+)의 (치명적인 )?대미지를 ");
             Regex rx2 = new Regex(loggedTimestamp + @"((?<userName>[가-힣A-Za-z]+)(가|이) )?신속의 주문 I을 사용해 ((?<targetName>[가-힣A-Za-z]+)의 )?시전속도(가|를) (변동됐습니다|변경했습니다)");
 
             Analyzed analyzed = new Analyzed();
 
-            if (rx2.IsMatch(log))
+            if (rx2.IsMatch(log) && Main.form.checkBox1.Checked)
             {
                 //Console.WriteLine(log);
                 Match matched = rx2.Match(log);
