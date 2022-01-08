@@ -15,6 +15,7 @@ namespace AionDPS
     public partial class ResultForm : Form
     {
         DataTable data = new DataTable();
+        private string currViewClass = "";
         public ResultForm()
         {
             InitializeComponent();
@@ -109,6 +110,7 @@ namespace AionDPS
             dataGridView1.ClearSelection();
 
             Button btn = (Button)sender;
+            currViewClass = btn.Text;
             Thread thread = new Thread(new ThreadStart(delegate () {
                 if (btn.Text == "전체")
                 {
@@ -133,17 +135,7 @@ namespace AionDPS
 
                 if(checkBox1.Checked && btn.Text != "전체")
                 {
-                    int DGVOriginalHeight = dataGridView1.Height;
-                    dataGridView1.Height = (dataGridView1.RowCount * dataGridView1.RowTemplate.Height) +
-                                            dataGridView1.ColumnHeadersHeight;
-
-                    using (Bitmap bitmap = new Bitmap(this.dataGridView1.Width, this.dataGridView1.Height))
-                    {
-                        dataGridView1.DrawToBitmap(bitmap, new Rectangle(Point.Empty, this.dataGridView1.Size));
-                        string DesktopFolder = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-                        bitmap.Save(Path.Combine(DesktopFolder, btn.Text + "_" + dataGridView1.Rows.Count + "명.png"), ImageFormat.Png);
-                    }
-                    dataGridView1.Height = DGVOriginalHeight;
+                    Capture();
                 }
             }));
 
@@ -154,6 +146,54 @@ namespace AionDPS
         {
             Environment.Exit(0);
             Application.Exit();
+        }
+
+        private void dataGridView1_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            if (e.ColumnIndex != -1 && e.RowIndex != -1 && e.Button == MouseButtons.Right)
+            {
+                DataGridViewCell c = (sender as DataGridView)[e.ColumnIndex, e.RowIndex];
+                if (!c.Selected)
+                {
+                    c.DataGridView.ClearSelection();
+                    c.DataGridView.CurrentCell = c;
+                    c.Selected = true;
+                }
+
+                contextMenuStrip1.Show();
+            }
+        }
+
+        private void 검색ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string username = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+        }
+
+        private void 현재화면캡쳐ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Capture();
+        }
+
+        private void Capture()
+        {
+            dataGridView1.ClearSelection();
+
+            int DGVOriginalHeight = dataGridView1.Height;
+            dataGridView1.Height = (dataGridView1.RowCount * dataGridView1.RowTemplate.Height) +
+                                    dataGridView1.ColumnHeadersHeight;
+
+            using (Bitmap bitmap = new Bitmap(this.dataGridView1.Width, this.dataGridView1.Height))
+            {
+                dataGridView1.DrawToBitmap(bitmap, new Rectangle(Point.Empty, this.dataGridView1.Size));
+                string DesktopFolder = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                bitmap.Save(Path.Combine(DesktopFolder, currViewClass + "_" + dataGridView1.Rows.Count + "명.png"), ImageFormat.Png);
+            }
+            dataGridView1.Height = DGVOriginalHeight;
+        }
+
+        private void 스킬보기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
     public static class ExtensionMethods

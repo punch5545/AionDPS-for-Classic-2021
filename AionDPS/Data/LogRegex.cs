@@ -22,7 +22,7 @@ namespace AionDPS
         private static string loggedTimestamp = @"(?<loggedTime>[0-9]{4}.[0-9]{2}.[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}) : ";
         public static Analyzed getLogResult(string log, string hittedObjectName = @"[가-힣0-9A-Za-z\s]+")
         {
-            Regex rx = new Regex(loggedTimestamp + @"(?<isCritical>치명타! )?((?<userName>[가-힣A-Za-z\s]+)(가|이) )?((?<skillName>[가-힣\s]+ (I)?(I)?(V)?(I)?(I)?)을 사용해 )?" + $@"(?<hittedObjectName>{hittedObjectName})" + @"에게 (?<damage>[0-9,]+)의 (치명적인 )?대미지를 ");
+            Regex rx = new Regex(loggedTimestamp + @"(?<isCritical>치명타! )?((?<userName>[가-힣A-Za-z\s]+)(가|이) )?((?<skillName>[가-힣\s]+ (I)?(I)?(V)?(I)?(I)?)을 사용해 )?" + $@"(?<hittedObjectName>{hittedObjectName})" + @"(에게|이) (?<damage>[0-9,]+)의 (치명적인 )?대미지를 (받고|받았|줬습|주고)");
             Regex rx2 = new Regex(loggedTimestamp + @"((?<userName>[가-힣A-Za-z]+)(가|이) )?신속의 주문 I을 사용해 ((?<targetName>[가-힣A-Za-z]+)의 )?시전속도(가|를) (변동됐습니다|변경했습니다)");
 
             Analyzed analyzed = new Analyzed();

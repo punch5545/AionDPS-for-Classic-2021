@@ -673,27 +673,27 @@
   <skill>
     <id>281979</id>
     <name>기습 I</name>
-    <class>정찰자</class>
+    <class></class>
   </skill>
   <skill>
     <id>282167</id>
     <name>기습 II</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>283588</id>
     <name>기습 III</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286195</id>
     <name>기습 IV</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>287276</id>
     <name>기습 V</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>293560</id>
@@ -2028,27 +2028,27 @@
   <skill>
     <id>282749</id>
     <name>반격 I</name>
-    <class>정찰자</class>
+    <class></class>
   </skill>
   <skill>
     <id>282755</id>
     <name>반격 II</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286197</id>
     <name>반격 III</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286200</id>
     <name>반격 IV</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>287278</id>
     <name>반격 V</name>
-    <class>궁성</class>
+    <class></class>
   </skill>
   <skill>
     <id>294710</id>
@@ -4278,27 +4278,27 @@
   <skill>
     <id>286328</id>
     <name>약화의 맹타 I</name>
-    <class>전사</class>
+    <class></class>
   </skill>
   <skill>
     <id>286331</id>
     <name>약화의 맹타 II</name>
-    <class>수호성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286334</id>
     <name>약화의 맹타 III</name>
-    <class>수호성</class>
+    <class></class>
   </skill>
   <skill>
     <id>287288</id>
     <name>약화의 맹타 IV</name>
-    <class>수호성</class>
+    <class></class>
   </skill>
   <skill>
     <id>292029</id>
     <name>약화의 맹타 V</name>
-    <class>수호성</class>
+    <class></class>
   </skill>
   <skill>
     <id>291254</id>
@@ -6793,27 +6793,27 @@
   <skill>
     <id>281967</id>
     <name>회심의 일격 I</name>
-    <class>전사</class>
+    <class></class>
   </skill>
   <skill>
     <id>282045</id>
     <name>회심의 일격 II</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286346</id>
     <name>회심의 일격 III</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>286348</id>
     <name>회심의 일격 IV</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>287296</id>
     <name>회심의 일격 V</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>282263</id>

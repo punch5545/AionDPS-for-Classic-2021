@@ -106,6 +106,14 @@ namespace AionDPS
             userList[userName] = userLog;
 
             userLog.lastLog = logResult;
+            userLog.logStr.Add(logStr);
+
+            if (!userLog.usedSkills.ContainsKey(logResult.skillName))
+                userLog.usedSkills.Add(logResult.skillName, new Log.UsedSkill());
+
+            userLog.usedSkills[logResult.skillName].Log.Add(logStr, logResult.damage);
+            userLog.usedSkills[logResult.skillName].AccDamage += logResult.damage;
+         
         }
 
         public int GetTime(Log userLog, DateTime logTime)

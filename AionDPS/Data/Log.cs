@@ -9,6 +9,7 @@ namespace AionDPS
     {
         public string userName = "";
         public string userClass = "";
+        public List<string> logStr = new List<string>();
         public int DPS = 0;
         public int accDamage = 0;
         public int time = 0;
@@ -37,15 +38,14 @@ namespace AionDPS
 
         public Analyzed lastLog = new Analyzed();
 
-        public struct UsedSkill
+        public class UsedSkill
         {
-            public string SkillName;
-            public string Log;
-            public int Damage;
+            public Dictionary<string, int> Log = new Dictionary<string, int>();
+            public int AccDamage = 0;
         }
 
         public List<string> logs = new List<string>();
-        public List<UsedSkill> usedSkills = new List<UsedSkill>();
+        public Dictionary<string, UsedSkill> usedSkills = new Dictionary<string, UsedSkill>();
 
         public Log(string name)
         {
