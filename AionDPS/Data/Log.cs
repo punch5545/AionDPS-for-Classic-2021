@@ -40,28 +40,16 @@ namespace AionDPS
 
         public class UsedSkill
         {
-            public Dictionary<string, int> Log = new Dictionary<string, int>();
+            public List<string> log = new List<string>();
+            public List<int> logDamage = new List<int>();
             public int AccDamage = 0;
         }
 
-        public List<string> logs = new List<string>();
         public Dictionary<string, UsedSkill> usedSkills = new Dictionary<string, UsedSkill>();
 
         public Log(string name)
         {
             this.userName = name;
-        }
-
-        public List<string> getLogs(string skillName = "")
-        {
-            if(skillName == "")
-            {
-                return logs;
-            }
-            else
-            {
-                return logs.FindAll(str => str.Contains(skillName));
-            }
         }
     }
 }

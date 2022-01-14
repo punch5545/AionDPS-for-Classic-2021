@@ -160,7 +160,7 @@ namespace AionDPS
                     c.Selected = true;
                 }
 
-                contextMenuStrip1.Show();
+                //contextMenuStrip1.Show();
             }
         }
 

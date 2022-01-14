@@ -108,11 +108,12 @@ namespace AionDPS
             userLog.lastLog = logResult;
             userLog.logStr.Add(logStr);
 
-            if (!userLog.usedSkills.ContainsKey(logResult.skillName))
-                userLog.usedSkills.Add(logResult.skillName, new Log.UsedSkill());
+            if (!userLog.usedSkills.ContainsKey(skillName))
+                userLog.usedSkills.Add(skillName, new Log.UsedSkill());
 
-            userLog.usedSkills[logResult.skillName].Log.Add(logStr, logResult.damage);
-            userLog.usedSkills[logResult.skillName].AccDamage += logResult.damage;
+            userLog.usedSkills[skillName].log.Add(logStr);
+            userLog.usedSkills[skillName].logDamage.Add(logResult.damage);
+            userLog.usedSkills[skillName].AccDamage += logResult.damage;
          
         }
 

@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml;
-using System.Xml.Linq;
 
 namespace AionDPS
 {
@@ -32,6 +25,8 @@ namespace AionDPS
             fortressComboBox.SelectedIndex = 0;
 
             form = this;
+
+            getSettings();
         }
         string log2;
         private void button1_Click(object sender, EventArgs e)
@@ -45,6 +40,7 @@ namespace AionDPS
                 textBox1.Text = "<당신>";
             }
 
+            setSettings();
 
             openFileDialog1.Filter = "Chat.log 파일|*.log";
             openFileDialog1.ShowDialog();
@@ -121,6 +117,19 @@ namespace AionDPS
             }
 
             guardianComboBox.SelectedIndex = 0;
+        }
+
+        private void 아이온폴더열기ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string AionFolder = Properties.Settings.Default.AionFolder;
+
+            if(AionFolder == "")
+            {
+                MessageBox.Show("아이온 폴더를 찾을 수 없습니다. 파일 - 설정 메뉴에서 수동으로 지정해주세요.");
+                return;
+            }
+
+            System.Diagnostics.Process.Start(AionFolder);
         }
     }
 }
