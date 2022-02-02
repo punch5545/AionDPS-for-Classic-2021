@@ -94,5 +94,101 @@ namespace AionDPS.Properties {
                 this["server"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("1")]
+        public string 검성 {
+            get {
+                return ((string)(this["검성"]));
+            }
+            set {
+                this["검성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
+        public string 수호성 {
+            get {
+                return ((string)(this["수호성"]));
+            }
+            set {
+                this["수호성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("3")]
+        public string 살성 {
+            get {
+                return ((string)(this["살성"]));
+            }
+            set {
+                this["살성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("4")]
+        public string 궁성 {
+            get {
+                return ((string)(this["궁성"]));
+            }
+            set {
+                this["궁성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("5")]
+        public string 마도성 {
+            get {
+                return ((string)(this["마도성"]));
+            }
+            set {
+                this["마도성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("6")]
+        public string 정령성 {
+            get {
+                return ((string)(this["정령성"]));
+            }
+            set {
+                this["정령성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("7")]
+        public string 치유성 {
+            get {
+                return ((string)(this["치유성"]));
+            }
+            set {
+                this["치유성"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("8")]
+        public string 호법성 {
+            get {
+                return ((string)(this["호법성"]));
+            }
+            set {
+                this["호법성"] = value;
+            }
+        }
     }
 }

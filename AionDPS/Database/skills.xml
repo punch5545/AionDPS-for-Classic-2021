@@ -3123,17 +3123,17 @@
   <skill>
     <id>291591</id>
     <name>성문 파괴 I</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>292021</id>
     <name>성문 파괴 II</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>295369</id>
     <name>성문 파괴 III</name>
-    <class>검성</class>
+    <class></class>
   </skill>
   <skill>
     <id>283462</id>

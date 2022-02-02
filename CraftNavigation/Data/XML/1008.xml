@@ -1,0 +1,1239 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1008" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>4707</code>
+			<area code="1008">포에타</area>
+			<name>나무스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>558|1379</realcoord>
+			<mapcoord>337|239</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 다미누 숲에서 나무를 베어 연명하는 나무꾼. 덩치는 좋지만 의외로 소심하고 겁도 많다.</description>
+		</creature>
+		<creature>
+			<code>5618</code>
+			<area code="1008">포에타</area>
+			<name>나비드</name>
+			<type>NPC</type>
+			<mclass>데바니온</mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>134|1564</realcoord>
+			<mapcoord>416|57</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미라젠트 성기사 8인 중 하나로 포에타에서 임무 수행 중이다.</description>
+		</creature>
+		<creature>
+			<code>4708</code>
+			<area code="1008">포에타</area>
+			<name>나에루</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>422|1744</realcoord>
+			<mapcoord>493|180</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 멜포네의 야영지에 있는 영혼 치유사.</description>
+		</creature>
+		<creature>
+			<code>4709</code>
+			<area code="1008">포에타</area>
+			<name>다미누</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>600|1542</realcoord>
+			<mapcoord>407|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 다미누 숲에 있는 엘림족을 다스리는 수장으로 숲의 주인이다. 숲 가운데에 있다.</description>
+		</creature>
+		<creature>
+			<code>4710</code>
+			<area code="1008">포에타</area>
+			<name>다미누의 수호자</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>609|1544:592|1539</realcoord>
+			<mapcoord>407|260:405|253</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에 있는 다미누 숲의 주인인 다미누를 지키는 엘림족.</description>
+		</creature>
+		<creature>
+			<code>4711</code>
+			<area code="1008">포에타</area>
+			<name>다이네스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>805|1245</realcoord>
+			<mapcoord>279|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을의 공간 이동사. 쌀쌀한 듯 하지만 친해지면 의외로 소탈하다.</description>
+		</creature>
+		<creature>
+			<code>4733</code>
+			<area code="1008">포에타</area>
+			<name>로니안</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>423|1748</realcoord>
+			<mapcoord>495|181</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 버려진 벌목장에서 잡화를 파는 상인. 이재에 밝고 빈정대는 성격으로 나무스와 사이가 나쁘다.</description>
+		</creature>
+		<creature>
+			<code>4734</code>
+			<area code="1008">포에타</area>
+			<name>멜람푸스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>786|1188</realcoord>
+			<mapcoord>255|336</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을 입구를 지키는 용병단 전투병. 애초에 돈을 위해 용병이 되었으며, 사명감이라고는 눈꼽만큼도 없다.</description>
+		</creature>
+		<creature>
+			<code>4735</code>
+			<area code="1008">포에타</area>
+			<name>멜포네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>421|1754</realcoord>
+			<mapcoord>497|180</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 버려진 벌목장에 있는 학자. 크랄과 브라우니의 역사를 연구해 왔으며, 자기 일에 대한 욕심이 많다.</description>
+		</creature>
+		<creature>
+			<code>4736</code>
+			<area code="1008">포에타</area>
+			<name>무네</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>869|1249</realcoord>
+			<mapcoord>281|371</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을 방어구 상점에서 일하는 재봉사 아가씨. 호탕한 성격이며 재봉 솜씨가 좋다.</description>
+		</creature>
+		<creature>
+			<code>4737</code>
+			<area code="1008">포에타</area>
+			<name>무라네스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>744|1156</realcoord>
+			<mapcoord>242|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아카리오스 마을에서 클리오네 호수로 가는 길에 있는 용병단 부단장.</description>
+		</creature>
+		<creature>
+			<code>4738</code>
+			<area code="1008">포에타</area>
+			<name>미나링</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>852|1253</realcoord>
+			<mapcoord>283|364</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 슈고족 상인. 어디에서 왔는지는 아무도 모른다. 남이 버린 물건을 주워다 팔기도 하는 것 같다.</description>
+		</creature>
+		<creature>
+			<code>4739</code>
+			<area code="1008">포에타</area>
+			<name>미레스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1141|1032</realcoord>
+			<mapcoord>189|488</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아카리오스 초원에 있는 용병단 단원. 자신을 대단한 사람으로 착각하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4740</code>
+			<area code="1008">포에타</area>
+			<name>배브룽</name>
+			<type>NPC</type>
+			<mclass>큐브공방</mclass>
+			<sclass>큐브공방장인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>840|1257</realcoord>
+			<mapcoord>285|359</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 큐브 공방 장인. 큐브에 대한 욕심이 많다.</description>
+		</creature>
+		<creature>
+			<code>4741</code>
+			<area code="1008">포에타</area>
+			<name>버섯돌이 펑고</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>242|1634</realcoord>
+			<mapcoord>446|104</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4742</code>
+			<area code="1008">포에타</area>
+			<name>벤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>602|1091</realcoord>
+			<mapcoord>214|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 클리오네 호수에서 낚시를 하는 낚시꾼. 원래는 베르테론에 살았는데, 클리오네 호수에 매료되어 아카리오스 마을에 정착하게 되었다. 페이라와는 늘 티격태격한다.</description>
+		</creature>
+		<creature>
+			<code>4745</code>
+			<area code="1008">포에타</area>
+			<name>브루투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>870|1198</realcoord>
+			<mapcoord>259|372</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 용병단 전투병. 데바 가문에 마지막 남은 인간이지만, 인간이라도 전투 임무를 맡아 사명을 다하는 것은 영광스러운 일이라고 생각하는 올곧은 성품을 지녔다.</description>
+		</creature>
+		<creature>
+			<code>4747</code>
+			<area code="1008">포에타</area>
+			<name>세릴</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>863|1252</realcoord>
+			<mapcoord>282|369</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4750</code>
+			<area code="1008">포에타</area>
+			<name>숲의 수호자 노아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>558|1376</realcoord>
+			<mapcoord>335|239</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 다미누 숲 입구에 있는 엘림족. 잠들어 있다.</description>
+		</creature>
+		<creature>
+			<code>4751</code>
+			<area code="1008">포에타</area>
+			<name>아게르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>869|1218</realcoord>
+			<mapcoord>268|371</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에 있는 아게르의 농장 주인. 케루빔 때문에 농장에서 쫓겨나 아카리오스 마을에서 지내고 있으며, 용병을 신뢰하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>4752</code>
+			<area code="1008">포에타</area>
+			<name>아스테로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>823|1267</realcoord>
+			<mapcoord>289|352</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에 있는 아카리오스 마을의 신관. 주민들에게 존경을 받는다.</description>
+		</creature>
+		<creature>
+			<code>4753</code>
+			<area code="1008">포에타</area>
+			<name>아에로</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>425|1740</realcoord>
+			<mapcoord>491|182</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 멜포네의 야영지에 있는 비행 이동사.</description>
+		</creature>
+		<creature>
+			<code>4754</code>
+			<area code="1008">포에타</area>
+			<name>아우론</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>정찰자교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>864|1236</realcoord>
+			<mapcoord>276|370</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 정찰자 교관. 능청맞은 성격이다.</description>
+		</creature>
+		<creature>
+			<code>4755</code>
+			<area code="1008">포에타</area>
+			<name>악스뭄</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>867|1253</realcoord>
+			<mapcoord>283|371</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 방어구 상점 주인. 순박하다.</description>
+		</creature>
+		<creature>
+			<code>4756</code>
+			<area code="1008">포에타</area>
+			<name>암페이스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>572|1359</realcoord>
+			<mapcoord>328|244</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 다미누 숲 입구를 지키고 있는 칼리온 용병단의 연락병. 부업으로 버섯을 팔아 짭짤한 부수입을 올리고 있다.</description>
+		</creature>
+		<creature>
+			<code>4757</code>
+			<area code="1008">포에타</area>
+			<name>에세라</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>법사교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>818|1265</realcoord>
+			<mapcoord>288|350</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을 키벨리움에 있는 법사 교관. 5살 때부터 불 속성의 오드를 다룰 줄 알았던 신동으로 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>4758</code>
+			<area code="1008">포에타</area>
+			<name>엘피스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1204|1053</realcoord>
+			<mapcoord>198|515</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 초원을 지키는 용병단 감시병. 순수하고 선량해서 주위 사람들을 잘 챙겨준다.</description>
+		</creature>
+		<creature>
+			<code>4759</code>
+			<area code="1008">포에타</area>
+			<name>오즈</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>433|1753</realcoord>
+			<mapcoord>497|185</mapcoord>
+			<aggressive>0</aggressive>
+			<description>멜포네의 야영지에 있는 용병단 전초병.</description>
+		</creature>
+		<creature>
+			<code>4766</code>
+			<area code="1008">포에타</area>
+			<name>우노</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>847|1257</realcoord>
+			<mapcoord>285|362</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타 아카리오스 마을의 솜씨 좋은 요리사. 낚시꾼인 아내 페이라가 가정 생활에 소홀한 것이 고민이다.</description>
+		</creature>
+		<creature>
+			<code>4767</code>
+			<area code="1008">포에타</area>
+			<name>우테이론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>863|1195</realcoord>
+			<mapcoord>258|369</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 용병단 전투병. 방탕한 성격으로 유흥비를 벌기 위해 용병을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4768</code>
+			<area code="1008">포에타</area>
+			<name>이노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>166|1141</realcoord>
+			<mapcoord>235|71</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에서 포아와 함께 트몰리아 폐광을 감시하던 용병단 정찰병. 크랄에게 잡혀 트몰리아 폐광에 갇혀 있다.</description>
+		</creature>
+		<creature>
+			<code>4774</code>
+			<area code="1008">포에타</area>
+			<name>카가스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>사제교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>829|1265</realcoord>
+			<mapcoord>288|354</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을 키벨리움에 있는 사제 교관. 애주가로 항상 술에 취해 있다.</description>
+		</creature>
+		<creature>
+			<code>4775</code>
+			<area code="1008">포에타</area>
+			<name>칼레스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>985|1134</realcoord>
+			<mapcoord>232|421</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 초원에서 농사를 짓는 농부. 순박한 사람으로 폴리니아와는 사촌 사이이다.</description>
+		</creature>
+		<creature>
+			<code>4776</code>
+			<area code="1008">포에타</area>
+			<name>칼리온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>821|1241</realcoord>
+			<mapcoord>278|351</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칼리온 용병단의 단장. 아카리오스 마을의 키벨리움 앞에 있다.</description>
+		</creature>
+		<creature>
+			<code>4777</code>
+			<area code="1008">포에타</area>
+			<name>케루빔 곡식자루</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1131|977:1126|975:1137|983:1122|992:1128|996:1118|979:1121|993:1123|993:1137|984:1131|985:1119|975:1130|978:1125|980:1137|988:1126|978:1129|995:1130|997:1136|984:1131|979</realcoord>
+			<mapcoord>165|484:164|481:167|486:171|480:173|482:166|478:172|479:172|480:168|486:169|484:164|478:166|483:166|481:170|486:165|481:165|482:173|483:166|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>지금은 케루빔 소굴이라 불리는 아카리오스 초원의 남서쪽 옛 농장 지대에 있는 곡식자루.</description>
+		</creature>
+		<creature>
+			<code>4779</code>
+			<area code="1008">포에타</area>
+			<name>쿠난데스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>전사교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>840|1217</realcoord>
+			<mapcoord>268|359</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 전사 교관. 뛰어난 용병이었으나 발목 부상으로 인해 직접 전투를 할 수 없게 되어 교관을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4780</code>
+			<area code="1008">포에타</area>
+			<name>쿠스타논</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>804|1242</realcoord>
+			<mapcoord>278|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을의 비행 이동사. 과거 비행 이동을 연구하는 데바의 문하생으로 오래 있었으나 데바로 각성하지는 못했다.</description>
+		</creature>
+		<creature>
+			<code>4782</code>
+			<area code="1008">포에타</area>
+			<name>톨레오</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>815|1217</realcoord>
+			<mapcoord>268|348</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에 있는 용병단원. 자기 실력이 뛰어나서 용병단장에게 신임을 얻고 있다고 떠벌이고 다닌다.</description>
+		</creature>
+		<creature>
+			<code>4787</code>
+			<area code="1008">포에타</area>
+			<name>툴라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>430|1757</realcoord>
+			<mapcoord>498|184</mapcoord>
+			<aggressive>0</aggressive>
+			<description>멜포네의 야영지에 있는 용병단 부단장.</description>
+		</creature>
+		<creature>
+			<code>4788</code>
+			<area code="1008">포에타</area>
+			<name>펑츄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>243|1642</realcoord>
+			<mapcoord>449|104</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4789</code>
+			<area code="1008">포에타</area>
+			<name>펑키</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>244|1635</realcoord>
+			<mapcoord>446|104</mapcoord>
+			<aggressive>0</aggressive>
+			<description>라크리마 포자길에서 있는 움직이는 버섯. 페르노스의 친구이다.</description>
+		</creature>
+		<creature>
+			<code>4790</code>
+			<area code="1008">포에타</area>
+			<name>페르노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>241|1639</realcoord>
+			<mapcoord>448|103</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에 있는 라크리마 포자길에 은거하는 수수께끼의 노인.</description>
+		</creature>
+		<creature>
+			<code>4791</code>
+			<area code="1008">포에타</area>
+			<name>페이라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>588|1095</realcoord>
+			<mapcoord>215|251</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 클리오네 호수에 있는 낚시꾼. 우노의 아내로 낚시에 빠져 있다.</description>
+		</creature>
+		<creature>
+			<code>4793</code>
+			<area code="1008">포에타</area>
+			<name>포아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>262|1277</realcoord>
+			<mapcoord>293|112</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 라크리마 포자길과 트몰리아 폐광 사이에 있는 용병단 정찰병. 돈보다는 사명으로 일하며 성격은 소심하다.</description>
+		</creature>
+		<creature>
+			<code>4795</code>
+			<area code="1008">포에타</area>
+			<name>폴리니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>825|1242</realcoord>
+			<mapcoord>278|353</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 아카리오스 마을에서 아스테로스를 돕는 신관. 용병단이 수행한 임무를 기록하고 정산한다.</description>
+		</creature>
+		<creature>
+			<code>4796</code>
+			<area code="1008">포에타</area>
+			<name>풀라</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>852|1209</realcoord>
+			<mapcoord>264|364</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타에 있는 아카리오스 마을의 영혼 치유사. 다른 사람의 마음을 읽을 수 있으나 자신의 속내는 잘 드러내지 않는다.</description>
+		</creature>
+		<creature>
+			<code>4797</code>
+			<area code="1008">포에타</area>
+			<name>프라노아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>692|1206</realcoord>
+			<mapcoord>263|296</mapcoord>
+			<aggressive>0</aggressive>
+			<description>포에타의 클리오네 호수 근처에 사는 농부. 마을에서 서쪽으로 난 길을 따라 가면 만날 수 있다. 케루빔 때문에 농사일을 방해받는 데다가, 고용한 용병마저 제 몫을 못한다고 생각해 불만이 많다.</description>
+		</creature>
+		<creature>
+			<code>4706</code>
+			<area code="1008">포에타</area>
+			<name>긴 코 메르디온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>1097|991:1136|1013:1118|1007:1098|1013:1099|968</realcoord>
+			<mapcoord>171|469:181|486:178|478:180|470:161|470</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4772</code>
+			<area code="1008">포에타</area>
+			<name>줄무늬 케루빔</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>1096|978:1102|1000:1055|1069:1138|1009:1112|998:1072|1073:1064|1064:1124|1019:1074|1057:1063|1079</realcoord>
+			<mapcoord>165|469:175|471:204|451:179|487:174|475:206|458:202|455:183|481:199|459:209|454</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아카리오스 마을 서쪽을 점령한 사나운 짐승.</description>
+		</creature>
+		<creature>
+			<code>7222</code>
+			<area code="1008">포에타</area>
+			<name>포구스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>1049|1131:540|641:863|631:613|311:413|182:625|307:421|163:72|957:945|820:722|103:90|876:401|82:652|239:543|631:678|90:944|818:427|173:653|242:428|163:621|322:79|958:393|65:721|104:396|81:863|630:539|631:403|173</realcoord>
+			<mapcoord>231|448:284|107:282|171:219|121:194|82:218|124:190|83:347|14:320|187:178|143:331|18:174|79:205|129:283|107:175|134:319|187:192|84:206|129:190|85:221|123:347|16:171|78:174|78:282|107:192|80</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4798</code>
+			<area code="1008">포에타</area>
+			<name>하루살이 스파키</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>1185|1096:1170|1140:1201|1107:1176|1123:1163|1109</realcoord>
+			<mapcoord>216|507:235|500:220|514:228|503:221|497</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아카리오스 초원에 사는 벌레. 하루밖에 못 산다.</description>
+		</creature>
+		<creature>
+			<code>4705</code>
+			<area code="1008">포에타</area>
+			<name>곡식핥기 메르디온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>2</level>
+			<realcoord>912|1071:948|1085:946|1066:1022|1170:1028|1163:1013|1174:909|1084:927|1076</realcoord>
+			<mapcoord>205|390:211|405:203|404:247|437:244|440:249|433:211|389:208|396</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아카리오스 초원의 밭 주위에 있는 동물. 긴 주둥이로 농작물을 망친다.</description>
+		</creature>
+		<creature>
+			<code>4729</code>
+			<area code="1008">포에타</area>
+			<name>땅파는 케루빔</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>2</level>
+			<realcoord>913|1081:1023|1173:1019|1164:947|1080:947|1070:938|1075:917|1075</realcoord>
+			<mapcoord>210|390:249|437:245|436:209|405:205|405:207|401:207|392</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4778</code>
+			<area code="1008">포에타</area>
+			<name>케루빔 싸움꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>2</level>
+			<realcoord>1192|1167:1051|1205:1047|1212:1189|1172:1122|981:1026|983:1187|1169:1029|969:1022|973:1123|988:1130|981</realcoord>
+			<mapcoord>246|509:262|449:265|448:248|508:167|480:168|438:247|507:162|440:163|437:170|480:167|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4700</code>
+			<area code="1008">포에타</area>
+			<name>갈색털 브락스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>693|1104:700|1037:675|1123:688|1025:700|1096:709|1027:691|1132:661|1138</realcoord>
+			<mapcoord>219|296:191|299:227|289:186|294:216|299:186|303:231|295:234|283</mapcoord>
+			<aggressive>0</aggressive>
+			<description>클리오네 호수에 서식하는 포유류. 부드러운 가죽을 옷감으로 쓴다.</description>
+		</creature>
+		<creature>
+			<code>4702</code>
+			<area code="1008">포에타</area>
+			<name>갈색털 브락시</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>685|1113:710|1106</realcoord>
+			<mapcoord>223|293:220|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4703</code>
+			<area code="1008">포에타</area>
+			<name>갈퀴발 레피스마</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>975|1242:1005|1233:992|1234:965|1237:983|1237</realcoord>
+			<mapcoord>278|417:275|429:275|424:276|413:276|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description>클리오네 호수에 사는 동물.  화가 나면 뛰어오르면서 머리로 공격한다.</description>
+		</creature>
+		<creature>
+			<code>4730</code>
+			<area code="1008">포에타</area>
+			<name>떠돌이 케루빔</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>740|1175:876|1145:876|1144</realcoord>
+			<mapcoord>250|316:237|375:236|374</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4743</code>
+			<area code="1008">포에타</area>
+			<name>분홍부리 하이브</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>729|1078:645|1127:646|1031:654|1104:678|1107:690|1091:702|1075:691|1036</realcoord>
+			<mapcoord>208|311:229|276:188|276:219|279:221|290:214|295:207|300:190|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description>클리오네 호수에 사는 새. 고기 맛이 아주 좋다.</description>
+		</creature>
+		<creature>
+			<code>4769</code>
+			<area code="1008">포에타</area>
+			<name>작은 뿔 케루빔</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>3</level>
+			<realcoord>707|974:680|987</realcoord>
+			<mapcoord>164|302:169|291</mapcoord>
+			<aggressive>0</aggressive>
+			<description>클리오네 호수 서쪽에 있는 아게르의 농장을 점령한 사나운 짐승. 아카리오스 초원 곳곳에 있다.</description>
+		</creature>
+		<creature>
+			<code>4781</code>
+			<area code="1008">포에타</area>
+			<name>큰 발 케루빔</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>4</level>
+			<realcoord>480|1079:571|955</realcoord>
+			<mapcoord>209|205:156|244</mapcoord>
+			<aggressive>0</aggressive>
+			<description>클리오네 호수 서쪽에 있는 아게르의 농장을 점령한 사나운 짐승. 아카리오스 초원 곳곳에 서식하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4748</code>
+			<area code="1008">포에타</area>
+			<name>수풀 페슬롯</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>5</level>
+			<realcoord>542|1486:613|1459:668|1498:631|1442:644|1542:542|1398:646|1561:583|1432:502|1490:679|1476:650|1461:633|1499:666|1555:626|1475:629|1459:660|1540:704|1546:599|1445:647|1526:608|1476:661|1475:696|1530:521|1419:499|1469:651|1493:536|1463:580|1413:599|1467</realcoord>
+			<mapcoord>383|232:371|262:388|286:364|270:406|275:345|232:415|276:359|249:384|215:378|290:372|278:388|270:412|285:378|268:371|269:406|282:408|301:365|256:400|276:378|260:378|283:402|297:354|223:375|213:385|278:373|229:351|248:374|256</mapcoord>
+			<aggressive>0</aggressive>
+			<description>다미누 숲에 사는 동물. 가죽으로 옷을 만들 수 있다.</description>
+		</creature>
+		<creature>
+			<code>4713</code>
+			<area code="1008">포에타</area>
+			<name>두카키 나무꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>541|1882:540|1833</realcoord>
+			<mapcoord>552|231:531|231</mapcoord>
+			<aggressive>3</aggressive>
+			<description>폐허가 된 버려진 벌목장에서 나무를 베는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4719</code>
+			<area code="1008">포에타</area>
+			<name>두카키 벌채꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>542|1910:538|1865</realcoord>
+			<mapcoord>564|232:544|230</mapcoord>
+			<aggressive>3</aggressive>
+			<description>폐허가 된 버려진 벌목장에서 나무를 베는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4746</code>
+			<area code="1008">포에타</area>
+			<name>사나운 잿빛 자이프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>540|1914:542|1889</realcoord>
+			<mapcoord>566|231:555|232</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4770</code>
+			<area code="1008">포에타</area>
+			<name>잿빛 자이프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>634|1847:577|1900:645|1862:629|1870</realcoord>
+			<mapcoord>537|271:560|247:543|276:547|269</mapcoord>
+			<aggressive>3</aggressive>
+			<description>버려진 벌목장에 서식하는 동물. 성질이 사나워 인간과 데바를 가리지 않고 공격한다.</description>
+		</creature>
+		<creature>
+			<code>4712</code>
+			<area code="1008">포에타</area>
+			<name>두카키 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>251|1822</realcoord>
+			<mapcoord>526|107</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4717</code>
+			<area code="1008">포에타</area>
+			<name>두카키 막싸움꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>258|1917:233|1887:359|1840:391|1860:276|2011:367|2051:359|1849:197|1897:367|2030:286|2084:215|1891:214|1870</realcoord>
+			<mapcoord>567|110:554|100:534|153:543|167:607|118:624|157:538|153:558|84:615|157:638|122:556|92:547|92</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에 사는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4718</code>
+			<area code="1008">포에타</area>
+			<name>두카키 망꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>300|2063:363|1868</realcoord>
+			<mapcoord>629|128:546|155</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에서 망을 보는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4726</code>
+			<area code="1008">포에타</area>
+			<name>두카키 일꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>354|2110:308|2010:340|2062:391|2066:327|1945:277|2050:339|2035:330|2115:303|1930:388|1982:418|2043:291|1943:231|2014:257|2131:389|1996:418|2055:238|2074:361|1976</realcoord>
+			<mapcoord>650|151:607|132:629|145:631|167:579|140:624|119:617|145:652|141:572|129:595|166:621|179:578|124:609|99:658|110:601|166:626|179:634|102:592|154</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에서 오디움을 캐는 브라우니. 묵묵히 일만 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4727</code>
+			<area code="1008">포에타</area>
+			<name>두카키 자경꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>383|2049:241|2059:226|1901:256|1925:278|2075:352|1915:297|1972:382|2031:361|1897:357|1921:279|1971:393|1874:211|1907</realcoord>
+			<mapcoord>623|164:627|103:560|97:570|110:634|119:566|151:590|127:616|163:558|154:569|153:590|119:548|168:562|90</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에서 오디움을 캐는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4728</code>
+			<area code="1008">포에타</area>
+			<name>두카키 채굴꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>316|2003:287|2045:301|1919:263|2019:414|2031:287|2066:334|2115:333|1876:232|1998:350|2058:397|2067:325|2033:218|2012:296|2040:336|1939:370|1964:244|2094</realcoord>
+			<mapcoord>604|135:621|123:568|129:611|112:616|177:631|123:652|143:549|142:601|99:627|149:631|170:617|139:607|93:620|127:576|144:587|158:643|104</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에서 오디움을 캐는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4722</code>
+			<area code="1008">포에타</area>
+			<name>두카키 순찰꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>200|1158:247|1200:243|1189:250|1118:206|1127:236|1211</realcoord>
+			<mapcoord>242|86:261|106:256|104:225|107:229|88:265|101</mapcoord>
+			<aggressive>3</aggressive>
+			<description>트몰리아 폐광을 순찰하는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4724</code>
+			<area code="1008">포에타</area>
+			<name>두카키 싸움꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>227|1217:214|1231:175|1145:214|1154:235|1195:216|1203:222|1165:189|1145</realcoord>
+			<mapcoord>268|97:274|91:237|75:241|91:258|100:262|92:246|95:237|81</mapcoord>
+			<aggressive>3</aggressive>
+			<description>트몰리아 폐광의 경계를 담당하는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>4783</code>
+			<area code="1008">포에타</area>
+			<name>투르신 감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>290|1049:229|1183:255|1060:285|1059:271|998:231|1198:263|994:223|1195:269|1051</realcoord>
+			<mapcoord>196|124:253|98:200|109:200|122:174|116:259|99:172|112:258|95:197|115</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소 근처에서 망을 보는 크랄.</description>
+		</creature>
+		<creature>
+			<code>4785</code>
+			<area code="1008">포에타</area>
+			<name>투르신 무법자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>320|1862:229|1819:237|1800:321|1923:384|1867:260|1833:340|1903:336|1857</realcoord>
+			<mapcoord>543|137:525|98:517|101:569|137:546|164:531|111:561|145:541|143</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4786</code>
+			<area code="1008">포에타</area>
+			<name>투르신 작업감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>238|1766:335|2086:353|2095:242|2002:378|2076:384|1990:306|2071:243|1784:405|2044:286|2036:292|1912:345|1977</realcoord>
+			<mapcoord>502|102:639|143:643|151:603|104:635|162:598|164:633|131:510|104:621|173:618|122:565|125:592|147</mapcoord>
+			<aggressive>3</aggressive>
+			<description>카바라 노천광산에서 두카키족의 작업을 감시하는 크랄.</description>
+		</creature>
+		<creature>
+			<code>4794</code>
+			<area code="1008">포에타</area>
+			<name>포자그늘 펑거스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>201|1343:225|1333</realcoord>
+			<mapcoord>322|86:317|96</mapcoord>
+			<aggressive>3</aggressive>
+			<description>라크리마 포자길에 사는 생물. 원래 식물이었으나 대파국 때 갑자기 쏟아져 내린 오드의 영향으로 움직이게 됐다. 사람을 공격한다.</description>
+		</creature>
+		<creature>
+			<code>4704</code>
+			<area code="1008">포에타</area>
+			<name>감독관 두아구루</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>291|1019</realcoord>
+			<mapcoord>183|124</mapcoord>
+			<aggressive>3</aggressive>
+			<description>트몰리아 폐광에 있는 크랄. 오디움을 캐는 브라우니를 감시한다.</description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>159</code>
+			<area code="1008">포에타</area>
+			<name>약초</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>253|1654:492|1430:613|1146:978|1110:197|1337:538|1079:465|1797:932|1092:1019|1104:999|1147:478|1632:925|1176:578|1404:1190|1060:602|900:569|1861:525|1439:637|1829:691|1129:1061|1060:646|930:430|1803:555|1797:661|1150:1134|1080:216|1616:506|1831:604|1584:986|1067:184|1539:497|1593:1122|1045:709|1013:559|1467:255|1435:448|1535:696|1162:917|1124:1079|964:1041|1075:497|1519:1093|1134:752|1040:550|1776:602|1876:720|1132:516|1779:516|1698:663|1213:293|1459:633|1666:490|1398:586|1194:731|1186:546|1137:234|1479:1062|992:523|1345:464|1736:1050|1180:551|1912:974|1185:632|1445:587|1293:269|1283:1138|1011:1198|1067:1060|1113:681|1223:621|1186:467|1494</realcoord>
+			<mapcoord>454|108:359|211:237|262:222|418:319|84:209|230:515|199:214|398:219|436:238|427:445|204:250|395:347|247:201|509:132|257:543|243:363|225:529|273:230|295:201|454:145|276:518|184:516|237:239|283:209|485:438|93:530|216:425|258:204|422:405|78:428|213:194|480:180|303:374|239:361|109:404|192:244|297:228|392:160|461:207|445:397|213:232|467:192|321:507|235:549|257:231|308:508|221:473|221:266|284:371|125:459|271:345|209:258|251:255|313:233|233:380|100:171|454:322|223:490|198:252|449:565|236:254|417:365|270:300|251:296|115:180|487:203|512:223|453:270|291:254|266:386|200</mapcoord>
+			<level>1</level>
+			<harvests>,152000401:10000000:1:icon_item_herb01:안젤리카,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>158</code>
+			<area code="1008">포에타</area>
+			<name>과일나무</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>171|1560:596|1668:573|1545:522|1540:446|1555:282|1678:671|1568:187|1360:482|1521:516|1584:690|1595:242|1439:259|1465:631|1511:668|1534:222|1344:277|1641:642|1614:670|1645:554|1654</realcoord>
+			<mapcoord>414|73:461|255:408|245:406|223:412|191:465|121:418|287:329|80:398|206:424|221:429|295:362|104:373|111:393|270:403|286:322|95:449|118:437|274:451|286:455|237</mapcoord>
+			<level>10</level>
+			<harvests>,152000701:10000000:1:icon_item_fruit07:멜라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>157</code>
+			<area code="1008">포에타</area>
+			<name>광석</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>170|1109:379|1896:664|1886:186|1142:216|1100:255|1981:342|1895:207|2008:326|2083:223|2060:258|1017:213|1055:247|1064:382|2095:247|2120:314|1838:262|1835:255|1879:692|1899:345|2011</realcoord>
+			<mapcoord>221|73:558|162:553|284:236|80:218|92:594|109:557|146:606|88:638|139:628|95:182|110:198|91:202|106:643|163:654|106:533|134:532|112:551|109:559|296:607|147</mapcoord>
+			<level>15</level>
+			<harvests>,152000201:10000000:1:icon_item_rock01e:철 광석,</harvests>
+			<count>3</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1008</code>
+			<name>포에타</name>
+			<mmap>1008_768m</mmap>
+			<smap>1008_768s</smap>
+		</area>
+	</areas>
+</resultdata>

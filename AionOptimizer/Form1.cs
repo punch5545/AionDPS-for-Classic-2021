@@ -20,26 +20,24 @@ namespace AionOptimizer
     {
         public Form1()
         {
-            Console.WindowWidth = 60;
             InitializeComponent();
-
         }
 
         
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Process[] processes = Process.GetProcessesByName("Aion.bin");
-            if (processes.Length != 0)
-            {
-                MessageBox.Show("아이온 클라이언트가 실행중입니다.\n게임 종료 후 다시 시도해 주세요.");
-                Environment.Exit(0);
-            }
-            getMSMQState();
+            //Process[] processes = Process.GetProcessesByName("Aion.bin");
+            //if (processes.Length != 0)
+            //{
+            //    MessageBox.Show("아이온 클라이언트가 실행중입니다.\n게임 종료 후 다시 시도해 주세요.");
+            //    Environment.Exit(0);
+            //}
         }
 
-        private void getMSMQState()
+        private bool getMSMQState()
         {
+            bool bActive = true;
             Console.WriteLine("MSMQ 활성화 여부를 검사중입니다. 잠시만 기다려주세요.");
             DismApi.Initialize(DismLogLevel.LogErrors);
             using (DismSession session = DismApi.OpenOnlineSession())
@@ -62,22 +60,20 @@ namespace AionOptimizer
                     {
                         if (feature.State != DismPackageFeatureState.Installed)
                         {
+                            bActive = false;
                             Console.WriteLine("MSMQ 활성화가 필요합니다.");
-                            button1.Enabled = true;
                             break;
                         }
                     }
                 }
-                if (!button1.Enabled)
+                if (bActive)
                 {
-                    Console.WriteLine("MSMQ 가 활성화 되어있습니다.\n");
-                    button2.Enabled = true;
-                }
-                else
-                {
+                    Console.WriteLine("MSMQ가 활성화 되어있습니다.");
                 }
             }
             DismApi.Shutdown();
+
+            return bActive;
         }
 
         private void SystemReboot()
@@ -98,6 +94,8 @@ namespace AionOptimizer
 
         private void button1_Click(object sender, EventArgs e)
         {
+            getMSMQState();
+
             var MSMQ = Registry.LocalMachine.CreateSubKey("SOFTWARE\\Microsoft");
             bool rebootRequired;
             try
@@ -143,15 +141,20 @@ namespace AionOptimizer
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Process.Start("gpedit.msc");
-
-            Console.WriteLine("컴퓨터 구성 > 관리 템플릿 > 네트워크 > QoS 패킷 스케줄러 클릭\n");
-            Console.WriteLine("예약 대역폭 제한 더블클릭 > \"구성되지 않음\" 을 \"사용\" 으로 변경\n");
-            Console.WriteLine("하단 옵션 > 대역폭 제한(%) 값을 0으로 변겅\n");
-            Console.WriteLine("적용 > 확인\n");
-
-            button2.Enabled = false;
-            button3.Enabled = true;
+            try
+            {
+                Process.Start("gpedit.msc");
+                Console.WriteLine("컴퓨터 구성 > 관리 템플릿 > 네트워크 > QoS 패킷 스케줄러 클릭\n");
+                Console.WriteLine("예약 대역폭 제한 더블클릭 > \"구성되지 않음\" 을 \"사용\" 으로 변경\n");
+                Console.WriteLine("하단 옵션 > 대역폭 제한(%) 값을 0으로 변겅\n");
+                Console.WriteLine("적용 > 확인\n");
+            }
+            catch
+            {
+                Console.WriteLine("gpedit.msc 파일이 존재하지 않습니다. gpedit을 설치합니다.");
+                Console.WriteLine("배포 이미지 서비스 및 관리 도구 창이 나타나고 작업이 완료되면 관리 템플릿 수정 버튼을 다시 눌러주세요.");
+                Process.Start(@".\gpedit_install.bat");
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -187,8 +190,6 @@ namespace AionOptimizer
             Accessibility.SetValue("Last Valid Wait", 0x00000000);
 
             Console.WriteLine("키보드 레지스트리 수정 완료");
-
-            button3.Enabled = false;
 
             var dResult = MessageBox.Show("모든 작업이 완료되어 재부팅이 필요합니다.\n지금 재부팅 하시겠습니까?", "작업완료", MessageBoxButtons.YesNo);
 

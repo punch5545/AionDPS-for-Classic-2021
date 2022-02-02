@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1001" data="Monster,Object,NPC">
+	<areas>
+		<area>
+			<code>1001</code>
+			<name>모르헤임</name>
+			<mmap>1001_768m</mmap>
+			<smap>1001_768s</smap>
+		</area>
+		<area>
+			<code>1002</code>
+			<name>베르테론</name>
+			<mmap>1002_768m</mmap>
+			<smap>1002_768s</smap>
+		</area>
+		<area>
+			<code>1003</code>
+			<name>알트가르드</name>
+			<mmap>1003_768m</mmap>
+			<smap>1003_768s</smap>
+		</area>
+	</areas>
+</resultdata>

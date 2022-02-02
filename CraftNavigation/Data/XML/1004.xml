@@ -1,0 +1,3378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1004" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>2819</code>
+			<area code="1004">엘리시움</area>
+			<name>가오슝</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1912|1776</realcoord>
+			<mapcoord>462|452</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은구름무역단의 슈고 일꾼. 엘리시움의 선착장에서 일하고 있다. 불법 매입물이 세 번 적발되면 엘리시움에서 쫓겨나는 관례가 있는데, 이미 두 번 걸려서 그런지 늘 노심초사하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2820</code>
+			<area code="1004">엘리시움</area>
+			<name>게논</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1837|2199</realcoord>
+			<mapcoord>725|405</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 주점 디오니시아의 종업원. 낭만적인 기질의 소유자. 한때는 시인이 되고자 했으나, 시를 쓰며 배우게 된 술 때문에 그냥 술집 종업원으로 눌러 앉았다.</description>
+		</creature>
+		<creature>
+			<code>2821</code>
+			<area code="1004">엘리시움</area>
+			<name>게라니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2034|1582</realcoord>
+			<mapcoord>342|527</mapcoord>
+			<aggressive>0</aggressive>
+			<description>고문서 복원으로는 천계 최고로 알려져있다. 현재는 엘리시움에서 데바들의 고문서 복원 고문을 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>9421</code>
+			<area code="1004">엘리시움</area>
+			<name>그렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1625|1496</realcoord>
+			<mapcoord>288|273</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2822</code>
+			<area code="1004">엘리시움</area>
+			<name>그로모로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2049|1511</realcoord>
+			<mapcoord>298|537</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 현자의 서고에 있는 어비스 연구가.</description>
+		</creature>
+		<creature>
+			<code>2823</code>
+			<area code="1004">엘리시움</area>
+			<name>그웬스페나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>레기온용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1901|1399</realcoord>
+			<mapcoord>228|445</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 레기온 관리소에 있는 레기온 용품 상인. 사무적인 성격이다.</description>
+		</creature>
+		<creature>
+			<code>6306</code>
+			<area code="1004">엘리시움</area>
+			<name>나지룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1614|1464</realcoord>
+			<mapcoord>268|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2824</code>
+			<area code="1004">엘리시움</area>
+			<name>나키아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1840|1569</realcoord>
+			<mapcoord>333|407</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에서 무기 재료 판매를 담당하는 무기 제작 상인. 무기를 판매하는 것 뿐 아니라 직접 제작할 수 있게 될 날을 고대하며 열심히 일하고 있는 건실한 처녀이다.</description>
+		</creature>
+		<creature>
+			<code>2825</code>
+			<area code="1004">엘리시움</area>
+			<name>네스토르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2005|1488</realcoord>
+			<mapcoord>283|509</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 현자의 서고에서 역사를 연구하는 학자. 특별한 일이 없는 한 소멸하지 않는 데바들 사이에서 역사를 공부하는 것은 부질없다고 여겨지는 풍토가 있지만, 꿋꿋이 역사 공부를 계속해 왔다.</description>
+		</creature>
+		<creature>
+			<code>2826</code>
+			<area code="1004">엘리시움</area>
+			<name>네팔리온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1888|1413</realcoord>
+			<mapcoord>236|437</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움을 지키는 가디언. 신성의 거리를 순찰하고 있다. 군관 출신으로 모든 사람들을 하대하는 버릇이 있다.</description>
+		</creature>
+		<creature>
+			<code>2827</code>
+			<area code="1004">엘리시움</area>
+			<name>네피스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1457|1330</realcoord>
+			<mapcoord>185|169</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 결투의 전당 안에 있는 투기장 관리인. 전투를 즐긴다.</description>
+		</creature>
+		<creature>
+			<code>2828</code>
+			<area code="1004">엘리시움</area>
+			<name>노리스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1859|1428</realcoord>
+			<mapcoord>246|419</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 서쪽 입구를 지킨다. 자유를 선망하며, 아트레이아 구석구석을 여행하고 싶어 한다.</description>
+		</creature>
+		<creature>
+			<code>9418</code>
+			<area code="1004">엘리시움</area>
+			<name>노엔느</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1614|1532</realcoord>
+			<mapcoord>310|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2829</code>
+			<area code="1004">엘리시움</area>
+			<name>누마카스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1873|1428</realcoord>
+			<mapcoord>246|427</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 서쪽 입구를 지킨다. 소심하고 낯을 심하게 가려서 처음 보는 사람과 대화할 때 말을 더듬는다. 가끔 변신술이나 예언술 모두에 놀라운 재능을 보여 사람들을 놀라게 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2830</code>
+			<area code="1004">엘리시움</area>
+			<name>니그타토</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1860|1595</realcoord>
+			<mapcoord>350|419</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 동쪽 입구를 지킨다. 겉으론 친절하나 가끔 어딘가 가식적으로 느껴진다.</description>
+		</creature>
+		<creature>
+			<code>2831</code>
+			<area code="1004">엘리시움</area>
+			<name>니디아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1988|1726</realcoord>
+			<mapcoord>431|499</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 시민. 선착장에 가면 만날 수 있다. 친구인 루스티에나가 데바로 각성한 뒤 피해의식을 느껴 그녀를 멀리하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5599</code>
+			<area code="1004">엘리시움</area>
+			<name>니아날로</name>
+			<type>NPC</type>
+			<mclass>데바니온</mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1809|1505</realcoord>
+			<mapcoord>294|388</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미라젠트 성기사 8인 중 하나로 엘리시움의 동태를 살피고 있다.</description>
+		</creature>
+		<creature>
+			<code>2832</code>
+			<area code="1004">엘리시움</area>
+			<name>다리우스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>연금술상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1840|1453</realcoord>
+			<mapcoord>261|407</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 연금술 상인. 연금술 명인 디아나의 동생으로, 어려서부터 누나의 범상치 않음을 알고 누나의 연구를 도와 왔다.</description>
+		</creature>
+		<creature>
+			<code>2833</code>
+			<area code="1004">엘리시움</area>
+			<name>다아룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2057|1529</realcoord>
+			<mapcoord>309|542</mapcoord>
+			<aggressive>0</aggressive>
+			<description>박식하기로 정평이 나 있는 슈고. 엘리시움의 현자의 서고 2층 비밀의 서고에 있다.</description>
+		</creature>
+		<creature>
+			<code>2834</code>
+			<area code="1004">엘리시움</area>
+			<name>다이로스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>방어구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1878|1534</realcoord>
+			<mapcoord>312|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 수호자의 전당의 서쪽 방에 있는 어비스 공훈 기록관. 겸손하고 과묵하다.</description>
+		</creature>
+		<creature>
+			<code>2835</code>
+			<area code="1004">엘리시움</area>
+			<name>다프니스</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>천갑옷제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1882|1543</realcoord>
+			<mapcoord>317|433</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 기거하는 재봉 명인. 전투에도 상당한 실력이 있다고 하나, 본인이 자원하여 재봉술에 투신했다. 그의 말에 의하면 전투는 생명을 다치게 하지만, 재봉술은 생명을 보호하는 것이라고.</description>
+		</creature>
+		<creature>
+			<code>2836</code>
+			<area code="1004">엘리시움</area>
+			<name>데메테스</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>정기추출명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1851|1476</realcoord>
+			<mapcoord>276|414</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 정기 추출 명인. 순수한 열정으로 진귀한 약초를 모으는 일에 몰두하다 보니, 엘리시움의 일인자가 되었다.</description>
+		</creature>
+		<creature>
+			<code>2837</code>
+			<area code="1004">엘리시움</area>
+			<name>데모도코스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1847|1511</realcoord>
+			<mapcoord>298|411</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 명인의 전당에 있는 점성술의 데바.</description>
+		</creature>
+		<creature>
+			<code>2838</code>
+			<area code="1004">엘리시움</area>
+			<name>데케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1870|2208</realcoord>
+			<mapcoord>730|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description>사기 도박을 권하는 협잡꾼. 엘리시움 외항에 있다.</description>
+		</creature>
+		<creature>
+			<code>2839</code>
+			<area code="1004">엘리시움</area>
+			<name>델라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1849|2190</realcoord>
+			<mapcoord>720|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 시민. 엘리시움 외항에 있는 주점 디오니시아의 단골. 평생 자기 손으로 일을 해 돈을 번 적이 없으나 배를 곯지 않고 산 이유는 오로지 말 재간 때문이다. 주로 돈 많고 귀 얇은 데바를 상대한다.</description>
+		</creature>
+		<creature>
+			<code>2840</code>
+			<area code="1004">엘리시움</area>
+			<name>디아나</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>연금술명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1846|1453</realcoord>
+			<mapcoord>261|411</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 연금술 명인. 연금술을 숭고한 기술이라고 생각해서, 키나를 쉽게 벌기 위한 수단으로 연금술을 배우는 작금의 세태에 분개하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2841</code>
+			<area code="1004">엘리시움</area>
+			<name>라디실</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1878|1495</realcoord>
+			<mapcoord>288|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 수호자의 전당에 있는 행정관.</description>
+		</creature>
+		<creature>
+			<code>2842</code>
+			<area code="1004">엘리시움</area>
+			<name>라미드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2031|1474</realcoord>
+			<mapcoord>275|526</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2843</code>
+			<area code="1004">엘리시움</area>
+			<name>라비린토스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1878|1514</realcoord>
+			<mapcoord>299|431</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 수호자의 전당에 있는 미라젠트 성기사단장. 명예를 중시하고 격식을 따지는 데바. 대대로 데바였던 가문의 장남으로 가디언으로서의 길을 의심한 적이 없다.</description>
+		</creature>
+		<creature>
+			<code>2844</code>
+			<area code="1004">엘리시움</area>
+			<name>라오코네스</name>
+			<type>NPC</type>
+			<mclass>외형변경</mclass>
+			<sclass>외형변경사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1624|1510</realcoord>
+			<mapcoord>297|273</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장 근처 상점에 있다. 아이템 개조 상인. 무기의 기술적인 면과 미적인 면을 조화시키는 탁월한 능력을 인정받아 엘리시움에 오게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2845</code>
+			<area code="1004">엘리시움</area>
+			<name>라이라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1902|1626</realcoord>
+			<mapcoord>369|445</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 연회장에 있는 데바. 큰 연회가 있으면 헤베를 돕곤 한다.</description>
+		</creature>
+		<creature>
+			<code>2846</code>
+			<area code="1004">엘리시움</area>
+			<name>라이토스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1791|2175</realcoord>
+			<mapcoord>710|377</mapcoord>
+			<aggressive>0</aggressive>
+			<description>데바에게 바쳐지는 천수의 규모가 지나치게 큰 것에 반감을 가지고 있는 시민. 봉기하기 위해 엘리시움 외항에서 사람들을 규합중이다.</description>
+		</creature>
+		<creature>
+			<code>2847</code>
+			<area code="1004">엘리시움</area>
+			<name>라트리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2008|1478</realcoord>
+			<mapcoord>277|511</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 현자의 서고에서 비밀 서고의 문을 지키고 있다.</description>
+		</creature>
+		<creature>
+			<code>2848</code>
+			<area code="1004">엘리시움</area>
+			<name>라피스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1812|2130</realcoord>
+			<mapcoord>682|389</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 데바. 춤의 데바 벨라를 동경하지만 몸이 뻣뻣해 춤이 안 된다.</description>
+		</creature>
+		<creature>
+			<code>6324</code>
+			<area code="1004">엘리시움</area>
+			<name>람파드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1528|1528</realcoord>
+			<mapcoord>308|213</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;거리의 음악가&gt;공연장 아무렇게나 연주해도 아름다운 선율을 만들어 내는 천재 음악가. 그러나, 정작 본인은 자신의 연주가 훌륭하다는 것을 전혀 모르고 있다.</description>
+		</creature>
+		<creature>
+			<code>2849</code>
+			<area code="1004">엘리시움</area>
+			<name>레그모스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1644|1392</realcoord>
+			<mapcoord>223|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>화염의 데바로 불의 속성을 가진 모든 무기의 성능을 향상시키는 법을 알고 있다.</description>
+		</creature>
+		<creature>
+			<code>2850</code>
+			<area code="1004">엘리시움</area>
+			<name>레노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2052|1543</realcoord>
+			<mapcoord>317|539</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2851</code>
+			<area code="1004">엘리시움</area>
+			<name>레미아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1860|1700</realcoord>
+			<mapcoord>415|419</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 선착장을 지키는 수호기사.</description>
+		</creature>
+		<creature>
+			<code>6323</code>
+			<area code="1004">엘리시움</area>
+			<name>레반나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1603|1489</realcoord>
+			<mapcoord>284|260</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관로리타 의상 판매원.</description>
+		</creature>
+		<creature>
+			<code>2852</code>
+			<area code="1004">엘리시움</area>
+			<name>레아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1369|1512</realcoord>
+			<mapcoord>298|115</mapcoord>
+			<aggressive>0</aggressive>
+			<description>어린 나이에 각성한 데바. 엘리시움의 영광의 길에 가면 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>2853</code>
+			<area code="1004">엘리시움</area>
+			<name>레오니다스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1484|1357</realcoord>
+			<mapcoord>202|185</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 결투의 전당 입구를 지키고 있는 검투사로, 냉철하고 승부사 기질이 있다.</description>
+		</creature>
+		<creature>
+			<code>2854</code>
+			<area code="1004">엘리시움</area>
+			<name>레이논</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1581|1372</realcoord>
+			<mapcoord>211|246</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 광대. 익살스럽다. 푸스페네가 엘리시움에 오면서 따라온 패거리 중 한 명.</description>
+		</creature>
+		<creature>
+			<code>2855</code>
+			<area code="1004">엘리시움</area>
+			<name>레이룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1843|2044</realcoord>
+			<mapcoord>629|409</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 슈고족. 데바에게 비굴할 정도로 충성하는 모습을 보인다.</description>
+		</creature>
+		<creature>
+			<code>6318</code>
+			<area code="1004">엘리시움</area>
+			<name>레티아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1551|1458</realcoord>
+			<mapcoord>265|227</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 천인 대광장 동편에 있는 데바. 펫을 좋아하여 여러 마리의 펫을 돌보고 있다.</description>
+		</creature>
+		<creature>
+			<code>2856</code>
+			<area code="1004">엘리시움</area>
+			<name>루디나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1827|2183</realcoord>
+			<mapcoord>715|399</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 주점 디오니시아의 여주인. 나쁜 남자한테 끌리는 어리석은 여자.</description>
+		</creature>
+		<creature>
+			<code>2857</code>
+			<area code="1004">엘리시움</area>
+			<name>루미아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1800|1496</realcoord>
+			<mapcoord>288|382</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 데바. 최근 부인을 잃고 두 아들 중 하나가 데바로 각성했다. 혼자 인간으로 남은 막내 때문에 걱정이 많다.</description>
+		</creature>
+		<creature>
+			<code>2858</code>
+			<area code="1004">엘리시움</area>
+			<name>루스티에나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1656|1650</realcoord>
+			<mapcoord>384|292</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 공중 운하에 있는 데바. 추락 사고를 방지하기 위해 순찰을 돌고 있다.</description>
+		</creature>
+		<creature>
+			<code>2859</code>
+			<area code="1004">엘리시움</area>
+			<name>루엘라스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>요리상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1844|1538</realcoord>
+			<mapcoord>314|409</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 요리 상인. 요리가 재료들의 조합 예술이라는 철학을 가졌다. 요리에 매우 깐깐해 오랜 세월동안 천수 음식의 제작을 담당했다.</description>
+		</creature>
+		<creature>
+			<code>2860</code>
+			<area code="1004">엘리시움</area>
+			<name>루오싱</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1793|2093</realcoord>
+			<mapcoord>659|378</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 무역단 일꾼. 영리하고 꾀가 많지만, 엘리시움에 온 지 얼마 되지 않아 아직 적응을 못 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2861</code>
+			<area code="1004">엘리시움</area>
+			<name>루카니아</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1367|1372</realcoord>
+			<mapcoord>211|113</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 창고 관리인. 정직한 사람이다.</description>
+		</creature>
+		<creature>
+			<code>2862</code>
+			<area code="1004">엘리시움</area>
+			<name>루키안</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1977|1789</realcoord>
+			<mapcoord>470|492</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 선착장에서 일하는 부두 노동자. 아들 바스모스를 가르치고 있다.</description>
+		</creature>
+		<creature>
+			<code>2863</code>
+			<area code="1004">엘리시움</area>
+			<name>루페</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1968|1773</realcoord>
+			<mapcoord>460|487</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 시민. 엘리시움의 선착장에 가면 만날 수 있다. 바스모스의 어머니로, 아들이 부두 노동자로 일하는 것을 탐탁치 않게 여긴다.</description>
+		</creature>
+		<creature>
+			<code>2864</code>
+			<area code="1004">엘리시움</area>
+			<name>리노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1426|1248</realcoord>
+			<mapcoord>134|150</mapcoord>
+			<aggressive>0</aggressive>
+			<description>결투의 전당에서 일어나는 모든 일을 감시, 감독하는 결투의 데바.</description>
+		</creature>
+		<creature>
+			<code>6310</code>
+			<area code="1004">엘리시움</area>
+			<name>리누린린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1613|1561</realcoord>
+			<mapcoord>328|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2865</code>
+			<area code="1004">엘리시움</area>
+			<name>리비티나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1496|1446</realcoord>
+			<mapcoord>257|193</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미케로를 따라 엘리시움까지 오게 된 인간. 얼떨결에 한 약속 때문에 미케로는 그녀를 엘리시움으로 데려올 수밖에 없었다. 천인 대광장 근처에 가면 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>2866</code>
+			<area code="1004">엘리시움</area>
+			<name>리카사스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1869|1524</realcoord>
+			<mapcoord>306|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description>빛의 가디언. 엘리시움의 수호자의 전당에 있다.</description>
+		</creature>
+		<creature>
+			<code>2867</code>
+			<area code="1004">엘리시움</area>
+			<name>리티에르세스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1875|2207</realcoord>
+			<mapcoord>730|429</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항을 주름잡는 뒷골목의 제왕.</description>
+		</creature>
+		<creature>
+			<code>2868</code>
+			<area code="1004">엘리시움</area>
+			<name>마누카</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1909|1515</realcoord>
+			<mapcoord>300|450</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 남쪽 입구를 지킨다. 가정적인 가장으로, 멀리 있는 아내와 자녀 때문에 향수병에 걸려 있다.</description>
+		</creature>
+		<creature>
+			<code>2869</code>
+			<area code="1004">엘리시움</area>
+			<name>마라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1816|2129</realcoord>
+			<mapcoord>682|392</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 서 있는 시민. 오빠인 코디나우스가 데바로 각성한 것을 자랑스러워 한다.</description>
+		</creature>
+		<creature>
+			<code>6309</code>
+			<area code="1004">엘리시움</area>
+			<name>마르젤라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1607|1535</realcoord>
+			<mapcoord>312|262</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관럭셔리 의상 판매원. 채무에 시달리는 전형적인 된장녀. (명품 백화점 직원의 느낌)</description>
+		</creature>
+		<creature>
+			<code>2870</code>
+			<area code="1004">엘리시움</area>
+			<name>마메이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1975|1757</realcoord>
+			<mapcoord>451|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 선착장에 있는 크랄 연구가. 어릴적 크랄과 진정한 교감을 한 적이 있다고 생각하며, 언젠가는 반드시 크랄과 친구가 될 수 있으리라고 꿈꾼다.</description>
+		</creature>
+		<creature>
+			<code>2871</code>
+			<area code="1004">엘리시움</area>
+			<name>마오링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1840|2031</realcoord>
+			<mapcoord>621|407</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 무역단 일꾼. 소심하고 뒤끝이 있는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>5607</code>
+			<area code="1004">엘리시움</area>
+			<name>마이니아</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>외모변환의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1943|1560</realcoord>
+			<mapcoord>328|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2872</code>
+			<area code="1004">엘리시움</area>
+			<name>마이레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1890|1483</realcoord>
+			<mapcoord>280|438</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하며 바쿠스를 돕고 있는 성실한 청년.</description>
+		</creature>
+		<creature>
+			<code>2873</code>
+			<area code="1004">엘리시움</area>
+			<name>마쿠스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>검성과수호성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1427|1614</realcoord>
+			<mapcoord>361|151</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 정의의 수호자. 검성과 수호성에게 스킬을 가르친다. 네자칸의 총애를 입고 있는 인물로 그 배경에 대해 알려져 있지 않다.</description>
+		</creature>
+		<creature>
+			<code>2874</code>
+			<area code="1004">엘리시움</area>
+			<name>마피르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1897|1752</realcoord>
+			<mapcoord>448|442</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은구름무역단의 슈고 일꾼. 엘리시움의 선착장에서 일하고 있다. 전에 있던 무역단에서 실력이 안 좋아 쫓겨난 신세다.</description>
+		</creature>
+		<creature>
+			<code>2875</code>
+			<area code="1004">엘리시움</area>
+			<name>메노메스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>금속갑옷제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1892|1569</realcoord>
+			<mapcoord>333|439</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 기거하며 방어구 재료 판매를 담당하는 금속갑옷 제작 상인.</description>
+		</creature>
+		<creature>
+			<code>2876</code>
+			<area code="1004">엘리시움</area>
+			<name>메노아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1822|2195</realcoord>
+			<mapcoord>723|395</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항의 주점 디오니시아에 있는 남자. 슈고족을 아니꼽게 생각하나 겉으론 태연하게 행동한다. 라피스의 친구.</description>
+		</creature>
+		<creature>
+			<code>2877</code>
+			<area code="1004">엘리시움</area>
+			<name>메논</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1877|2198</realcoord>
+			<mapcoord>725|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description>협잡꾼. 엘리시움 외항에 있다. 깜박하면 속아 넘어가기 쉬울 정도로 능변이다.</description>
+		</creature>
+		<creature>
+			<code>2878</code>
+			<area code="1004">엘리시움</area>
+			<name>멜리케르테스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>소모품담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1880|1527</realcoord>
+			<mapcoord>307|432</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 있는 소모품 담당 공훈관. 도시에서 관리하는 물품을 판매하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2879</code>
+			<area code="1004">엘리시움</area>
+			<name>모르가나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1787|2080</realcoord>
+			<mapcoord>651|374</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 서 있는 가디언. 집안 모두가 데바가 된 것에 의무감을 느끼고 자식들을 엄격히 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2880</code>
+			<area code="1004">엘리시움</area>
+			<name>모무스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>장신구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1880|1523</realcoord>
+			<mapcoord>305|432</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2881</code>
+			<area code="1004">엘리시움</area>
+			<name>무스타피노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1814|2130</realcoord>
+			<mapcoord>682|391</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 서 있는 시민. 얼마 전 이웃이 레파르 혁명단원으로 밝혀져 잡혀 간 뒤로 괜히 겁을 내고 있다.</description>
+		</creature>
+		<creature>
+			<code>2882</code>
+			<area code="1004">엘리시움</area>
+			<name>미노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1806|2119</realcoord>
+			<mapcoord>676|386</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 노래의 데바. 춤의 데바 벨라와 함께 엘리시움 최고의 인기인 자리를 차지하고 있다. 벨라와 은근히 신경전을 벌이고 있다.</description>
+		</creature>
+		<creature>
+			<code>2883</code>
+			<area code="1004">엘리시움</area>
+			<name>미니아이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1833|1409</realcoord>
+			<mapcoord>234|403</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리 서쪽 입구를 지키는 가디언. 보수적인 인물로, 신분 차이가 나는 인간들과는 말도 섞지 않는다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2884</code>
+			<area code="1004">엘리시움</area>
+			<name>미라젠트의 성기사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1856|1507</realcoord>
+			<mapcoord>295|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2892</code>
+			<area code="1004">엘리시움</area>
+			<name>미르틸</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1802|1438</realcoord>
+			<mapcoord>252|383</mapcoord>
+			<aggressive>0</aggressive>
+			<description>예술의 데바. 엘리시움의 공중 운하 근처에서 조수 프헤와 함께 있다. 데바들의 메마른 감수성을 걱정하곤 한다.</description>
+		</creature>
+		<creature>
+			<code>5603</code>
+			<area code="1004">엘리시움</area>
+			<name>미카링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1833|2186</realcoord>
+			<mapcoord>717|402</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 사절 슈고. 듬직하고 책임감이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2893</code>
+			<area code="1004">엘리시움</area>
+			<name>미케로</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1459|1512</realcoord>
+			<mapcoord>298|171</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 광장에 있는 음유 시인. 정중하게 부탁하면 멋진 시를 낭송해 준다.</description>
+		</creature>
+		<creature>
+			<code>5614</code>
+			<area code="1004">엘리시움</area>
+			<name>미쿠룽룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1834|2187</realcoord>
+			<mapcoord>717|403</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 사절 슈고. 상냥하고 친절한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2894</code>
+			<area code="1004">엘리시움</area>
+			<name>바쿠스</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>오드추출명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1883|1476</realcoord>
+			<mapcoord>276|434</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 오드 추출 명인. 오드 추출에 관한 한 누구보다 높은 수준의 지식을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>2895</code>
+			<area code="1004">엘리시움</area>
+			<name>바토니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2007|1511</realcoord>
+			<mapcoord>298|511</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 현자의 서고에 있는 데바. 오랜 시간 동안 서고의 책을 모두 읽어서 잡다한 지식이 풍부하다.</description>
+		</creature>
+		<creature>
+			<code>2896</code>
+			<area code="1004">엘리시움</area>
+			<name>발로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1836|1606</realcoord>
+			<mapcoord>356|405</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리 동쪽 입구를 지키는 가디언. 베르테론 요새에 있는 발루에린의 동생이나, 견해 차이로 크게 다툰 후 지금은 남처럼 지낸다고 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>2897</code>
+			<area code="1004">엘리시움</area>
+			<name>베네스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1947|1569</realcoord>
+			<mapcoord>334|473</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 고급 의상점에 기거하는 신성의복의 데바. 오드의 힘으로 의복에 마력을 강화하는 기술을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>2898</code>
+			<area code="1004">엘리시움</area>
+			<name>베노룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1877|2200</realcoord>
+			<mapcoord>725|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 온 천인들에게 사기를 치는 협잡꾼. 엘리시움 외항에 있다. 어수선한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2899</code>
+			<area code="1004">엘리시움</area>
+			<name>베루스</name>
+			<type>NPC</type>
+			<mclass>신석강화</mclass>
+			<sclass>신석강화사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1624|1513</realcoord>
+			<mapcoord>299|273</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길에 있으며, 무기나 방어구에 마법을 부여해 준다. 겸손하고 신중하다.</description>
+		</creature>
+		<creature>
+			<code>2900</code>
+			<area code="1004">엘리시움</area>
+			<name>베오마스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1919|1617</realcoord>
+			<mapcoord>364|456</mapcoord>
+			<aggressive>0</aggressive>
+			<description>특정한 임무를 받지 않은 데바로 신성의 거리의 연회장에서 많은 시간을 보낸다.</description>
+		</creature>
+		<creature>
+			<code>2901</code>
+			<area code="1004">엘리시움</area>
+			<name>벨라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1812|2124</realcoord>
+			<mapcoord>678|389</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에서 춤을 추는 춤의 데바. 엘리시움 내에서 최고의 인기를 구가하고 있다. 미노와 경쟁하는 관계.</description>
+		</creature>
+		<creature>
+			<code>2902</code>
+			<area code="1004">엘리시움</area>
+			<name>벨라시아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1670|1393</realcoord>
+			<mapcoord>224|301</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 공중 운하에 있는 물의 데바. 분수 근처에 가면 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>2903</code>
+			<area code="1004">엘리시움</area>
+			<name>벨리아</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>마도성과정령성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1397|1644</realcoord>
+			<mapcoord>380|132</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 환상의 수호자. 마도성과 정령성에게 스킬을 가르치는 스승이다.</description>
+		</creature>
+		<creature>
+			<code>2904</code>
+			<area code="1004">엘리시움</area>
+			<name>보레아스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>검성과수호성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1856|1503</realcoord>
+			<mapcoord>293|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검성과 수호성의 스승. 엘리시움의 수호자의 전당에 있다.</description>
+		</creature>
+		<creature>
+			<code>5604</code>
+			<area code="1004">엘리시움</area>
+			<name>부스탄트</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1350|1410</realcoord>
+			<mapcoord>235|102</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 창고 관리인. 투철한 직업 의식을 지녔다.</description>
+		</creature>
+		<creature>
+			<code>2905</code>
+			<area code="1004">엘리시움</area>
+			<name>불카누스</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>금속갑옷제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1883|1568</realcoord>
+			<mapcoord>333|434</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 기거하며 데바들의 방어구 제작을 담당하는 금속갑옷 제작 명인. 좋은 갑옷이란 자고로 기능성과 착용감 그리고 데바를 돋보이게 만드는 아름다움, 이 삼박자가 맞아야 한다고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2906</code>
+			<area code="1004">엘리시움</area>
+			<name>브란테스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>장신구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1526|1600</realcoord>
+			<mapcoord>353|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 장신구 상인. 전직 보석 세공사로 현재는 무기 장신구를 제작하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2907</code>
+			<area code="1004">엘리시움</area>
+			<name>비에사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2018|1534</realcoord>
+			<mapcoord>312|518</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 있는 현자의 서고를 지키는 서고지기. 서고에 있는 모든 책 제목을 외우고 있다.</description>
+		</creature>
+		<creature>
+			<code>9420</code>
+			<area code="1004">엘리시움</area>
+			<name>비콘바리우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1620|1493</realcoord>
+			<mapcoord>287|270</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2908</code>
+			<area code="1004">엘리시움</area>
+			<name>사보테스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1843|1484</realcoord>
+			<mapcoord>281|409</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 데메테르의 조수. 데메테르와 인간일 때부터 지기로서, 데메테르가 데바가 되어 엘리시움에 오면서 같이 오게 되었다.</description>
+		</creature>
+		<creature>
+			<code>6326</code>
+			<area code="1004">엘리시움</area>
+			<name>사이린린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1517|1426</realcoord>
+			<mapcoord>245|206</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5610</code>
+			<area code="1004">엘리시움</area>
+			<name>세나링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1426|1398</realcoord>
+			<mapcoord>227|150</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 거래중개인.</description>
+		</creature>
+		<creature>
+			<code>2909</code>
+			<area code="1004">엘리시움</area>
+			<name>세르빌리아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1555|1599</realcoord>
+			<mapcoord>352|230</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 약품 상인. 인간에게는 거만하고, 데바에게는 친절하다. 데바 부부의 딸로 태어나 공주처럼 대접 받으며 자랐으나, 각성하지 못하고 엘리시움에서 상점을 꾸리고 있다.</description>
+		</creature>
+		<creature>
+			<code>2910</code>
+			<area code="1004">엘리시움</area>
+			<name>세이레니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2045|1527</realcoord>
+			<mapcoord>308|534</mapcoord>
+			<aggressive>0</aggressive>
+			<description>밤마다 [%dic:STR_DIC_FLA4]의 님프의 연못에서 목욕을 즐기는 수수께끼의 아름다운 여인. 낮에는 어디에서 무엇을 하는지 알 수 없다.</description>
+		</creature>
+		<creature>
+			<code>5598</code>
+			<area code="1004">엘리시움</area>
+			<name>시라링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1888|1496</realcoord>
+			<mapcoord>288|437</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 파견된 티그라키 공방의 슈고. 새로운 정보를 얻어 출세하고 싶다는 욕망이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2911</code>
+			<area code="1004">엘리시움</area>
+			<name>시빌라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1392|1697</realcoord>
+			<mapcoord>413|129</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 대성소에 있는 신관. 고대 영혼에 빙의되어 예언을 쏟고 바로 잊어버리는 능력을 갖게 되었다.</description>
+		</creature>
+		<creature>
+			<code>6304</code>
+			<area code="1004">엘리시움</area>
+			<name>시빌레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1738|2063</realcoord>
+			<mapcoord>640|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;전함 승무원&gt;항구천족 전함의 승무원. 전함의 수리를 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>5601</code>
+			<area code="1004">엘리시움</area>
+			<name>아누시스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1845|1556</realcoord>
+			<mapcoord>326|410</mapcoord>
+			<aggressive>0</aggressive>
+			<description>늙어서 각성한 엘리시움의 명장. 전설 속의 명검이라면 모두 알고 있으며 명인의 전당에 가면 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>5596</code>
+			<area code="1004">엘리시움</area>
+			<name>아렌제스</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1366|1373</realcoord>
+			<mapcoord>212|113</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>2912</code>
+			<area code="1004">엘리시움</area>
+			<name>아르키니아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성의복판매상</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1955|1569</realcoord>
+			<mapcoord>334|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 고급 의상점에 기거하는 신성의복 판매상. 포에타에서 물품 상인을 하였고, 엘리시움에 오고부터는 베네스가 만든 고급 의상을 판매하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2913</code>
+			<area code="1004">엘리시움</area>
+			<name>아리온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1666|1358</realcoord>
+			<mapcoord>202|299</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 공중 운하에서 만날 수 있는 예언의 데바. 비 오는 날 번개를 맞고 예언 능력을 가지게 되었다. 번개가 칠 때마다 예지력이 상승하는데, 궂은 날을 기다리며 시를 읊기도 한다.</description>
+		</creature>
+		<creature>
+			<code>6307</code>
+			<area code="1004">엘리시움</area>
+			<name>아미스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1567|1432</realcoord>
+			<mapcoord>248|237</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 천인 대광장 동편에 있는 펫 분양사. 펫 알을 가져가면 분양 받을 수 있다.</description>
+		</creature>
+		<creature>
+			<code>2914</code>
+			<area code="1004">엘리시움</area>
+			<name>아브루스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1812|1550</realcoord>
+			<mapcoord>322|389</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 수호자의 전당과 공중 운하 사이를 순찰하는 가디언 신전기사. 원래 도적이었다가 엘리시움에 붙잡혀 개과천선한 이후 데바로 각성했다는 소문이 있으나 확실치는 않다.</description>
+		</creature>
+		<creature>
+			<code>6314</code>
+			<area code="1004">엘리시움</area>
+			<name>아비두스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1843|1492</realcoord>
+			<mapcoord>286|409</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2915</code>
+			<area code="1004">엘리시움</area>
+			<name>아유린린</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1847|1521</realcoord>
+			<mapcoord>304|411</mapcoord>
+			<aggressive>0</aggressive>
+			<description>티그라키 공방원으로 엘리시움에 있는 명인의 전당에서 달인을 상대로 장사를 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2916</code>
+			<area code="1004">엘리시움</area>
+			<name>아이트라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1387|1691</realcoord>
+			<mapcoord>410|125</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 대성소에 있는 신관. 신앙심이 지나치다는 평을 듣고 있다.</description>
+		</creature>
+		<creature>
+			<code>2917</code>
+			<area code="1004">엘리시움</area>
+			<name>아케리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1663|1450</realcoord>
+			<mapcoord>260|297</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 빛의 분수 입구에 서 있는 변신술 수련자. 변신술의 대가가 되고 싶어 하며, 오드의 힘을 사용할 줄 아는 데바들에게 이런 저런 재주를 배우고 있다.</description>
+		</creature>
+		<creature>
+			<code>2918</code>
+			<area code="1004">엘리시움</area>
+			<name>아키멤논</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1649|1507</realcoord>
+			<mapcoord>295|289</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장과 공중 운하 사이를 순찰하는 가디언 신전기사. 엘리시움에서 근무하게 된 것을 영광으로 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2919</code>
+			<area code="1004">엘리시움</area>
+			<name>아티아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1893|1603</realcoord>
+			<mapcoord>355|440</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움을 지키는 가디언. 신성의 거리를 순찰하고 있다. 명성있는 데바들을 시기하며, 근거도 없이 잘난척이 심하다.</description>
+		</creature>
+		<creature>
+			<code>2920</code>
+			<area code="1004">엘리시움</area>
+			<name>아티푸레</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1828|2191</realcoord>
+			<mapcoord>720|399</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2921</code>
+			<area code="1004">엘리시움</area>
+			<name>악투스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1914|1629</realcoord>
+			<mapcoord>371|453</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 연회장의 종업원. 맛있는 음식을 구입할 수 있다.</description>
+		</creature>
+		<creature>
+			<code>5611</code>
+			<area code="1004">엘리시움</area>
+			<name>안드레아스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>감정표현의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1811|2133</realcoord>
+			<mapcoord>684|389</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 있는 감정 표현의 스승.</description>
+		</creature>
+		<creature>
+			<code>2922</code>
+			<area code="1004">엘리시움</area>
+			<name>안테로스</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>무기제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1850|1569</realcoord>
+			<mapcoord>333|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당내에 기거하는 무기 제작 명인. 요즘 젊은 데바는 끈기가 없어서 무기 제작을 쉽게 포기한다며 매우 못마땅해하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2923</code>
+			<area code="1004">엘리시움</area>
+			<name>알케스티스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1930|1428</realcoord>
+			<mapcoord>246|463</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에서 만날 수 있는 데바. 먹고 마시고 자고 하는 모든 일들을 가능한 한 최소로 하는 것이 미덕이라고 믿는다.</description>
+		</creature>
+		<creature>
+			<code>2924</code>
+			<area code="1004">엘리시움</area>
+			<name>알크메네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1887|1519</realcoord>
+			<mapcoord>302|436</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 명인의 전당에 있는 우울의 데바.</description>
+		</creature>
+		<creature>
+			<code>5595</code>
+			<area code="1004">엘리시움</area>
+			<name>알키오네</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급방어구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1878|1538</realcoord>
+			<mapcoord>314|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2925</code>
+			<area code="1004">엘리시움</area>
+			<name>암포롱</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1653|1508</realcoord>
+			<mapcoord>296|291</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 공중 운하에 있는 여객선 선착장에서 일하는 슈고.</description>
+		</creature>
+		<creature>
+			<code>6319</code>
+			<area code="1004">엘리시움</area>
+			<name>앙듀</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1623|1557</realcoord>
+			<mapcoord>326|272</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명품관에 있는 의상 예술의 데바. 아름다운 외모로 유명하다.</description>
+		</creature>
+		<creature>
+			<code>5617</code>
+			<area code="1004">엘리시움</area>
+			<name>앙파링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1426|1402</realcoord>
+			<mapcoord>230|150</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판매대행인. 엘리시움 풍요의 전당에 있다. 타래링과 똑같은 녀석이다.</description>
+		</creature>
+		<creature>
+			<code>2926</code>
+			<area code="1004">엘리시움</area>
+			<name>야오룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1891|1755</realcoord>
+			<mapcoord>449|439</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은구름무역단의 슈고 일꾼. 엘리시움의 선착장에서 일하고 있다. 야무지다.</description>
+		</creature>
+		<creature>
+			<code>2927</code>
+			<area code="1004">엘리시움</area>
+			<name>에르도스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1576|1547</realcoord>
+			<mapcoord>320|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 은신술 수련자. 전투에 능한 데바로서 가디언 직책을 여러 번 권유 받았으나, 엉뚱하게도 은신술에만 몰두하고 있다. 또한 오가다 만난 인간들과 허물 없이 친해져 엘리시움에 데리고 오기로 유명하다.</description>
+		</creature>
+		<creature>
+			<code>2928</code>
+			<area code="1004">엘리시움</area>
+			<name>에리스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1919|1512</realcoord>
+			<mapcoord>298|456</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 신성의 거리에 있는 불화의 데바. 싸움을 부추기는 것을 즐긴다.</description>
+		</creature>
+		<creature>
+			<code>2929</code>
+			<area code="1004">엘리시움</area>
+			<name>에리키나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1572|1511</realcoord>
+			<mapcoord>298|240</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 궤변가. 우연한 계기로 에르도스와 친해져 엘리시움에 오게 되었다. 괴상하고 능청맞다.</description>
+		</creature>
+		<creature>
+			<code>2930</code>
+			<area code="1004">엘리시움</area>
+			<name>에미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1939|1724</realcoord>
+			<mapcoord>430|468</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 시민. 엘리시움의 선착장에 가면 만날 수 있다. 보기 드물게 슈고들과 친하게 지내는 인간이다.</description>
+		</creature>
+		<creature>
+			<code>2931</code>
+			<area code="1004">엘리시움</area>
+			<name>에베스티나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1614|1559</realcoord>
+			<mapcoord>328|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길에서 방어구를 파는 상인. 일처리에 능한 점을 인정 받아 엘리시움에 고용된 인간 상인이다.</description>
+		</creature>
+		<creature>
+			<code>2932</code>
+			<area code="1004">엘리시움</area>
+			<name>에보나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1393|1408</realcoord>
+			<mapcoord>233|129</mapcoord>
+			<aggressive>0</aggressive>
+			<description>풍요의 데바. 엘리시움 풍요의 전당에 있다. 누구에게나 친절하고 따뜻하게 대한다.</description>
+		</creature>
+		<creature>
+			<code>5606</code>
+			<area code="1004">엘리시움</area>
+			<name>에우리피데스</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>성별변환의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1832|2207</realcoord>
+			<mapcoord>730|402</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2933</code>
+			<area code="1004">엘리시움</area>
+			<name>에우멜로스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>궁성과살성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1439|1684</realcoord>
+			<mapcoord>405|158</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 자유의 수호자. 궁성과 살성에세 스킬을 가르친다. 바이젤을 추종하고 있으며, 바이젤과의 대면을 꿈꾸고 있다.</description>
+		</creature>
+		<creature>
+			<code>2934</code>
+			<area code="1004">엘리시움</area>
+			<name>에우케노르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성무기의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1955|1485</realcoord>
+			<mapcoord>281|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 고급 무기 상점에 기거하는 고급 무기의 데바. 에스카의 친척으로 함께 일한 지는 오래되었다.</description>
+		</creature>
+		<creature>
+			<code>5613</code>
+			<area code="1004">엘리시움</area>
+			<name>에테스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급무기담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1870|1538</realcoord>
+			<mapcoord>314|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6308</code>
+			<area code="1004">엘리시움</area>
+			<name>에토니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1531|1528</realcoord>
+			<mapcoord>308|215</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;노래의 데바&gt;공연장 노래를 좋아하지만, 잘 부르지 못한다. 공연장의 분위기를 해치는 악한 존재. 대신관 누군가와 친밀한 관계이다. 추후, 헬리오스에 의해서 퀘스트로 비밀이 까발려진다.</description>
+		</creature>
+		<creature>
+			<code>2935</code>
+			<area code="1004">엘리시움</area>
+			<name>에페이오스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1466|1334</realcoord>
+			<mapcoord>188|175</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 결투의 전당 입구에 있는 투기장 관리인. 전투에는 경험이 중요하다고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2936</code>
+			<area code="1004">엘리시움</area>
+			<name>엘레페노르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>직업용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1474|1652</realcoord>
+			<mapcoord>385|180</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 직업용품상인. 맡은 일에 열심이다.</description>
+		</creature>
+		<creature>
+			<code>5616</code>
+			<area code="1004">엘리시움</area>
+			<name>오키르호이</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>전투계열스티그마담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1872|1542</realcoord>
+			<mapcoord>317|427</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5615</code>
+			<area code="1004">엘리시움</area>
+			<name>오페이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1839|2189</realcoord>
+			<mapcoord>719|406</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6311</code>
+			<area code="1004">엘리시움</area>
+			<name>우노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1561|1429</realcoord>
+			<mapcoord>247|234</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 천인 대광장 동편에 있는 펫 판매 상인. 우노스에게서 산 펫 알은 분양사에게 부화하여 기를 수 있다.</description>
+		</creature>
+		<creature>
+			<code>2937</code>
+			<area code="1004">엘리시움</area>
+			<name>우티스다</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>세공명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1887|1453</realcoord>
+			<mapcoord>262|436</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 기거하며 데바들의 장신구 제작을 담당하는 세공 명인. 세공에는 뭐니뭐니해도 예술적 감각이 중요하다고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2938</code>
+			<area code="1004">엘리시움</area>
+			<name>울라구루</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1980|1757</realcoord>
+			<mapcoord>451|494</mapcoord>
+			<aggressive>0</aggressive>
+			<description>크랄 연구가인 마메이아에게 사로잡힌 크랄. 엘리시움의 선착장에 있다.</description>
+		</creature>
+		<creature>
+			<code>2939</code>
+			<area code="1004">엘리시움</area>
+			<name>울베르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1399|1512</realcoord>
+			<mapcoord>298|133</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길을 지키는 가디언. 어비스에서 많은 일을 겪었다.</description>
+		</creature>
+		<creature>
+			<code>2940</code>
+			<area code="1004">엘리시움</area>
+			<name>유네스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>염색기술의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1945|1578</realcoord>
+			<mapcoord>339|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 고급 의상점에 기거하는 염색기술의 데바. 색채에는 저마다 신비로운 힘이 있다고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2941</code>
+			<area code="1004">엘리시움</area>
+			<name>유디시나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>개조소모품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1620|1501</realcoord>
+			<mapcoord>292|270</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장 근처에 있는 상점에 있다. 개조 소모품 상인. 고향 마을에서부터 데바들에게 아첨하다가, 결국 다이로스의 눈에 들어 엘리시움에 오게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2942</code>
+			<area code="1004">엘리시움</area>
+			<name>유벤투스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>궁성과살성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1857|1519</realcoord>
+			<mapcoord>303|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 수호자의 전당에 있는 궁성과 살성의 스승.  독 연구에 관한 한 엘리시움에서 그를 따를 자가 없다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2943</code>
+			<area code="1004">엘리시움</area>
+			<name>유클레아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1391|1693</realcoord>
+			<mapcoord>411|128</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 대성소에 있는 대신관. 주신들은 엘리시움의 성소에 믿을만 한 자를 두고자 했는데, 매사 말이 없는 자가 믿을만 한 자라 하여 조용하고 과묵한 유클레아스를 대신관 자리에 앉혔다.</description>
+		</creature>
+		<creature>
+			<code>2944</code>
+			<area code="1004">엘리시움</area>
+			<name>이도메네우스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>날개상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1738|1513</realcoord>
+			<mapcoord>299|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>날개 강화를 돕는 사제이자 스승.</description>
+		</creature>
+		<creature>
+			<code>2945</code>
+			<area code="1004">엘리시움</area>
+			<name>이아나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1811|2077</realcoord>
+			<mapcoord>649|389</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 서 있는 가디언. 현명하고 지혜롭다.</description>
+		</creature>
+		<creature>
+			<code>2946</code>
+			<area code="1004">엘리시움</area>
+			<name>이에몽</name>
+			<type>NPC</type>
+			<mclass>큐브공방</mclass>
+			<sclass>챈가룽큐브공방장인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1404|1438</realcoord>
+			<mapcoord>252|136</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 큐브공방 장인. 히이룽과 경쟁하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2947</code>
+			<area code="1004">엘리시움</area>
+			<name>이오카스테</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>무기담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1870|1534</realcoord>
+			<mapcoord>312|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description>어비스 방어구 상인. 엘리시움의 수호자의 전당의 서쪽 방에 있다.</description>
+		</creature>
+		<creature>
+			<code>2948</code>
+			<area code="1004">엘리시움</area>
+			<name>이케아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1358|1512</realcoord>
+			<mapcoord>298|108</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길을 지키는 가디언. 출세 지향적인 인물이다.</description>
+		</creature>
+		<creature>
+			<code>2949</code>
+			<area code="1004">엘리시움</area>
+			<name>이피키오</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2058|1493</realcoord>
+			<mapcoord>286|542</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 현자의 서고 2층 비밀 서고에서 연구하는 학자. 비밀 서고 출입을 허가받은 지 얼마 안 돼서 식음을 전폐하고 연구에 몰두하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2950</code>
+			<area code="1004">엘리시움</area>
+			<name>자이누스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1490|1664</realcoord>
+			<mapcoord>393|190</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 대성소에 있는 영혼치유의 스승. 마계에서 정보원 노릇을 하고 있는 메데아의 연인이다.</description>
+		</creature>
+		<creature>
+			<code>2951</code>
+			<area code="1004">엘리시움</area>
+			<name>자케론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1909|1507</realcoord>
+			<mapcoord>295|450</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 남쪽 입구를 지킨다. 매사 확신에 차 있는 단순한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>6317</code>
+			<area code="1004">엘리시움</area>
+			<name>쟈이룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1945|1492</realcoord>
+			<mapcoord>286|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6316</code>
+			<area code="1004">엘리시움</area>
+			<name>쟈이링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1944|1549</realcoord>
+			<mapcoord>321|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6322</code>
+			<area code="1004">엘리시움</area>
+			<name>쟈이칭</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1945|1549</realcoord>
+			<mapcoord>321|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2953</code>
+			<area code="1004">엘리시움</area>
+			<name>주미아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1875|1595</realcoord>
+			<mapcoord>350|429</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 거주하는 가디언으로 명인의 전당 동쪽 입구를 지킨다. 아카리오스 마을에서 농사를 짓던 사람으로 숲에서 변이 생명체와 맞닥뜨려 위기에 처한 중에 데바로 각성했다고 한다.</description>
+		</creature>
+		<creature>
+			<code>9416</code>
+			<area code="1004">엘리시움</area>
+			<name>차오킨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1865|2055</realcoord>
+			<mapcoord>635|422</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 슈라크 상인. 용계에서 검은구름 무역단으로 망명했다.</description>
+		</creature>
+		<creature>
+			<code>2954</code>
+			<area code="1004">엘리시움</area>
+			<name>치우링</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>세공상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1892|1453</realcoord>
+			<mapcoord>261|439</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에 기거하는 세공 상인. 키나 버는 일이 마냥 즐거운 전형적인 슈고족.</description>
+		</creature>
+		<creature>
+			<code>2955</code>
+			<area code="1004">엘리시움</area>
+			<name>카드모스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1801|2118</realcoord>
+			<mapcoord>675|383</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 근위병. 말만 번지르르하다.</description>
+		</creature>
+		<creature>
+			<code>2956</code>
+			<area code="1004">엘리시움</area>
+			<name>카락스</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1620|1522</realcoord>
+			<mapcoord>304|270</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길에 있으며, 무기나 방어구에 부여한 마법을 제거해 준다. 소탈한 성격이라는 평을 받고 있다.</description>
+		</creature>
+		<creature>
+			<code>2957</code>
+			<area code="1004">엘리시움</area>
+			<name>카론</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>직업용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1879|1497</realcoord>
+			<mapcoord>289|431</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 수호자의 전당에 있는 직업용품 상인. 능청맞다.</description>
+		</creature>
+		<creature>
+			<code>2958</code>
+			<area code="1004">엘리시움</area>
+			<name>카즈몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1732|2093</realcoord>
+			<mapcoord>659|340</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 무역단 일꾼. 본래 마계에서 장사를 하던 슈고로, 절세미인인 부인을 남겨 두고 천계로 넘어왔다.</description>
+		</creature>
+		<creature>
+			<code>2959</code>
+			<area code="1004">엘리시움</area>
+			<name>코디나우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1861|2090</realcoord>
+			<mapcoord>657|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 서 있는 가디언. 불의를 보면 참지 못하는 화통한 성격이다. 마라의 오빠.</description>
+		</creature>
+		<creature>
+			<code>5602</code>
+			<area code="1004">엘리시움</area>
+			<name>코루칭</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1751|2120</realcoord>
+			<mapcoord>676|351</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 사절. 막중한 책임감 때문에 예민해져 있다.</description>
+		</creature>
+		<creature>
+			<code>6321</code>
+			<area code="1004">엘리시움</area>
+			<name>코우티에</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1607|1548</realcoord>
+			<mapcoord>321|262</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관럭셔리 의상 판매원. 자신의 외모가 누구보다도 우월하다고 생각한다. 앙듀의 모델이 되고 싶어한다.</description>
+		</creature>
+		<creature>
+			<code>2960</code>
+			<area code="1004">엘리시움</area>
+			<name>코이오스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2041|1496</realcoord>
+			<mapcoord>288|532</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 현자의 서고에 있는 무기 전문가. 무기에 대해서라면 모르는 것이 없다.</description>
+		</creature>
+		<creature>
+			<code>2961</code>
+			<area code="1004">엘리시움</area>
+			<name>콤파이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1483|1512</realcoord>
+			<mapcoord>298|185</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장 한가운데에 있는 공보관. 몸집만큼 목소리도 크고 우렁차다.</description>
+		</creature>
+		<creature>
+			<code>5600</code>
+			<area code="1004">엘리시움</area>
+			<name>쿠루밍</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1857|2068</realcoord>
+			<mapcoord>644|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 사절. 슈라크를 매우 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>6305</code>
+			<area code="1004">엘리시움</area>
+			<name>쿠리오</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1621|1530</realcoord>
+			<mapcoord>309|271</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2962</code>
+			<area code="1004">엘리시움</area>
+			<name>쿰넨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1573|1372</realcoord>
+			<mapcoord>211|241</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 광대. 익살스럽다. 푸스페네가 엘리시움에 오면서 따라온 패거리 중 한 명.</description>
+		</creature>
+		<creature>
+			<code>2963</code>
+			<area code="1004">엘리시움</area>
+			<name>퀸투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1869|1624</realcoord>
+			<mapcoord>368|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 신성의 거리에 있는 가디언. 인간일 때 잠시 불온한 인본주의에 빠져 있었다는 설이 있는데, 그런 배경때문인지 각성한 이후에 인간들을 위해 많은 일을 하는 데바로 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>2964</code>
+			<area code="1004">엘리시움</area>
+			<name>크레온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1663|1367</realcoord>
+			<mapcoord>208|297</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 빛의 분수에 있는 음유시인. 경치가 아름답다는 이유만으로 엘리시움에 와서 살고 있다. 시인으로서 자긍심이 높기 때문에 미케로를 가벼운 시인이라고 생각하여 괄시한다.</description>
+		</creature>
+		<creature>
+			<code>5609</code>
+			<area code="1004">엘리시움</area>
+			<name>크레우사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2046|1450</realcoord>
+			<mapcoord>260|535</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 현자의 서고에 있는 용족 연구가. 현자의 서고 2층에 있는 비밀 서고 안에 있다.</description>
+		</creature>
+		<creature>
+			<code>2965</code>
+			<area code="1004">엘리시움</area>
+			<name>크세노폰</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2047|1484</realcoord>
+			<mapcoord>281|536</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 현자의 서고에서 연구하는 군사 전문가. 뛰어난 지략가로 엘리시움에서 그의 소문을 듣고 삼고초려하여 전략가로 모시게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2966</code>
+			<area code="1004">엘리시움</area>
+			<name>큰배룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1968|1768:1819|2192</realcoord>
+			<mapcoord>457|486:721|394</mapcoord>
+			<aggressive>0</aggressive>
+			<description>슈고족인 조선소 사장. 낮에는 엘리시움 템페스트 조선소에 있고 밤에는 근처의 주점 디오니시아에 있다.</description>
+		</creature>
+		<creature>
+			<code>2967</code>
+			<area code="1004">엘리시움</area>
+			<name>클리메네</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>스티그마조율사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1871|1482</realcoord>
+			<mapcoord>279|426</mapcoord>
+			<aggressive>0</aggressive>
+			<description>스티그마 결정을 파는 상인. 엘리시움의 수호자의 전당의 동쪽 방에 있다.</description>
+		</creature>
+		<creature>
+			<code>2968</code>
+			<area code="1004">엘리시움</area>
+			<name>키이룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1804|2115</realcoord>
+			<mapcoord>673|385</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름무역단 소속 슈고족. 장사에 천부적인 재능이 있다.</description>
+		</creature>
+		<creature>
+			<code>5605</code>
+			<area code="1004">엘리시움</area>
+			<name>킨티아</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1350|1408</realcoord>
+			<mapcoord>234|103</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>2969</code>
+			<area code="1004">엘리시움</area>
+			<name>타래링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1424|1395</realcoord>
+			<mapcoord>225|148</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당에 있는 거래중계인. 특별히 잘 해준다고 노상 말하지만 받을 건 다 받는 것 같다.</description>
+		</creature>
+		<creature>
+			<code>6325</code>
+			<area code="1004">엘리시움</area>
+			<name>타키투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1888|1499</realcoord>
+			<mapcoord>290|437</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2970</code>
+			<area code="1004">엘리시움</area>
+			<name>테르시테스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1755|1402</realcoord>
+			<mapcoord>230|354</mapcoord>
+			<aggressive>0</aggressive>
+			<description>배반의 데바. 엘리시움의 신성의 거리와 공중 정원 사이의 공중 다리를 거닐고 있다. 천성이 바람둥이로, 부적절한 행실이 상부에 발각돼 가디언에서 쫓겨났다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2971</code>
+			<area code="1004">엘리시움</area>
+			<name>테르쿠스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1472|1363</realcoord>
+			<mapcoord>206|178</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 결투의 전당 입구를 지키고 있는 검투사로 저돌적이다.</description>
+		</creature>
+		<creature>
+			<code>2972</code>
+			<area code="1004">엘리시움</area>
+			<name>텔레모스</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1472|1596</realcoord>
+			<mapcoord>351|178</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 대성소 입구에 서 있는 영혼치유사. 주어진 일만 열심히 한다.</description>
+		</creature>
+		<creature>
+			<code>5612</code>
+			<area code="1004">엘리시움</area>
+			<name>텔레포스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>마법계열스티그마담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1875|1542</realcoord>
+			<mapcoord>317|429</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2973</code>
+			<area code="1004">엘리시움</area>
+			<name>토리룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1886|1752</realcoord>
+			<mapcoord>447|436</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은구름무역단의 슈고 일꾼. 엘리시움의 선착장에서 일하고 있다. 목재를 팔아 엘리시움에 자기 이름을 건 상점을 내는 것이 꿈이다.</description>
+		</creature>
+		<creature>
+			<code>2974</code>
+			<area code="1004">엘리시움</area>
+			<name>투노토스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1612|1462</realcoord>
+			<mapcoord>267|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길에서 무기를 파는 상인. 타고난 아첨쟁이다.</description>
+		</creature>
+		<creature>
+			<code>2975</code>
+			<area code="1004">엘리시움</area>
+			<name>투레스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1830|2190</realcoord>
+			<mapcoord>719|401</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2976</code>
+			<area code="1004">엘리시움</area>
+			<name>트라시메데스</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>치유성과호법성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1880|1515</realcoord>
+			<mapcoord>300|432</mapcoord>
+			<aggressive>0</aggressive>
+			<description>치유성과 호법성의 스승. 엘리시움의 수호자의 전당에 있다.</description>
+		</creature>
+		<creature>
+			<code>6313</code>
+			<area code="1004">엘리시움</area>
+			<name>티가레스</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>치장의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1951|1560</realcoord>
+			<mapcoord>328|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미스폰</description>
+		</creature>
+		<creature>
+			<code>2977</code>
+			<area code="1004">엘리시움</area>
+			<name>티케론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1954|1786</realcoord>
+			<mapcoord>468|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 선착장을 지키는 수호기사.</description>
+		</creature>
+		<creature>
+			<code>2978</code>
+			<area code="1004">엘리시움</area>
+			<name>파시메데스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1876|1511</realcoord>
+			<mapcoord>298|429</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 총사령관. 엘리시움의 수호자의 전당에 있다.</description>
+		</creature>
+		<creature>
+			<code>2979</code>
+			<area code="1004">엘리시움</area>
+			<name>파오룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1848|2189</realcoord>
+			<mapcoord>719|412</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항의 주점 디오니시아에 있는 슈고족 만담꾼. 비난과 칭찬에 예민하고 소심하다. 사람들이 자신의 만담을 칭찬해 줄 때 그는 비로소 자아를 찾은 것 같다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2980</code>
+			<area code="1004">엘리시움</area>
+			<name>파우톤</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>레기온창고관리인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1319|1405</realcoord>
+			<mapcoord>232|83</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 풍요의 전당 가장 안쪽 방에 있는 레기온 창고관리인. 길드 마스터들의 추천에 의해 가장 믿음직한 인간으로 선정되어 창고를 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>6312</code>
+			<area code="1004">엘리시움</area>
+			<name>팔렌티네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1618|1468</realcoord>
+			<mapcoord>271|269</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명품관에 있는 의상 예술의 데바. 어린 나이에 각성했지만 딱 부러지는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>6320</code>
+			<area code="1004">엘리시움</area>
+			<name>페르사테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1603|1477</realcoord>
+			<mapcoord>276|260</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관로리타 의상 판매원.</description>
+		</creature>
+		<creature>
+			<code>2981</code>
+			<area code="1004">엘리시움</area>
+			<name>페리클레스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1437|1645</realcoord>
+			<mapcoord>381|156</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 통찰의 데바.</description>
+		</creature>
+		<creature>
+			<code>2982</code>
+			<area code="1004">엘리시움</area>
+			<name>페이슝</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1741|2073</realcoord>
+			<mapcoord>647|345</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 슈고족. 엘리시움에 온지 얼마 되지 않아서 높은 곳을 무서워한다.</description>
+		</creature>
+		<creature>
+			<code>5594</code>
+			<area code="1004">엘리시움</area>
+			<name>페페린린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1856|2067</realcoord>
+			<mapcoord>643|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 사절 슈고. 외모가 뛰어나 슈고들의 시선을 독차지하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2983</code>
+			<area code="1004">엘리시움</area>
+			<name>포이베</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1877|1494</realcoord>
+			<mapcoord>287|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 수호자의 전당에 있는 행정관.</description>
+		</creature>
+		<creature>
+			<code>2984</code>
+			<area code="1004">엘리시움</area>
+			<name>포카스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1660|1503</realcoord>
+			<mapcoord>292|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description>공중 운하 선착장의 선착장 관리인. 선착장에서 드나드는 물건을 모두 관리한다.</description>
+		</creature>
+		<creature>
+			<code>2985</code>
+			<area code="1004">엘리시움</area>
+			<name>폴리이두스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1333|1512</realcoord>
+			<mapcoord>298|92</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 영광의 길에 있는 공간 이동사. 꼼꼼하다.</description>
+		</creature>
+		<creature>
+			<code>2986</code>
+			<area code="1004">엘리시움</area>
+			<name>푸스페네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1577|1378</realcoord>
+			<mapcoord>215|244</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 광대. 포에타 곳곳을 돌며 광대 놀음을 하던 중 에르도스와 친해져 엘리시움에 오게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2987</code>
+			<area code="1004">엘리시움</area>
+			<name>푸이링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1883|1454</realcoord>
+			<mapcoord>262|434</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에서 우티스다의 일을 돕는 일꾼 슈고. 평소엔 상냥한 얼굴을 하고 있지만, 가끔 데바들을 무섭게 노려보곤 한다는 목격담이 있다.</description>
+		</creature>
+		<creature>
+			<code>2988</code>
+			<area code="1004">엘리시움</area>
+			<name>풀로</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방패상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1519|1426</realcoord>
+			<mapcoord>245|207</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 방패 상인. 강직하고 의로운 성격. 고향 마을에서 세르빌리아의 시종이었으나, 이런 저런 여정 끝에 엘리시움에서 평등한 관계로 만나게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2989</code>
+			<area code="1004">엘리시움</area>
+			<name>퓌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1822|2194</realcoord>
+			<mapcoord>722|396</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 시민. 엘리시움 외항에 있는 주점 디오니시아에 있다. 동네의 밉쌍 아이로 소문났지만 자기 자신은 그렇다는 것을 깨닫지 못하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2990</code>
+			<area code="1004">엘리시움</area>
+			<name>프로세르피나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>천갑옷제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1890|1538</realcoord>
+			<mapcoord>314|438</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에서 다프니스를 도와 장사를 하는 재봉 상인. 좋은 재료를 골고루 갖춰 놓았다.</description>
+		</creature>
+		<creature>
+			<code>2991</code>
+			<area code="1004">엘리시움</area>
+			<name>프헤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1803|1436</realcoord>
+			<mapcoord>251|384</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 공중운하에서 미술 공부를 하는 미르틸의 조수. 미르틸에 대한 존경심이 대단하다.</description>
+		</creature>
+		<creature>
+			<code>6315</code>
+			<area code="1004">엘리시움</area>
+			<name>플로라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1435|1503</realcoord>
+			<mapcoord>293|156</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움에 있는 점성술사. 신통하기로 소문이 자자하다.</description>
+		</creature>
+		<creature>
+			<code>2992</code>
+			<area code="1004">엘리시움</area>
+			<name>하이몬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1964|1786</realcoord>
+			<mapcoord>468|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 선착장의 작업 감독관. 지상에서 엘리시움으로 많은 물건들이 오가는 와중에 위험한 물건이나, 불경한 물건이 있는 것을 몇 번 잡아낸 후 데바들의 신임을 얻어 감독관으로 임명 되었다.</description>
+		</creature>
+		<creature>
+			<code>2993</code>
+			<area code="1004">엘리시움</area>
+			<name>헤베</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1905|1630</realcoord>
+			<mapcoord>372|447</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 연회장에 있는 연회의 데바. 데바의 본분을 게을리하고 흥청망청 놀다가, 연회를 담당하게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2994</code>
+			<area code="1004">엘리시움</area>
+			<name>헤스티아</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>요리명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1848|1544</realcoord>
+			<mapcoord>318|412</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당 내에 기거하는 요리 명인. 그가 만든 요리는 주신들을 위한 엘리시움의 천수 품목에서 빠지지 않는다.</description>
+		</creature>
+		<creature>
+			<code>2995</code>
+			<area code="1004">엘리시움</area>
+			<name>헤시오네</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성갑주의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1954|1541</realcoord>
+			<mapcoord>316|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 신성의 거리에 있는 고급 방어구 상점에 기거하는 고급 갑주의 데바. 과거 불미스러운 일에 연루되었던 적이 있어 쉬쉬하고 지낸다.</description>
+		</creature>
+		<creature>
+			<code>2996</code>
+			<area code="1004">엘리시움</area>
+			<name>헤카테</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>마도성과정령성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1880|1507</realcoord>
+			<mapcoord>295|432</mapcoord>
+			<aggressive>0</aggressive>
+			<description>마도성과 정령성의 스승. 엘리시움의 수호자의 전당에 있다.</description>
+		</creature>
+		<creature>
+			<code>2997</code>
+			<area code="1004">엘리시움</area>
+			<name>히게아</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>치유성과호법성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1464|1666</realcoord>
+			<mapcoord>394|173</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 대성소에 있는 생명의 가디언. 치유성과 호법성에게 스킬을 가르친다.</description>
+		</creature>
+		<creature>
+			<code>2998</code>
+			<area code="1004">엘리시움</area>
+			<name>히메로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1732|1502</realcoord>
+			<mapcoord>292|340</mapcoord>
+			<aggressive>0</aggressive>
+			<description>천인 대광장 뒤쪽에 있는 천체본 앞에 서 있는 데바. 고향 마을에서 명망 높은 데바의 아들과 파문을 일으키고 도망치다가 데바로 각성. 현재는 과거를 뉘우치며 살고 있다.</description>
+		</creature>
+		<creature>
+			<code>2999</code>
+			<area code="1004">엘리시움</area>
+			<name>히메이라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1860|1500</realcoord>
+			<mapcoord>291|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 명인의 전당에서 만날 수 있는 데바. 특별히 임무를 발령 받지 않아 엘리시움을 배회하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3000</code>
+			<area code="1004">엘리시움</area>
+			<name>히무수스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1551|1423</realcoord>
+			<mapcoord>243|228</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움의 천인 대광장에 있는 잡화 상인. 엘리시움 건국시부터 잡화 상점에서 일하던 숙부의 일을 이어받아 내키지 않는 장사를 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5608</code>
+			<area code="1004">엘리시움</area>
+			<name>히카룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1870|2067</realcoord>
+			<mapcoord>643|425</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엘리시움 외항에 있는 검은구름 무역단 소속의 항해사. 강철갈퀴 호로 보내주는 역할을 한다.</description>
+		</creature>
+	</creatures>
+
+	<resources>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1004</code>
+			<name>엘리시움</name>
+			<mmap>1004_768m</mmap>
+			<smap>1004_768s</smap>
+		</area>
+	</areas>
+</resultdata>

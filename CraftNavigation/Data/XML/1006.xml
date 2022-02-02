@@ -1,0 +1,1269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1006" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>3618</code>
+			<area code="1006">이스할겐</area>
+			<name>가르하라</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>942|1707</realcoord>
+			<mapcoord>347|381</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 안투른 삼거리의 안투른 초소에서 일하는 순간 이동사. 오스마르의 제자이다.</description>
+		</creature>
+		<creature>
+			<code>3621</code>
+			<area code="1006">이스할겐</area>
+			<name>갈라르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>540|2552</realcoord>
+			<mapcoord>542|288</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미치광이. 모두가 죽을 것이라는 둥의 불길한 말을 한다.</description>
+		</creature>
+		<creature>
+			<code>3623</code>
+			<area code="1006">이스할겐</area>
+			<name>구르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>235|2700</realcoord>
+			<mapcoord>576|218</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 알데르 언덕에 있는 울고른 도적단. 나이는 많지만 [%username]보다 늦게 도적단에 합류했다. 고향에 남겨둔 가족 때문에 향수에 젖어 산다.</description>
+		</creature>
+		<creature>
+			<code>3624</code>
+			<area code="1006">이스할겐</area>
+			<name>구헤이툰</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>224|2680</realcoord>
+			<mapcoord>571|215</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단의 행동대장. 성격이 불같아서 두목보다 더욱 두려운 존재다.</description>
+		</creature>
+		<creature>
+			<code>3625</code>
+			<area code="1006">이스할겐</area>
+			<name>글리프코</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>537|2424</realcoord>
+			<mapcoord>513|287</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 안쪽을 순찰하는 도적단 일원. 한적한 마을 생활에 매우 만족하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3627</code>
+			<area code="1006">이스할겐</area>
+			<name>네기</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>506|2298</realcoord>
+			<mapcoord>483|280</mapcoord>
+			<aggressive>0</aggressive>
+			<description>네기의 나루터에서 낚시를 하는 낚시꾼. 도시의 서고에서 일하다 스스로 유폐된 섬으로 와서 살게 된 그는 시를 읊으며 시간을 보낸다.</description>
+		</creature>
+		<creature>
+			<code>3628</code>
+			<area code="1006">이스할겐</area>
+			<name>노베크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>490|2415</realcoord>
+			<mapcoord>510|277</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 서쪽 입구를 지키는 도적단 일원. 세상 물정을 잘 알고 잡학다식한 편이다.</description>
+		</creature>
+		<creature>
+			<code>3629</code>
+			<area code="1006">이스할겐</area>
+			<name>노스틀라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>729|1157</realcoord>
+			<mapcoord>220|332</mapcoord>
+			<aggressive>0</aggressive>
+			<description>두바로 덩굴협곡에서 오도가도 못하고 있는 도적단 일원. 란을 돌보느라 애를 먹고 있다.</description>
+		</creature>
+		<creature>
+			<code>3630</code>
+			<area code="1006">이스할겐</area>
+			<name>다비</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>856|2216</realcoord>
+			<mapcoord>464|361</mapcoord>
+			<aggressive>0</aggressive>
+			<description>수액 채취장에서 모트가르를 감시중인 도적단 일원. 고향 마을에서 사랑하는 연인이 데바로 각성하여 실연한 이후 도적단이 되어 마을을 떠났다.</description>
+		</creature>
+		<creature>
+			<code>3631</code>
+			<area code="1006">이스할겐</area>
+			<name>달로트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>618|2430</realcoord>
+			<mapcoord>514|306</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 방어구 상인. 울고른 도적단 방어구 매매 담당. 방어구를 다룰 줄 알아서 방어구를 만드는 일을 하고 있으나 본인은 하기 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>3632</code>
+			<area code="1006">이스할겐</area>
+			<name>덴마</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>933|1686</realcoord>
+			<mapcoord>342|379</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 안투른 삼거리의 안투른 초소에 있는 방어구 상인. 손재주가 좋다.</description>
+		</creature>
+		<creature>
+			<code>3633</code>
+			<area code="1006">이스할겐</area>
+			<name>도바르</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>620|2439</realcoord>
+			<mapcoord>516|307</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3640</code>
+			<area code="1006">이스할겐</area>
+			<name>둔둔족의 들통</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>535|1539:675|1439:458|1363:517|1427:498|1533:560|1533:510|1444:496|1328:522|1491:567|1435:631|1493:458|1423:632|1435:687|1523:660|1404:606|1447:712|1522:624|1520:615|1467:495|1418</realcoord>
+			<mapcoord>308|287:285|319:268|269:283|283:307|278:307|293:286|281:260|278:297|284:284|294:298|309:282|269:284|309:305|322:277|316:287|303:304|328:304|307:292|305:280|278</mapcoord>
+			<aggressive>0</aggressive>
+			<description>오델라 재배지 여기저기에 있는 항아리. 오델라 즙이 가득하다.</description>
+		</creature>
+		<creature>
+			<code>3641</code>
+			<area code="1006">이스할겐</area>
+			<name>듀에페네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>670|1725</realcoord>
+			<mapcoord>351|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 수용소의 입구를 지키는 도적단 일원. 단장의 다리가 아픈 것을 혼자 알며 치료약을 구하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3642</code>
+			<area code="1006">이스할겐</area>
+			<name>드발린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>925|1564</realcoord>
+			<mapcoord>314|377</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알프리그와 오델라 재배지로 가는 길목에 서 있는 도적단원. 술을 무척 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>3643</code>
+			<area code="1006">이스할겐</area>
+			<name>떠벌이 앙무</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>939|2300</realcoord>
+			<mapcoord>484|380</mapcoord>
+			<aggressive>0</aggressive>
+			<description>점쟁이 할멈이 키우는 앵무새.</description>
+		</creature>
+		<creature>
+			<code>3644</code>
+			<area code="1006">이스할겐</area>
+			<name>라오룬</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>611|2418</realcoord>
+			<mapcoord>511|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 잡화 상인. 바코룽의 동생.</description>
+		</creature>
+		<creature>
+			<code>3645</code>
+			<area code="1006">이스할겐</area>
+			<name>란</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>648|921</realcoord>
+			<mapcoord>166|313</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단장의 말괄량이 딸. 도적이 되고 싶어하나 울고른의 반대가 심해서 자기 능력을 증명해 보인다며 사고를 치고 다닌다.</description>
+		</creature>
+		<creature>
+			<code>3646</code>
+			<area code="1006">이스할겐</area>
+			<name>루살카</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>935|1705</realcoord>
+			<mapcoord>347|379</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3647</code>
+			<area code="1006">이스할겐</area>
+			<name>리네비르</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>585|2467</realcoord>
+			<mapcoord>522|299</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 영혼 치유사.</description>
+		</creature>
+		<creature>
+			<code>3648</code>
+			<area code="1006">이스할겐</area>
+			<name>리둔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>936|1682</realcoord>
+			<mapcoord>341|379</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 안투른 삼거리의 안투른 초소에서 망을 보고 있는 도둑단원. 항상 잔머리를 굴리며 부수입거리를 찾는다.</description>
+		</creature>
+		<creature>
+			<code>3649</code>
+			<area code="1006">이스할겐</area>
+			<name>메긴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>582|2519</realcoord>
+			<mapcoord>534|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 알데르 마을 동쪽 입구를 지키는 도적단원.</description>
+		</creature>
+		<creature>
+			<code>3650</code>
+			<area code="1006">이스할겐</area>
+			<name>메튜의 알</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>684|1496</realcoord>
+			<mapcoord>298|321</mapcoord>
+			<aggressive>0</aggressive>
+			<description>오델라 재배지에서 둔둔 보초가 키우는 메튜의 알. 고소한 맛이 일품이다.</description>
+		</creature>
+		<creature>
+			<code>3651</code>
+			<area code="1006">이스할겐</area>
+			<name>모트가르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>853|2225</realcoord>
+			<mapcoord>467|360</mapcoord>
+			<aggressive>0</aggressive>
+			<description>수액 채취장에서 노역중인 포로. 천성이 한량이라 매일 농땡이만 피운다.</description>
+		</creature>
+		<creature>
+			<code>3652</code>
+			<area code="1006">이스할겐</area>
+			<name>무닌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>379|1895</realcoord>
+			<mapcoord>391|251</mapcoord>
+			<aggressive>0</aggressive>
+			<description>잊혀진 유배지의 크리스털 안에 갇힌 예언의 능력이 있는 데바. 헛소문으로 판데모니움에 분란을 일으킨다는 죄목으로 유배되었다.</description>
+		</creature>
+		<creature>
+			<code>3653</code>
+			<area code="1006">이스할겐</area>
+			<name>미누</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>전사교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>607|2460</realcoord>
+			<mapcoord>521|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단의 전사 교관. 이스할겐의 알데르 마을에 있다.</description>
+		</creature>
+		<creature>
+			<code>3654</code>
+			<area code="1006">이스할겐</area>
+			<name>미요우</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>946|1703</realcoord>
+			<mapcoord>346|382</mapcoord>
+			<aggressive>0</aggressive>
+			<description>안투른 초소에서 망을 보고 있는 도둑단 단원. 다른 도적단원들의 실력을 깔보고 자기의 실력에 자부심이 있다. 재물에는 별 관심이 없다.</description>
+		</creature>
+		<creature>
+			<code>3655</code>
+			<area code="1006">이스할겐</area>
+			<name>바나르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>220|2679</realcoord>
+			<mapcoord>571|214</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 알데르 언덕에 있는 울고른 도적단. 글 솜씨가 좋아서 지령서를 작성하는 일을 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>3656</code>
+			<area code="1006">이스할겐</area>
+			<name>바코룽</name>
+			<type>NPC</type>
+			<mclass>큐브공방</mclass>
+			<sclass>큐브공방장인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>617|2422</realcoord>
+			<mapcoord>512|306</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 큐브 제작자. 큐브 제작 솜씨가 꽤 뛰어나다. 라오룬의 형.</description>
+		</creature>
+		<creature>
+			<code>3657</code>
+			<area code="1006">이스할겐</area>
+			<name>반다른트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>527|2776</realcoord>
+			<mapcoord>594|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 알데르 언덕에 있는 울고른 도적단. 스프리그를 약탈하고 있다. 명령을 매우 중시한다.</description>
+		</creature>
+		<creature>
+			<code>3658</code>
+			<area code="1006">이스할겐</area>
+			<name>보로메르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>538|2419</realcoord>
+			<mapcoord>511|288</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 서쪽 입구를 지키는 도적단 일원. 모나지 않은 성격이나 남의 걸 훔치는 일을 당연하게 생각한다.</description>
+		</creature>
+		<creature>
+			<code>3659</code>
+			<area code="1006">이스할겐</area>
+			<name>보석 상자</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1082|1603</realcoord>
+			<mapcoord>323|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>까맣고 맨질맨질한 소재로 깎아서 만든 것처럼 보이는 보석 상자다. 사치품으로 보인다.</description>
+		</creature>
+		<creature>
+			<code>3660</code>
+			<area code="1006">이스할겐</area>
+			<name>볼리크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>488|2294</realcoord>
+			<mapcoord>482|276</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 투나프레 호수에 있는 네기의 나루터 옆에서 낚시를 하는 도적단원. 사랑의 고통을 겪고 있다.</description>
+		</creature>
+		<creature>
+			<code>3666</code>
+			<area code="1006">이스할겐</area>
+			<name>쇼픈</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>525|2449</realcoord>
+			<mapcoord>518|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 비행 이동사</description>
+		</creature>
+		<creature>
+			<code>3667</code>
+			<area code="1006">이스할겐</area>
+			<name>수용소 파수꾼의 망령</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>674|1795</realcoord>
+			<mapcoord>367|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 수용소를 떠도는 망령.</description>
+		</creature>
+		<creature>
+			<code>3668</code>
+			<area code="1006">이스할겐</area>
+			<name>스라트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>405|2356</realcoord>
+			<mapcoord>497|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 투나프레 호수 북서쪽에 있는 도적단원. 사고를 자주 쳐서 지금은 닭장을 지키는 신세가 됐다.</description>
+		</creature>
+		<creature>
+			<code>3669</code>
+			<area code="1006">이스할겐</area>
+			<name>스쿨드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1114|1718</realcoord>
+			<mapcoord>350|421</mapcoord>
+			<aggressive>0</aggressive>
+			<description>안투른 삼거리에 있는 바닷가 절벽에 서 있는 수수께끼의 소녀.</description>
+		</creature>
+		<creature>
+			<code>3670</code>
+			<area code="1006">이스할겐</area>
+			<name>스프리그 곡식자루</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>572|2073:444|2167:439|2155:438|2215:389|2254:659|2108:425|2225:649|2104:587|2041:579|2043:608|2058:444|2178:384|2233:427|2220:618|2074:615|2063:658|2101</realcoord>
+			<mapcoord>431|295:453|266:450|265:464|265:473|253:440|316:467|261:439|313:424|299:425|297:428|304:456|266:468|252:465|262:432|306:429|305:438|315</mapcoord>
+			<aggressive>0</aggressive>
+			<description>투나프레 호수 옆에 서식하는 스프리그가 모아 놓은 곡식 자루.</description>
+		</creature>
+		<creature>
+			<code>3675</code>
+			<area code="1006">이스할겐</area>
+			<name>아메프레</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>614|2213:612|2259:577|2136:492|2114:493|2281:658|2191:591|2166:611|2114:547|2111:480|2133:494|2137:508|2234:596|2247:542|2254:623|2171:662|2155:516|2139:562|2119:519|2190:511|2277</realcoord>
+			<mapcoord>464|305:474|305:446|297:441|277:479|277:459|315:453|300:441|305:440|290:445|274:446|278:469|281:472|301:473|288:454|307:450|316:447|282:442|293:458|283:479|281</mapcoord>
+			<aggressive>0</aggressive>
+			<description>투나프레 호수에 피어있는 아름다운 꽃.</description>
+		</creature>
+		<creature>
+			<code>3676</code>
+			<area code="1006">이스할겐</area>
+			<name>아스크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>561|2788</realcoord>
+			<mapcoord>596|293</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단. [%username]%와 함께 스프리그를 토벌하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3681</code>
+			<area code="1006">이스할겐</area>
+			<name>알프리그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>928|1566</realcoord>
+			<mapcoord>315|378</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐의 안투른 삼거리에서 오델라 재배지로 가는 길목에 서 있는 도적단원. 책임감이 강한 편이다.</description>
+		</creature>
+		<creature>
+			<code>3682</code>
+			<area code="1006">이스할겐</area>
+			<name>에레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>668|1767</realcoord>
+			<mapcoord>361|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 수용소의 입구를 지키는 도적단 일원. 뛰어난 창기술을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>3683</code>
+			<area code="1006">이스할겐</area>
+			<name>열매 바구니</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>349|2831:433|2835:356|2837:145|2668:426|2842:228|2826:195|2543:455|2781:588|2868:185|2548:545|2732:414|2835:531|2730:293|2551:301|2543:357|2734:309|2543:342|2721:165|2541:135|2644:470|2776:540|2724:179|2532:366|2836:236|2832:459|2885:472|2884:596|2870:162|2580:141|2653:143|2531:249|2836:349|2728:481|2896</realcoord>
+			<mapcoord>606|244:607|263:608|246:569|197:609|262:605|216:540|209:595|268:615|299:541|206:583|289:607|259:583|286:542|231:540|233:584|246:540|235:581|242:539|202:563|195:594|272:582|288:537|205:607|248:607|218:619|269:618|272:615|301:549|201:565|196:537|196:607|221:582|244:621|275</mapcoord>
+			<aggressive>0</aggressive>
+			<description>스프리그가 열매를 모아 놓은 작은 바구니. 스프리그 소굴에 많다.</description>
+		</creature>
+		<creature>
+			<code>3684</code>
+			<area code="1006">이스할겐</area>
+			<name>오스마르</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>526|2451</realcoord>
+			<mapcoord>519|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 알데르 마을의 공간 이동사.</description>
+		</creature>
+		<creature>
+			<code>3685</code>
+			<area code="1006">이스할겐</area>
+			<name>우르드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>588|2413</realcoord>
+			<mapcoord>510|299</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을에서 베를 짜는 노파. 신기한 힘을 가진 듯하다.</description>
+		</creature>
+		<creature>
+			<code>3686</code>
+			<area code="1006">이스할겐</area>
+			<name>울고른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>589|2450</realcoord>
+			<mapcoord>518|299</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단 두목. 알데르 마을의 중앙에 서있다. 거칠고 무식한 성격이나 뒤끝은 없다.</description>
+		</creature>
+		<creature>
+			<code>3687</code>
+			<area code="1006">이스할겐</area>
+			<name>웅퓨</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>584|2425</realcoord>
+			<mapcoord>513|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을에서 음식을 판매하는 도적단 일원. 마을에 여성 인구의 비율이 낮다는 것에 불만을 품고 있다.</description>
+		</creature>
+		<creature>
+			<code>3688</code>
+			<area code="1006">이스할겐</area>
+			<name>위오큰</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>정찰자교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>572|2462</realcoord>
+			<mapcoord>521|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단의 정찰자 교관. 이스할겐의 알데르 마을에 있다.</description>
+		</creature>
+		<creature>
+			<code>3689</code>
+			<area code="1006">이스할겐</area>
+			<name>유르웬</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>법사교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>565|2402</realcoord>
+			<mapcoord>507|294</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단의 법사 교관. 이스할겐의 알데르 마을에 있다.</description>
+		</creature>
+		<creature>
+			<code>3692</code>
+			<area code="1006">이스할겐</area>
+			<name>점쟁이 할멈</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>938|2298</realcoord>
+			<mapcoord>483|380</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무니헬르 숲 속의 오두막에 홀로 사는 점쟁이 할멈. 괴팍한 성격의 소유자로 마녀라는 소문이 자자하다.</description>
+		</creature>
+		<creature>
+			<code>3693</code>
+			<area code="1006">이스할겐</area>
+			<name>카르드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1048|2060</realcoord>
+			<mapcoord>429|405</mapcoord>
+			<aggressive>0</aggressive>
+			<description>카르드의 야영지에 숨어있는 채집꾼.</description>
+		</creature>
+		<creature>
+			<code>3694</code>
+			<area code="1006">이스할겐</area>
+			<name>카인달</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>597|2470</realcoord>
+			<mapcoord>523|301</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 안쪽을 순찰하는 도적단 일원. 노역자를 부리는 입장이지만 소심해서 싫은 소리를 잘 하지 못한다.</description>
+		</creature>
+		<creature>
+			<code>3695</code>
+			<area code="1006">이스할겐</area>
+			<name>크로게</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>949|1701</realcoord>
+			<mapcoord>346|382</mapcoord>
+			<aggressive>0</aggressive>
+			<description>안투른 초소를 담당하고 있는 부대장. 돈이 되는 일에 민감한데 작은 일보다는 크게 돈 될 일을 잘 찾는 편이다.</description>
+		</creature>
+		<creature>
+			<code>3696</code>
+			<area code="1006">이스할겐</area>
+			<name>키르헨</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>사제교관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>554|2404</realcoord>
+			<mapcoord>508|291</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단의 사제 교관. 이스할겐의 알데르 마을에 있다.</description>
+		</creature>
+		<creature>
+			<code>3697</code>
+			<area code="1006">이스할겐</area>
+			<name>탄마른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>668|1728</realcoord>
+			<mapcoord>352|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이스할겐 수용소의 입구를 지키는 도적단원. 악몽에 시달리고 있다.</description>
+		</creature>
+		<creature>
+			<code>3698</code>
+			<area code="1006">이스할겐</area>
+			<name>토부</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>591|2450</realcoord>
+			<mapcoord>518|300</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단 부두목. 알데르 마을의 중앙에 서있다. 울고른의 오른팔. 영리하고 숫자에 매우 밝다.</description>
+		</creature>
+		<creature>
+			<code>5579</code>
+			<area code="1006">이스할겐</area>
+			<name>헤르시르</name>
+			<type>NPC</type>
+			<mclass>데바니온</mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>299|2773</realcoord>
+			<mapcoord>593|232</mapcoord>
+			<aggressive>0</aggressive>
+			<description>펜릴의 송곳니 정보원 중의 하나로 이스할겐에서 활동하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3699</code>
+			<area code="1006">이스할겐</area>
+			<name>헤프</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>625|2434</realcoord>
+			<mapcoord>515|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 무기 상인. 울고른 도적단의 일원으로 무기를 매우 좋아해서 무기 상인 일을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>3708</code>
+			<area code="1006">이스할겐</area>
+			<name>후긴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>560|2402</realcoord>
+			<mapcoord>507|293</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 마을의 신관. 신관치고는 다소 타락했다.</description>
+		</creature>
+		<creature>
+			<code>3671</code>
+			<area code="1006">이스할겐</area>
+			<name>스프리그 싸움꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>633|2773:422|2835:367|2832:463|2773:638|2808:593|2865:356|2829:472|2877:607|2790</realcoord>
+			<mapcoord>593|310:607|261:606|248:593|270:601|311:614|300:606|246:617|272:597|303</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3673</code>
+			<area code="1006">이스할겐</area>
+			<name>스프리그 일꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>483|2860:620|2829:593|2858:623|2824:630|2778:477|2896:483|2877</realcoord>
+			<mapcoord>613|275:606|307:613|300:605|307:594|309:621|273:617|275</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알데르 언덕에 사는 유순한 아인종.</description>
+		</creature>
+		<creature>
+			<code>3690</code>
+			<area code="1006">이스할겐</area>
+			<name>육중한 펠레루</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>4</level>
+			<realcoord>557|2243</realcoord>
+			<mapcoord>471|292</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3662</code>
+			<area code="1006">이스할겐</area>
+			<name>삼림 스파키</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>5</level>
+			<realcoord>895|1787:866|1777:793|1772:935|1798:956|1828:834|1777</realcoord>
+			<mapcoord>365|370:363|363:362|346:368|379:375|384:363|356</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무니헬르 숲에 서식하는 곤충. 꼬리의 발광체에서 푸르스름한 빛을 낸다.</description>
+		</creature>
+		<creature>
+			<code>3677</code>
+			<area code="1006">이스할겐</area>
+			<name>아힐렌호 선원</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>5</level>
+			<realcoord>1078|1799:1158|1809</realcoord>
+			<mapcoord>368|412:371|431</mapcoord>
+			<aggressive>3</aggressive>
+			<description>아힐렌호를 타고 온 수상한 사람들. 안투른 해안에 머물고 있다.</description>
+		</creature>
+		<creature>
+			<code>3709</code>
+			<area code="1006">이스할겐</area>
+			<name>흰 발 다루</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>5</level>
+			<realcoord>1159|2276:1171|2260:1174|2273</realcoord>
+			<mapcoord>478|431:475|434:478|434</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무니헬르 숲 곳곳에 서식하는 온순한 동물.</description>
+		</creature>
+		<creature>
+			<code>3664</code>
+			<area code="1006">이스할겐</area>
+			<name>송곳니 칼니프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>986|1765:1037|1647</realcoord>
+			<mapcoord>361|391:333|403</mapcoord>
+			<aggressive>3</aggressive>
+			<description>날카로운 송곳니와 발톱을 가진 동물. 원래 무니헬르 숲에 서식했으나 먹을 것이 부족하자 안투른 삼거리까지 내려왔다.</description>
+		</creature>
+		<creature>
+			<code>3679</code>
+			<area code="1006">이스할겐</area>
+			<name>아힐렌호 잡역꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>6</level>
+			<realcoord>1066|1805:1141|1786:1146|1828:1150|1816:1112|1841:1088|1817:1192|1889:1202|1864</realcoord>
+			<mapcoord>370|409:365|427:375|428:372|429:378|420:372|414:389|438:383|441</mapcoord>
+			<aggressive>3</aggressive>
+			<description>아힐렌호를 타고 온 수상한 사람들. 안투른 해안에 머물고 있다.</description>
+		</creature>
+		<creature>
+			<code>3619</code>
+			<area code="1006">이스할겐</area>
+			<name>가시털 램피스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>572|1934:552|1817:547|1891:520|1821:615|1840:565|1787</realcoord>
+			<mapcoord>400|295:372|291:390|290:373|283:378|305:366|294</mapcoord>
+			<aggressive>3</aggressive>
+			<description>이스할겐 중앙의 이스할겐 수용소 그늘진 곳에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>3635</code>
+			<area code="1006">이스할겐</area>
+			<name>둔둔 농군</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>553|1541:624|1437:658|1534:603|1439:549|1417:667|1533:608|1543:497|1394:727|1523:671|1438:728|1547:721|1553:734|1510:542|1503:662|1425:617|1552:737|1524:656|1464:656|1419:647|1479:612|1432:717|1546:548|1547</realcoord>
+			<mapcoord>309|291:285|307:307|315:285|303:280|290:307|317:309|304:275|278:305|331:285|318:310|331:311|330:302|333:300|288:282|316:311|306:305|334:291|315:281|315:295|313:284|305:310|329:310|290</mapcoord>
+			<aggressive>0</aggressive>
+			<description>오델라 재배지에서 오델라를 재배하는 무글.</description>
+		</creature>
+		<creature>
+			<code>3638</code>
+			<area code="1006">이스할겐</area>
+			<name>둔둔 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>690|1522:610|1455:677|1446:709|1520:780|1531:795|1554:690|1504:622|1455:789|1527:791|1545</realcoord>
+			<mapcoord>304|323:289|304:287|320:304|327:307|343:312|347:300|323:289|307:306|345:310|346</mapcoord>
+			<aggressive>3</aggressive>
+			<description>오델라 재배지를 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>3700</code>
+			<area code="1006">이스할겐</area>
+			<name>회색갈기 감시병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>700|1546:648|1538:625|1543</realcoord>
+			<mapcoord>310|325:308|313:309|308</mapcoord>
+			<aggressive>3</aggressive>
+			<description>오델라 재배지의 무무족을 감시하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>3704</code>
+			<area code="1006">이스할겐</area>
+			<name>회색갈기 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>7</level>
+			<realcoord>787|1534:687|1354</realcoord>
+			<mapcoord>307|345:266|322</mapcoord>
+			<aggressive>3</aggressive>
+			<description>오델라 재배지를 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>3622</code>
+			<area code="1006">이스할겐</area>
+			<name>강철이빨 카락</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>8</level>
+			<realcoord>1074|1604</realcoord>
+			<mapcoord>323|411</mapcoord>
+			<aggressive>3</aggressive>
+			<description>칼니프의 우두머리. 안투른 삼거리 남서쪽의 동굴에 카락의 소굴이 있다.</description>
+		</creature>
+		<creature>
+			<code>3637</code>
+			<area code="1006">이스할겐</area>
+			<name>둔둔 망루꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>561|1454:457|1440:746|1511</realcoord>
+			<mapcoord>289|293:285|269:302|336</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3661</code>
+			<area code="1006">이스할겐</area>
+			<name>분홍날개 뮤타</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>8</level>
+			<realcoord>815|1549:826|1554</realcoord>
+			<mapcoord>311|352:312|354</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3691</code>
+			<area code="1006">이스할겐</area>
+			<name>저주받은 크베른</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>8</level>
+			<realcoord>573|1877</realcoord>
+			<mapcoord>386|296</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3634</code>
+			<area code="1006">이스할겐</area>
+			<name>둔둔 경계꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>732|998:685|1002:752|1067:675|1037</realcoord>
+			<mapcoord>184|332:185|321:199|337:193|319</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3703</code>
+			<area code="1006">이스할겐</area>
+			<name>회색갈기 순찰병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>644|975:637|886:651|866:672|903:657|967:641|941:622|1056:715|998:679|872:643|912:679|998:653|940:623|1044</realcoord>
+			<mapcoord>178|312:158|311:153|314:162|319:176|315:171|311:197|307:184|328:155|320:164|312:184|320:170|314:194|307</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3706</code>
+			<area code="1006">이스할겐</area>
+			<name>회색갈기 파수병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>632|915:669|865:679|894:660|914:657|895:677|909:659|864:625|895:703|888:615|877:637|856</realcoord>
+			<mapcoord>164|309:153|318:160|320:164|316:160|315:163|320:153|316:160|308:158|326:156|305:151|310</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>3707</code>
+			<area code="1006">이스할겐</area>
+			<name>회색갈기 호위전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>757|1053:644|1063:760|1054:630|1062:631|1051:749|997:711|1098:636|1042:678|1009</realcoord>
+			<mapcoord>196|338:198|312:197|339:198|309:196|309:183|336:207|327:194|310:186|320</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두바로 덩굴협곡 입구를 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>3626</code>
+			<area code="1006">이스할겐</area>
+			<name>냉혹한 하타타</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>663|884</realcoord>
+			<mapcoord>157|316</mapcoord>
+			<aggressive>3</aggressive>
+			<description>하타타의 은신처에 은신 중인 회색갈기 부족의 족장.</description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>22</code>
+			<area code="1006">이스할겐</area>
+			<name>약초</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>555|2860:443|2323:460|2413:676|1850:523|1940:490|2843:614|1900:563|2551:859|2246:925|2255:846|1996:1129|2193:1214|2095:969|2206:1057|2247:566|1755:1008|2210:506|1392:482|2331:995|1655:578|2817:425|2259:482|2700:1052|2326:886|2128:471|2185:1073|2058:616|1524:977|1907:499|2631:988|2154:1146|2251:820|1535:785|1719:666|1530:547|1429:1109|2111:708|1717:411|2663:1222|2172:628|2786:1029|2056:464|2235:479|2547:945|1575:1055|2145:874|1750:907|1640:638|2099:655|1433:548|1500:959|1809:568|1859:709|2139:741|1533:481|2787:423|2747:521|2715:763|2146:806|2221:927|2017:1059|1767</realcoord>
+			<mapcoord>613|292:489|266:510|270:380|319:401|284:609|276:391|305:542|293:471|362:474|377:414|359:459|424:437|444:462|387:472|407:358|294:463|396:274|280:491|275:335|393:603|297:474|262:576|275:490|406:444|368:457|272:428|411:305|306:393|389:560|279:450|391:473|428:307|353:350|345:306|317:283|290:440|419:349|327:568|258:454|445:596|308:428|401:469|271:541|274:317|382:448|407:357|365:332|373:438|311:284|315:299|290:371|385:382|295:447|327:307|334:596|274:587|261:580|284:448|339:466|349:419|377:361|408</mapcoord>
+			<level>1</level>
+			<harvests>,152000451:10000000:1:icon_item_herb01:안누스,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>23</code>
+			<area code="1006">이스할겐</area>
+			<name>과일나무</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>1063|1915:816|1754:922|1785:1024|1720:1099|1704:858|1687:1045|1638:944|1862:765|1783:1047|1685:1068|1820:1088|1754:859|1558:1107|1810:982|1819:887|1676:1027|1870:979|1779:986|1706:919|1731</realcoord>
+			<mapcoord>395|409:358|352:365|376:350|400:346|417:343|361:331|404:383|381:365|340:342|405:373|410:358|414:313|362:371|419:373|390:340|368:385|400:364|389:347|391:353|376</mapcoord>
+			<level>10</level>
+			<harvests>,152000751:10000000:1:icon_item_fruit07:레이담,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>21</code>
+			<area code="1006">이스할겐</area>
+			<name>광석</name>
+			<type>Resource</type>
+			<mclass>채집</mclass>
+			<realcoord>717|1566:743|980:666|1358:669|1022:729|1095:748|1021:602|1586:530|1324:413|1406:792|1476:509|1569</realcoord>
+			<mapcoord>315|329:179|335:267|317:189|318:206|332:189|336:319|302:259|286:278|259:294|346:315|281</mapcoord>
+			<level>15</level>
+			<harvests>,152000201:10000000:1:icon_item_rock01e:철 광석,</harvests>
+			<count>3</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1006</code>
+			<name>이스할겐</name>
+			<mmap>1006_768m</mmap>
+			<smap>1006_768s</smap>
+		</area>
+	</areas>
+</resultdata>

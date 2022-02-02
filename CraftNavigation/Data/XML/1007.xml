@@ -1,0 +1,4128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1007" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>4464</code>
+			<area code="1007">판데모니움</area>
+			<name>가간</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1205|1233</realcoord>
+			<mapcoord>346|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4465</code>
+			<area code="1007">판데모니움</area>
+			<name>가룬</name>
+			<type>NPC</type>
+			<mclass>레기온</mclass>
+			<sclass>레기온문장담당관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1145|1368</realcoord>
+			<mapcoord>426|268</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 레기온 관리소에 있는 레기온 휘장 담당. 휘장 제작을 돕는다.</description>
+		</creature>
+		<creature>
+			<code>4466</code>
+			<area code="1007">판데모니움</area>
+			<name>가르바게</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1479|1363</realcoord>
+			<mapcoord>423|467</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4467</code>
+			<area code="1007">판데모니움</area>
+			<name>가름</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1001|1528</realcoord>
+			<mapcoord>522|182</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 트리니엘 투기장에서 관람객의 입장을 돕는 투기장 관리인.</description>
+		</creature>
+		<creature>
+			<code>4468</code>
+			<area code="1007">판데모니움</area>
+			<name>가미나르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1403|1067</realcoord>
+			<mapcoord>246|422</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5573</code>
+			<area code="1007">판데모니움</area>
+			<name>가스터</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1298|1502</realcoord>
+			<mapcoord>506|359</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 황금의 회당에 있는 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>4469</code>
+			<area code="1007">판데모니움</area>
+			<name>간트루그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1368|1133</realcoord>
+			<mapcoord>286|401</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 비정기적으로 철학 강의를 여는 철학자.</description>
+		</creature>
+		<creature>
+			<code>4470</code>
+			<area code="1007">판데모니움</area>
+			<name>게노베바</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>무기담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1258|1205</realcoord>
+			<mapcoord>329|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 어비스 공훈 기록관.</description>
+		</creature>
+		<creature>
+			<code>4471</code>
+			<area code="1007">판데모니움</area>
+			<name>게노티</name>
+			<type>NPC</type>
+			<mclass>신석강화</mclass>
+			<sclass>신석강화사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1402|1440</realcoord>
+			<mapcoord>469|422</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 신석 강화사. 무기에 신비로운 힘을 부여하는 일을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4472</code>
+			<area code="1007">판데모니움</area>
+			<name>게라드</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성장신구의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1010|1363</realcoord>
+			<mapcoord>423|187</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 장신구의 데바. 올다를 못마땅해한다.</description>
+		</creature>
+		<creature>
+			<code>4473</code>
+			<area code="1007">판데모니움</area>
+			<name>게르무</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1380|1197</realcoord>
+			<mapcoord>324|408</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집를 자주 들르는 단골손님. 이곳의 느긋한 분위기를 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>4474</code>
+			<area code="1007">판데모니움</area>
+			<name>게이에나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1326|1322</realcoord>
+			<mapcoord>399|376</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아라이손의 열렬한 추종자. 대부분의 시간을 판데모니움 광장에서 보낸다.</description>
+		</creature>
+		<creature>
+			<code>4475</code>
+			<area code="1007">판데모니움</area>
+			<name>겐묠라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1397|1180</realcoord>
+			<mapcoord>314|418</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집를 자주 들르는 단골손님. 주당이다.</description>
+		</creature>
+		<creature>
+			<code>4476</code>
+			<area code="1007">판데모니움</area>
+			<name>겐펠스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>술집주인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1401|1188</realcoord>
+			<mapcoord>319|421</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집의 주인. 조금 거칠지만 인심은 후하다.</description>
+		</creature>
+		<creature>
+			<code>4477</code>
+			<area code="1007">판데모니움</area>
+			<name>고로룬</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1304|1518</realcoord>
+			<mapcoord>516|363</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당에 있는 거래 중개인.</description>
+		</creature>
+		<creature>
+			<code>4478</code>
+			<area code="1007">판데모니움</area>
+			<name>구나르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>988|1547</realcoord>
+			<mapcoord>533|174</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 트리니엘 투기장에서 관람객의 퇴장을 돕는 투기장 관리인.</description>
+		</creature>
+		<creature>
+			<code>4479</code>
+			<area code="1007">판데모니움</area>
+			<name>군드룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1200|1515</realcoord>
+			<mapcoord>514|301</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당을 지키는 아칸. 굴린부르스티를 사모한다.</description>
+		</creature>
+		<creature>
+			<code>4480</code>
+			<area code="1007">판데모니움</area>
+			<name>군테르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1334|1047</realcoord>
+			<mapcoord>234|381</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 지식의 회당에 있는 고문서 복원 전문가. 문서 복원 뿐 아니라 고문서에 대한 지식도 해박하여 많은 학자들이 조언을 얻기 위해 찾아온다.</description>
+		</creature>
+		<creature>
+			<code>4481</code>
+			<area code="1007">판데모니움</area>
+			<name>굴린부르스티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1199|1528</realcoord>
+			<mapcoord>522|300</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당을 지키는 아칸. 여자들에게 인기가 많다.</description>
+		</creature>
+		<creature>
+			<code>4482</code>
+			<area code="1007">판데모니움</area>
+			<name>굴린캄비</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>레기온창고관리인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1383|1529</realcoord>
+			<mapcoord>522|410</mapcoord>
+			<aggressive>0</aggressive>
+			<description>레기온의 공용 물품을 보관하는 창고관리인. 판데모니움의 황금의 회당에 있다.</description>
+		</creature>
+		<creature>
+			<code>4483</code>
+			<area code="1007">판데모니움</area>
+			<name>그라드</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>연금술상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1182|1526</realcoord>
+			<mapcoord>520|290</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 연금술 상인. 돈을 엄청나게 밝힌다.</description>
+		</creature>
+		<creature>
+			<code>4484</code>
+			<area code="1007">판데모니움</area>
+			<name>그라이펠</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1228|1444</realcoord>
+			<mapcoord>471|317</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당을 지키는 아칸. 굴린부르스티가 여성들에게 인기가 좋은 것을 시기한다.</description>
+		</creature>
+		<creature>
+			<code>4485</code>
+			<area code="1007">판데모니움</area>
+			<name>그레르</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1358|1480</realcoord>
+			<mapcoord>493|395</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당의 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>4486</code>
+			<area code="1007">판데모니움</area>
+			<name>그로아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>직업용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1293|1233</realcoord>
+			<mapcoord>346|356</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 직업용품을 파는 데바.</description>
+		</creature>
+		<creature>
+			<code>4487</code>
+			<area code="1007">판데모니움</area>
+			<name>그루파크스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>금속갑옷제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1175|1600</realcoord>
+			<mapcoord>564|286</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 금속갑옷 제작 상인. 걱정을 사서하는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>4488</code>
+			<area code="1007">판데모니움</area>
+			<name>그림힐드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1471|1421</realcoord>
+			<mapcoord>458|462</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 직관의 데바. 얼굴을 보는 것만으로 운명을 읽는 능력을 가졌다.</description>
+		</creature>
+		<creature>
+			<code>4489</code>
+			<area code="1007">판데모니움</area>
+			<name>그웬다그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1588|1411</realcoord>
+			<mapcoord>452|532</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리를 서성이는 순례자. 대신전에서 다섯 주신께 기도를 올리는 것이 오랜 꿈이었다.</description>
+		</creature>
+		<creature>
+			<code>7318</code>
+			<area code="1007">판데모니움</area>
+			<name>글리비체</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1411|1362</realcoord>
+			<mapcoord>423|426</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4490</code>
+			<area code="1007">판데모니움</area>
+			<name>기르디탄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1014|1138</realcoord>
+			<mapcoord>289|189</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 출입구를 지키는 근위병.</description>
+		</creature>
+		<creature>
+			<code>4491</code>
+			<area code="1007">판데모니움</area>
+			<name>나르비</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1464|1469</realcoord>
+			<mapcoord>486|458</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전의 신관으로 시긴과 로키의 딸이다.</description>
+		</creature>
+		<creature>
+			<code>4492</code>
+			<area code="1007">판데모니움</area>
+			<name>나미야</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1120|1498</realcoord>
+			<mapcoord>504|253</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 군것질을 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>4493</code>
+			<area code="1007">판데모니움</area>
+			<name>네우사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1353|1047</realcoord>
+			<mapcoord>234|392</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에서 일하는 서고 지기. 책을 매우 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>4494</code>
+			<area code="1007">판데모니움</area>
+			<name>네카이</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1383|1385</realcoord>
+			<mapcoord>436|410</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에서 잡화를 파는 상인. 꽃미남을 밝힌다.</description>
+		</creature>
+		<creature>
+			<code>4495</code>
+			<area code="1007">판데모니움</area>
+			<name>네코룬룬</name>
+			<type>NPC</type>
+			<mclass>큐브공방</mclass>
+			<sclass>콰이링큐브공방장인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1328|1497</realcoord>
+			<mapcoord>503|377</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당에 있는 큐브공방 장인.</description>
+		</creature>
+		<creature>
+			<code>4496</code>
+			<area code="1007">판데모니움</area>
+			<name>뇨르드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1272|1170</realcoord>
+			<mapcoord>308|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에서 비다르의 일을 돕는 행정관.</description>
+		</creature>
+		<creature>
+			<code>4497</code>
+			<area code="1007">판데모니움</area>
+			<name>뇨미</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>개조소모품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1420|1431</realcoord>
+			<mapcoord>464|432</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 개조 소모품 상인. 무기와 방어구 개조에 필요한 소모품을 팔고 있다.</description>
+		</creature>
+		<creature>
+			<code>4498</code>
+			<area code="1007">판데모니움</area>
+			<name>누미토렘</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1219|1519</realcoord>
+			<mapcoord>516|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당을 지키는 아칸. 군드룬의 옛 남자친구로 아직도 그녀를 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>5693</code>
+			<area code="1007">판데모니움</area>
+			<name>니고룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1404|1362</realcoord>
+			<mapcoord>423|422</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5683</code>
+			<area code="1007">판데모니움</area>
+			<name>니니스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1638|1407</realcoord>
+			<mapcoord>449|562</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움에 있는 정체를 알 수 없는 현자.</description>
+		</creature>
+		<creature>
+			<code>4499</code>
+			<area code="1007">판데모니움</area>
+			<name>니베란</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>899|1410</realcoord>
+			<mapcoord>451|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>금의환향을 꿈꾸며 판데모니움에 온 인간. 향수병 때문에 고생하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4500</code>
+			<area code="1007">판데모니움</area>
+			<name>니세리아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1133|1300</realcoord>
+			<mapcoord>385|261</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 침묵의 심판소에 있는 침묵의 집행자.</description>
+		</creature>
+		<creature>
+			<code>4501</code>
+			<area code="1007">판데모니움</area>
+			<name>니즈</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성갑주의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1059|1424</realcoord>
+			<mapcoord>459|217</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 갑주의 데바. 방어구에 대한 애착이 남다르다.</description>
+		</creature>
+		<creature>
+			<code>4502</code>
+			<area code="1007">판데모니움</area>
+			<name>다라이아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>요리상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1174|1529</realcoord>
+			<mapcoord>522|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 요리 상인. 판데모니움에 오기 전에는 요리사였다.</description>
+		</creature>
+		<creature>
+			<code>4503</code>
+			<area code="1007">판데모니움</area>
+			<name>다스카이르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1102|1481</realcoord>
+			<mapcoord>494|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 번영의 거리의 연회장에서 언제나 무언가에 대해 고뇌하고 있는 데바.</description>
+		</creature>
+		<creature>
+			<code>4504</code>
+			<area code="1007">판데모니움</area>
+			<name>데네세레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>980|1192</realcoord>
+			<mapcoord>321|169</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 비행선을 기다리는 주민. 고향의 어머니가 온다는 전갈을 받고 기다리고 있다.</description>
+		</creature>
+		<creature>
+			<code>4505</code>
+			<area code="1007">판데모니움</area>
+			<name>데니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>947|1100</realcoord>
+			<mapcoord>266|150</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 인간. 피해망상에 사로잡힌 미치광이.</description>
+		</creature>
+		<creature>
+			<code>4506</code>
+			<area code="1007">판데모니움</area>
+			<name>데르프</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>933|1601</realcoord>
+			<mapcoord>565|142</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 트리니엘 투기장 내부에서 모든 결투를 중재하는 결투의 데바.</description>
+		</creature>
+		<creature>
+			<code>5673</code>
+			<area code="1007">판데모니움</area>
+			<name>데오르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>829|1437</realcoord>
+			<mapcoord>467|79</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관섹시돌 의상 판매원</description>
+		</creature>
+		<creature>
+			<code>4507</code>
+			<area code="1007">판데모니움</area>
+			<name>데인</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>소모품담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1245|1206</realcoord>
+			<mapcoord>330|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움에 있는 소모품 담당 공훈관. 도시에서 관리하는 물품을 판매하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4508</code>
+			<area code="1007">판데모니움</area>
+			<name>데일라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1195|1558</realcoord>
+			<mapcoord>539|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당 주변을 샅샅이 뒤지고 다니는 추리의 데바. 최근 발생한 도난 사건을 조사하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4509</code>
+			<area code="1007">판데모니움</area>
+			<name>덴가르드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1467|1401</realcoord>
+			<mapcoord>446|460</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4510</code>
+			<area code="1007">판데모니움</area>
+			<name>델루아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1051|1126</realcoord>
+			<mapcoord>282|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 안절부절하는 여행객. 고향에 두고 온 남편과 아이들을 걱정하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4511</code>
+			<area code="1007">판데모니움</area>
+			<name>도뇌린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>972|1102</realcoord>
+			<mapcoord>268|165</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 인간. 외모를 믿고 극단에 입단하려 했으나 연기력이 부족해 배우가 되지 못한 것에 불만을 품고 있다.</description>
+		</creature>
+		<creature>
+			<code>4512</code>
+			<area code="1007">판데모니움</area>
+			<name>도레인</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1119|1475</realcoord>
+			<mapcoord>490|252</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리의 연회장에서 일하는 종업원. 털털한 성격으로 여자 손님에게 인기가 많다.</description>
+		</creature>
+		<creature>
+			<code>4513</code>
+			<area code="1007">판데모니움</area>
+			<name>도만</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1682|1397</realcoord>
+			<mapcoord>444|589</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리에 있는 공간 이동사.</description>
+		</creature>
+		<creature>
+			<code>4514</code>
+			<area code="1007">판데모니움</area>
+			<name>도우케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1047|1478</realcoord>
+			<mapcoord>491|210</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 돌아다니는 비평의 데바. 군중은 그를 신뢰하고, 상점 주인들은 그를 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>4515</code>
+			<area code="1007">판데모니움</area>
+			<name>돌프</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1396|1046</realcoord>
+			<mapcoord>234|418</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에서 일하는 일꾼. 서고 내에 있는 책의 위치에 대해서 꿰뚫고 있다.</description>
+		</creature>
+		<creature>
+			<code>4516</code>
+			<area code="1007">판데모니움</area>
+			<name>듀피</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1048|1212</realcoord>
+			<mapcoord>333|210</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에 서 있는 주민. 부푼 꿈을 안고 판데모니움에 왔으나 먹고 살기 힘들어 다시 고향으로 돌아가려는 중이다.</description>
+		</creature>
+		<creature>
+			<code>4517</code>
+			<area code="1007">판데모니움</area>
+			<name>듄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1476|1363</realcoord>
+			<mapcoord>423|466</mapcoord>
+			<aggressive>0</aggressive>
+			<description>특별한 직업 없이 판데모니움 대신전에서 다른 데바들과 대화하며 소요하는 것을 즐기는 철학자.</description>
+		</creature>
+		<creature>
+			<code>4518</code>
+			<area code="1007">판데모니움</area>
+			<name>딜라일라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1519|1360</realcoord>
+			<mapcoord>421|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4519</code>
+			<area code="1007">판데모니움</area>
+			<name>라그프리드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1171|1190</realcoord>
+			<mapcoord>320|284</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4520</code>
+			<area code="1007">판데모니움</area>
+			<name>라르크</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성의복판매상</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1052|1391</realcoord>
+			<mapcoord>440|213</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 의복 상인. 에일렌을 존경한다.</description>
+		</creature>
+		<creature>
+			<code>4521</code>
+			<area code="1007">판데모니움</area>
+			<name>라유르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1218|1093</realcoord>
+			<mapcoord>262|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 정체불명의 건물 입구를 지키는 아칸. 사람들의 출입을 통제하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4522</code>
+			<area code="1007">판데모니움</area>
+			<name>라이니타</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>요리명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1167|1541</realcoord>
+			<mapcoord>529|281</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 데바. 요리의 명인.</description>
+		</creature>
+		<creature>
+			<code>4523</code>
+			<area code="1007">판데모니움</area>
+			<name>라이엥엥</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>973|1215</realcoord>
+			<mapcoord>335|165</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 짐을 지키는 무역단 일꾼. 항상 놀 궁리만 한다.</description>
+		</creature>
+		<creature>
+			<code>4524</code>
+			<area code="1007">판데모니움</area>
+			<name>라이쿵</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1186|1555</realcoord>
+			<mapcoord>538|292</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4525</code>
+			<area code="1007">판데모니움</area>
+			<name>라타투스크</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>정기추출명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1236|1530</realcoord>
+			<mapcoord>523|322</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 데바. 정기 추출의 명인이다.</description>
+		</creature>
+		<creature>
+			<code>4526</code>
+			<area code="1007">판데모니움</area>
+			<name>란세</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>세공명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1230|1558</realcoord>
+			<mapcoord>539|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 세공의 명인.</description>
+		</creature>
+		<creature>
+			<code>4527</code>
+			<area code="1007">판데모니움</area>
+			<name>람페스트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1113|1281</realcoord>
+			<mapcoord>374|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4528</code>
+			<area code="1007">판데모니움</area>
+			<name>레기나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>바텐더</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1401|1196</realcoord>
+			<mapcoord>323|421</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집의 종업원.</description>
+		</creature>
+		<creature>
+			<code>4529</code>
+			<area code="1007">판데모니움</area>
+			<name>레리르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1258|1536</realcoord>
+			<mapcoord>526|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 일꾼. 생명의 은인인 라타투스크의 일을 돕고 있다.</description>
+		</creature>
+		<creature>
+			<code>5674</code>
+			<area code="1007">판데모니움</area>
+			<name>레이라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1285|1358</realcoord>
+			<mapcoord>420|351</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;거리의 음악가&gt;공연장 가난한 꽃팔이 소녀였으나, 뛰어난 음악 솜씨를 인정받아 이곳으로 왔다. 무엇이든 감미로운 선율로 표현하는 음악가.</description>
+		</creature>
+		<creature>
+			<code>4530</code>
+			<area code="1007">판데모니움</area>
+			<name>레이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1400|1225</realcoord>
+			<mapcoord>341|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집의 종업원. 사교성이 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>5568</code>
+			<area code="1007">판데모니움</area>
+			<name>레이카르트</name>
+			<type>NPC</type>
+			<mclass>데바니온</mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>813|1302</realcoord>
+			<mapcoord>386|70</mapcoord>
+			<aggressive>0</aggressive>
+			<description>펜릴의 송곳니 정보원 중의 하나로 판데모니움의 동태를 살피고 있다.</description>
+		</creature>
+		<creature>
+			<code>4531</code>
+			<area code="1007">판데모니움</area>
+			<name>로기</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>무기제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1197|1589</realcoord>
+			<mapcoord>558|299</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 무기 제작의 명인.</description>
+		</creature>
+		<creature>
+			<code>4532</code>
+			<area code="1007">판데모니움</area>
+			<name>로스크바</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1297|1497</realcoord>
+			<mapcoord>503|358</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당의 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>5681</code>
+			<area code="1007">판데모니움</area>
+			<name>로아링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1417|1362</realcoord>
+			<mapcoord>423|430</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7326</code>
+			<area code="1007">판데모니움</area>
+			<name>로엔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>843|1429</realcoord>
+			<mapcoord>462|88</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4533</code>
+			<area code="1007">판데모니움</area>
+			<name>루세나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1336|1343</realcoord>
+			<mapcoord>411|382</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움에 사는 데바.</description>
+		</creature>
+		<creature>
+			<code>5577</code>
+			<area code="1007">판데모니움</area>
+			<name>루이칭칭</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1363|1496</realcoord>
+			<mapcoord>503|398</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 황금의 회당에 있는 거래중개인.</description>
+		</creature>
+		<creature>
+			<code>5561</code>
+			<area code="1007">판데모니움</area>
+			<name>리글</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급방어구담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1258|1216</realcoord>
+			<mapcoord>335|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4534</code>
+			<area code="1007">판데모니움</area>
+			<name>리도라사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1017|1460</realcoord>
+			<mapcoord>481|192</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 서성이는 허영의 데바. 신제품에 관심이 많지만 정작 돈은 없다.</description>
+		</creature>
+		<creature>
+			<code>4535</code>
+			<area code="1007">판데모니움</area>
+			<name>리우크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1494|1345</realcoord>
+			<mapcoord>412|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4536</code>
+			<area code="1007">판데모니움</area>
+			<name>리퍄베르가</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>치유성과호법성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1479|1432</realcoord>
+			<mapcoord>464|467</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 치유성과 호법성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4537</code>
+			<area code="1007">판데모니움</area>
+			<name>린드호그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1276|1290</realcoord>
+			<mapcoord>380|346</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움에 있는 판데모니움 광장에서 마계의 주요 소식을 전하는 공보관. 아뮤투란의 남편이다.</description>
+		</creature>
+		<creature>
+			<code>4538</code>
+			<area code="1007">판데모니움</area>
+			<name>림팍시</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1389|1201</realcoord>
+			<mapcoord>326|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집에 있는 절망의 데바. 열세 번째 주신이 이 세상을 파괴할 거라고 떠들고 다닌다.</description>
+		</creature>
+		<creature>
+			<code>5569</code>
+			<area code="1007">판데모니움</area>
+			<name>마네모리</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>외모변환의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1384|1185</realcoord>
+			<mapcoord>317|410</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4539</code>
+			<area code="1007">판데모니움</area>
+			<name>마레케</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>장신구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1358|1417</realcoord>
+			<mapcoord>455|395</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에서 장신구를 파는 상인.</description>
+		</creature>
+		<creature>
+			<code>4540</code>
+			<area code="1007">판데모니움</area>
+			<name>마오칭칭</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1383|1417</realcoord>
+			<mapcoord>455|410</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 약품 상인. 자신의 물건에 자부심이 대단하다.</description>
+		</creature>
+		<creature>
+			<code>5563</code>
+			<area code="1007">판데모니움</area>
+			<name>만하임</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급무기담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1257|1205</realcoord>
+			<mapcoord>329|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4541</code>
+			<area code="1007">판데모니움</area>
+			<name>메라르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성방패의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1075|1413</realcoord>
+			<mapcoord>453|226</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 방패의 데바. 독서를 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>4542</code>
+			<area code="1007">판데모니움</area>
+			<name>메로트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1217|1195</realcoord>
+			<mapcoord>323|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에 있는 주민. 천계의 물건을 파는 슈고족을 의심스러워한다.</description>
+		</creature>
+		<creature>
+			<code>4543</code>
+			<area code="1007">판데모니움</area>
+			<name>메이라나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1467|1373</realcoord>
+			<mapcoord>429|460</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4544</code>
+			<area code="1007">판데모니움</area>
+			<name>모레이넨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1330|1060</realcoord>
+			<mapcoord>242|378</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에 있는 학자. 공부 욕심이 많아서 지식의 회당에서 살다시피 한다.</description>
+		</creature>
+		<creature>
+			<code>4545</code>
+			<area code="1007">판데모니움</area>
+			<name>모모레나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1218|1195</realcoord>
+			<mapcoord>323|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에 있는 주민. 의심이 많다.</description>
+		</creature>
+		<creature>
+			<code>4546</code>
+			<area code="1007">판데모니움</area>
+			<name>묘오룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1369|1181</realcoord>
+			<mapcoord>315|402</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 짐을 지키고 있는 무역단 일꾼. 게으르단 소리를 듣는 것을 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>5566</code>
+			<area code="1007">판데모니움</area>
+			<name>무우링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>942|1144</realcoord>
+			<mapcoord>293|147</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 사절 슈고. 기회주의자로 이익이 되는 것 같으면 바로 소속을 옮긴다.</description>
+		</creature>
+		<creature>
+			<code>7315</code>
+			<area code="1007">판데모니움</area>
+			<name>미냐르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>829|1415</realcoord>
+			<mapcoord>454|79</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5564</code>
+			<area code="1007">판데모니움</area>
+			<name>미도링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>950|1157</realcoord>
+			<mapcoord>300|151</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 소속의 항해사. 강철갈퀴 호로 보내주는 역할을 한다.</description>
+		</creature>
+		<creature>
+			<code>4547</code>
+			<area code="1007">판데모니움</area>
+			<name>미메</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1187|1605</realcoord>
+			<mapcoord>567|293</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 무기 제작 상인. 로기의 고향 친구이다.</description>
+		</creature>
+		<creature>
+			<code>4548</code>
+			<area code="1007">판데모니움</area>
+			<name>미미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1369|1051</realcoord>
+			<mapcoord>237|401</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에 있는 대현자. 판데모니움의 모든 지식은 그의 머릿속에 있다.</description>
+		</creature>
+		<creature>
+			<code>5686</code>
+			<area code="1007">판데모니움</area>
+			<name>미온느</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>852|1438</realcoord>
+			<mapcoord>468|93</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 고급 의상점에 있는 의상 예술의 데바. 제멋대로인 성격이지만 솔직한 면도 있다.</description>
+		</creature>
+		<creature>
+			<code>4549</code>
+			<area code="1007">판데모니움</area>
+			<name>미코룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1394|1336:1381|1225</realcoord>
+			<mapcoord>407|416:341|408</mapcoord>
+			<aggressive>0</aggressive>
+			<description>낮 동안은 판데모니움의 아펠바인 선술집에서 일하는 밀수 상인. 밤에는 크란데일 지구의 뒷골목을 전전한다.</description>
+		</creature>
+		<creature>
+			<code>5565</code>
+			<area code="1007">판데모니움</area>
+			<name>미키링링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1306|1523</realcoord>
+			<mapcoord>519|364</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 황금의 회당에 있는 거래중개인.</description>
+		</creature>
+		<creature>
+			<code>4550</code>
+			<area code="1007">판데모니움</area>
+			<name>바렌스티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1353|1209</realcoord>
+			<mapcoord>331|392</mapcoord>
+			<aggressive>0</aggressive>
+			<description>최근 아칸의 경계가 삼엄해 잠시 쉬고 있는 소매치기. 한곳에 머물지 않고 판데모니움 여기저기를 돌아다녀서 찾기 힘들다.</description>
+		</creature>
+		<creature>
+			<code>4551</code>
+			<area code="1007">판데모니움</area>
+			<name>바이르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1145|1296</realcoord>
+			<mapcoord>383|268</mapcoord>
+			<aggressive>0</aggressive>
+			<description>침묵의 심판소 출입문을 지키는 침묵의 집행자. 바나할 출신 데바를 끔찍히 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>4552</code>
+			<area code="1007">판데모니움</area>
+			<name>발데르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1469|1466</realcoord>
+			<mapcoord>485|461</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전의 대신관으로 선조부터 대대로 데바인 가문 출신이라는 것에 자부심이 대단하다.</description>
+		</creature>
+		<creature>
+			<code>5675</code>
+			<area code="1007">판데모니움</area>
+			<name>발레이그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1190|1542</realcoord>
+			<mapcoord>530|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4553</code>
+			<area code="1007">판데모니움</area>
+			<name>베</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>마도성과정령성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1479|1452</realcoord>
+			<mapcoord>476|467</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 마도성과 정령성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4554</code>
+			<area code="1007">판데모니움</area>
+			<name>베르겔미르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>스티그마조율사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1294|1205</realcoord>
+			<mapcoord>329|357</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 스티그마 조율사.</description>
+		</creature>
+		<creature>
+			<code>4555</code>
+			<area code="1007">판데모니움</area>
+			<name>베르젤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1069|1113</realcoord>
+			<mapcoord>274|222</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 배가 오길 기다리는 주민. 신경이 날카롭다.</description>
+		</creature>
+		<creature>
+			<code>4556</code>
+			<area code="1007">판데모니움</area>
+			<name>베를링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>978|1591</realcoord>
+			<mapcoord>559|168</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 트리니엘 투기장의 직업 검투사.</description>
+		</creature>
+		<creature>
+			<code>4557</code>
+			<area code="1007">판데모니움</area>
+			<name>베페르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1001|1050</realcoord>
+			<mapcoord>236|182</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4558</code>
+			<area code="1007">판데모니움</area>
+			<name>벤볼</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>989|1165</realcoord>
+			<mapcoord>305|175</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 일하는 일꾼.</description>
+		</creature>
+		<creature>
+			<code>4559</code>
+			<area code="1007">판데모니움</area>
+			<name>벨디나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1331|1496</realcoord>
+			<mapcoord>503|379</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당에 있는 번영의 데바. 번영의 축복을 내리는 능력을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>4560</code>
+			<area code="1007">판데모니움</area>
+			<name>보드루그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1369|1130</realcoord>
+			<mapcoord>284|402</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4561</code>
+			<area code="1007">판데모니움</area>
+			<name>보르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1473|1469</realcoord>
+			<mapcoord>486|464</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에서 발데르를 보좌하는 신관.</description>
+		</creature>
+		<creature>
+			<code>4562</code>
+			<area code="1007">판데모니움</area>
+			<name>뷰레미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>993|1143</realcoord>
+			<mapcoord>292|177</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 주민.</description>
+		</creature>
+		<creature>
+			<code>4563</code>
+			<area code="1007">판데모니움</area>
+			<name>브라칸</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1214|1165</realcoord>
+			<mapcoord>305|309</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에 있는 점성술의 데바.</description>
+		</creature>
+		<creature>
+			<code>4564</code>
+			<area code="1007">판데모니움</area>
+			<name>브레게</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1345|1238</realcoord>
+			<mapcoord>349|387</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸. 다양한 경험을 하고 싶어한다.</description>
+		</creature>
+		<creature>
+			<code>4565</code>
+			<area code="1007">판데모니움</area>
+			<name>브렌세티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1438|1348</realcoord>
+			<mapcoord>414|443</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4566</code>
+			<area code="1007">판데모니움</area>
+			<name>브륀힐트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1208|1496</realcoord>
+			<mapcoord>503|306</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당을 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4567</code>
+			<area code="1007">판데모니움</area>
+			<name>비다르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1275|1169</realcoord>
+			<mapcoord>307|346</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 판데모니움 총사령관.</description>
+		</creature>
+		<creature>
+			<code>4568</code>
+			<area code="1007">판데모니움</area>
+			<name>비다리니</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>직업용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1476|1414</realcoord>
+			<mapcoord>453|465</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있으며 직업용품을 판매한다.</description>
+		</creature>
+		<creature>
+			<code>4569</code>
+			<area code="1007">판데모니움</area>
+			<name>비르기트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1519|1434</realcoord>
+			<mapcoord>466|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4570</code>
+			<area code="1007">판데모니움</area>
+			<name>비슈케크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1003|1051</realcoord>
+			<mapcoord>237|183</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4571</code>
+			<area code="1007">판데모니움</area>
+			<name>사데나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>818|1396</realcoord>
+			<mapcoord>443|73</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 바나할 지구에 거주하는 데바. 순수혈통이 아닌 데바를 멸시한다.</description>
+		</creature>
+		<creature>
+			<code>4572</code>
+			<area code="1007">판데모니움</area>
+			<name>세레니티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1369|1031</realcoord>
+			<mapcoord>225|401</mapcoord>
+			<aggressive>0</aggressive>
+			<description>지식의 회당에 있는 학자. 고지식하고 깐깐하다.</description>
+		</creature>
+		<creature>
+			<code>4573</code>
+			<area code="1007">판데모니움</area>
+			<name>세레스티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1118|1493</realcoord>
+			<mapcoord>501|252</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리의 연회장에 있는 음식의 데바. 판데모니움에서 열리는 모든 연회를 총괄한다.</description>
+		</creature>
+		<creature>
+			<code>5562</code>
+			<area code="1007">판데모니움</area>
+			<name>세리핌</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>감정표현의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1387|1180</realcoord>
+			<mapcoord>314|412</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 아펠바인 선술집에 있는 감정 표현의 스승.</description>
+		</creature>
+		<creature>
+			<code>4574</code>
+			<area code="1007">판데모니움</area>
+			<name>세키도나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1019|1132</realcoord>
+			<mapcoord>285|193</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 서성이는 여성. 전장에 나간 남편 걱정에 매일같이 비행장을 들른다.</description>
+		</creature>
+		<creature>
+			<code>4575</code>
+			<area code="1007">판데모니움</area>
+			<name>셀로드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1065|1173</realcoord>
+			<mapcoord>310|220</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 구경하는 여행객. 마을 사람들과 판데모니움에 여행을 왔다.</description>
+		</creature>
+		<creature>
+			<code>4576</code>
+			<area code="1007">판데모니움</area>
+			<name>소란테</name>
+			<type>NPC</type>
+			<mclass>레기온</mclass>
+			<sclass>레기온창설담당관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1139|1376</realcoord>
+			<mapcoord>431|264</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 레기온 관리소에 있는 길드 사무관. 레기온의 창설을 담당한다.</description>
+		</creature>
+		<creature>
+			<code>4577</code>
+			<area code="1007">판데모니움</area>
+			<name>소우단</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1356|1153</realcoord>
+			<mapcoord>298|394</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에 있는 데바. 한때 군단장의 지위에 있었으나 지금은 은퇴했다.</description>
+		</creature>
+		<creature>
+			<code>4578</code>
+			<area code="1007">판데모니움</area>
+			<name>슈고 짐꾼</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1078|1072:1078|1070</realcoord>
+			<mapcoord>250|228:248|228</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 우르툼헤임에 있는 슈고 짐꾼.</description>
+		</creature>
+		<creature>
+			<code>4579</code>
+			<area code="1007">판데모니움</area>
+			<name>슈레니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>906|1409</realcoord>
+			<mapcoord>450|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 영리해서 상황을 잘 파악한다.</description>
+		</creature>
+		<creature>
+			<code>4580</code>
+			<area code="1007">판데모니움</area>
+			<name>스레이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1114|1301</realcoord>
+			<mapcoord>386|250</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4581</code>
+			<area code="1007">판데모니움</area>
+			<name>스루드겔미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1113|1291</realcoord>
+			<mapcoord>380|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 침묵의 심판소에 거주하는 침묵의 심판관. 고지식한 사람으로 합당한 이유 없이 말을 거는 것을 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>4582</code>
+			<area code="1007">판데모니움</area>
+			<name>스카디</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1279|1170</realcoord>
+			<mapcoord>308|348</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에서 비다르의 일을 돕는 행정관.</description>
+		</creature>
+		<creature>
+			<code>4583</code>
+			<area code="1007">판데모니움</area>
+			<name>스칸</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>레기온용품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1140|1384</realcoord>
+			<mapcoord>436|265</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4584</code>
+			<area code="1007">판데모니움</area>
+			<name>스키아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1366|1130</realcoord>
+			<mapcoord>284|400</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4585</code>
+			<area code="1007">판데모니움</area>
+			<name>시긴</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>죽음의승정</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1243|1196</realcoord>
+			<mapcoord>323|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 궁성과 살성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4586</code>
+			<area code="1007">판데모니움</area>
+			<name>시레이네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1356|1246</realcoord>
+			<mapcoord>353|394</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸. 친절한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>5578</code>
+			<area code="1007">판데모니움</area>
+			<name>시알피</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>치장의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1037|1402</realcoord>
+			<mapcoord>446|203</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4587</code>
+			<area code="1007">판데모니움</area>
+			<name>시에룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>899|1415</realcoord>
+			<mapcoord>454|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 고아로 자란 기억 때문에 음침한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>4588</code>
+			<area code="1007">판데모니움</area>
+			<name>시프</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>지혜의승정</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1243|1226</realcoord>
+			<mapcoord>341|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 마도성과 정령성의 스승.</description>
+		</creature>
+		<creature>
+			<code>5556</code>
+			<area code="1007">판데모니움</area>
+			<name>신마라</name>
+			<type>NPC</type>
+			<mclass>스티그마</mclass>
+			<sclass>스티그마조율사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1237|1209</realcoord>
+			<mapcoord>331|323</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5679</code>
+			<area code="1007">판데모니움</area>
+			<name>실케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1157|1357</realcoord>
+			<mapcoord>420|275</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에 있는 데바. 펫을 좋아하여 여러 마리의 펫을 돌보고 있다.</description>
+		</creature>
+		<creature>
+			<code>4589</code>
+			<area code="1007">판데모니움</area>
+			<name>아가모</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1130|1435</realcoord>
+			<mapcoord>466|259</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 레기온 관리소 근처 다리에서 축복의 노래를 부르는 음률의 데바. 운이 좋으면 힘의 노래나 재력의 노래를 청해 들을 수 있다. .</description>
+		</creature>
+		<creature>
+			<code>4590</code>
+			<area code="1007">판데모니움</area>
+			<name>아니타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1145|1287</realcoord>
+			<mapcoord>378|268</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 침묵의 심판소에 있는 침묵의 집행자.</description>
+		</creature>
+		<creature>
+			<code>4591</code>
+			<area code="1007">판데모니움</area>
+			<name>아라이손</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1321|1325</realcoord>
+			<mapcoord>400|373</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에서 시를 읊는 음유시인. 잘생기고 말솜씨가 좋아 여자들에게 인기가 많다.</description>
+		</creature>
+		<creature>
+			<code>4592</code>
+			<area code="1007">판데모니움</area>
+			<name>아레케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1228|1533</realcoord>
+			<mapcoord>524|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 인간. 안테의 남편.</description>
+		</creature>
+		<creature>
+			<code>4593</code>
+			<area code="1007">판데모니움</area>
+			<name>아르가트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1046|1488</realcoord>
+			<mapcoord>498|209</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 번영의 거리의 연회장 앞을 거닐고 있는 주민. 애주가로 언제나 술에 취해있다.</description>
+		</creature>
+		<creature>
+			<code>5680</code>
+			<area code="1007">판데모니움</area>
+			<name>아르마노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>811|1419</realcoord>
+			<mapcoord>456|69</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관럭셔리 의상 판매원. 티모간드의 총애를 받고 있다. 티모간드와 내연의 관계라는 소문이 있다.</description>
+		</creature>
+		<creature>
+			<code>5685</code>
+			<area code="1007">판데모니움</area>
+			<name>아르투르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1392|1423</realcoord>
+			<mapcoord>459|415</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4594</code>
+			<area code="1007">판데모니움</area>
+			<name>아뮤투란</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1209|1407</realcoord>
+			<mapcoord>449|306</mapcoord>
+			<aggressive>0</aggressive>
+			<description>쉴새 없이 떠들며 판데모니움을 돌아다닌다. 린드호그의 부인이다.</description>
+		</creature>
+		<creature>
+			<code>4595</code>
+			<area code="1007">판데모니움</area>
+			<name>아샤펜</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1004|1050</realcoord>
+			<mapcoord>236|184</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4596</code>
+			<area code="1007">판데모니움</area>
+			<name>아세이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>915|1430</realcoord>
+			<mapcoord>463|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움에 사는 데바.</description>
+		</creature>
+		<creature>
+			<code>4597</code>
+			<area code="1007">판데모니움</area>
+			<name>아우드</name>
+			<type>NPC</type>
+			<mclass>스티그마</mclass>
+			<sclass>스티그마명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1295|1217</realcoord>
+			<mapcoord>336|357</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 스티그마 명인. 스티그마의 장착과 해제를 도와준다.</description>
+		</creature>
+		<creature>
+			<code>4598</code>
+			<area code="1007">판데모니움</area>
+			<name>아우르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>985|1198</realcoord>
+			<mapcoord>324|173</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움을 정처 없이 떠도는 방황의 데바. 산책의 데바로 오해 받곤 한다.</description>
+		</creature>
+		<creature>
+			<code>4599</code>
+			<area code="1007">판데모니움</area>
+			<name>아이르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1070|1513</realcoord>
+			<mapcoord>513|223</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 번영의 거리의 연회장 바깥에 서 있는 비행의 데바. 비행선의 움직임을 관장한다.</description>
+		</creature>
+		<creature>
+			<code>4600</code>
+			<area code="1007">판데모니움</area>
+			<name>안네마리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>841|1374</realcoord>
+			<mapcoord>430|86</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 바나할 지구의 연못 주변에 서 있는 데바. 발데르 대신관의 외동딸이다.</description>
+		</creature>
+		<creature>
+			<code>4601</code>
+			<area code="1007">판데모니움</area>
+			<name>안뉴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1002|1194</realcoord>
+			<mapcoord>322|183</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 수상한 인간. 비오듯 땀을 흘리고 있다.</description>
+		</creature>
+		<creature>
+			<code>4602</code>
+			<area code="1007">판데모니움</area>
+			<name>안테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1236|1574</realcoord>
+			<mapcoord>549|322</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에서 란세의 일을 돕는 인간. 아레케의 부인이다.</description>
+		</creature>
+		<creature>
+			<code>4603</code>
+			<area code="1007">판데모니움</area>
+			<name>알드볼</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1024|1111</realcoord>
+			<mapcoord>273|196</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 비행선을 기다리는 주민. 변두리에 사는 부모님을 찾아 뵈려고 한다.</description>
+		</creature>
+		<creature>
+			<code>5567</code>
+			<area code="1007">판데모니움</area>
+			<name>알바니스</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1356|1475</realcoord>
+			<mapcoord>490|394</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 황금의 회당에 있는 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>4604</code>
+			<area code="1007">판데모니움</area>
+			<name>알비스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1341|1169</realcoord>
+			<mapcoord>307|385</mapcoord>
+			<aggressive>0</aggressive>
+			<description>토노레아단의 일원. 판데모니움의 크란데일 지구에서 다른 단원들과 노닥거리고 있다. 겉멋을 잔뜩 부린다.</description>
+		</creature>
+		<creature>
+			<code>5694</code>
+			<area code="1007">판데모니움</area>
+			<name>에나수엘</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>841|1449</realcoord>
+			<mapcoord>474|87</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관섹시돌 의상 판매원</description>
+		</creature>
+		<creature>
+			<code>4606</code>
+			<area code="1007">판데모니움</area>
+			<name>에뇨딜</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1050|1192</realcoord>
+			<mapcoord>321|211</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에 서 있는 노인. 죽은 부인과의 추억이 있는 장소라 이곳을 자주 찾는다.</description>
+		</creature>
+		<creature>
+			<code>5692</code>
+			<area code="1007">판데모니움</area>
+			<name>에디타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1247|1564</realcoord>
+			<mapcoord>543|329</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4607</code>
+			<area code="1007">판데모니움</area>
+			<name>에라미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1044|1138</realcoord>
+			<mapcoord>289|208</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에 있는 유희의 데바. 판데모니움에 방문하는 사람들에게 재미를 주기 위해서 비행장에서 묘기를 부리고 있다.</description>
+		</creature>
+		<creature>
+			<code>5678</code>
+			<area code="1007">판데모니움</area>
+			<name>에르딜</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1163|1341</realcoord>
+			<mapcoord>410|278</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에 있는 펫 분양사. 펫 알을 가져가면 분양 받을 수 있다.</description>
+		</creature>
+		<creature>
+			<code>4608</code>
+			<area code="1007">판데모니움</area>
+			<name>에르사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>988|1069</realcoord>
+			<mapcoord>248|174</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 지키는 아칸. 상부의 허술한 방침에 불만이 많다.</description>
+		</creature>
+		<creature>
+			<code>4609</code>
+			<area code="1007">판데모니움</area>
+			<name>에베숩</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>956|1203</realcoord>
+			<mapcoord>327|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 지키는 아칸. 수상한 방문객이 없는지 감시하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4610</code>
+			<area code="1007">판데모니움</area>
+			<name>에이페린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>873|1372</realcoord>
+			<mapcoord>429|106</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장으로 가는 길목을 지키는 아칸. 순수혈통이 아닌 데바를 은근히 멸시한다.</description>
+		</creature>
+		<creature>
+			<code>4611</code>
+			<area code="1007">판데모니움</area>
+			<name>에일렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1055|1412</realcoord>
+			<mapcoord>453|214</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 의복의 데바. 의복에 대한 자부심이 대단하다.</description>
+		</creature>
+		<creature>
+			<code>4612</code>
+			<area code="1007">판데모니움</area>
+			<name>에투나피</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1050|1190</realcoord>
+			<mapcoord>320|211</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 산책하는 주민. 머리를 식힐 겸 비행장을 산책하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4613</code>
+			<area code="1007">판데모니움</area>
+			<name>에프렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1327|1327</realcoord>
+			<mapcoord>402|376</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아라이손의 열렬한 추종자. 대부분의 시간을 판데모니움 광장에서 보낸다.</description>
+		</creature>
+		<creature>
+			<code>4614</code>
+			<area code="1007">판데모니움</area>
+			<name>엑셀린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1465|1359</realcoord>
+			<mapcoord>420|459</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4615</code>
+			<area code="1007">판데모니움</area>
+			<name>엘루라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1052|1107</realcoord>
+			<mapcoord>270|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 비행선이 도착하길 기다리는 주민. 산지 직송을 통해서 신선한 식재료를 공급받기 위해 비행장에 나와있다.</description>
+		</creature>
+		<creature>
+			<code>4616</code>
+			<area code="1007">판데모니움</area>
+			<name>엠벨루</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1036|1172</realcoord>
+			<mapcoord>309|203</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 선술집을 홍보하고 있는 주민. 비행선을 타고 온 이방인들에게 가게를 홍보하느라 여념이 없다.</description>
+		</creature>
+		<creature>
+			<code>5690</code>
+			<area code="1007">판데모니움</area>
+			<name>오나룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1362|1386</realcoord>
+			<mapcoord>437|398</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4617</code>
+			<area code="1007">판데모니움</area>
+			<name>오리다나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1340|1207</realcoord>
+			<mapcoord>330|384</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 돌아다니는 행상인. 물건을 떼기 위해 판데모니움에 왔다.</description>
+		</creature>
+		<creature>
+			<code>4618</code>
+			<area code="1007">판데모니움</area>
+			<name>오비룽</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>세공상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1217|1568</realcoord>
+			<mapcoord>545|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 세공 상인.</description>
+		</creature>
+		<creature>
+			<code>4619</code>
+			<area code="1007">판데모니움</area>
+			<name>오스비</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>976|1149</realcoord>
+			<mapcoord>295|167</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 전직 소매치기. 지금은 손을 씻었다고 하지만 여전히 수상쩍다.</description>
+		</creature>
+		<creature>
+			<code>4620</code>
+			<area code="1007">판데모니움</area>
+			<name>오잔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1519|1369</realcoord>
+			<mapcoord>426|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4621</code>
+			<area code="1007">판데모니움</area>
+			<name>온다링</name>
+			<type>NPC</type>
+			<mclass>큐브공방</mclass>
+			<sclass>콰이링큐브공방장인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1334|1495</realcoord>
+			<mapcoord>502|380</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당에 있는 큐브공방 장인.</description>
+		</creature>
+		<creature>
+			<code>4622</code>
+			<area code="1007">판데모니움</area>
+			<name>올다</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성장신구의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1019|1368</realcoord>
+			<mapcoord>426|193</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 장신구의 데바. 자기 자랑이 심하다.</description>
+		</creature>
+		<creature>
+			<code>4623</code>
+			<area code="1007">판데모니움</area>
+			<name>와이제</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1160|1594</realcoord>
+			<mapcoord>561|277</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 불꽃의 데바. 용광로의 불이 꺼지지 않게 지키고 있다.</description>
+		</creature>
+		<creature>
+			<code>5575</code>
+			<area code="1007">판데모니움</area>
+			<name>요툰모드</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>생명변환의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1441|1272</realcoord>
+			<mapcoord>368|444</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4624</code>
+			<area code="1007">판데모니움</area>
+			<name>요하네르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1339|1169</realcoord>
+			<mapcoord>307|384</mapcoord>
+			<aggressive>0</aggressive>
+			<description>토노레아단의 일원. 판데모니움의 크란데일 지구에서 다른 단원들과 노닥거리고 있다.</description>
+		</creature>
+		<creature>
+			<code>4625</code>
+			<area code="1007">판데모니움</area>
+			<name>우나라이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1440|1279</realcoord>
+			<mapcoord>373|444</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 방황 중인 순례자. 판데모니움에 순례를 왔다가 도시가 마음에 들어 눌러앉을까 고민 중이다.</description>
+		</creature>
+		<creature>
+			<code>4626</code>
+			<area code="1007">판데모니움</area>
+			<name>우스타른</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>오드추출명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1258|1511</realcoord>
+			<mapcoord>512|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 데바. 오드 추출의 명인이다.</description>
+		</creature>
+		<creature>
+			<code>4627</code>
+			<area code="1007">판데모니움</area>
+			<name>울루트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1393|1187</realcoord>
+			<mapcoord>318|416</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집에 있는 도박의 데바. 돈 노름을 위한 도박을 매우 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>4628</code>
+			<area code="1007">판데모니움</area>
+			<name>유라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1184|1093</realcoord>
+			<mapcoord>262|291</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 정체불명의 건물 입구를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4629</code>
+			<area code="1007">판데모니움</area>
+			<name>유레트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성무기의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1083|1421</realcoord>
+			<mapcoord>458|231</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 무기의 데바. 말주변이 뛰어나 그에게 걸린 사람은 물건을 안 살 수가 없다.</description>
+		</creature>
+		<creature>
+			<code>5572</code>
+			<area code="1007">판데모니움</area>
+			<name>유제너</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1205|1505</realcoord>
+			<mapcoord>508|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description>부유한 집안에서 자란 판데모니움의 명장. 모든 제작 기술에 능통하며 특히 무기 제작에 천재적인 재능을 가지고 있다. 장인의 회당에 가면 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>4630</code>
+			<area code="1007">판데모니움</area>
+			<name>이그스룬</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1406|1362</realcoord>
+			<mapcoord>423|424</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 방어구 상인. 돈을 지나치게 밝히는 편이다.</description>
+		</creature>
+		<creature>
+			<code>4631</code>
+			<area code="1007">판데모니움</area>
+			<name>이스달</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1415|1362</realcoord>
+			<mapcoord>423|429</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에서 무기상을 하는 상인. 말주변이 없어 손님을 놓치기 일쑤다.</description>
+		</creature>
+		<creature>
+			<code>4632</code>
+			<area code="1007">판데모니움</area>
+			<name>이즈윈</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1395|1060</realcoord>
+			<mapcoord>242|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 지식의 회당에서 비밀 서고로 들어가는 입구를 지키는 문지기이다.</description>
+		</creature>
+		<creature>
+			<code>4634</code>
+			<area code="1007">판데모니움</area>
+			<name>쟈키아</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>천갑옷제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1190|1480</realcoord>
+			<mapcoord>493|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 재봉의 명인.</description>
+		</creature>
+		<creature>
+			<code>4635</code>
+			<area code="1007">판데모니움</area>
+			<name>제르피</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1008|1082</realcoord>
+			<mapcoord>255|186</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장 주변을 어슬렁거리는 수상한 인간. 자꾸 주위를 두리번거린다.</description>
+		</creature>
+		<creature>
+			<code>4636</code>
+			<area code="1007">판데모니움</area>
+			<name>지헬</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>장신구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1245|1215</realcoord>
+			<mapcoord>335|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 중앙 의사당에 있는 장신구 담당 공훈관.</description>
+		</creature>
+		<creature>
+			<code>7329</code>
+			<area code="1007">판데모니움</area>
+			<name>차오키키</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>962|1158</realcoord>
+			<mapcoord>301|159</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 슈라크 상인. 용계에서 검은구름 무역단으로 망명했다.</description>
+		</creature>
+		<creature>
+			<code>4637</code>
+			<area code="1007">판데모니움</area>
+			<name>차이슝</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1004|1107</realcoord>
+			<mapcoord>271|184</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 일하는 비행장 일꾼. 검은구름 무역단을 은근히 깔보고 있다.</description>
+		</creature>
+		<creature>
+			<code>4638</code>
+			<area code="1007">판데모니움</area>
+			<name>챠우밍밍</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>962|1214</realcoord>
+			<mapcoord>334|159</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 짐을 지키고 있는 무역단 일꾼. 출세하고 싶어하나 기회가 없음을 한탄하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5576</code>
+			<area code="1007">판데모니움</area>
+			<name>초피룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1223|1506</realcoord>
+			<mapcoord>508|315</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 장인의 회당에 파견된 티그라키 공방의 슈고.</description>
+		</creature>
+		<creature>
+			<code>4639</code>
+			<area code="1007">판데모니움</area>
+			<name>침묵의 집행자</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1164|1286</realcoord>
+			<mapcoord>377|279</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 침묵의 심판소 소속의 아칸. 임무 중에는 아무 말도 하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>4641</code>
+			<area code="1007">판데모니움</area>
+			<name>카넨사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>945|1137</realcoord>
+			<mapcoord>288|149</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 순풍을 일으키는 바람의 데바. 그녀 덕에 비행선이 날씨에 구애 받지 않고 드나들 수 있다고 한다.</description>
+		</creature>
+		<creature>
+			<code>4642</code>
+			<area code="1007">판데모니움</area>
+			<name>카디사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>917|1416</realcoord>
+			<mapcoord>455|132</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 나미야가 군것질을 하러 가면 자리를 지켜주곤 한다.</description>
+		</creature>
+		<creature>
+			<code>4643</code>
+			<area code="1007">판데모니움</area>
+			<name>카롤린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1538|1408</realcoord>
+			<mapcoord>450|502</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에서 만날 수 있는 데바. 아들이 어비스로 파병되어 늘 기다리고 있다고 한다.</description>
+		</creature>
+		<creature>
+			<code>5559</code>
+			<area code="1007">판데모니움</area>
+			<name>카르나프</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>전투계열스티그마담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1237|1213</realcoord>
+			<mapcoord>334|323</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5676</code>
+			<area code="1007">판데모니움</area>
+			<name>카린도니</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>823|1430</realcoord>
+			<mapcoord>463|76</mapcoord>
+			<aggressive>0</aggressive>
+			<description>&lt;명품 의상 판매원&gt;명품 의상관럭셔리 의상 판매원. 손님의 옷차림에 따라서 대우가 달라지는 캐릭터. 허영의 데바와는 절친한 사이이면서, 라이벌.</description>
+		</creature>
+		<creature>
+			<code>4644</code>
+			<area code="1007">판데모니움</area>
+			<name>카모룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1078|1079</realcoord>
+			<mapcoord>254|228</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 일하는 작업 감독관. 자신이 감독관임을 은근히 과시한다.</description>
+		</creature>
+		<creature>
+			<code>4645</code>
+			<area code="1007">판데모니움</area>
+			<name>카시르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1403|1047</realcoord>
+			<mapcoord>235|422</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에 있는 예언가. 비밀 서고 안에 유폐돼 있다.</description>
+		</creature>
+		<creature>
+			<code>5688</code>
+			<area code="1007">판데모니움</area>
+			<name>카틴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1159|1347</realcoord>
+			<mapcoord>413|277</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에 있는 펫 판매 상인. 카틴에게서 산 펫 알은 펫 분양사에게 부화하여 기를 수 있다.</description>
+		</creature>
+		<creature>
+			<code>4646</code>
+			<area code="1007">판데모니움</area>
+			<name>칼스텐</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>검성과수호성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1456|1451</realcoord>
+			<mapcoord>476|453</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 검성과 수호성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4647</code>
+			<area code="1007">판데모니움</area>
+			<name>케룹니세</name>
+			<type>NPC</type>
+			<mclass>외형변경</mclass>
+			<sclass>외형변경사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1413|1439</realcoord>
+			<mapcoord>469|428</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 장비 외형 변경사. 무기의 모양을 바꿔주는 일을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4648</code>
+			<area code="1007">판데모니움</area>
+			<name>케이오트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>천갑옷제작상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1196|1467</realcoord>
+			<mapcoord>485|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 재봉 상인. 재봉용품을 판다고 다른 남자들에게 놀림 받는다.</description>
+		</creature>
+		<creature>
+			<code>4649</code>
+			<area code="1007">판데모니움</area>
+			<name>코다룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1015|1167</realcoord>
+			<mapcoord>306|190</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장에서 일하는 비행장 일꾼. 천성이 게을러서 일이 많은 것을 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>4650</code>
+			<area code="1007">판데모니움</area>
+			<name>코이르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1046|1212</realcoord>
+			<mapcoord>333|209</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 구경하는 여행객. 고소공포증이 있다.</description>
+		</creature>
+		<creature>
+			<code>4651</code>
+			<area code="1007">판데모니움</area>
+			<name>쿠샤르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1392|1049</realcoord>
+			<mapcoord>236|415</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 지식의 회당에 있는 학자. 레파르 혁명단에 관해 연구하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4652</code>
+			<area code="1007">판데모니움</area>
+			<name>크로이아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성무기의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1073|1437</realcoord>
+			<mapcoord>467|225</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 무기의 데바. 유레트가 매상의 대부분을 올리고 있어서 허드렛일을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4653</code>
+			<area code="1007">판데모니움</area>
+			<name>크바시르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1281|1177</realcoord>
+			<mapcoord>312|349</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 펜릴의 송곳니 부대장.</description>
+		</creature>
+		<creature>
+			<code>4654</code>
+			<area code="1007">판데모니움</area>
+			<name>키노트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>염색기술의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1059|1398</realcoord>
+			<mapcoord>444|217</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 염색 기술의 데바. 색감이 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>4655</code>
+			<area code="1007">판데모니움</area>
+			<name>키엔가르트</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1393|1426</realcoord>
+			<mapcoord>461|416</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에 있는 마석 제거사. 무기에 부여한 능력을 제거하며 생계를 꾸리고 있다.</description>
+		</creature>
+		<creature>
+			<code>4656</code>
+			<area code="1007">판데모니움</area>
+			<name>키타냐</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1126|1483</realcoord>
+			<mapcoord>495|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리의 연회장에서 일하는 종업원. 싹싹한 성격으로 남자 손님에게 인기가 많다.</description>
+		</creature>
+		<creature>
+			<code>4657</code>
+			<area code="1007">판데모니움</area>
+			<name>키페르손</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1195|1241</realcoord>
+			<mapcoord>350|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4658</code>
+			<area code="1007">판데모니움</area>
+			<name>킨테룬</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>금속갑옷제작명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1174|1580</realcoord>
+			<mapcoord>553|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 금속갑옷 제작의 명인.</description>
+		</creature>
+		<creature>
+			<code>4659</code>
+			<area code="1007">판데모니움</area>
+			<name>탈메누</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>830|1328</realcoord>
+			<mapcoord>402|80</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 바나할 지구에 거주하는 뼈대 깊은 가문의 데바.</description>
+		</creature>
+		<creature>
+			<code>4660</code>
+			<area code="1007">판데모니움</area>
+			<name>테스카</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1336|1427</realcoord>
+			<mapcoord>461|382</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에서 누군가를 애타게 기다리는 주민. 오지 않는 친구 때문에 화가 나있다.</description>
+		</creature>
+		<creature>
+			<code>4661</code>
+			<area code="1007">판데모니움</area>
+			<name>테오</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1229|1121</realcoord>
+			<mapcoord>279|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 방황하는 주민. 마누라의 바가지에 시달리고 있다.</description>
+		</creature>
+		<creature>
+			<code>5558</code>
+			<area code="1007">판데모니움</area>
+			<name>테이룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1039|1158</realcoord>
+			<mapcoord>301|204</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 사절 슈고. 노련하고 경험이 많다.</description>
+		</creature>
+		<creature>
+			<code>4662</code>
+			<area code="1007">판데모니움</area>
+			<name>토나르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1249|1451</realcoord>
+			<mapcoord>476|330</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4663</code>
+			<area code="1007">판데모니움</area>
+			<name>토노레아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1340|1167</realcoord>
+			<mapcoord>306|384</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에서 활동하는 소규모 도적단의 두목. 난폭하고 까칠한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>4664</code>
+			<area code="1007">판데모니움</area>
+			<name>트라기</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>방어구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1257|1216</realcoord>
+			<mapcoord>335|334</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 어비스 공훈 기록관.</description>
+		</creature>
+		<creature>
+			<code>4665</code>
+			<area code="1007">판데모니움</area>
+			<name>트라우프니르</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>파괴의승정</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1307|1196</realcoord>
+			<mapcoord>323|365</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 검성과 수호성의 스승.</description>
+		</creature>
+		<creature>
+			<code>5684</code>
+			<area code="1007">판데모니움</area>
+			<name>티그리나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>945|1126</realcoord>
+			<mapcoord>282|148</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 전함 승무원. 주로 보급을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5689</code>
+			<area code="1007">판데모니움</area>
+			<name>티모간드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>827|1413</realcoord>
+			<mapcoord>453|78</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 고급 의상점에 있는 의상 예술의 데바. 우아하고 상냥하지만 속을 알 수 없는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>4666</code>
+			<area code="1007">판데모니움</area>
+			<name>티알피</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>궁성과살성의스승</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1456|1432</realcoord>
+			<mapcoord>464|453</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 궁성과 살성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4667</code>
+			<area code="1007">판데모니움</area>
+			<name>패패룽</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1366|1502</realcoord>
+			<mapcoord>506|400</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 황금의 회당에 있는 거래 중개인.</description>
+		</creature>
+		<creature>
+			<code>4668</code>
+			<area code="1007">판데모니움</area>
+			<name>페글리에</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>956|1127</realcoord>
+			<mapcoord>282|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 지키는 아칸. 비행선 탑승장을 감시하는 일에 자부심을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>4669</code>
+			<area code="1007">판데모니움</area>
+			<name>페든</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1055|1151</realcoord>
+			<mapcoord>297|214</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 지키는 아칸. 시력이 좋아 수상한 행동을 하는 자가 있으면 바로 색출해 낸다.</description>
+		</creature>
+		<creature>
+			<code>4670</code>
+			<area code="1007">판데모니움</area>
+			<name>페린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1039|1491</realcoord>
+			<mapcoord>499|205</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 자신을 배신한 표르긴에게 복수를 다짐하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5574</code>
+			<area code="1007">판데모니움</area>
+			<name>페이링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>943|1146</realcoord>
+			<mapcoord>294|147</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 사절 슈고. 사절의 대표로 털털한 성격이지만 정보력이 매우 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>4671</code>
+			<area code="1007">판데모니움</area>
+			<name>펜릴의 송곳니 정예병</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1286|1173</realcoord>
+			<mapcoord>310|352</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4679</code>
+			<area code="1007">판데모니움</area>
+			<name>표르긴</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1455|1414</realcoord>
+			<mapcoord>453|453</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 대신전에 있는 영혼 치유사. 페린을 따라 판데모니움으로 온 지 얼마 되지 않았다.</description>
+		</creature>
+		<creature>
+			<code>4680</code>
+			<area code="1007">판데모니움</area>
+			<name>퓨에딜</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1003|1134</realcoord>
+			<mapcoord>287|183</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비행선 탑승장을 관리하는 비행장 관리관. 일이 많아 고생 중이다.</description>
+		</creature>
+		<creature>
+			<code>4681</code>
+			<area code="1007">판데모니움</area>
+			<name>프라나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>785|1297</realcoord>
+			<mapcoord>383|53</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 바나할 지구의 건물 2층에 있는 데바. 순수혈통이 아닌 데바를 멸시한다.</description>
+		</creature>
+		<creature>
+			<code>4682</code>
+			<area code="1007">판데모니움</area>
+			<name>프레이르</name>
+			<type>NPC</type>
+			<mclass>직업교관</mclass>
+			<sclass>운명의승정</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1306|1226</realcoord>
+			<mapcoord>341|364</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 중앙 의사당에 있는 치유성과 호법성의 스승.</description>
+		</creature>
+		<creature>
+			<code>4683</code>
+			<area code="1007">판데모니움</area>
+			<name>프로우닌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1519|1443</realcoord>
+			<mapcoord>471|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4684</code>
+			<area code="1007">판데모니움</area>
+			<name>프린다</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>941|1553</realcoord>
+			<mapcoord>536|146</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 트리니엘 투기장 제일의 실력자로 어렸을 때부터 각지를 떠돌며 검술을 익혔다고 한다.</description>
+		</creature>
+		<creature>
+			<code>5557</code>
+			<area code="1007">판데모니움</area>
+			<name>하비룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>942|1147</realcoord>
+			<mapcoord>294|147</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 사절 슈고. 촉망받는 슈고로 매우 유능하다. 테이룽에게 경쟁 의식을 느끼고 있다.</description>
+		</creature>
+		<creature>
+			<code>4685</code>
+			<area code="1007">판데모니움</area>
+			<name>하사딘</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1367|1127</realcoord>
+			<mapcoord>282|401</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구에 있는 철학의 데바. 언제나 어려운 말만 한다.</description>
+		</creature>
+		<creature>
+			<code>5570</code>
+			<area code="1007">판데모니움</area>
+			<name>하오링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1038|1160</realcoord>
+			<mapcoord>302|204</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 비행선 탑승장에 있는 검은구름 무역단 사절 슈고. 사절 중에 가장 막내로 잡무를 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>4686</code>
+			<area code="1007">판데모니움</area>
+			<name>하이케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1328|1325</realcoord>
+			<mapcoord>400|377</mapcoord>
+			<aggressive>0</aggressive>
+			<description>대부분의 시간을 판데모니움 광장에서 보내는 아라이손의 열렬한 추종자.</description>
+		</creature>
+		<creature>
+			<code>4687</code>
+			<area code="1007">판데모니움</area>
+			<name>하인크</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방패상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1360|1386</realcoord>
+			<mapcoord>437|396</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 시장길에서 방패를 파는 상인. 정작 돈을 버는 것에는 큰 관심이 없다.</description>
+		</creature>
+		<creature>
+			<code>4688</code>
+			<area code="1007">판데모니움</area>
+			<name>헤르파</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1367|1198</realcoord>
+			<mapcoord>325|400</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집 앞에서 술집을 홍보하고 있는 선술집 홍보자. 미모로 손님을 끌어들이고 있다.</description>
+		</creature>
+		<creature>
+			<code>4689</code>
+			<area code="1007">판데모니움</area>
+			<name>헤벤뇨트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1541|1403</realcoord>
+			<mapcoord>447|504</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리를 서성이는 주민. 쓸데없이 친절을 베풀려다 오해를 사는 편이다.</description>
+		</creature>
+		<creature>
+			<code>4690</code>
+			<area code="1007">판데모니움</area>
+			<name>헤이드룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1172|1178</realcoord>
+			<mapcoord>313|284</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 크란데일 지구를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4691</code>
+			<area code="1007">판데모니움</area>
+			<name>헤임달</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1614|1398</realcoord>
+			<mapcoord>444|548</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리를 지키는 아칸.</description>
+		</creature>
+		<creature>
+			<code>4692</code>
+			<area code="1007">판데모니움</area>
+			<name>헬티뇰라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1538|1406</realcoord>
+			<mapcoord>449|502</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리를 서성이는 주민. 부모님은 데바이지만 정작 자신은 각성하지 못했다.</description>
+		</creature>
+		<creature>
+			<code>4693</code>
+			<area code="1007">판데모니움</area>
+			<name>호니르</name>
+			<type>NPC</type>
+			<mclass>제작</mclass>
+			<sclass>연금술명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1180|1512</realcoord>
+			<mapcoord>512|289</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 장인의 회당에 있는 데바. 책벌레라 사교성이 떨어진다.</description>
+		</creature>
+		<creature>
+			<code>4694</code>
+			<area code="1007">판데모니움</area>
+			<name>호키</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>신성갑주의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1077|1414</realcoord>
+			<mapcoord>454|227</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리에 있는 고급 갑주의 데바. 킨테룬의 제자.</description>
+		</creature>
+		<creature>
+			<code>4695</code>
+			<area code="1007">판데모니움</area>
+			<name>후론</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>날개상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1275|1368</realcoord>
+			<mapcoord>426|346</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장에서 날개를 파는 날개 상인. 물건값을 안 깎아 주기로 유명하다.</description>
+		</creature>
+		<creature>
+			<code>5691</code>
+			<area code="1007">판데모니움</area>
+			<name>후이룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1051|1429</realcoord>
+			<mapcoord>463|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5677</code>
+			<area code="1007">판데모니움</area>
+			<name>후이린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1069|1445</realcoord>
+			<mapcoord>472|222</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5687</code>
+			<area code="1007">판데모니움</area>
+			<name>후이몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1053|1427</realcoord>
+			<mapcoord>462|213</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4696</code>
+			<area code="1007">판데모니움</area>
+			<name>후프레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1044|1496</realcoord>
+			<mapcoord>502|208</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 번영의 거리를 지키는 아칸. 키타냐를 남몰래 사모하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5571</code>
+			<area code="1007">판데모니움</area>
+			<name>흐노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1407|1056</realcoord>
+			<mapcoord>240|424</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 지식의 회당에 있는 용족 연구가. 지식의 회당 구석에 있는 비밀 서고 안에 있다.</description>
+		</creature>
+		<creature>
+			<code>4697</code>
+			<area code="1007">판데모니움</area>
+			<name>히레이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1372|1277</realcoord>
+			<mapcoord>371|403</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움 광장을 지키는 아칸. 자신의 일에 대해 자부심이 크다.</description>
+		</creature>
+		<creature>
+			<code>4698</code>
+			<area code="1007">판데모니움</area>
+			<name>히로트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1397|1198</realcoord>
+			<mapcoord>325|418</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 아펠바인 선술집에 살다시피 하는 술꾼. 언제나 술에 절어있다.</description>
+		</creature>
+		<creature>
+			<code>5560</code>
+			<area code="1007">판데모니움</area>
+			<name>히밍레바</name>
+			<type>NPC</type>
+			<mclass>외모</mclass>
+			<sclass>외모변환의데바</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1032|1407</realcoord>
+			<mapcoord>449|200</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>4699</code>
+			<area code="1007">판데모니움</area>
+			<name>히야스크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1588|1392</realcoord>
+			<mapcoord>440|532</mapcoord>
+			<aggressive>0</aggressive>
+			<description>판데모니움의 비프로스트 다리를 서성이는 순례자. 대순례를 시작하기 위해 판데모니움에 왔다.</description>
+		</creature>
+	</creatures>
+
+	<resources>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1007</code>
+			<name>판데모니움</name>
+			<mmap>1007_768m</mmap>
+			<smap>1007_768s</smap>
+		</area>
+	</areas>
+</resultdata>

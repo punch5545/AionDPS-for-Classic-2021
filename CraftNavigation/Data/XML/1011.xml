@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1011" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>5654</code>
+			<area code="1011">어비스 심층부</area>
+			<name>그월</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2201|1931</realcoord>
+			<mapcoord>475|344</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 신성의 요새 깊숙한 곳에 있는 심연의 잔해를 지키는 관리인.</description>
+		</creature>
+		<creature>
+			<code>5527</code>
+			<area code="1011">어비스 심층부</area>
+			<name>모모링링</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의왕관담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1988|2114</realcoord>
+			<mapcoord>507|307</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5445</code>
+			<area code="1011">어비스 심층부</area>
+			<name>뮤엘리나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2138|1960</realcoord>
+			<mapcoord>480|333</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 눈에 있는 신성의 요새 내 작전참모. 여성적인 면모가 짙으면서도 고압적이고 카리스마가 강하다. 여왕님 같은 느낌.</description>
+		</creature>
+		<creature>
+			<code>5552</code>
+			<area code="1011">어비스 심층부</area>
+			<name>수이룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2159|1582</realcoord>
+			<mapcoord>415|336</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 눈에 있는 발명가 슈고. 여기저기 방랑하는 것을 좋아하며 손재주가 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>5545</code>
+			<area code="1011">어비스 심층부</area>
+			<name>아마룽</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의성배담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1980|2108</realcoord>
+			<mapcoord>506|305</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5446</code>
+			<area code="1011">어비스 심층부</area>
+			<name>아이테르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2340|1790</realcoord>
+			<mapcoord>451|367</mapcoord>
+			<aggressive>0</aggressive>
+			<description>시험 비행에 나섰다가 어비스 내에서 실종된 데바.</description>
+		</creature>
+		<creature>
+			<code>5447</code>
+			<area code="1011">어비스 심층부</area>
+			<name>에레슈란타의 눈 용족 수호탑</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2069|2005:2089|1824:2185|2038:2205|1856:2076|1849:2187|1826:2090|2038:2210|1999</realcoord>
+			<mapcoord>488|321:457|324:494|341:462|344:461|322:457|341:494|324:487|345</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 눈 요새에 위치한 용족의 수호탑. 점령 상태에 따라 요새 입구나 관문 주변, 거점에 존재한다.</description>
+		</creature>
+		<creature>
+			<code>5453</code>
+			<area code="1011">어비스 심층부</area>
+			<name>에레슈키갈 제1 수호신장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2136|1931</realcoord>
+			<mapcoord>475|332</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5449</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 결계막 생성사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2072|1930</realcoord>
+			<mapcoord>475|321</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5451</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 보급병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2155|1951:2136|1947:2195|1915</realcoord>
+			<mapcoord>479|335:478|332:472|342</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5463</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 정예궁병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2135|1975</realcoord>
+			<mapcoord>483|332</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5475</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 정예법사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2223|1930:2053|1892</realcoord>
+			<mapcoord>475|347:469|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5486</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 정예사제</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2164|2179</realcoord>
+			<mapcoord>518|337</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5494</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 정예전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2138|1975</realcoord>
+			<mapcoord>483|333</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5505</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 순간 이동사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2123|1911</realcoord>
+			<mapcoord>472|330</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5506</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 영혼치유사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2154|1910</realcoord>
+			<mapcoord>472|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5507</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 요새 궁병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2179|1954:2132|1870:2110|1888:2110|1974:2144|1991:2165|1974:2144|1870:2083|1934:2097|1954:2132|1991:2097|1906:2192|1928:2166|1888:2111|1886:2179|1906</realcoord>
+			<mapcoord>479|340:465|332:468|328:483|328:486|334:483|337:465|334:476|323:479|326:486|332:471|326:475|342:468|337:467|328:471|340</mapcoord>
+			<aggressive>3</aggressive>
+			<description>용족 요새 궁병</description>
+		</creature>
+		<creature>
+			<code>5508</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 요새 법사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2149|1812:2081|1854:2052|1931:2189|1845:2193|2011:2127|2049:2126|1812:2221|1890:2223|1969:2148|2049:2082|2007:2052|1968</realcoord>
+			<mapcoord>455|334:462|323:475|318:460|341:489|342:496|331:455|331:468|347:482|347:496|334:488|323:482|318</mapcoord>
+			<aggressive>3</aggressive>
+			<description>용족 요새 법사</description>
+		</creature>
+		<creature>
+			<code>5509</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 요새 사제</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2134|1959</realcoord>
+			<mapcoord>480|332</mapcoord>
+			<aggressive>0</aggressive>
+			<description>용족 요새 사제</description>
+		</creature>
+		<creature>
+			<code>5510</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 요새 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2138|1994:2137|2053:2138|1872:2143|1955:2138|1809:2138|1886</realcoord>
+			<mapcoord>486|333:496|332:465|333:479|333:454|333:467|333</mapcoord>
+			<aggressive>0</aggressive>
+			<description>용족 요새 전투병</description>
+		</creature>
+		<creature>
+			<code>5642</code>
+			<area code="1011">어비스 심층부</area>
+			<name>드레드기온 상급 정예전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>50</level>
+			<realcoord>2146|1939</realcoord>
+			<mapcoord>477|334</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5452</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 법사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>50</level>
+			<realcoord>2144|2003:2136|1897:2138|1850:2143|2014:2129|1856</realcoord>
+			<mapcoord>488|334:469|332:461|333:490|333:462|331</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7157</code>
+			<area code="1011">어비스 심층부</area>
+			<name>용족 상급 정예전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>50</level>
+			<realcoord>2138|1994:2138|1869:1844|2181:2032|1360:1753|2345:2629|772:660|3013:2612|2107</realcoord>
+			<mapcoord>486|333:465|333:518|282:377|314:547|266:275|417:662|78:506|414</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2402</code>
+			<area code="1011">어비스 심층부</area>
+			<name>최초의 파편 메노티오스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>51</level>
+			<realcoord>1924|2021</realcoord>
+			<mapcoord>491|296</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>19</code>
+			<area code="1011">어비스 심층부</area>
+			<name>빛나는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>3081|1236:2749|1329</realcoord>
+			<mapcoord>355|495:371|438</mapcoord>
+			<level>225</level>
+			<harvests>,152000904:7500000:1:icon_item_od02:오드 조각,152000905:2000000:2:icon_item_od02_r:순도 높은 오드 조각,152000906:400000:3:icon_item_od02_l:순수한 오드 조각,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>20</code>
+			<area code="1011">어비스 심층부</area>
+			<name>빛나는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>3028|1512:2700|1404</realcoord>
+			<mapcoord>403|486:384|429</mapcoord>
+			<level>250</level>
+			<harvests>,152000904:7000000:1:icon_item_od02:오드 조각,152000905:2500000:2:icon_item_od02_r:순도 높은 오드 조각,152000906:400000:3:icon_item_od02_l:순수한 오드 조각,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>16</code>
+			<area code="1011">어비스 심층부</area>
+			<name>타오르는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>822|3075:684|2827:681|3166:688|3110:618|2849:692|3088:752|3084</realcoord>
+			<mapcoord>673|106:630|82:688|81:679|82:634|70:675|83:674|94</mapcoord>
+			<level>325</level>
+			<harvests>,152000907:5900000:1:icon_item_od01:오드,152000908:3500000:2:icon_item_od01_r:순도 높은 오드,152000909:400000:3:icon_item_od01_l:순수한 오드,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,152000910:100000:4:icon_item_od01_u:찬란한 오드,</harvests>
+			<count>5</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1011</code>
+			<name>어비스 심층부</name>
+			<mmap>1011_768m_a</mmap>
+			<smap>1011_768m_a</smap>
+		</area>
+	</areas>
+</resultdata>

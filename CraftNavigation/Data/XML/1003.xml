@@ -1,0 +1,3888 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1003" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>1681</code>
+			<area code="1003">알트가르드</area>
+			<name>가룬타트</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1802|713</realcoord>
+			<mapcoord>237|277</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 영혼 치유사</description>
+		</creature>
+		<creature>
+			<code>1682</code>
+			<area code="1003">알트가르드</area>
+			<name>가이볼트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1659|1829</realcoord>
+			<mapcoord>508|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7375</code>
+			<area code="1003">알트가르드</area>
+			<name>갈룸</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1698|1842</realcoord>
+			<mapcoord>511|252</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 있는 데바. 판데모니움 예비 템페르의 가입과 탈퇴에 관한 일을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>1691</code>
+			<area code="1003">알트가르드</area>
+			<name>건축물 잔해</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2586|1623:2580|1613:2570|1591:2562|1560</realcoord>
+			<mapcoord>458|468:456|467:450|464:443|462</mapcoord>
+			<aggressive>0</aggressive>
+			<description>임페투시움에 있었던 고대 검투장이 무너지고 남은 잔해.</description>
+		</creature>
+		<creature>
+			<code>1734</code>
+			<area code="1003">알트가르드</area>
+			<name>게르뮤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2360|916</realcoord>
+			<mapcoord>286|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 그리바데 화산호 근처의 게르게르 부락에 사는 말하는 스프리그.</description>
+		</creature>
+		<creature>
+			<code>1735</code>
+			<area code="1003">알트가르드</area>
+			<name>게르미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2351|889</realcoord>
+			<mapcoord>279|411</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 그리바데 화산호 근처의 게르게르 부락에 사는 말하는 스프리그.</description>
+		</creature>
+		<creature>
+			<code>1736</code>
+			<area code="1003">알트가르드</area>
+			<name>게르쿠스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2393|891</realcoord>
+			<mapcoord>280|421</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 그리바데 화산호 근처의 게르게르 부락에 사는 말하는 스프리그.</description>
+		</creature>
+		<creature>
+			<code>1737</code>
+			<area code="1003">알트가르드</area>
+			<name>게피온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1829|712</realcoord>
+			<mapcoord>236|284</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 신관.</description>
+		</creature>
+		<creature>
+			<code>1738</code>
+			<area code="1003">알트가르드</area>
+			<name>결계탑 수호병</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1563|2556</realcoord>
+			<mapcoord>685|219</mapcoord>
+			<aggressive>0</aggressive>
+			<description>테오보모스의 결계탑 마을의 수호병.</description>
+		</creature>
+		<creature>
+			<code>1741</code>
+			<area code="1003">알트가르드</area>
+			<name>고개룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2459|667</realcoord>
+			<mapcoord>225|437</mapcoord>
+			<aggressive>0</aggressive>
+			<description>물건을 싣고 가다가 문제가 생겨 알트가르드의 그리바데 화산호에서 지체하고 있다.</description>
+		</creature>
+		<creature>
+			<code>1746</code>
+			<area code="1003">알트가르드</area>
+			<name>고르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1790|576</realcoord>
+			<mapcoord>203|274</mapcoord>
+			<aggressive>0</aggressive>
+			<description>언제나 이둔의 호수에서 혼잣말을 하고 있는데 광인으로 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>1747</code>
+			<area code="1003">알트가르드</area>
+			<name>군마르손</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1621|747</realcoord>
+			<mapcoord>245|233</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 사냥터에서 야영 중인 사냥꾼. 군마르손의 야영지라고 하면 알 만한 사람들은 다 안다.</description>
+		</creature>
+		<creature>
+			<code>1749</code>
+			<area code="1003">알트가르드</area>
+			<name>굴칼라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2666|1662</realcoord>
+			<mapcoord>467|488</mapcoord>
+			<aggressive>0</aggressive>
+			<description>임페투시움의 심장을 지키라는 명령을 받고 판데모니움에서 파견된 아칸 백부장.</description>
+		</creature>
+		<creature>
+			<code>1751</code>
+			<area code="1003">알트가르드</area>
+			<name>그라크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2647|1656</realcoord>
+			<mapcoord>466|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>임페투시움의 심장에서 굴칼라를 보좌하는 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1752</code>
+			<area code="1003">알트가르드</area>
+			<name>그레이크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1701|1939</realcoord>
+			<mapcoord>535|253</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1753</code>
+			<area code="1003">알트가르드</area>
+			<name>그로켄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1224|1096</realcoord>
+			<mapcoord>330|137</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드에 있는 마니르의 삼촌. 레파르 혁명단이 마니르의 나루터에 침입했을 때 실종됐다. 근처 어딘가에 숨어있는 것 같다.</description>
+		</creature>
+		<creature>
+			<code>1754</code>
+			<area code="1003">알트가르드</area>
+			<name>그로켄의 금고</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1266|1110</realcoord>
+			<mapcoord>333|147</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1755</code>
+			<area code="1003">알트가르드</area>
+			<name>기룽크</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1805|724</realcoord>
+			<mapcoord>239|278</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 음식상인.</description>
+		</creature>
+		<creature>
+			<code>1760</code>
+			<area code="1003">알트가르드</area>
+			<name>나이에른</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1713|1872</realcoord>
+			<mapcoord>519|256</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1762</code>
+			<area code="1003">알트가르드</area>
+			<name>네르헬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1884|770</realcoord>
+			<mapcoord>250|297</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 입구에 있는 사냥꾼. 사냥꾼이지만 사냥을 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>1763</code>
+			<area code="1003">알트가르드</area>
+			<name>네이펜메르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1483|2547</realcoord>
+			<mapcoord>683|200</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칼바리아 언덕에 있는 알트가르드 결계탑의 아칸 파수병</description>
+		</creature>
+		<creature>
+			<code>1764</code>
+			<area code="1003">알트가르드</area>
+			<name>네파링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2694|1027</realcoord>
+			<mapcoord>313|494</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 무역단 기항지에서 비밀 운송업을 하는 슈고.</description>
+		</creature>
+		<creature>
+			<code>1765</code>
+			<area code="1003">알트가르드</area>
+			<name>넴네프</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1659|1818</realcoord>
+			<mapcoord>506|242</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 거주하는 영혼 치유사.</description>
+		</creature>
+		<creature>
+			<code>1766</code>
+			<area code="1003">알트가르드</area>
+			<name>노로이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1704|1793</realcoord>
+			<mapcoord>499|253</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 지하감옥 간수장. 보기보다 간수장이 적성에 맞는 듯 하다.</description>
+		</creature>
+		<creature>
+			<code>1767</code>
+			<area code="1003">알트가르드</area>
+			<name>노르네스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무두장이</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1837|734</realcoord>
+			<mapcoord>242|286</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 무두장이이로 가르키온 가죽을 다루는 것이 전문 기술을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>1768</code>
+			<area code="1003">알트가르드</area>
+			<name>노역꾼</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2650|1641</realcoord>
+			<mapcoord>462|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>울고른 도적단에게 잡힌 사람들.</description>
+		</creature>
+		<creature>
+			<code>1771</code>
+			<area code="1003">알트가르드</area>
+			<name>노키르자르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1780|690</realcoord>
+			<mapcoord>231|272</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 아칸 백부장.</description>
+		</creature>
+		<creature>
+			<code>1772</code>
+			<area code="1003">알트가르드</area>
+			<name>니르미른</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1619|1917</realcoord>
+			<mapcoord>530|233</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 약품 상인.</description>
+		</creature>
+		<creature>
+			<code>1773</code>
+			<area code="1003">알트가르드</area>
+			<name>다이케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1928|758</realcoord>
+			<mapcoord>247|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 도축업자로 사냥꾼들이 가지고 온 가르키온을 손질하는 데 능숙하다.</description>
+		</creature>
+		<creature>
+			<code>1775</code>
+			<area code="1003">알트가르드</area>
+			<name>데뤼오나</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1896|727</realcoord>
+			<mapcoord>240|300</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5700</code>
+			<area code="1003">알트가르드</area>
+			<name>데포네</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2685|1022</realcoord>
+			<mapcoord>312|492</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1776</code>
+			<area code="1003">알트가르드</area>
+			<name>델라론트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1752|2007</realcoord>
+			<mapcoord>552|265</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 동부관문 중앙을 수호하는 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1785</code>
+			<area code="1003">알트가르드</area>
+			<name>도나베</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1758|1779</realcoord>
+			<mapcoord>496|267</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 잡화 상인.</description>
+		</creature>
+		<creature>
+			<code>1786</code>
+			<area code="1003">알트가르드</area>
+			<name>도나트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1875|695</realcoord>
+			<mapcoord>232|295</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1787</code>
+			<area code="1003">알트가르드</area>
+			<name>도르토스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1742|1868</realcoord>
+			<mapcoord>518|263</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 방어구 상인.</description>
+		</creature>
+		<creature>
+			<code>1793</code>
+			<area code="1003">알트가르드</area>
+			<name>둥크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2708|1046</realcoord>
+			<mapcoord>318|498</mapcoord>
+			<aggressive>0</aggressive>
+			<description>우르툼헤임 근처 무역단 기항지에 거주하는 역사 연구가.</description>
+		</creature>
+		<creature>
+			<code>1795</code>
+			<area code="1003">알트가르드</area>
+			<name>라나킨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1885|751</realcoord>
+			<mapcoord>246|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1796</code>
+			<area code="1003">알트가르드</area>
+			<name>라미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1844|728</realcoord>
+			<mapcoord>240|288</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을에 거주하는 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1797</code>
+			<area code="1003">알트가르드</area>
+			<name>라쿠룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2618|1641</realcoord>
+			<mapcoord>462|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1798</code>
+			<area code="1003">알트가르드</area>
+			<name>라쿠투</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1718|1867</realcoord>
+			<mapcoord>517|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1799</code>
+			<area code="1003">알트가르드</area>
+			<name>라키르냐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1719|1698</realcoord>
+			<mapcoord>476|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1800</code>
+			<area code="1003">알트가르드</area>
+			<name>라테니</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2663|1663</realcoord>
+			<mapcoord>468|487</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 임페투시움에 있는 전투계열 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>1801</code>
+			<area code="1003">알트가르드</area>
+			<name>라투닌</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2681|1024</realcoord>
+			<mapcoord>312|491</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 우르툼헤임남쪽에 있는 무역단 기항지의 단거리 순간 이동사.</description>
+		</creature>
+		<creature>
+			<code>7360</code>
+			<area code="1003">알트가르드</area>
+			<name>란시에르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1711|1831</realcoord>
+			<mapcoord>509|255</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 있는 마르쿠탄 형제회 소속 데바.</description>
+		</creature>
+		<creature>
+			<code>1802</code>
+			<area code="1003">알트가르드</area>
+			<name>레나트</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1754|1808</realcoord>
+			<mapcoord>503|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 비행 이동사.</description>
+		</creature>
+		<creature>
+			<code>5698</code>
+			<area code="1003">알트가르드</area>
+			<name>레멜</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1465|2561</realcoord>
+			<mapcoord>687|195</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1803</code>
+			<area code="1003">알트가르드</area>
+			<name>레이놀즈</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2454|680</realcoord>
+			<mapcoord>228|436</mapcoord>
+			<aggressive>0</aggressive>
+			<description>슈고족의 물건을 싣고 가다가 문제가 생겨 알트가르트 바스펠트 마을 남쪽에 있는 그리바데 협곡에서 지체하고 있다.</description>
+		</creature>
+		<creature>
+			<code>1804</code>
+			<area code="1003">알트가르드</area>
+			<name>로비냐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1625|1451</realcoord>
+			<mapcoord>416|234</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 서쪽의 모슬란 숲에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1805</code>
+			<area code="1003">알트가르드</area>
+			<name>로하반</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2664|1659</realcoord>
+			<mapcoord>467|487</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1806</code>
+			<area code="1003">알트가르드</area>
+			<name>루반데르</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1904|695</realcoord>
+			<mapcoord>232|302</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1807</code>
+			<area code="1003">알트가르드</area>
+			<name>루이몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2630|1644</realcoord>
+			<mapcoord>463|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 임페투시움의 심장에 있는 슈고족.</description>
+		</creature>
+		<creature>
+			<code>1808</code>
+			<area code="1003">알트가르드</area>
+			<name>룬베르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1739|1873</realcoord>
+			<mapcoord>519|262</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 무기 상인.</description>
+		</creature>
+		<creature>
+			<code>1809</code>
+			<area code="1003">알트가르드</area>
+			<name>룽그니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1743|2018</realcoord>
+			<mapcoord>554|263</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 동부관문을 지키는 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1810</code>
+			<area code="1003">알트가르드</area>
+			<name>리온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1724|1676</realcoord>
+			<mapcoord>471|258</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1811</code>
+			<area code="1003">알트가르드</area>
+			<name>마니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1460|1193</realcoord>
+			<mapcoord>353|194</mapcoord>
+			<aggressive>0</aggressive>
+			<description>마니르의 야영지에서 야영을 하고 있다. 본디 낚시터를 가지고 있었으나 얼마 전 괴한들에게 빼앗겼다.</description>
+		</creature>
+		<creature>
+			<code>1812</code>
+			<area code="1003">알트가르드</area>
+			<name>마브룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1755|2010</realcoord>
+			<mapcoord>552|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 동부관문의 파수병을 상대로 장사를 하고 있는 잡화 상인. 공을 세우려는 마음이 크다.</description>
+		</creature>
+		<creature>
+			<code>1813</code>
+			<area code="1003">알트가르드</area>
+			<name>만타이가</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1201|981</realcoord>
+			<mapcoord>302|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 가르키온 서식지에 있는 타우릭. 카이베크가 길들였으며 의리가 강하다.</description>
+		</creature>
+		<creature>
+			<code>1814</code>
+			<area code="1003">알트가르드</area>
+			<name>메이링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1564|1830</realcoord>
+			<mapcoord>509|219</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 거주하는 슈고. 차이링과의 결혼을 준비하느라 분주하다.</description>
+		</creature>
+		<creature>
+			<code>1815</code>
+			<area code="1003">알트가르드</area>
+			<name>메이뱌르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1667|1747</realcoord>
+			<mapcoord>488|244</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 아칸 백부장</description>
+		</creature>
+		<creature>
+			<code>1818</code>
+			<area code="1003">알트가르드</area>
+			<name>모른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1661|1813</realcoord>
+			<mapcoord>504|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 아칸 백부장.</description>
+		</creature>
+		<creature>
+			<code>1827</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 봉</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1666|1827</realcoord>
+			<mapcoord>508|244</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 지하감옥에 갇힌 무무족.</description>
+		</creature>
+		<creature>
+			<code>1842</code>
+			<area code="1003">알트가르드</area>
+			<name>무스펠린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1662|1819</realcoord>
+			<mapcoord>506|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1843</code>
+			<area code="1003">알트가르드</area>
+			<name>무역단 경호원</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2696|1026</realcoord>
+			<mapcoord>313|495</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은구름 무역단의 상인들이 신변 보호를 위해 고용한 트롤.</description>
+		</creature>
+		<creature>
+			<code>1848</code>
+			<area code="1003">알트가르드</area>
+			<name>미로킨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1780|696</realcoord>
+			<mapcoord>232|272</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1851</code>
+			<area code="1003">알트가르드</area>
+			<name>바나티사이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2615|1642</realcoord>
+			<mapcoord>463|475</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드에 있는 임페투시움의 심장에서 임페투시움 재건을 지휘하고 있는 건축 설계 담당자.</description>
+		</creature>
+		<creature>
+			<code>7366</code>
+			<area code="1003">알트가르드</area>
+			<name>바라스갈프</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1707|1834</realcoord>
+			<mapcoord>509|254</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1854</code>
+			<area code="1003">알트가르드</area>
+			<name>바바룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2686|1048</realcoord>
+			<mapcoord>318|493</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 무역단 기항지 책임자. 검은구름 무역단의 간부이다.</description>
+		</creature>
+		<creature>
+			<code>1855</code>
+			<area code="1003">알트가르드</area>
+			<name>발루에린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1674|1900</realcoord>
+			<mapcoord>525|246</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 아칸 백부장.</description>
+		</creature>
+		<creature>
+			<code>1856</code>
+			<area code="1003">알트가르드</area>
+			<name>베노아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1563|1858</realcoord>
+			<mapcoord>515|219</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 주민.</description>
+		</creature>
+		<creature>
+			<code>1857</code>
+			<area code="1003">알트가르드</area>
+			<name>변장한 게르미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2588|953</realcoord>
+			<mapcoord>295|469</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1859</code>
+			<area code="1003">알트가르드</area>
+			<name>보구르트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1915|702</realcoord>
+			<mapcoord>234|305</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을의 잡화 상인.</description>
+		</creature>
+		<creature>
+			<code>1860</code>
+			<area code="1003">알트가르드</area>
+			<name>보그바딕</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1625|1742</realcoord>
+			<mapcoord>487|234</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1861</code>
+			<area code="1003">알트가르드</area>
+			<name>보베티른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1990|640</realcoord>
+			<mapcoord>219|323</mapcoord>
+			<aggressive>0</aggressive>
+			<description>귀한 버섯을 캐기 위해 그리바데 협곡을 전전하는 채집꾼.</description>
+		</creature>
+		<creature>
+			<code>1862</code>
+			<area code="1003">알트가르드</area>
+			<name>부에트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1744|1757</realcoord>
+			<mapcoord>491|263</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 요새 주민.</description>
+		</creature>
+		<creature>
+			<code>1863</code>
+			<area code="1003">알트가르드</area>
+			<name>블렌데르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1621|1807</realcoord>
+			<mapcoord>503|233</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새 상공을 지키는 아칸 파수병. 어비스 관문에서 어비스 진균을 처치하고 있다. 상공에서의 임무를 마음에 들어 한다.</description>
+		</creature>
+		<creature>
+			<code>1864</code>
+			<area code="1003">알트가르드</area>
+			<name>비엘</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2457|679</realcoord>
+			<mapcoord>228|437</mapcoord>
+			<aggressive>0</aggressive>
+			<description>마차 짐꾼으로 레이놀즈와 함께 알트가르트 바스펠트 마을 남쪽에 있는 그리바데 협곡에 있다.</description>
+		</creature>
+		<creature>
+			<code>1868</code>
+			<area code="1003">알트가르드</area>
+			<name>사라드</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>종업원</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1555|1862</realcoord>
+			<mapcoord>516|217</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1869</code>
+			<area code="1003">알트가르드</area>
+			<name>사로잡힌 가르키온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1955|722</realcoord>
+			<mapcoord>239|315</mapcoord>
+			<aggressive>0</aggressive>
+			<description>사냥꾼에게 생포되어 바스펠트 마을의 우리 안에 갇힌 가르키온.</description>
+		</creature>
+		<creature>
+			<code>1871</code>
+			<area code="1003">알트가르드</area>
+			<name>샤니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1880|707</realcoord>
+			<mapcoord>235|296</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을에 거주하는 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1876</code>
+			<area code="1003">알트가르드</area>
+			<name>세르피네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1696|1800</realcoord>
+			<mapcoord>501|252</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7377</code>
+			<area code="1003">알트가르드</area>
+			<name>세스팀너르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1711|1828</realcoord>
+			<mapcoord>508|255</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1877</code>
+			<area code="1003">알트가르드</area>
+			<name>수에론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1663|1749</realcoord>
+			<mapcoord>489|243</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새 군단장.</description>
+		</creature>
+		<creature>
+			<code>1882</code>
+			<area code="1003">알트가르드</area>
+			<name>스카닌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1944|728</realcoord>
+			<mapcoord>240|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을에 거주하는 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1883</code>
+			<area code="1003">알트가르드</area>
+			<name>스코몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1692|1831</realcoord>
+			<mapcoord>509|250</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1889</code>
+			<area code="1003">알트가르드</area>
+			<name>아레케딜</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1607|1719</realcoord>
+			<mapcoord>481|230</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새 내부를 순찰하고 있는 파수병. 출생의 비밀을 찾고 있다.</description>
+		</creature>
+		<creature>
+			<code>1890</code>
+			<area code="1003">알트가르드</area>
+			<name>아미트니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1927|761</realcoord>
+			<mapcoord>248|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>신비주의 화학기술을 신봉하는 연금술사로 바스펠트 마을에서 연구를 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>1891</code>
+			<area code="1003">알트가르드</area>
+			<name>아우르트리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1460|2540</realcoord>
+			<mapcoord>681|194</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칼바리아 언덕에 있는 알트가르드 결계탑의 수호자.</description>
+		</creature>
+		<creature>
+			<code>1892</code>
+			<area code="1003">알트가르드</area>
+			<name>아티르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1755|2018</realcoord>
+			<mapcoord>554|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 동부관문을 지키는 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1894</code>
+			<area code="1003">알트가르드</area>
+			<name>안드가르</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2646|1662</realcoord>
+			<mapcoord>468|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>임페투시움의 심장에 파견된 영혼 치유사.</description>
+		</creature>
+		<creature>
+			<code>7365</code>
+			<area code="1003">알트가르드</area>
+			<name>애쉬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1706|1825</realcoord>
+			<mapcoord>507|254</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1901</code>
+			<area code="1003">알트가르드</area>
+			<name>어비스 진균</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1700|1820:1688|1767</realcoord>
+			<mapcoord>506|253:493|250</mapcoord>
+			<aggressive>0</aggressive>
+			<description>어비스 관문에서 나온 이상한 생명체. 건강에 악영향을 미친다고 한다.</description>
+		</creature>
+		<creature>
+			<code>1908</code>
+			<area code="1003">알트가르드</area>
+			<name>에그테르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1744|2008</realcoord>
+			<mapcoord>552|263</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 동부관문 중앙을 수호하는 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1909</code>
+			<area code="1003">알트가르드</area>
+			<name>에이다</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1560|1862</realcoord>
+			<mapcoord>516|218</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 주민.</description>
+		</creature>
+		<creature>
+			<code>1911</code>
+			<area code="1003">알트가르드</area>
+			<name>엘크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1893|759</realcoord>
+			<mapcoord>248|300</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1912</code>
+			<area code="1003">알트가르드</area>
+			<name>엠가타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1736|1691</realcoord>
+			<mapcoord>475|261</mapcoord>
+			<aggressive>0</aggressive>
+			<description>붉은갈기 부족의 사절. 알트가르드 요새 입구에 있다.</description>
+		</creature>
+		<creature>
+			<code>1914</code>
+			<area code="1003">알트가르드</area>
+			<name>오코레냐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1628|1453</realcoord>
+			<mapcoord>417|235</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 서쪽의 모슬란 숲에 파견된 아칸 파수병. 매사에 노심초사하는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>1915</code>
+			<area code="1003">알트가르드</area>
+			<name>욜크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1721|2169</realcoord>
+			<mapcoord>591|258</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아칸 파수병. 알트가르드 요새 동쪽의 마힌데르 습지에서 검은발톱 부족을 정탐하고 있다. 성실하며 타오라의 친구이다.</description>
+		</creature>
+		<creature>
+			<code>1916</code>
+			<area code="1003">알트가르드</area>
+			<name>우르니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1485|2540</realcoord>
+			<mapcoord>681|200</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칼바리아 언덕에 있는 알트가르드 결계탑의 아칸 파수병</description>
+		</creature>
+		<creature>
+			<code>1917</code>
+			<area code="1003">알트가르드</area>
+			<name>우킨</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1754|1805</realcoord>
+			<mapcoord>502|266</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 공간 이동사.</description>
+		</creature>
+		<creature>
+			<code>1918</code>
+			<area code="1003">알트가르드</area>
+			<name>은빛갈기 부족 라이칸</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1730|1813:1727|1818</realcoord>
+			<mapcoord>504|260:505|259</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1919</code>
+			<area code="1003">알트가르드</area>
+			<name>이를레인</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1503|2454</realcoord>
+			<mapcoord>660|205</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칼바리아 언덕에 있는 인어. 어째서 인어와 같이 생긴 그녀가 그곳에 있는지는 알려져있지 않다.</description>
+		</creature>
+		<creature>
+			<code>7361</code>
+			<area code="1003">알트가르드</area>
+			<name>이미론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1711|1826</realcoord>
+			<mapcoord>507|255</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1920</code>
+			<area code="1003">알트가르드</area>
+			<name>이투</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1738|1692</realcoord>
+			<mapcoord>475|262</mapcoord>
+			<aggressive>0</aggressive>
+			<description>엠가타의 통역관으로 함께 알트가르드 요새 입구에 있다. 가끔 더듬거리지만 마족어가 유창한 편이다.</description>
+		</creature>
+		<creature>
+			<code>1923</code>
+			<area code="1003">알트가르드</area>
+			<name>자파링</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2676|1019</realcoord>
+			<mapcoord>311|490</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 무역단 기항지의 잡화 상인.</description>
+		</creature>
+		<creature>
+			<code>1925</code>
+			<area code="1003">알트가르드</area>
+			<name>젠카카의 토템</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1941|2493:1910|2336:2232|2460:1956|2632:2068|2326:2107|2503:2031|2310:2018|2462:2189|2478:2090|2430</realcoord>
+			<mapcoord>670|311:632|304:662|382:704|315:629|342:672|352:625|333:662|330:666|372:655|348</mapcoord>
+			<aggressive>0</aggressive>
+			<description>검은발톱 주둔지에 있는 토템.</description>
+		</creature>
+		<creature>
+			<code>1926</code>
+			<area code="1003">알트가르드</area>
+			<name>젠카카의 혼령</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1591|2201:1658|2175</realcoord>
+			<mapcoord>599|226:592|242</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드에 있는 고대 라이칸 부족의 족장. 마힌데르 습지에서 그 주변의 해안가나 칼바리아 언덕으로 올라가는 길에 있는 나루터 주변을 떠돈다.</description>
+		</creature>
+		<creature>
+			<code>1931</code>
+			<area code="1003">알트가르드</area>
+			<name>지하감옥 경비병</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1709|1790</realcoord>
+			<mapcoord>499|255</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1937</code>
+			<area code="1003">알트가르드</area>
+			<name>차우밍</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1758|1840</realcoord>
+			<mapcoord>511|267</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 판매 대행 슈고.</description>
+		</creature>
+		<creature>
+			<code>1938</code>
+			<area code="1003">알트가르드</area>
+			<name>차이링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1558|1865</realcoord>
+			<mapcoord>517|218</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 알트가르드 요새에 거주하는 슈고. 메이링링의 약혼자.</description>
+		</creature>
+		<creature>
+			<code>1942</code>
+			<area code="1003">알트가르드</area>
+			<name>치다</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1865|764</realcoord>
+			<mapcoord>249|293</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1943</code>
+			<area code="1003">알트가르드</area>
+			<name>카간타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1724|1815</realcoord>
+			<mapcoord>505|258</mapcoord>
+			<aggressive>0</aggressive>
+			<description>마계 알트가르드에 있는 알트가르드 요새 지하감옥에 갇힌 은빛갈기 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1944</code>
+			<area code="1003">알트가르드</area>
+			<name>카고링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2702|1022</realcoord>
+			<mapcoord>312|496</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 무역단 기항지에 있는 검은구름 무역단 상인. 자부심이 강하다.</description>
+		</creature>
+		<creature>
+			<code>1945</code>
+			<area code="1003">알트가르드</area>
+			<name>카를</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1749|901</realcoord>
+			<mapcoord>282|265</mapcoord>
+			<aggressive>0</aggressive>
+			<description>모슬란 숲에서 야영 중인 사냥꾼으로 그가 있는 곳을 카를의 야영지라 부르게 되었다.</description>
+		</creature>
+		<creature>
+			<code>1946</code>
+			<area code="1003">알트가르드</area>
+			<name>카이베크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1201|985</realcoord>
+			<mapcoord>303|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>가르키온 서식지에서 괴물 코무를 잡을 때까지 야영을 하겠다고 호언장담하는 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1948</code>
+			<area code="1003">알트가르드</area>
+			<name>캬오룽</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1758|1841</realcoord>
+			<mapcoord>511|267</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새의 판매 대행 슈고.</description>
+		</creature>
+		<creature>
+			<code>1950</code>
+			<area code="1003">알트가르드</area>
+			<name>켈스비트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1687|1942</realcoord>
+			<mapcoord>536|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1952</code>
+			<area code="1003">알트가르드</area>
+			<name>쿠에베</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1887|682</realcoord>
+			<mapcoord>229|298</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>1955</code>
+			<area code="1003">알트가르드</area>
+			<name>타오라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1720|2167</realcoord>
+			<mapcoord>591|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아칸 파수병. 알트가르드 요새 동쪽의 마힌데르 습지에서 검은발톱 부족을 정탐하고 있다. 욜크와 친구이다.</description>
+		</creature>
+		<creature>
+			<code>1956</code>
+			<area code="1003">알트가르드</area>
+			<name>타투랄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1882|710</realcoord>
+			<mapcoord>236|297</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 바스펠트 마을의 다리에서 경비를 서는 사냥꾼. 사냥을 못하게 되서 불만이 많다.</description>
+		</creature>
+		<creature>
+			<code>7359</code>
+			<area code="1003">알트가르드</area>
+			<name>투르보</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1701|1842</realcoord>
+			<mapcoord>511|253</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 있는 판데모니움 예비 템페르 소속 데바.</description>
+		</creature>
+		<creature>
+			<code>1961</code>
+			<area code="1003">알트가르드</area>
+			<name>투옥된 슈고</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1695|1833:1697|1835</realcoord>
+			<mapcoord>509|251:510|252</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1962</code>
+			<area code="1003">알트가르드</area>
+			<name>툴베르그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1684|1756</realcoord>
+			<mapcoord>490|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 파견된 아칸 파수병</description>
+		</creature>
+		<creature>
+			<code>1963</code>
+			<area code="1003">알트가르드</area>
+			<name>트루드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1614|1798</realcoord>
+			<mapcoord>501|232</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 거주하는 신성의 보호자.</description>
+		</creature>
+		<creature>
+			<code>1964</code>
+			<area code="1003">알트가르드</area>
+			<name>티트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1634|1451</realcoord>
+			<mapcoord>416|237</mapcoord>
+			<aggressive>0</aggressive>
+			<description>약초 채집꾼으로 거의 늘 모슬란 숲에서 약초 채집을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5699</code>
+			<area code="1003">알트가르드</area>
+			<name>파울로인</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1463|2556</realcoord>
+			<mapcoord>685|195</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5701</code>
+			<area code="1003">알트가르드</area>
+			<name>페테손</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2641|1657</realcoord>
+			<mapcoord>466|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1968</code>
+			<area code="1003">알트가르드</area>
+			<name>헤이둔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1731|1705</realcoord>
+			<mapcoord>478|260</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 요새에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1969</code>
+			<area code="1003">알트가르드</area>
+			<name>혁명단 작전 명령서</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1692|2649:1698|2657:1710|2589:1706|2646:1716|2613</realcoord>
+			<mapcoord>708|251:710|252:693|255:707|254:699|256</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1974</code>
+			<area code="1003">알트가르드</area>
+			<name>훈미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1801|704</realcoord>
+			<mapcoord>234|277</mapcoord>
+			<aggressive>0</aggressive>
+			<description>바스펠트 마을에 파견된 아칸 파수병.</description>
+		</creature>
+		<creature>
+			<code>1975</code>
+			<area code="1003">알트가르드</area>
+			<name>휘장 상자</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2377|792</realcoord>
+			<mapcoord>256|417</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7226</code>
+			<area code="1003">알트가르드</area>
+			<name>쿠쿠</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>1</level>
+			<realcoord>1920|754:1462|1192:1459|1204:1454|463:1497|477:1482|485:1306|1254:1913|753:1495|472:1461|450:1492|468:1317|1252:1453|1198:1919|748:1467|448:1313|1242:1464|456:1489|488:2523|1807:2525|1808</realcoord>
+			<mapcoord>246|306:353|195:356|194:176|193:179|203:181|200:368|157:246|304:178|203:172|194:177|202:368|159:354|192:245|306:172|196:365|158:174|195:182|201:508|495:508|496</mapcoord>
+			<aggressive>0</aggressive>
+			<description>Q5006에 등장하는 토부의 애완 D1들.</description>
+		</creature>
+		<creature>
+			<code>1758</code>
+			<area code="1003">알트가르드</area>
+			<name>긴 촉수 랍나이트</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1762|1656:1667|1963:1806|1808:1755|1918:1588|1933:1797|1874:1713|1634:1607|1690:1651|1679:1585|1699:1786|1895:1517|1837:1785|1590:1521|1852</realcoord>
+			<mapcoord>466|268:541|245:503|278:530|266:534|225:519|276:461|256:474|230:472|241:477|225:524|273:510|208:450|273:514|209</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1850</code>
+			<area code="1003">알트가르드</area>
+			<name>밀정단 염탐꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1914|2032:1435|1667:1573|1966:1484|2042:1412|1800:1900|2023:1419|1676:1920|2017:1471|2046:1477|2045:1416|1687:1408|1785:1405|1701:1486|2037</realcoord>
+			<mapcoord>558|305:469|188:542|222:560|200:501|182:556|301:471|184:554|306:561|197:561|198:474|183:497|181:477|181:559|200</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1872</code>
+			<area code="1003">알트가르드</area>
+			<name>서리 레피스마</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1653|1990:1796|1683:1539|1750:1749|1592:1592|1645:1757|1667:1518|1886:1536|1760:1573|1664:1829|1731:1835|1878:1597|1979:1476|1751:1769|1971:1539|1666:1676|1634:1777|1742:1547|1692:1846|1823:1573|1924</realcoord>
+			<mapcoord>547|241:473|276:489|213:450|264:463|226:469|267:522|208:491|213:468|222:484|284:520|285:545|227:489|198:543|269:469|213:461|247:487|271:475|215:507|288:531|221</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수 안팎에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1904</code>
+			<area code="1003">알트가르드</area>
+			<name>얼음 하이브</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1888|1947:1438|1789:1868|1836:1882|1706:1515|1657:1901|1799:1509|1674:1507|1642:1441|1763:1801|1638:1862|1561:1859|1608:1861|1751:1888|1830:1775|1604:1846|1967:1866|1676:1857|1882</realcoord>
+			<mapcoord>537|298:498|189:510|293:478|297:466|207:501|301:471|206:463|205:492|189:462|277:443|292:454|291:489|292:508|298:453|271:542|288:471|293:521|291</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수에 서식하는 새.</description>
+		</creature>
+		<creature>
+			<code>1906</code>
+			<area code="1003">알트가르드</area>
+			<name>얼음호수 스파키</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1899|1767:1866|1955:1532|2006:1636|1617:1878|1960:1834|1591:1882|1773:1832|1605:1625|1607:1524|1606:1483|1801</realcoord>
+			<mapcoord>493|301:539|293:551|212:457|237:540|296:450|285:495|297:454|285:454|234:454|210:501|200</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수에 서식하는 곤충.</description>
+		</creature>
+		<creature>
+			<code>1849</code>
+			<area code="1003">알트가르드</area>
+			<name>밀정단 부역꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1464|2041:1890|2013:1492|2049:1422|1668:1910|2008:1421|1703:1581|1962:1929|2025:1485|2048:1585|1980:1589|1969:1426|1693:1898|2000:1445|1673:1474|2035:1412|1789</realcoord>
+			<mapcoord>560|195:553|299:562|202:469|185:552|304:478|184:541|224:556|308:561|200:545|224:542|225:475|186:550|301:470|190:558|197:498|182</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1852</code>
+			<area code="1003">알트가르드</area>
+			<name>바늘꼬리 칼니프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1637|1397:1545|1496:1547|1411:1584|1417:1545|1477:1606|1412:1576|1432:1563|1491</realcoord>
+			<mapcoord>403|237:427|215:406|215:408|224:422|215:407|230:412|222:426|219</mapcoord>
+			<aggressive>3</aggressive>
+			<description>모슬란 숲에 서식하는 사나운 동물.</description>
+		</creature>
+		<creature>
+			<code>1880</code>
+			<area code="1003">알트가르드</area>
+			<name>수풀 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1526|1503:1659|1459:1608|1442:1433|1335:1528|1520:1597|1489:1506|1516:1649|1451:1646|1425:1632|1489:1705|1450:1410|1271:1417|1449:1433|1445:1676|1423</realcoord>
+			<mapcoord>429|210:418|242:414|230:388|188:433|211:425|227:432|205:416|240:410|239:425|236:416|254:372|182:416|184:415|187:409|247</mapcoord>
+			<aggressive>0</aggressive>
+			<description>모슬란 숲에 사는 새. 아름다운 꼬리털 때문에 사냥꾼들의 표적이 된다.</description>
+		</creature>
+		<creature>
+			<code>1902</code>
+			<area code="1003">알트가르드</area>
+			<name>얼음 파이니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1573|1646:1428|1819:1621|1982:1495|1763:1616|2007:1461|1655:1443|1716:1461|1729:1506|1932:1499|1893:1469|1947:1499|1906:1480|1720:1654|1620:1471|1998:1459|1882:1538|1981:1648|1644:1557|1628</realcoord>
+			<mapcoord>464|222:506|186:546|233:492|203:552|232:466|194:481|190:484|194:533|205:524|204:537|196:527|204:482|199:457|241:549|197:521|194:545|213:463|240:459|218</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 얼음호수에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1704</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 순찰병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1768|1398:1706|1255:1774|1316</realcoord>
+			<mapcoord>403|269:368|254:383|270</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1819</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 농사꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1789|1365:1793|1393:1723|1333:1675|1270:1796|1385:1671|1256:1783|1358:1693|1273</realcoord>
+			<mapcoord>395|274:402|275:387|258:372|246:400|276:369|245:394|273:373|251</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무무 경작지에서 농사를 짓는 무글. 풀매듭 문자를 사용한다.</description>
+		</creature>
+		<creature>
+			<code>1831</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 순찰꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1706|1412:1662|1288:1748|1317:1716|1280:1733|1389:1735|1376:1740|1375:1742|1383:1712|1418:1676|1239:1781|1340</realcoord>
+			<mapcoord>407|254:376|243:383|264:375|256:401|260:398|261:398|262:400|263:408|256:365|247:389|272</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 숙련 순찰꾼과 함께 무무 경작지를 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>1837</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 채집꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1730|1318</realcoord>
+			<mapcoord>384|260</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무무 숙련 순찰꾼과 함께 무무 경작지에서 약초를 캐는 무글.</description>
+		</creature>
+		<creature>
+			<code>1866</code>
+			<area code="1003">알트가르드</area>
+			<name>사나운 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1532|1300:1537|1288:1540|1309</realcoord>
+			<mapcoord>379|212:376|213:381|214</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1874</code>
+			<area code="1003">알트가르드</area>
+			<name>성난 칼니프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1524|1316:1522|1296</realcoord>
+			<mapcoord>383|210:379|209</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1898</code>
+			<area code="1003">알트가르드</area>
+			<name>야생 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1573|1117:1568|1149</realcoord>
+			<mapcoord>335|222:343|220</mapcoord>
+			<aggressive>3</aggressive>
+			<description>모슬란 숲에 서식하는 사나운 동물. 식성이 좋아서 닥치는 대로 먹어 치운다.</description>
+		</creature>
+		<creature>
+			<code>1692</code>
+			<area code="1003">알트가르드</area>
+			<name>검은 발 칼니프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1431|1421:1477|1425:1478|1370:1473|1386:1452|1380:1411|1354:1466|1338:1570|1344:1396|1358:1393|1399:1406|1378:1555|1367:1629|1246:1401|1413</realcoord>
+			<mapcoord>409|187:410|198:397|198:400|197:399|192:392|182:389|196:390|221:393|178:403|178:398|181:396|217:366|235:407|180</mapcoord>
+			<aggressive>3</aggressive>
+			<description>모슬란 숲에 서식하는 사나운 동물.</description>
+		</creature>
+		<creature>
+			<code>1777</code>
+			<area code="1003">알트가르드</area>
+			<name>도굴단 밀수꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1275|1140:1298|1157:1346|1186:1282|1137</realcoord>
+			<mapcoord>340|149:345|155:352|166:340|151</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1781</code>
+			<area code="1003">알트가르드</area>
+			<name>도굴단 싸움꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1313|1258:1297|1136:1350|1143:1352|1237:1371|1178:1296|1266:1211|1221:1343|1227:1352|1250:1369|1218:1367|1145:1349|1207:1325|1244:1354|1175</realcoord>
+			<mapcoord>369|158:339|154:341|167:364|168:350|172:371|154:360|133:362|166:367|168:359|172:342|171:357|167:366|161:349|168</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1697</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 고참 순찰병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1887|966:1871|1114:1843|1029:1887|1103:1858|942:1867|933:1861|1002</realcoord>
+			<mapcoord>298|298:334|294:313|287:331|298:292|291:290|293:307|292</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1748</code>
+			<area code="1003">알트가르드</area>
+			<name>굴럭스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1845|1717</realcoord>
+			<mapcoord>481|288</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1750</code>
+			<area code="1003">알트가르드</area>
+			<name>굶주린 가르키온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1770|381:1652|731:1849|486:1660|551:1850|513:1793|628:1821|600:1814|396:1728|600:1648|492:1615|713:1710|443:1838|550:1617|488:1708|568:1678|558:1610|539:1731|429:1648|537:1774|415:1867|435</realcoord>
+			<mapcoord>156|269:241|241:181|289:197|243:188|289:216|275:209|282:159|280:209|259:183|240:237|232:171|255:197|286:182|232:201|254:199|247:194|231:167|260:194|240:164|270:169|293</mapcoord>
+			<aggressive>3</aggressive>
+			<description>이둔의 호수에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1782</code>
+			<area code="1003">알트가르드</area>
+			<name>도굴단 칼잡이</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1274|1122:1210|1235:1263|1132:1245|1119:1283|1106:1257|1120:1184|1219:1199|1229</realcoord>
+			<mapcoord>336|149:364|133:338|146:335|142:332|151:336|145:360|127:362|131</mapcoord>
+			<aggressive>3</aggressive>
+			<description>도굴단 은신처 입구를 지키는 도굴단원.</description>
+		</creature>
+		<creature>
+			<code>1822</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 망루꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1781|1318:1879|1111:1734|1177:1896|972:1718|1417</realcoord>
+			<mapcoord>384|272:333|296:349|261:300|300:408|257</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1829</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 숙련 순찰꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1862|1089:1912|1054:1937|1004:1852|1025:1893|984:1857|933:1859|1120:1854|1013:1913|1077:1931|1083:1884|977:1855|1140:1858|1037:1941|1016:1852|1028</realcoord>
+			<mapcoord>328|292:319|304:307|310:312|289:303|300:290|291:336|291:309|290:325|304:327|309:301|297:340|290:315|291:310|311:313|289</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 순찰꾼과 함께 무무 경작지를 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>1830</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 숙련 채집꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1957|1087:1852|1079:1923|980</realcoord>
+			<mapcoord>327|315:326|290:301|307</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무무 숙련 순찰꾼과 함께 무무 경작지에서 약초를 캐는 무글.</description>
+		</creature>
+		<creature>
+			<code>1967</code>
+			<area code="1003">알트가르드</area>
+			<name>행동대장 모헨</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1268|1114</realcoord>
+			<mapcoord>334|147</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1970</code>
+			<area code="1003">알트가르드</area>
+			<name>호수 바실리드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1731|556:1746|567:1701|544:1673|509:1703|485:1799|460:1814|514:1771|653:1763|592:1813|540:1680|536:1767|645</realcoord>
+			<mapcoord>198|260:201|264:195|253:187|246:181|253:175|277:188|280:222|270:207|268:194|280:193|248:220|269</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1971</code>
+			<area code="1003">알트가르드</area>
+			<name>호수의 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1764|542:1695|506:1741|483:1721|538:1766|519:1705|509:1755|497:1741|546:1794|470:1799|494:1712|498:1702|532:1785|525:1718|510:1749|465:1729|521:1801|518:1781|488:1684|519:1748|525:1776|453:1762|557</realcoord>
+			<mapcoord>195|268:186|251:180|263:194|258:189|269:187|254:184|266:196|262:177|275:183|277:184|255:192|253:191|273:187|257:176|265:190|260:189|277:182|272:189|249:191|264:173|271:198|268</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이둔의 호수를 지키는 물의 정령.</description>
+		</creature>
+		<creature>
+			<code>1976</code>
+			<area code="1003">알트가르드</area>
+			<name>흙의 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1561|531:1519|497:1524|513:1505|517:1476|523:1532|514:1495|517:1544|473:1503|493:1548|524:1518|476:1548|549:1485|502:1564|501:1509|469:1551|483:1508|450</realcoord>
+			<mapcoord>192|219:184|209:188|210:189|205:190|198:188|212:189|203:178|214:183|205:190|215:179|208:196|216:185|200:185|219:177|206:180|216:172|206</mapcoord>
+			<aggressive>0</aggressive>
+			<description>이둔의 호수에 있는 정령으로 흙의 기운으로 탄생했다.</description>
+		</creature>
+		<creature>
+			<code>1689</code>
+			<area code="1003">알트가르드</area>
+			<name>개코 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1400|699:1379|691:1497|676:1479|698:1352|702:1357|683:1378|680</realcoord>
+			<mapcoord>233|179:231|174:227|203:233|199:234|168:229|169:228|174</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1779</code>
+			<area code="1003">알트가르드</area>
+			<name>도굴단 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1484|476:1457|453:1441|466:1343|513:1464|509:1406|543:1462|474:1347|495:1497|478:1487|444:1476|463:1307|531:1366|510:1321|504:1382|513:1446|514</realcoord>
+			<mapcoord>179|200:173|193:176|190:188|166:187|195:195|181:178|195:183|166:179|203:171|201:176|198:192|157:187|171:186|160:188|175:188|191</mapcoord>
+			<aggressive>3</aggressive>
+			<description>도굴단 은신처 입구를 지키는 도굴단원.</description>
+		</creature>
+		<creature>
+			<code>1865</code>
+			<area code="1003">알트가르드</area>
+			<name>사나운 가르키온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1875|409:1620|515:1921|372:1323|641:1800|341:1638|457:1592|540:1650|514:1509|719:1605|461:1414|752:1437|768:1901|429:1628|433:1924|420:1580|565:1832|440:1896|380:1829|333:1864|372:1913|396</realcoord>
+			<mapcoord>162|295:188|233:153|306:219|161:146|277:174|237:194|226:188|240:238|206:175|229:246|183:250|188:167|301:168|235:165|307:200|223:170|285:155|300:144|284:154|292:159|304</mapcoord>
+			<aggressive>3</aggressive>
+			<description>이둔의 호수에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1887</code>
+			<area code="1003">알트가르드</area>
+			<name>습지 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1478|893:1360|673:1477|676:1407|668:1482|684:1445|693:1442|703:1364|679:1438|696:1487|891:1483|898</realcoord>
+			<mapcoord>280|198:227|170:228|198:225|181:229|200:231|191:234|190:228|171:232|189:280|201:281|200</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1888</code>
+			<area code="1003">알트가르드</area>
+			<name>쌍혹 바실리드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1689|486:1715|469:1786|440:1677|490:1676|522</realcoord>
+			<mapcoord>181|250:177|256:170|273:182|247:190|247</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1913</code>
+			<area code="1003">알트가르드</area>
+			<name>오색 슬라임</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1524|878:1515|834:1462|864:1533|823:1565|904:1509|889:1551|889:1542|852:1523|854:1452|878:1492|830</realcoord>
+			<mapcoord>277|210:266|207:273|194:263|212:283|220:279|206:279|216:270|214:271|209:277|192:265|202</mapcoord>
+			<aggressive>3</aggressive>
+			<description>알트가르드의 티아마트의 제단에 서식하는 생명체. 오색 슬라임의 독에 쏘이면 목숨을 잃을 수도 있다.</description>
+		</creature>
+		<creature>
+			<code>1701</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1550|317:1611|177:1544|145:1596|139</realcoord>
+			<mapcoord>140|216:106|231:98|214:97|227</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 부락 서쪽 입구를 정찰하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1706</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1486|270:1571|369:1556|353</realcoord>
+			<mapcoord>129|200:153|221:149|218</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지와 무무 부락을 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1788</code>
+			<area code="1003">알트가르드</area>
+			<name>독주머니 램피스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1949|631:1991|614:2028|486:1907|594:1979|534:2072|462:2036|427:1987|577:2024|523:2022|601</realcoord>
+			<mapcoord>217|313:212|323:181|332:207|303:193|320:175|343:167|334:203|322:190|331:209|331</mapcoord>
+			<aggressive>3</aggressive>
+			<description>그리바데 협곡에 서식하는 독벌레. 한 번 문 먹잇감은 절대 놓지 않는다.</description>
+		</creature>
+		<creature>
+			<code>1792</code>
+			<area code="1003">알트가르드</area>
+			<name>두목 수마르혼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1305|483</realcoord>
+			<mapcoord>180|156</mapcoord>
+			<aggressive>3</aggressive>
+			<description>도굴단의 두목. 도굴단 은신처에 머물고 있다.</description>
+		</creature>
+		<creature>
+			<code>1824</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1622|252:1635|264:1527|150:1482|192:1620|265:1567|294:1540|279:1492|304:1557|305:1614|276:1539|405:1577|228:1601|152:1521|299:1517|276:1577|206:1474|186:1557|282:1548|415:1527|312:1443|340:1484|320:1491|287:1486|246</realcoord>
+			<mapcoord>124|233:127|237:99|210:110|199:127|233:135|220:131|214:137|202:137|218:130|231:162|213:118|223:100|228:136|209:130|208:113|223:108|197:131|218:164|216:139|210:146|190:141|200:133|201:123|200</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 부락을 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>1833</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 약초꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1604|137:1632|283:1636|182:1633|178:1601|280:1636|250:1467|196</realcoord>
+			<mapcoord>96|229:132|236:107|237:106|236:131|228:124|237:111|196</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 부락에 서식하는 무글.</description>
+		</creature>
+		<creature>
+			<code>1835</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 일꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1475|203:1461|224</realcoord>
+			<mapcoord>112|198:117|194</mapcoord>
+			<aggressive>0</aggressive>
+			<description>무무 부락에서 농사를 짓는 무글.</description>
+		</creature>
+		<creature>
+			<code>1839</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 파수꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1587|285:1493|197:1611|271:1538|156</realcoord>
+			<mapcoord>132|225:111|202:129|231:101|213</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 부락을 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>1870</code>
+			<area code="1003">알트가르드</area>
+			<name>새끼 알주머니 옥타사이드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1156|866:1149|878:1396|1023:1388|1005</realcoord>
+			<mapcoord>274|120:277|118:312|178:308|177</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1878</code>
+			<area code="1003">알트가르드</area>
+			<name>수풀 네펜데스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1297|937:1320|869:1271|889:1381|893:1329|893</realcoord>
+			<mapcoord>291|154:274|160:279|148:280|175:280|162</mapcoord>
+			<aggressive>3</aggressive>
+			<description>인테르디카에 서식하는 식인 식물. 마힌데르 습지의 꽃만이 꽃가루를 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>1884</code>
+			<area code="1003">알트가르드</area>
+			<name>스프리그 무법자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1949|618:1902|609:2067|505:2119|586:2064|441:2004|599:2030|515:2047|481:2064|477:2006|575:1989|635:2127|602:1991|526:2028|436:1968|629:1931|607:2042|448:2015|512:2098|568:2061|419:2002|516:2005|610:1892|618:2032|459:2142|599:2046|510</realcoord>
+			<mapcoord>213|313:211|302:186|342:206|354:170|341:209|327:188|333:180|337:179|341:203|327:217|323:209|356:191|323:169|332:216|318:211|309:172|336:188|329:201|349:165|340:189|326:211|327:213|299:175|333:209|360:187|337</mapcoord>
+			<aggressive>0</aggressive>
+			<description>그리바데 협곡에 서식하는 아인종. 빛나는 버섯을 먹어치워 채집꾼이 싫어한다.</description>
+		</creature>
+		<creature>
+			<code>1895</code>
+			<area code="1003">알트가르드</area>
+			<name>알주머니 옥타사이드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1272|852:1363|1036:1306|815:1355|1014:1289|799</realcoord>
+			<mapcoord>270|148:315|171:261|156:310|169:257|152</mapcoord>
+			<aggressive>3</aggressive>
+			<description>가르키온 서식지에 서식하는 곤충. 치명적인 독을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>1957</code>
+			<area code="1003">알트가르드</area>
+			<name>톱니볏 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1369|914:1334|919:1268|835:1361|903:1326|924</realcoord>
+			<mapcoord>285|172:287|163:266|147:283|170:288|161</mapcoord>
+			<aggressive>0</aggressive>
+			<description>가르키온 서식지에서 서식하는 새.</description>
+		</creature>
+		<creature>
+			<code>1965</code>
+			<area code="1003">알트가르드</area>
+			<name>포악한 가르키온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1299|988:1328|937:1365|803:1339|849:1312|967:1331|1006:1477|928:1338|827:1314|835:1263|932:1285|967:1360|728:1356|930:1308|871:1406|722:1420|787:1478|945:1398|779:1284|921:1293|897</realcoord>
+			<mapcoord>303|155:291|162:258|171:270|165:298|158:308|163:289|198:264|164:266|159:290|146:298|151:240|170:289|169:275|157:239|181:255|184:293|198:252|179:287|151:281|154</mapcoord>
+			<aggressive>3</aggressive>
+			<description>바스펠트 사냥터에 서식하는 덩치 큰 동물. 바스펠트 사냥꾼의 주요 사냥감이다.</description>
+		</creature>
+		<creature>
+			<code>1690</code>
+			<area code="1003">알트가르드</area>
+			<name>거대한 상자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1744|509</realcoord>
+			<mapcoord>187|263</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1694</code>
+			<area code="1003">알트가르드</area>
+			<name>검은 페트라겔름</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>2450|702:2458|764:2505|711:2527|794:2391|757:2417|731:2492|673:2415|812:2569|709:2533|749</realcoord>
+			<mapcoord>234|435:249|437:236|449:256|454:247|421:241|427:227|445:261|427:236|464:245|455</mapcoord>
+			<aggressive>3</aggressive>
+			<description>그리바데 화산호의 마법 생명체. 돌이 어떻게 마법의 힘을 갖게 됐는지는 아무도 모른다.</description>
+		</creature>
+		<creature>
+			<code>1698</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 고참 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1704|2032:1704|2034:1731|2211:1696|2186:1657|2212:1670|2151</realcoord>
+			<mapcoord>558|253:601|260:595|251:601|242:587|245</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지와 무무 부락을 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>5696</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 사냥꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1668|2184:1666|2163</realcoord>
+			<mapcoord>595|245:590|244</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지를 정찰하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1703</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 수색병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1509|309:1404|214:1483|314:1659|183</realcoord>
+			<mapcoord>138|206:115|181:139|200:107|243</mapcoord>
+			<aggressive>3</aggressive>
+			<description>무무 부락을 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1712</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1932|2242:1884|2378:1911|2396:1932|2404:1847|2298:1815|2261:1903|2290:1821|2258:1907|2261:1882|2386:1894|2332</realcoord>
+			<mapcoord>609|309:642|297:646|304:648|309:622|288:613|281:620|302:613|282:613|303:644|297:631|300</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지를 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1714</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 수색병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1915|2259:1915|2273:1881|2377:1897|2345:1878|2271</realcoord>
+			<mapcoord>613|305:616|305:642|297:634|300:616|296</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지 주변을 수색하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1716</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1939|2301:1899|2387:1946|2257:1909|2338:1896|2403:1867|2386:1880|2399:1940|2277:1930|2241:1928|2359</realcoord>
+			<mapcoord>623|311:644|301:612|312:632|303:648|300:644|293:647|296:617|311:609|308:637|308</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지를 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1733</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정찰병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1781|2201:1702|2177:1632|2243:1774|2206:1748|2223</realcoord>
+			<mapcoord>599|272:593|253:609|236:600|271:604|264</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지를 지키는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1790</code>
+			<area code="1003">알트가르드</area>
+			<name>독주머니 옥타사이드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1732|2080:1729|2100:1672|2111:1768|2064:1792|2036:1695|2063:1715|2061:1770|2044:1687|2125</realcoord>
+			<mapcoord>569|260:574|260:577|246:565|269:559|275:565|251:565|256:561|270:580|249</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지에 서식하는 벌레. 치명적인 독을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>1858</code>
+			<area code="1003">알트가르드</area>
+			<name>별딱지 바실리드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>2370|841:2413|843:2456|857:2392|834:2540|707:2253|463:2353|509:2530|680:2555|714:2491|665:2505|650:2446|752:2511|792:2441|736:2309|503:2245|490:2251|447:2431|694:2448|806:2392|851:2331|510:2402|792:2409|803:2517|667:2266|468:2530|689:2533|742</realcoord>
+			<mapcoord>268|416:268|426:272|437:266|421:235|457:176|387:187|412:228|455:237|461:225|445:221|449:246|434:256|450:242|433:185|401:182|385:172|387:232|430:259|435:270|421:187|406:256|423:258|425:225|451:177|390:231|455:244|455</mapcoord>
+			<aggressive>0</aggressive>
+			<description>주로 따뜻한 물에 사는 동물. 그리바데 화산호에 많다.</description>
+		</creature>
+		<creature>
+			<code>1940</code>
+			<area code="1003">알트가르드</area>
+			<name>초록 데브리</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>2377|800:2496|893:2459|828:2443|865:2439|726:2425|824:2541|783:2498|733</realcoord>
+			<mapcoord>258|417:280|446:265|437:273|433:240|433:263|429:253|457:241|447</mapcoord>
+			<aggressive>3</aggressive>
+			<description>그리바데 화산호 바닥에서 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1954</code>
+			<area code="1003">알트가르드</area>
+			<name>큰 발 가르키온</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1278|1004:1349|893:1240|911:1237|1004:1255|979:1199|931:1308|925:1229|946:1290|1019</realcoord>
+			<mapcoord>307|150:280|167:285|140:307|140:301|144:289|131:288|157:293|138:311|153</mapcoord>
+			<aggressive>3</aggressive>
+			<description>가르키온 서식지에서 꿀통을 지키는 가르키온. 꿀통을 건드리는 사람은 누구라도 공격한다.</description>
+		</creature>
+		<creature>
+			<code>1966</code>
+			<area code="1003">알트가르드</area>
+			<name>핏빛 데브리</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>2255|436:2265|455:2345|506:2357|501:2279|468:2272|422:2239|457:2234|475:2328|508:2256|477:2314|502:2281|446</realcoord>
+			<mapcoord>169|388:174|390:186|410:185|412:177|394:166|392:174|384:179|383:187|405:179|388:185|402:171|394</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1683</code>
+			<area code="1003">알트가르드</area>
+			<name>감시단 돌격 대장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1621|2594</realcoord>
+			<mapcoord>694|233</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1684</code>
+			<area code="1003">알트가르드</area>
+			<name>감시단 술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1736|2506:1681|2486:1690|2551:1738|2535</realcoord>
+			<mapcoord>673|261:668|248:684|250:680|262</mapcoord>
+			<aggressive>3</aggressive>
+			<description>칼바리아 언덕에 진을 친 수상한 사람들.</description>
+		</creature>
+		<creature>
+			<code>1686</code>
+			<area code="1003">알트가르드</area>
+			<name>감시단 호위병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1673|2510:1691|2537:1680|2481:1718|2542:1623|2593:1697|2510:1740|2525:1716|2510:1701|2544:1684|2520:1733|2548</realcoord>
+			<mapcoord>674|246:681|250:667|248:682|257:694|234:674|252:678|262:674|256:682|253:677|249:683|261</mapcoord>
+			<aggressive>3</aggressive>
+			<description>칼바리아 언덕에 있는 레파르 혁명단원.</description>
+		</creature>
+		<creature>
+			<code>1696</code>
+			<area code="1003">알트가르드</area>
+			<name>검은 페트라겔름 조각</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2634|1030:2592|1030:2613|1096:2571|1019:2666|1109</realcoord>
+			<mapcoord>314|480:314|470:330|475:311|465:333|488</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은 페트라겔름의 작은 조각. 크기는 작지만 검은 페트라겔름과 거의 비슷한 힘을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>5695</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 고참 사냥꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1769|2188:1663|2199:1667|2258:1659|2264:1723|2255</realcoord>
+			<mapcoord>596|269:598|244:613|245:614|243:612|258</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지를 정찰하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1700</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 망루병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1736|2209</realcoord>
+			<mapcoord>601|261</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1711</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 망루병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1970|2552:1824|2296</realcoord>
+			<mapcoord>684|318:622|283</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1723</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 주술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1958|2681:2045|2324:1984|2505:1901|2489:2047|2342:1910|2588:1916|2488:2029|2433:2017|2463</realcoord>
+			<mapcoord>716|315:629|336:673|322:669|301:633|337:693|304:669|305:655|333:663|330</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지의 정예 주술사.</description>
+		</creature>
+		<creature>
+			<code>1756</code>
+			<area code="1003">알트가르드</area>
+			<name>긴 목 코카트리스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1629|2442:1598|2392:1665|2545:1565|2410:1560|2375:1573|2376:1593|2485:1575|2347:1601|2638:1569|2433:1619|2460:1593|2318</realcoord>
+			<mapcoord>658|235:645|228:683|244:650|220:641|219:641|222:668|226:634|222:705|228:655|221:662|233:627|227</mapcoord>
+			<aggressive>3</aggressive>
+			<description>거대한 몸집의 새. 칼바리아 언덕에 많다.</description>
+		</creature>
+		<creature>
+			<code>1761</code>
+			<area code="1003">알트가르드</area>
+			<name>날쌘 주먹 누카카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>17</level>
+			<realcoord>1987|2688</realcoord>
+			<mapcoord>717|322</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1828</code>
+			<area code="1003">알트가르드</area>
+			<name>무무 숙련 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2407|2104:2384|2217:2463|2059:2073|2419:1971|2554:2484|2120:2388|2213:2067|2418:2470|2085:2418|2120:2077|2422:1985|2687:2148|2386</realcoord>
+			<mapcoord>575|425:603|419:564|438:652|343:685|318:579|443:602|420:652|342:571|440:579|427:653|344:717|322:644|362</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지를 지키는 무글.</description>
+		</creature>
+		<creature>
+			<code>1886</code>
+			<area code="1003">알트가르드</area>
+			<name>습지 네펜데스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1628|2178:1624|2226:1619|2202:1603|2174:1602|2262</realcoord>
+			<mapcoord>593|235:605|234:599|233:592|229:614|229</mapcoord>
+			<aggressive>3</aggressive>
+			<description>마힌데르 습지에 서식하는 식인 식물. 주로 큰 나무 아래에서 자란다.</description>
+		</creature>
+		<creature>
+			<code>1924</code>
+			<area code="1003">알트가르드</area>
+			<name>전율의 룬카카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>17</level>
+			<realcoord>2150|2386</realcoord>
+			<mapcoord>644|362</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1927</code>
+			<area code="1003">알트가르드</area>
+			<name>족장 마누무무</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1582|218</realcoord>
+			<mapcoord>116|224</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1935</code>
+			<area code="1003">알트가르드</area>
+			<name>진홍가시 램피스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2603|1144:2460|1105:2494|1111:2577|1109:2427|1096:2522|1152:2535|1119</realcoord>
+			<mapcoord>341|472:332|438:333|446:333|466:330|429:343|453:335|456</mapcoord>
+			<aggressive>3</aggressive>
+			<description>우르툼헤임에 서식하는 벌레. 독이빨로 상대방을 물어 중독시킨다.</description>
+		</creature>
+		<creature>
+			<code>1939</code>
+			<area code="1003">알트가르드</area>
+			<name>천리안 마타라</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>17</level>
+			<realcoord>2027|2314</realcoord>
+			<mapcoord>626|332</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1949</code>
+			<area code="1003">알트가르드</area>
+			<name>커다란 화물상자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1464|2441:1491|2496:1566|2206:1471|2415:1553|2204:1516|2419:1525|2482:1571|2192:1515|2496:1497|2480:1481|2429:1519|2438:1480|2459</realcoord>
+			<mapcoord>657|195:670|202:600|220:651|197:600|217:652|208:667|210:596|221:671|208:667|203:654|199:656|208:662|199</mapcoord>
+			<aggressive>0</aggressive>
+			<description>수레에서 언덕 아래로 굴러 떨어진 상자. 칼바리아 언덕 아래 강에 떠있다.</description>
+		</creature>
+		<creature>
+			<code>1688</code>
+			<area code="1003">알트가르드</area>
+			<name>감시대장 가트반</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>1721|2636</realcoord>
+			<mapcoord>705|258</mapcoord>
+			<aggressive>3</aggressive>
+			<description>레파르 혁명단 야영지의 감시단을 이끄는 우두머리.</description>
+		</creature>
+		<creature>
+			<code>1710</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 망루경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2207|2419:2332|2290:2131|2512:2278|2334:2265|2299</realcoord>
+			<mapcoord>652|376:621|406:674|358:631|393:623|390</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1719</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2065|2507:2245|2500:2190|2387:2117|2385:2211|2362:2083|2516:2113|2523:2218|2388:2125|2399:2107|2505:2211|2475:2151|2426:2220|2436:2112|2561:2172|2492:2102|2462:2197|2502:2128|2432:2098|2563:2165|2456:2097|2489:2153|2507:2021|2522:2125|2433:2111|2523:2204|2442:2121|2462:2118|2474:2114|2554:2188|2476:2197|2438:2171|2526</realcoord>
+			<mapcoord>673|341:671|385:644|372:643|354:638|377:675|346:677|353:644|379:647|356:673|352:665|377:654|362:656|379:686|353:670|368:662|350:672|373:655|357:687|349:661|366:669|349:673|363:677|331:655|356:657|375:662|355:665|354:685|353:666|371:657|373:678|367</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지와 검은발톱 부락을 지키는 전투병.</description>
+		</creature>
+		<creature>
+			<code>1722</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 제사장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2451|2228:2322|2312:2296|2135:2250|2204:2333|2110:2250|2195</realcoord>
+			<mapcoord>605|435:626|404:583|398:600|386:577|407:597|386</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부락에 있는 라이칸 제사장.</description>
+		</creature>
+		<creature>
+			<code>1727</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 탐색병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2174|2412:2165|2469:2021|2521:2078|2555:2152|2418:2126|2534:2151|2531:2182|2455:2099|2507:2242|2508</realcoord>
+			<mapcoord>650|368:664|366:677|331:685|345:652|362:680|356:679|362:661|370:673|350:674|385</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지와 검은발톱 부락을 서성이는 탐색병.</description>
+		</creature>
+		<creature>
+			<code>1730</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 호위병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2157|2425:2135|2394:2070|2473:2238|2403:2104|2431:2084|2528:2239|2438:2086|2367:2159|2458:2071|2481</realcoord>
+			<mapcoord>653|364:646|358:665|343:648|383:655|351:679|346:657|384:639|346:661|364:667|343</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지와 검은발톱 부락에 있는 라이칸 호위병.</description>
+		</creature>
+		<creature>
+			<code>1742</code>
+			<area code="1003">알트가르드</area>
+			<name>고대 마법사의 영혼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2561|1762:2563|1692:2556|1620:2545|1580:2585|1570:2546|1700:2633|1743:2598|1750:2630|1809</realcoord>
+			<mapcoord>492|462:475|463:457|461:447|458:445|468:477|459:487|480:489|471:503|479</mapcoord>
+			<aggressive>3</aggressive>
+			<description>오드의 흐름으로 돌아가지 못하고 임페투시움을 떠도는 영혼.</description>
+		</creature>
+		<creature>
+			<code>1744</code>
+			<area code="1003">알트가르드</area>
+			<name>고대 영웅의 영혼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2586|1550:2688|1619:2545|1740:2637|1704:2605|1586:2544|1595:2645|1834:2747|1657:2615|1802:2542|1718:2549|1634:2658|1663:2643|1728:2567|1781:2563|1608:2596|1686:2541|1565:2544|1677:2604|1667</realcoord>
+			<mapcoord>440|468:457|493:486|458:478|481:449|473:451|458:509|483:466|507:502|475:481|458:461|459:468|486:484|482:497|464:454|463:473|471:444|457:471|458:469|473</mapcoord>
+			<aggressive>3</aggressive>
+			<description>오드의 흐름으로 돌아가지 못하고 임페투시움을 떠도는 영혼.</description>
+		</creature>
+		<creature>
+			<code>1794</code>
+			<area code="1003">알트가르드</area>
+			<name>떠벌이 톡기</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>18</level>
+			<realcoord>2325|529:2433|652:2176|576:2063|444</realcoord>
+			<mapcoord>192|405:221|431:203|368:171|341</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1817</code>
+			<area code="1003">알트가르드</area>
+			<name>모래밭 캔서리드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2493|2243:2487|2275:2509|2301:2502|2265:2514|2247:2521|2255:2471|2271:2488|2262:2502|2304:2501|2271:2497|2332:2527|2261:2506|2268:2512|2336:2489|2310:2503|2298:2471|2296:2518|2333</realcoord>
+			<mapcoord>609|446:617|444:623|449:614|448:610|451:612|452:616|440:613|444:624|448:616|448:631|447:613|454:615|449:632|450:625|445:622|448:622|440:631|452</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드 검은발톱 부락에서 볼 수 있는 캔서리드의 일종.</description>
+		</creature>
+		<creature>
+			<code>1845</code>
+			<area code="1003">알트가르드</area>
+			<name>물보라 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2673|1713:2744|1698:2720|1516:2884|1672:2736|1671:2754|1480:2782|1552:2847|1595:2907|1683:2830|1618</realcoord>
+			<mapcoord>480|489:476|507:432|501:470|541:470|505:423|509:441|516:451|532:473|546:457|528</mapcoord>
+			<aggressive>3</aggressive>
+			<description>임페투시움의 심장 근처를 떠도는 물의 정령. 임페투시움이 파괴되면서 생겨난 물보라에서 발생했다.</description>
+		</creature>
+		<creature>
+			<code>1847</code>
+			<area code="1003">알트가르드</area>
+			<name>물안개 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2738|1524:2739|1502:2678|1736:2663|1628:2776|1578:2700|1725:2707|1646:2680|1561:2714|1686:2843|1656:2852|1631:2720|1552:2695|1541:2681|1639:2649|1564:2615|1553:2755|1546:2635|1586:2867|1611:2744|1589</realcoord>
+			<mapcoord>434|505:429|506:485|491:459|487:447|514:483|496:464|498:443|491:473|499:466|531:460|533:441|501:438|495:462|491:444|484:441|475:439|509:449|480:455|537:450|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description>임페투시움의 심장 근처를 떠도는 물의 정령. 물 웅덩이 근처에 핀 물안개에서 발생했다.</description>
+		</creature>
+		<creature>
+			<code>1893</code>
+			<area code="1003">알트가르드</area>
+			<name>안개바람 무바바</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>18</level>
+			<realcoord>2113|2557</realcoord>
+			<mapcoord>685|353</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1897</code>
+			<area code="1003">알트가르드</area>
+			<name>야생 류크록</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2607|2173:2441|2044:2552|2147:2399|2073:2442|1970:2574|2192:2542|2178:2582|2222:2414|2084:2603|2210</realcoord>
+			<mapcoord>592|473:560|433:586|460:568|423:542|433:597|465:593|458:604|467:570|426:601|472</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부락에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>1921</code>
+			<area code="1003">알트가르드</area>
+			<name>임페투시움 수호상</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2621|1679:2625|1632</realcoord>
+			<mapcoord>472|477:460|478</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1947</code>
+			<area code="1003">알트가르드</area>
+			<name>칼바람 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2866|1576:2570|1493:2467|1550:2505|1664:2793|1520:2777|1538:2609|1473:2720|1820:2588|1478:2456|1574:2646|1477:2435|1556:2674|1484:2713|1474:2504|1632:2412|1546:2532|1658:2696|1501</realcoord>
+			<mapcoord>447|536:426|464:440|439:468|449:433|519:437|515:422|474:506|501:423|469:446|437:423|483:442|431:424|490:422|499:460|448:439|426:467|455:428|495</mapcoord>
+			<aggressive>3</aggressive>
+			<description>임페투시움을 떠도는 바람의 정령. 재건 공사를 방해하는 골칫거리 중 하나이다.</description>
+		</creature>
+		<creature>
+			<code>1951</code>
+			<area code="1003">알트가르드</area>
+			<name>코카트리스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2494|1190:2450|1307:2668|1079:2620|1102:2702|1082:2546|1154:2677|1101:2552|1116:2426|1237:2570|1122:2443|1273:2514|1222:2465|1152:2400|1315:2724|1080:2398|1271:2601|1145:2384|1121:2512|1118:2462|1256:2434|1332:2634|1074:2474|1327:2469|1188:2410|1122:2595|1102:2412|1261:2477|1234:2415|1292:2410|1345:2392|1252:2514|1245:2480|1213:2622|1138</realcoord>
+			<mapcoord>353|446:381|435:326|488:331|477:326|496:344|458:331|490:335|460:364|429:336|464:373|434:360|451:343|439:383|423:326|502:372|422:342|472:336|419:335|450:369|438:387|431:324|480:386|441:352|440:336|425:331|471:370|426:363|442:377|427:390|425:368|421:366|451:358|442:340|477</mapcoord>
+			<aggressive>3</aggressive>
+			<description>우르툼헤임에 서식하는 덩치 큰 새. 길가를 지키며 지나는 사람들을 공격한다.</description>
+		</creature>
+		<creature>
+			<code>1959</code>
+			<area code="1003">알트가르드</area>
+			<name>투명한 오케아램피스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2667|1562:2520|1725:2519|1751:2527|1614:2567|1671:2522|1697:2579|1735:2664|1752:2619|1776:2593|1780:2613|1542:2576|1537:2572|1642:2599|1735:2580|1705:2564|1721:2642|1768:2560|1535:2616|1715:2649|1580:2630|1563:2533|1762:2529|1782</realcoord>
+			<mapcoord>443|488:483|452:489|452:456|454:470|464:476|453:485|466:489|487:495|476:496|470:438|475:437|466:463|465:485|471:478|467:482|463:493|482:437|462:481|476:447|484:443|479:492|455:497|454</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>1972</code>
+			<area code="1003">알트가르드</area>
+			<name>회오리 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2795|1412:2826|1737:2855|1447:2465|1690:2867|1731:2803|1752:2762|1526:2763|1611:2913|1619:2476|1630:2684|1837:2659|1849:2837|1475:2824|1580:2882|1637:2739|1787:2815|1451:2783|1741:2805|1592:2803|1540:2783|1616:2770|1785:2575|1797</realcoord>
+			<mapcoord>407|519:486|527:415|534:474|439:484|537:489|521:434|511:455|511:457|548:460|441:510|492:513|486:422|529:448|526:461|540:498|505:416|524:487|516:451|521:438|521:456|516:497|513:500|466</mapcoord>
+			<aggressive>3</aggressive>
+			<description>임페투시움을 떠도는 바람의 정령. 재건 공사를 방해하는 골칫거리 중 하나이다.</description>
+		</creature>
+		<creature>
+			<code>1708</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 대주술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2524|2558:2484|2590:2478|2628:2413|2535:2343|2155:2301|2192:2401|2172:2489|2542:2458|2553</realcoord>
+			<mapcoord>686|453:694|443:703|442:680|426:588|409:597|399:592|423:682|445:685|437</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부락과 젠카카의 무덤에서 볼 수 있는 라이칸 주술사.</description>
+		</creature>
+		<creature>
+			<code>1725</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 치료사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2441|2590:2314|2204:2321|2233:2477|2590:2249|2200:2396|2522:2446|2280:2506|2546:2352|2205</realcoord>
+			<mapcoord>693|433:599|402:607|404:694|442:598|386:677|422:618|434:683|449:600|411</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부락에서 검은발톱 부족원의 치유를 담당하는 라이칸.</description>
+		</creature>
+		<creature>
+			<code>1774</code>
+			<area code="1003">알트가르드</area>
+			<name>대주술사 아비쟈</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>19</level>
+			<realcoord>1932|2389</realcoord>
+			<mapcoord>645|309</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 주둔지 라이칸의 우두머리.</description>
+		</creature>
+		<creature>
+			<code>5697</code>
+			<area code="1003">알트가르드</area>
+			<name>주술사 가바챠</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>1652|2226</realcoord>
+			<mapcoord>605|241</mapcoord>
+			<aggressive>3</aggressive>
+			<description>대주술사 아비쟈를 이어 검은발톱 라이칸의 대주술자가 될 계승자</description>
+		</creature>
+		<creature>
+			<code>1718</code>
+			<area code="1003">알트가르드</area>
+			<name>검은발톱 정예 전투대장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2473|2589:2495|2544:2521|2642:2475|2601</realcoord>
+			<mapcoord>693|441:682|446:706|452:696|441</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부족의 정예 전투대장. 젠카카의 무덤에 있다.</description>
+		</creature>
+		<creature>
+			<code>1928</code>
+			<area code="1003">알트가르드</area>
+			<name>족장 쿰바룬</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2460|2597</realcoord>
+			<mapcoord>695|438</mapcoord>
+			<aggressive>3</aggressive>
+			<description>검은발톱 부족의 족장 쿰바룬. 젠카카의 무덤 깊숙한 곳에 있다.</description>
+		</creature>
+		<creature>
+			<code>1929</code>
+			<area code="1003">알트가르드</area>
+			<name>죽음의 냉기 스타레아</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>20</level>
+			<realcoord>2720|1706:2635|1566:2949|1637:2950|1725</realcoord>
+			<mapcoord>478|501:444|480:461|557:483|557</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>28</code>
+			<area code="1003">알트가르드</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1706|1959:1581|1751:1765|1680:1517|1834:1611|1953:1619|1862:1594|1692:1669|1724:1851|1759:1731|1806:1564|1991:1671|1844:1830|1926:1486|1694:1558|1637:1805|1607:1606|1895:1500|1942:1655|1631:1442|1820</realcoord>
+			<mapcoord>540|254:489|223:472|268:509|208:538|231:516|233:475|227:483|245:491|289:503|260:548|220:512|245:532|284:475|200:461|218:454|278:524|230:536|204:460|241:506|190</mapcoord>
+			<level>1</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>29</code>
+			<area code="1003">알트가르드</area>
+			<name>안누스</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1486|779:1640|1490:1496|736:1777|1311:1942|1118:1438|789:1551|1341:1506|1399:1426|1175:1370|681:1485|1486:1448|1493:1819|1253:1724|1127:1766|1133:1624|1175:1578|1416:1460|1394:1421|686:1467|920:1527|650:1434|1326:1931|1036:1489|1209:1775|1185:1584|1248:1758|1376:1840|1136:1426|1446:1614|682:1557|1135:1363|1382:1698|1221:1610|1435:1647|720:1368|804:1524|1232:1715|1176:1865|1073:1511|1312:1404|1350:1776|1248</realcoord>
+			<mapcoord>252|200:426|238:242|203:382|271:335|311:255|189:389|216:403|205:349|186:229|172:425|200:426|191:368|281:337|258:339|268:349|234:408|223:402|194:230|185:287|196:221|210:386|188:315|309:357|201:351|271:367|224:398|267:339|287:415|186:229|232:339|218:399|171:360|252:412|230:238|240:259|172:363|210:349|256:324|293:382|206:391|180:367|271</mapcoord>
+			<level>1</level>
+			<harvests>,152000451:8000000:1:icon_item_herb01:안누스,152000452:2000000:2:icon_item_herb01_r:신선한 안누스,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>32</code>
+			<area code="1003">알트가르드</area>
+			<name>코니데</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1568|1966:1780|1688:1687|1644:1813|1925:1834|1864:1893|1976:1573|1669:1820|1765:1432|1680:1516|1919</realcoord>
+			<mapcoord>541|220:474|272:463|249:532|280:517|285:544|299:469|221:493|282:472|187:530|208</mapcoord>
+			<level>1</level>
+			<harvests>,152001051:10000000:1:icon_item_seefood05:코니데,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>38</code>
+			<area code="1003">알트가르드</area>
+			<name>푸제리</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1564|2002:1469|1875:1795|1971:1646|1628:1645|2011:1500|1668:1769|1641:1870|1874:1831|1654:1511|886:1429|1813:1316|1150:1551|906:1285|1214:1296|1179:1513|844</realcoord>
+			<mapcoord>550|219:519|196:543|276:459|239:553|239:469|204:462|269:519|294:466|284:279|206:504|186:343|159:284|216:358|151:350|154:268|207</mapcoord>
+			<level>5</level>
+			<harvests>,152000851:10000000:1:icon_item_fish02:푸제리,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>36</code>
+			<area code="1003">알트가르드</area>
+			<name>레이담</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1824|1088:1845|1153:1901|1028:1921|985:1909|1094:1810|1193:1861|1006:1721|1109</realcoord>
+			<mapcoord>328|283:344|288:313|301:303|306:329|303:353|279:308|292:333|258</mapcoord>
+			<level>10</level>
+			<harvests>,152000751:10000000:1:icon_item_fruit07:레이담,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>24</code>
+			<area code="1003">알트가르드</area>
+			<name>철</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2606|1154:2506|812:1832|1201:1835|1279:1791|381:1912|357:1352|1258:1792|1330:2414|706:1961|1122:1545|559:1241|835:1812|1352:2480|1300:2393|2126:1377|796:1259|989:1827|1530:1393|540:1644|755:1333|906:1874|510:2577|1041:1531|1529:1569|1499:1199|1003:1381|1418:2429|768:2744|1080:2665|1029:1445|1472:1943|419:1585|465:1441|1501:2664|1121:1912|1869:1953|1725:1912|1127:1638|1452:1284|875:2269|2290:1857|949:1896|1542:2392|2100:1960|1811:2357|2324:1805|1400:2449|1179:1952|1031:1859|1510:1357|669:1669|571:1689|1486:2471|1099:1344|619:2490|638:1251|807:1304|627:1656|1295:1447|1536:1337|1021:1184|927:1498|1519:1914|2040:2693|1103:1509|909:1262|865:1350|785:1152|861:1301|1289:2541|825:1365|1357:1638|992:1478|538:1522|788:2318|2334:1413|662:1874|2000:1325|877:1917|1635:2606|1031:1545|1511:1932|1672:1325|1277:2548|750:2618|1057:1804|1311:1733|651:1480|955:1932|972:1356|1134:1588|1021:1635|653:1357|1392:2383|739:2316|851:2431|1961:1179|851:2437|874:2403|1233:2380|1112:1285|1032:1978|1783:1837|359:1692|1295:1333|803:2519|1161:2326|2097:1264|787:1717|1434:2528|661:1701|1337:2533|2204:1817|299:2342|804:1438|475:2692|1065:1909|1941:2470|2206:1474|804:2580|863:2571|848:2616|1092:1380|1185:1477|1523:1965|1748:1925|1982:2548|1102:1708|1308:1886|1150:1396|1030:1423|886:1785|1414:1593|646:1160|920:1733|1365:2496|917:1823|1220:1489|443:1461|663:2516|1202:1611|1501:1372|517:2459|917:2248|2178:1956|1677:1374|926</realcoord>
+			<mapcoord>344|473:260|449:355|285:374|285:156|275:150|304:369|168:387|275:235|426:336|316:199|215:266|141:392|280:379|442:580|421:257|174:304|145:435|284:194|178:247|239:283|163:187|295:316|466:435|211:428|221:307|131:408|175:250|430:326|507:313|487:421|190:165|312:176|224:428|189:336|487:518|304:483|314:337|304:416|237:276|151:620|391:294|291:438|300:574|421:504|316:629|412:404|278:350|435:314|314:430|291:226|169:202|245:425|250:330|440:214|166:218|445:259|143:215|156:378|242:437|191:311|164:289|127:433|203:560|305:331|494:284|206:273|146:254|167:272|119:377|155:264|457:393|171:304|237:194|198:255|209:631|403:224|183:550|295:276|161:461|305:314|473:431|215:470|309:374|161:246|459:320|476:382|278:221|261:295|199:299|309:339|169:311|225:222|237:402|169:243|419:270|403:540|431:270|126:276|432:363|424:334|418:314|152:497|320:150|286:378|250:258|163:346|452:573|405:254|146:412|257:224|454:388|253:599|455:136|281:259|409:178|189:322|494:536|303:600|440:259|197:273|467:269|464:329|476:351|175:434|198:489|317:545|307:331|459:381|254:343|298:314|179:279|185:407|273:220|226:287|121:395|260:286|446:360|282:171|201:224|194:355|451:428|231:189|173:286|437:593|386:471|315:288|173</mapcoord>
+			<level>15</level>
+			<harvests>,152000201:10000000:1:icon_item_rock01e:철 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>44</code>
+			<area code="1003">알트가르드</area>
+			<name>오크라</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1788|1208:1905|992:1912|1040:1851|1091:1928|1072:1711|1153:1812|1226:1848|1013:1799|1109:1863|926:1951|1085:1849|1071:1871|1123:1941|995:1931|1114:1811|1178</realcoord>
+			<mapcoord>357|274:304|302:316|304:328|289:324|308:344|255:361|280:310|289:333|277:288|292:327|314:324|289:336|294:305|311:334|309:350|280</mapcoord>
+			<level>20</level>
+			<harvests>,152000051:10000000:1:icon_item_vegetable03:오크라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>25</code>
+			<area code="1003">알트가르드</area>
+			<name>나파게리아</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1611|2538:1593|2682:1888|955:1646|2691:1871|1151:1353|935:1268|846:1361|1041:2145|596:1713|979:1649|1427:1397|1417:1604|2147:2016|2553:1222|975:2279|493:1403|1285:1441|1376:2038|433:1559|1198:1730|2622:1910|2466:1234|872:1575|2234:1691|2154:1624|2188:2065|2452:1733|1295:1905|1054:1383|884:1523|1439:2336|532:1327|988:2012|566:1369|947:1309|963:1865|993:1593|1482:1560|1374:1420|1426:1787|2039:1550|1433:1610|2398:1739|1167:1669|2250:1730|2518:2339|674:1380|1216:1674|1199:1762|1234:1716|2077:2026|489:1737|2217:1688|1463:1411|1225:1813|1134:1291|902:1616|1105:1844|1042:1692|1417:1330|921:1830|2302:1641|2447:1189|950:2190|584:1770|1340:1738|877:2075|469:1527|1299:1970|643:1988|2411:1486|1257:1696|1246:1695|2582:1568|2578:1717|2472</realcoord>
+			<mapcoord>681|231:716|226:295|298:718|239:343|294:291|168:269|147:316|170:208|361:301|256:410|240:408|179:586|229:684|329:300|136:183|393:376|180:398|189:168|335:354|218:701|260:663|304:275|139:607|222:587|250:596|234:660|341:378|260:320|302:278|175:413|209:192|407:303|162:201|328:293|172:297|157:305|293:424|226:397|218:410|184:559|274:412|216:647|231:347|262:611|245:676|260:227|408:359|175:355|246:363|268:569|256:182|332:603|262:419|249:361|182:339|280:282|153:332|232:317|288:408|251:287|162:623|284:659|238:294|128:205|372:389|269:276|262:177|344:379|210:219|318:650|323:369|201:366|252:691|251:690|220:665|257</mapcoord>
+			<level>25</level>
+			<harvests>,152000651:10000000:1:icon_item_jute01b:나파게리아 솜,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>27</code>
+			<area code="1003">알트가르드</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1665|1992:2620|1747:2596|1680:2490|1640:1713|1758:1802|1873:1719|1908:2718|1613:2571|1585:1887|1688:1556|1814:1713|1653:2546|1707:1890|1861:2664|1801:2565|1792:2588|1510:1442|1715:1514|1906:2648|1550</realcoord>
+			<mapcoord>548|244:488|477:472|471:462|445:491|256:519|277:528|257:456|500:449|465:474|298:505|217:465|256:479|458:516|299:501|487:499|463:430|469:480|190:527|207:440|483</mapcoord>
+			<level>25</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>45</code>
+			<area code="1003">알트가르드</area>
+			<name>테코마 나무</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2602|956:2583|949:1721|2556:1185|967:1207|921:1558|2359:1549|1283:1263|828:2568|961:1473|1408:1377|906:1615|1043:1315|1011:1665|972:1371|966:1751|948:1564|1106:1593|2656:1410|1247:1808|873:1633|1149:1152|891:1297|805:1453|1238</realcoord>
+			<mapcoord>296|472:294|467:685|258:298|127:287|133:637|218:375|216:265|146:297|464:406|197:283|174:317|232:309|159:299|244:298|172:294|265:332|219:709|226:366|182:275|279:342|236:280|119:259|154:364|192</mapcoord>
+			<level>30</level>
+			<harvests>,152000551:10000000:1:icon_item_log01a:테코마 나무,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>40</code>
+			<area code="1003">알트가르드</area>
+			<name>은</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1833|1259:1564|816:1462|836:1557|846:1410|733:1971|1098:1850|1178:1366|825:1305|651:1865|974:1932|1064:1451|776:1818|1032:1383|834:1441|911:1885|947:1812|1379:1562|919:1547|716:1947|974:1763|1411:1359|787:1577|898:1383|636:1331|627:1789|1091</realcoord>
+			<mapcoord>369|285:262|219:266|195:269|218:241|182:330|318:350|289:264|171:221|156:300|293:322|309:252|192:314|281:266|175:285|189:293|298:399|280:287|219:237|215:300|313:406|268:254|169:281|223:218|175:216|163:329|274</mapcoord>
+			<level>35</level>
+			<harvests>,152000101:10000000:1:icon_item_rock02a:은 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>31</code>
+			<area code="1003">알트가르드</area>
+			<name>로즈쿼츠</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1612|576:1546|892:1370|830:1326|697:1445|854:1346|664:1450|687:1573|575:1490|917:1570|917</realcoord>
+			<mapcoord>203|231:280|215:265|172:233|161:271|190:224|166:230|192:203|222:286|201:286|221</mapcoord>
+			<level>40</level>
+			<harvests>,152000301:10000000:2:icon_item_gemstone02c:로즈쿼츠 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>34</code>
+			<area code="1003">알트가르드</area>
+			<name>카렌두라</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1612|138:2007|2659:2365|854:2230|495:1230|934:2244|2439:2862|1482:2343|814:2668|1501:2518|896:1370|172:2537|704:2587|1843:1936|2250:1607|736:1384|396:2016|2460:1544|328:2693|1705:2234|538:1362|912:2442|893:1759|2216:1622|2222:1190|857:1982|561:1461|348:1699|2173:2141|627:2440|1646:2364|826:1570|690:1383|669:1774|2060:1282|970:2288|608:1291|328:2055|2319:2065|2511:2157|2482:1436|720:1495|672:1510|169:1341|273:1368|718:1659|2128:2512|675:2087|573:2409|843:1317|877:1390|745:1885|2410:2549|866:2002|628:2562|716:1241|996:2772|1560:1329|654:1370|277:1438|824:1478|754:2185|517:2469|1538:2462|680:2788|1757:1442|201:1387|1011:2574|1626:2057|407</realcoord>
+			<mapcoord>97|231:710|327:271|414:183|382:290|138:657|385:424|536:261|409:428|488:281|452:105|172:234|456:512|468:611|310:242|230:159|175:662|329:143|215:478|494:194|382:285|170:280|433:603|267:604|233:271|128:199|321:148|194:592|252:215|360:464|433:264|414:231|221:226|175:564|271:299|151:211|396:143|153:627|339:674|341:667|364:238|188:227|203:104|206:129|165:238|172:581|242:227|450:202|347:268|425:276|159:244|177:650|297:274|459:216|326:237|462:305|141:443|514:222|162:130|172:263|189:246|198:189|371:437|440:228|438:491|517:112|190:309|176:459|465:162|339</mapcoord>
+			<level>45</level>
+			<harvests>,152000453:8000000:1:icon_item_herb03:카렌두라,152000454:2000000:2:icon_item_herb03_r:신선한 카렌두라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>30</code>
+			<area code="1003">알트가르드</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2622|1808:1787|1755:2486|1785:2765|1634:1591|1819:1449|1916:2485|1577:2630|1707:1550|1706:2439|1634:2593|1574:2693|1697:1564|1912:1702|1617:2624|1610:2712|1533:1707|1834:1620|2008:1826|1691:1744|1607</realcoord>
+			<mapcoord>503|477:490|274:497|444:461|512:506|226:529|192:447|444:478|479:478|216:461|433:446|470:476|494:528|219:457|253:455|477:436|499:509|254:552|233:475|283:454|263</mapcoord>
+			<level>50</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>41</code>
+			<area code="1003">알트가르드</area>
+			<name>오톰블리스</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1848|643:1501|488:1639|437:1323|293:1581|206:1405|239:1513|304:1811|322:1634|254:1447|147:1634|152:1732|617:1485|234</realcoord>
+			<mapcoord>219|289:182|204:169|238:134|161:113|224:121|181:137|207:141|280:125|236:99|191:100|237:213|260:120|200</mapcoord>
+			<level>50</level>
+			<harvests>,152000752:10000000:1:icon_item_fruit10:오톰블리스,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>37</code>
+			<area code="1003">알트가르드</area>
+			<name>주키니</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1661|2481:1452|168:1769|380:1720|2640:1578|2474:1808|575:1466|478:1343|293:1511|447:1454|275:1414|246:1422|259:1556|478:1541|532:1872|393:1549|152:1626|2660:1388|493:1644|530:1621|2434:1568|277</realcoord>
+			<mapcoord>667|243:104|192:155|269:706|257:665|223:203|279:179|196:134|165:172|206:130|193:123|183:126|185:179|217:192|214:158|294:100|216:711|234:183|176:192|239:656|233:130|220</mapcoord>
+			<level>55</level>
+			<harvests>,152000052:10000000:1:icon_item_vegetable05:주키니,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>35</code>
+			<area code="1003">알트가르드</area>
+			<name>크리스탈</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2557|729:1139|874:2569|1167:1208|895:2489|688:1318|816:1324|792:2357|771:1305|933:2624|1082:2530|856:1171|934:2472|924:2527|908:1291|870:2401|1155</realcoord>
+			<mapcoord>240|461:276|116:347|464:281|133:230|445:262|159:256|161:251|412:290|156:326|477:271|455:290|124:288|441:284|454:275|153:344|423</mapcoord>
+			<level>60</level>
+			<harvests>,152000303:10000000:2:icon_item_gemstone02e:크리스탈 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>33</code>
+			<area code="1003">알트가르드</area>
+			<name>네가</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2646|1574:2279|464:1575|2207:1548|858:1657|243:2624|1771:2383|789:2567|1671:1426|2387:1507|2426:1538|843:2571|1716:2740|1700:1715|498:1654|222:1530|825:1763|576:1789|516:1530|859:2498|754:1570|2112:2616|1711:2715|1709:2266|396:1524|2477:1556|896:1702|537:1553|2206:2342|505:2524|1748:1770|451:1564|883:2522|1601:1518|874:2567|1537:2482|846</realcoord>
+			<mapcoord>446|483:176|394:600|222:272|216:122|242:494|478:255|419:470|464:644|186:654|206:268|213:481|465:477|506:184|256:117|241:264|211:203|268:189|274:272|211:247|447:577|221:479|476:479|500:159|390:666|210:281|217:193|253:600|217:186|409:488|453:173|270:278|219:453|453:276|208:437|464:269|443</mapcoord>
+			<level>65</level>
+			<harvests>,152000852:10000000:1:icon_item_fish03:네가,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>47</code>
+			<area code="1003">알트가르드</area>
+			<name>호르토</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1540|2401:1635|2602:1583|2308:2297|561:2168|536:2068|520:1581|2533:2284|674:1671|2554:2060|478</realcoord>
+			<mapcoord>648|214:697|237:625|224:199|398:193|366:189|342:680|224:227|395:685|245:179|340</mapcoord>
+			<level>75</level>
+			<harvests>,152000053:10000000:1:icon_item_vegetable04:호르토,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>48</code>
+			<area code="1003">알트가르드</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2667|1750:2707|1572:2534|1637:2660|1847:2535|1536:2572|1754:2473|1692:2635|1482:2618|1563:2446|1721</realcoord>
+			<mapcoord>489|488:446|498:461|456:513|486:437|456:490|465:475|441:424|480:443|476:482|434</mapcoord>
+			<level>75</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>43</code>
+			<area code="1003">알트가르드</area>
+			<name>아메시스트</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2516|1258:2369|1309:2539|1109:2431|1129:2391|1096:2428|1092:2635|1140:2531|1215:2591|1082:2557|1021</realcoord>
+			<mapcoord>369|451:381|415:333|457:338|431:330|421:329|430:340|480:359|455:326|469:311|461</mapcoord>
+			<level>80</level>
+			<harvests>,152000302:10000000:2:icon_item_gemstone02b:아메시스트 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>39</code>
+			<area code="1003">알트가르드</area>
+			<name>블리코라</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2471|2481:2549|2624:2788|1619:2477|2313:2725|1620:2903|1477:2679|1778:2582|1550:2494|2247:2478|2532:2483|1650:2901|1632:2561|1764:2863|1743:2807|1427:2501|2594</realcoord>
+			<mapcoord>667|440:702|459:457|517:626|442:457|502:423|545:496|491:440|467:610|446:679|442:465|443:460|545:492|462:487|536:410|522:694|447</mapcoord>
+			<level>85</level>
+			<harvests>,152001052:10000000:1:icon_item_seefood07:블리코라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>26</code>
+			<area code="1003">알트가르드</area>
+			<name>베일리</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2472|1625:2658|1840:2624|1799:2598|1748:2760|1652:2562|1698:2544|1552:2671|1673:2765|1609:2593|1677:2619|1602:2544|1741:2638|1743:2629|1691:2571|1473:2688|1761:2685|1624:2539|1676:2490|1508:2506|1634:2466|1694:2660|1710:2707|1572:2600|1515</realcoord>
+			<mapcoord>459|441:511|486:501|477:488|471:465|511:476|462:441|458:470|489:455|512:471|470:453|476:487|458:487|481:475|479:422|465:492|493:458|492:471|457:430|445:461|449:475|439:479|486:446|498:432|472</mapcoord>
+			<level>90</level>
+			<harvests>,152000753:10000000:1:icon_item_fruit04:베일리,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>46</code>
+			<area code="1003">알트가르드</area>
+			<name>키사키</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2552|2479:2586|2595:2536|2304:2526|2275:2570|2493:2510|2466:2520|2327</realcoord>
+			<mapcoord>667|460:695|468:624|456:617|454:670|464:663|450:629|452</mapcoord>
+			<level>95</level>
+			<harvests>,152000853:10000000:1:icon_item_fish04:키사키,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>42</code>
+			<area code="1003">알트가르드</area>
+			<name>커다란 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2532|1835:2573|1622:2506|1715:2715|1769:2523|1774:2581|1716:2647|1682:2737|1696:2499|1527:2775|1574</realcoord>
+			<mapcoord>510|455:458|465:481|449:494|500:495|453:481|467:472|483:476|505:435|447:446|514</mapcoord>
+			<level>100</level>
+			<harvests>,152000902:8000000:1:icon_item_od03:오드 결정체,152000903:2000000:2:icon_item_od03_r:순도 높은 오드 결정체,</harvests>
+			<count>5</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1003</code>
+			<name>알트가르드</name>
+			<mmap>1003_768m</mmap>
+			<smap>1003_768s</smap>
+		</area>
+	</areas>
+</resultdata>

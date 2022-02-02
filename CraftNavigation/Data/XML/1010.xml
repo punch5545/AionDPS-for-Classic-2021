@@ -1,0 +1,5187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1010" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>2403</code>
+			<area code="1010">어비스 하층</area>
+			<name>가그라드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1173|1970</realcoord>
+			<mapcoord>482|166</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황나무 열도의 크라티온 분쟁지에 파견된 붉은 헤시아 군단병. 보급담당으로 어쩐지 머슴으로 부려지는 듯하다.</description>
+		</creature>
+		<creature>
+			<code>5639</code>
+			<area code="1010">어비스 하층</area>
+			<name>가도룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>961|3027</realcoord>
+			<mapcoord>664|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2404</code>
+			<area code="1010">어비스 하층</area>
+			<name>가른테이아</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>방어구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>905|2960</realcoord>
+			<mapcoord>653|120</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 어비스 공훈 기록관. 어비스 포인트의 보상으로 방어구를 지급하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2405</code>
+			<area code="1010">어비스 하층</area>
+			<name>갈바게스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>925|2994</realcoord>
+			<mapcoord>659|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 요새에 있는 파멸의 외침 군단장. 능력은 뛰어나나 상부에서 무리한 지시를 하면 은근히 반항한다.</description>
+		</creature>
+		<creature>
+			<code>2406</code>
+			<area code="1010">어비스 하층</area>
+			<name>강글로트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2014|3223</realcoord>
+			<mapcoord>698|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 강철의 무덤에 파견된 신관. 마법과 기도의 힘으로 언데드를 정화하는 일을 하고 있다. 언데드 퇴치 분야에서 꽤 유명하다.</description>
+		</creature>
+		<creature>
+			<code>2407</code>
+			<area code="1010">어비스 하층</area>
+			<name>걀프</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2013|3227</realcoord>
+			<mapcoord>699|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 강철의 무덤에 있는 파멸의 외침 군단병. 강글로트를 지켜보며 신관이 되어보고 싶다는 생각을 하게 됐다.</description>
+		</creature>
+		<creature>
+			<code>2409</code>
+			<area code="1010">어비스 하층</area>
+			<name>게니우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3139|1008</realcoord>
+			<mapcoord>316|505</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 어비스 전투에서의 필수품 키스크의 사용법과 효용에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2410</code>
+			<area code="1010">어비스 하층</area>
+			<name>게퓬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3140|3398</realcoord>
+			<mapcoord>728|505</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 유배의 섬에 있는 파멸의 외침 부관. 서로 의지하며 살아 온 딸이 용족에 의해 소멸된 아픈 과거가 있다.</description>
+		</creature>
+		<creature>
+			<code>5647</code>
+			<area code="1010">어비스 하층</area>
+			<name>고이몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2912|925</realcoord>
+			<mapcoord>302|466</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 거점에 있는 슈고. 귀한 동전을 모은다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2416</code>
+			<area code="1010">어비스 하층</area>
+			<name>구드하르텐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1354|1170</realcoord>
+			<mapcoord>344|197</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황 나무 열도의 유황 나무 요새 내 작전참모. 넉넉한 아량의 소유자.</description>
+		</creature>
+		<creature>
+			<code>2417</code>
+			<area code="1010">어비스 하층</area>
+			<name>그라니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2972|1044</realcoord>
+			<mapcoord>322|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 침착한 성격으로 다른 군단병들을 다독이는 역할을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2418</code>
+			<area code="1010">어비스 하층</area>
+			<name>그루스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3001|880</realcoord>
+			<mapcoord>294|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 신관. 싸움을 잘하는 신관으로 나니의 말이라면 무엇이든지 따른다.</description>
+		</creature>
+		<creature>
+			<code>2419</code>
+			<area code="1010">어비스 하층</area>
+			<name>그룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>909|3018</realcoord>
+			<mapcoord>663|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 어비스 연구가. 어비스에 관한 자신의 이론을 증명하기 위해 에레슈란타에서 연구 중이다.</description>
+		</creature>
+		<creature>
+			<code>2420</code>
+			<area code="1010">어비스 하층</area>
+			<name>글라드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>949|2972</realcoord>
+			<mapcoord>655|127</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 입구 안쪽에 서 있는 프리뭄의 수호자 군단병. 순종적인 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2421</code>
+			<area code="1010">어비스 하층</area>
+			<name>글라우코스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>무기담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2945|887</realcoord>
+			<mapcoord>295|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 1층에 있는 어비스 공훈 기록관. 무기류를 관리한다.</description>
+		</creature>
+		<creature>
+			<code>2422</code>
+			<area code="1010">어비스 하층</area>
+			<name>글라티</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1182|1960</realcoord>
+			<mapcoord>480|168</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황나무 열도의 크라티온 분쟁지에 파견된 붉은 헤시아 군단병. 전투능력이 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>2423</code>
+			<area code="1010">어비스 하층</area>
+			<name>기미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2105|586</realcoord>
+			<mapcoord>243|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 서쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 어비스 공기가 나빠서 피부가 안 좋아졌다고 생각하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2426</code>
+			<area code="1010">어비스 하층</area>
+			<name>나구룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2949|762</realcoord>
+			<mapcoord>274|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 슈고 일꾼. 인간 손에 자라서 인간의 말투를 쓴다. 동생인 조미룽을 아끼는 다정한 형이다.</description>
+		</creature>
+		<creature>
+			<code>2427</code>
+			<area code="1010">어비스 하층</area>
+			<name>나글파리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2096|586</realcoord>
+			<mapcoord>243|325</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 서쪽 줄기 하층에 있는 프리뭄의 수호자 군단병 리더. 두파를 마음에 두고 있다는 티가 팍팍 난다. 하지만 정작 본인은 남들이 모를 거라고 생각하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2428</code>
+			<area code="1010">어비스 하층</area>
+			<name>나니</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3012|871</realcoord>
+			<mapcoord>292|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 신성의 보호자. 자신의 신앙을 강경하게 전파하려고 한다.</description>
+		</creature>
+		<creature>
+			<code>5669</code>
+			<area code="1010">어비스 하층</area>
+			<name>나오린린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3012|933</realcoord>
+			<mapcoord>303|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2430</code>
+			<area code="1010">어비스 하층</area>
+			<name>나요링링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3029|909</realcoord>
+			<mapcoord>299|486</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 거래중개인. 이카링의 아내이다.</description>
+		</creature>
+		<creature>
+			<code>2431</code>
+			<area code="1010">어비스 하층</area>
+			<name>나이베라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3475|3004</realcoord>
+			<mapcoord>660|563</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 왼쪽 날개 버림받은 섬에 있는 네자칸의 방패 군단병. 천족으로서 자부심이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2432</code>
+			<area code="1010">어비스 하층</area>
+			<name>날리스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2996|892</realcoord>
+			<mapcoord>296|481</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 테미논의 수호자 군단병. 풍류객으로서 화려했던 과거가 있었지만 데바가 된 후에는 충실하게 임무를 수행하고 있다. 테르시테스를 은근히 라이벌로 생각하고 있는 듯.</description>
+		</creature>
+		<creature>
+			<code>5667</code>
+			<area code="1010">어비스 하층</area>
+			<name>네네쿵</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>968|3020</realcoord>
+			<mapcoord>663|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2433</code>
+			<area code="1010">어비스 하층</area>
+			<name>네레우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3064|1010</realcoord>
+			<mapcoord>316|492</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 잿빛 바람 백부장. 소박하고 털털한 성격이다. 소닉시우스를 못마땅하게 여기고 있다.</description>
+		</creature>
+		<creature>
+			<code>2434</code>
+			<area code="1010">어비스 하층</area>
+			<name>네리테스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>방어구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2938|883</realcoord>
+			<mapcoord>295|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 1층에 있는 어비스 공훈 기록관. 방어구류를 관리한다.</description>
+		</creature>
+		<creature>
+			<code>2435</code>
+			<area code="1010">어비스 하층</area>
+			<name>네메아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>882|784</realcoord>
+			<mapcoord>277|116</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 유황 나무 열도 뿌리의 섬에 있는 불꽃의 데바. 불의 기운이 강한 생명체 연구하기 위해 떠돌고 있다. 홀로 오래 지내서 그런지 모난 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2436</code>
+			<area code="1010">어비스 하층</area>
+			<name>노른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1651|2888</realcoord>
+			<mapcoord>640|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 동쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 무기에 집착하고 있다. 유행과 기분에 맞춰 외형변경하느라 재산을 탕진했다.</description>
+		</creature>
+		<creature>
+			<code>5535</code>
+			<area code="1010">어비스 하층</area>
+			<name>노부스</name>
+			<type>NPC</type>
+			<mclass>스티그마</mclass>
+			<sclass>스티그마명인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2953|878</realcoord>
+			<mapcoord>294|473</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5521</code>
+			<area code="1010">어비스 하층</area>
+			<name>노이라트</name>
+			<type>NPC</type>
+			<mclass>스티그마</mclass>
+			<sclass>스티그마조율사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>954|3025</realcoord>
+			<mapcoord>664|128</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2437</code>
+			<area code="1010">어비스 하층</area>
+			<name>노이만</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>733|2803</realcoord>
+			<mapcoord>626|90</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련교관. 용족 전투 모함 드레드기온의 정체와 공략법에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2438</code>
+			<area code="1010">어비스 하층</area>
+			<name>누그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1101|2958</realcoord>
+			<mapcoord>652|154</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 군기가 바짝 들었다.</description>
+		</creature>
+		<creature>
+			<code>2439</code>
+			<area code="1010">어비스 하층</area>
+			<name>니케</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>878|788</realcoord>
+			<mapcoord>278|115</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 유황 나무 열도 뿌리의 섬에 있는 네자칸의 방패 군단 군단병. 여러 가지 정보를 수집하는 임무를 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>2440</code>
+			<area code="1010">어비스 하층</area>
+			<name>다리오스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2862|918</realcoord>
+			<mapcoord>300|457</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 테미논의 수호자 군단병. 델라론의 무사태평함을 걱정하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2441</code>
+			<area code="1010">어비스 하층</area>
+			<name>다마투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3460|3019</realcoord>
+			<mapcoord>663|561</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 왼쪽 날개 버림받은 섬에 있는 네자칸의 방패 부관. 매사에 자세히 설명을 해야 직성이 풀린다.</description>
+		</creature>
+		<creature>
+			<code>2442</code>
+			<area code="1010">어비스 하층</area>
+			<name>다인</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2095|601</realcoord>
+			<mapcoord>246|325</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 서쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 전투에 빠져 있어 인간관계에는 전혀 관심이 없다.</description>
+		</creature>
+		<creature>
+			<code>2443</code>
+			<area code="1010">어비스 하층</area>
+			<name>다크틸</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>886|788</realcoord>
+			<mapcoord>278|117</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 유황 나무 열도 뿌리의 섬에 있는 네자칸의 방패 군단 군단병. 혈기왕성하다.</description>
+		</creature>
+		<creature>
+			<code>5646</code>
+			<area code="1010">어비스 하층</area>
+			<name>다크훔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>984|2911</realcoord>
+			<mapcoord>644|133</mapcoord>
+			<aggressive>0</aggressive>
+			<description>마계 여기저기를 방랑하는 방어구 장인. 실력은 뛰어나나 인정을 받지 못해서인지 매사에 부정적이다. 최근에는 프리뭄 거점에서 지낸다고 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>2444</code>
+			<area code="1010">어비스 하층</area>
+			<name>데우칼리온</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>소모품담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2933|888</realcoord>
+			<mapcoord>295|470</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 1층에 있는 어비스 공훈 기록관. 소모품류를 관리한다.</description>
+		</creature>
+		<creature>
+			<code>2445</code>
+			<area code="1010">어비스 하층</area>
+			<name>데이다미아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3216|1839</realcoord>
+			<mapcoord>459|518</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 날개 군도 황혼의 전장에 있는 고고학자. 어비스 조사를 위해 엘리시움에서 파견되었다. 농담을 모르는 성격으로 고집스럽게 학문을 연구한다.</description>
+		</creature>
+		<creature>
+			<code>2446</code>
+			<area code="1010">어비스 하층</area>
+			<name>델라론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2857|917</realcoord>
+			<mapcoord>300|457</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 테미논의 수호자 군단병. 게으르고 행동보다 말이 앞선다.</description>
+		</creature>
+		<creature>
+			<code>2447</code>
+			<area code="1010">어비스 하층</area>
+			<name>도르트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1069|2879</realcoord>
+			<mapcoord>639|148</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 붉은 중앙광장에 있는 프리뭄의 수호자 군단병. 재봉에 열정적인 취미가 있다.</description>
+		</creature>
+		<creature>
+			<code>2449</code>
+			<area code="1010">어비스 하층</area>
+			<name>두네이르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1639|2875</realcoord>
+			<mapcoord>638|247</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 동쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 휘아스를 지켜야 한다는 책임감이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2450</code>
+			<area code="1010">어비스 하층</area>
+			<name>두린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1651|2875</realcoord>
+			<mapcoord>638|249</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 동쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 착실한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2451</code>
+			<area code="1010">어비스 하층</area>
+			<name>두파</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2105|600</realcoord>
+			<mapcoord>246|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 서쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 냉정하고 도도하다. 하지만 자신을 좋아하는 나글파리를 은근히 신경쓰고 있다.</description>
+		</creature>
+		<creature>
+			<code>5651</code>
+			<area code="1010">어비스 하층</area>
+			<name>드레드기온 상급 궁병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2776|2658</realcoord>
+			<mapcoord>601|443</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5656</code>
+			<area code="1010">어비스 하층</area>
+			<name>드레드기온 상급 사제</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2617|2901:1390|1208:2795|2600</realcoord>
+			<mapcoord>643|415:350|203:591|446</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2454</code>
+			<area code="1010">어비스 하층</area>
+			<name>디네고스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3010|947</realcoord>
+			<mapcoord>306|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 잡화 상인. 걸걸한 성격이다. 한몫 잡아보려고 위험도 마다하지 않고 어비스에 왔다.</description>
+		</creature>
+		<creature>
+			<code>2455</code>
+			<area code="1010">어비스 하층</area>
+			<name>디노에스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2972|1051</realcoord>
+			<mapcoord>323|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병.</description>
+		</creature>
+		<creature>
+			<code>2458</code>
+			<area code="1010">어비스 하층</area>
+			<name>라도네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2969|1048</realcoord>
+			<mapcoord>323|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 열성적으로 전투에 임한다.</description>
+		</creature>
+		<creature>
+			<code>2459</code>
+			<area code="1010">어비스 하층</area>
+			<name>라렌티아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3120|1014</realcoord>
+			<mapcoord>317|502</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 용족 전투 모함 드레드기온의 정체와 공략법에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2460</code>
+			<area code="1010">어비스 하층</area>
+			<name>라르비그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>957|3002</realcoord>
+			<mapcoord>660|129</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 프리뭄의 수호자 군단병. 어비스에 온 지 얼마 안 됐다. 아직 요새 이름도 못 외움.</description>
+		</creature>
+		<creature>
+			<code>2461</code>
+			<area code="1010">어비스 하층</area>
+			<name>라미아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3214|1837</realcoord>
+			<mapcoord>459|518</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 날개 군도 황혼의 전장에 있는 생태학자. 어비스 조사를 위해 엘리시움에서 파견되었다.</description>
+		</creature>
+		<creature>
+			<code>2462</code>
+			<area code="1010">어비스 하층</area>
+			<name>라브다쿠스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3201|1455</realcoord>
+			<mapcoord>393|516</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 그늘 섬에 있는 저주받은 가디언. 명령을 어기고 전투에 나서다 군법에 의해 저주를 받았다. 반성하고 있지만 울컥하는 성질은 여전하다.</description>
+		</creature>
+		<creature>
+			<code>2463</code>
+			<area code="1010">어비스 하층</area>
+			<name>라비니아</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2979|860</realcoord>
+			<mapcoord>290|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 창고 관리인.</description>
+		</creature>
+		<creature>
+			<code>2464</code>
+			<area code="1010">어비스 하층</area>
+			<name>라사냐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>746|2834</realcoord>
+			<mapcoord>631|93</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 붉은 헤시아 백부장. 까칠하고 진중한 성격. 남몰래 갈바게스를 연모한다</description>
+		</creature>
+		<creature>
+			<code>2465</code>
+			<area code="1010">어비스 하층</area>
+			<name>라센디</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2943|875</realcoord>
+			<mapcoord>293|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 마석 제거사.</description>
+		</creature>
+		<creature>
+			<code>2466</code>
+			<area code="1010">어비스 하층</area>
+			<name>라스로르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1639|2888</realcoord>
+			<mapcoord>640|246</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 동쪽 줄기 하층에 있는 프리뭄의 수호자 군단병. 근면성실하다.</description>
+		</creature>
+		<creature>
+			<code>2467</code>
+			<area code="1010">어비스 하층</area>
+			<name>라스틴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2854|1017</realcoord>
+			<mapcoord>318|456</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장에 있는 테미논의 수호자 군단병. 어비스를 떠나 엘리시움으로 돌아가고 싶은 향수병에 시달리고 있다.</description>
+		</creature>
+		<creature>
+			<code>2468</code>
+			<area code="1010">어비스 하층</area>
+			<name>라우산</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방패상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>962|3028</realcoord>
+			<mapcoord>665|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 방패상인. 외양보다는 성능을 중시하는 실용주의자. 물건은 싸고 튼튼한 것이 최고라고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>5672</code>
+			<area code="1010">어비스 하층</area>
+			<name>라움</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2938|980</realcoord>
+			<mapcoord>311|470</mapcoord>
+			<aggressive>0</aggressive>
+			<description>천계 여기저기를 방랑하는 방어구 장인. 실력은 뛰어나나 나서기를 좋아하지 않는다. 최근에는 테미논 거점에서 지낸다고 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>2469</code>
+			<area code="1010">어비스 하층</area>
+			<name>라카디</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1110|2962</realcoord>
+			<mapcoord>653|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에 있는 파멸의 외침 백부장. 전략적인 야심가로 판데모니움의 신임을 얻을 궁리를 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2470</code>
+			<area code="1010">어비스 하층</area>
+			<name>라케시스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3131|959</realcoord>
+			<mapcoord>308|504</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 수호 신장이 무엇인지, 요새 점령에 있어서 수호 신장이 어떤 역할을 하는지에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2471</code>
+			<area code="1010">어비스 하층</area>
+			<name>레반</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>748|2818</realcoord>
+			<mapcoord>628|93</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련 교관. 어비스 전투에서 요새가 차지하는 역할, 요새를 점령하는 방법과 요새를 점령했을 때의 혜택 등에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2472</code>
+			<area code="1010">어비스 하층</area>
+			<name>레이보</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2151|1967:2158|1948:2135|1943:2170|1973:2134|1969:2110|1954</realcoord>
+			<mapcoord>481|335:478|336:477|332:483|338:482|332:479|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아이온 탑과 관련이 있는 것으로 여겨지는 정체불명의 생명체. 에레슈란타 레이보 섬에 많다.</description>
+		</creature>
+		<creature>
+			<code>2473</code>
+			<area code="1010">어비스 하층</area>
+			<name>레콘디타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2913|738</realcoord>
+			<mapcoord>269|466</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 건설현장 인부. 어비스에 온 후 용족을 보고 잔뜩 겁을 먹은 상태이다.</description>
+		</creature>
+		<creature>
+			<code>2474</code>
+			<area code="1010">어비스 하층</area>
+			<name>렌티아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2967|907</realcoord>
+			<mapcoord>299|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 정보관. 남을 잘 이해하고 배려해주는 다정다감한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2475</code>
+			<area code="1010">어비스 하층</area>
+			<name>루그부그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2139|1949</realcoord>
+			<mapcoord>478|333</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 레이보 섬에 있는 커다란 레이보.</description>
+		</creature>
+		<creature>
+			<code>2476</code>
+			<area code="1010">어비스 하층</area>
+			<name>루나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3460|3005</realcoord>
+			<mapcoord>661|561</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 왼쪽 날개 버림받은 섬에 있는 네자칸의 방패 군단병. 전세를 파악하는 능력이 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>2477</code>
+			<area code="1010">어비스 하층</area>
+			<name>루시리스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1637|3049</realcoord>
+			<mapcoord>668|246</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 동쪽 줄기 하층에 있는 테미논의 수호자 군단병. 지나치게 나서는 성격이다. 히켈렌과 앙숙이다.</description>
+		</creature>
+		<creature>
+			<code>2478</code>
+			<area code="1010">어비스 하층</area>
+			<name>루시우스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3005|941</realcoord>
+			<mapcoord>305|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 무기 상인. 보급받은 물건 외에도 사재품을 팔며 이익을 얻고 있다.</description>
+		</creature>
+		<creature>
+			<code>2479</code>
+			<area code="1010">어비스 하층</area>
+			<name>루케아</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>소모품담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>898|2969</realcoord>
+			<mapcoord>654|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 어비스 공훈 기록관. 어비스 포인트의 보상으로 소모품을 지급하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5546</code>
+			<area code="1010">어비스 하층</area>
+			<name>루크바르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1075|2954</realcoord>
+			<mapcoord>652|149</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에 있는 특수임무 담당관. 일정한 시간에만 데바들을 드레드기온으로 보내 준다.</description>
+		</creature>
+		<creature>
+			<code>2480</code>
+			<area code="1010">어비스 하층</area>
+			<name>루푸스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2931|953</realcoord>
+			<mapcoord>306|469</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 입구를 지키는 테미논의 수호자 군단병. 활달하고 명랑하다.</description>
+		</creature>
+		<creature>
+			<code>2481</code>
+			<area code="1010">어비스 하층</area>
+			<name>리드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>965|2843</realcoord>
+			<mapcoord>632|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 프리뭄의 수호자 군단병. 온화한 성격으로 블리드와 호형호제하는 사이.</description>
+		</creature>
+		<creature>
+			<code>2482</code>
+			<area code="1010">어비스 하층</area>
+			<name>리르헬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2760|2609</realcoord>
+			<mapcoord>592|440</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 서부 요새 내 작전참모. 걸걸하다.</description>
+		</creature>
+		<creature>
+			<code>2483</code>
+			<area code="1010">어비스 하층</area>
+			<name>리베르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3476|3020</realcoord>
+			<mapcoord>663|563</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 왼쪽 날개 버림받은 섬에 있는 네자칸의 방패 군단병. 다소 생각이 없어 보이지만 전투에는 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>2484</code>
+			<area code="1010">어비스 하층</area>
+			<name>리히트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>729|2845</realcoord>
+			<mapcoord>633|90</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련 교관. 요새를 둘러싸고 있는 공중 결계막에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5645</code>
+			<area code="1010">어비스 하층</area>
+			<name>마고룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>919|2898</realcoord>
+			<mapcoord>642|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 거점에 있는 슈고. 귀한 동전을 모은다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2485</code>
+			<area code="1010">어비스 하층</area>
+			<name>마그누스</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>마법계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3006|874</realcoord>
+			<mapcoord>293|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 마법계열 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2486</code>
+			<area code="1010">어비스 하층</area>
+			<name>마븐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1046|2875</realcoord>
+			<mapcoord>638|144</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 붉은 중앙광장과 요새를 오가는 프리뭄의 수호자 군단병. 다른 레기온의 출세한 친구를 부러워하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2487</code>
+			<area code="1010">어비스 하층</area>
+			<name>마사이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1649|3037</realcoord>
+			<mapcoord>666|248</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 동쪽 줄기 하층에 있는 테미논의 수호자 군단병. 원만한 성격이며 맡은 일에 성실하다.</description>
+		</creature>
+		<creature>
+			<code>2488</code>
+			<area code="1010">어비스 하층</area>
+			<name>마이어스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2997|927</realcoord>
+			<mapcoord>302|481</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 어비스 전령. 사소한 일에도 과도하게 반응한다.</description>
+		</creature>
+		<creature>
+			<code>2489</code>
+			<area code="1010">어비스 하층</area>
+			<name>마족 보급병</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3149|2630</realcoord>
+			<mapcoord>596|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2492</code>
+			<area code="1010">어비스 하층</area>
+			<name>마키드나</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>전투계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3010|878</realcoord>
+			<mapcoord>294|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 전투계열 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2493</code>
+			<area code="1010">어비스 하층</area>
+			<name>메노이티오스</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>장신구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2938|896</realcoord>
+			<mapcoord>297|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 1층에 있는 어비스 공훈 기록관. 장신구류를 관리한다.</description>
+		</creature>
+		<creature>
+			<code>2498</code>
+			<area code="1010">어비스 하층</area>
+			<name>메트나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1649|3049</realcoord>
+			<mapcoord>668|248</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 동쪽 줄기 하층에 있는 테미논의 수호자 군단병. 티격태격하는 히켈렌과 루시리스를 한심하게 생각하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2499</code>
+			<area code="1010">어비스 하층</area>
+			<name>멜포메네</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>마법계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3002|887</realcoord>
+			<mapcoord>295|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 마법계열 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>5524</code>
+			<area code="1010">어비스 하층</area>
+			<name>모니탄</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>마법계열스티그마담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2941|899</realcoord>
+			<mapcoord>297|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2500</code>
+			<area code="1010">어비스 하층</area>
+			<name>모미</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>장신구담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>893|2962</realcoord>
+			<mapcoord>653|118</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 어비스 공훈 기록관. 어비스 포인트의 보상으로 장신구를 지급하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5643</code>
+			<area code="1010">어비스 하층</area>
+			<name>모아링링</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3004|940</realcoord>
+			<mapcoord>304|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2501</code>
+			<area code="1010">어비스 하층</area>
+			<name>모이아</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2984|899</realcoord>
+			<mapcoord>297|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 영혼 치유사. 원래 상냥했으나 어비스에 온 후 냉정한 성격이 되었다. 부상병들에게 가차없기로 유명하다.</description>
+		</creature>
+		<creature>
+			<code>2502</code>
+			<area code="1010">어비스 하층</area>
+			<name>모쿠르칼피</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1004|2439</realcoord>
+			<mapcoord>563|137</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 거점 근처에 있는 외톨이 섬에 있다. 원래 붉은 헤시아 소속이었으나 자신의 뛰어난 실력을 믿고 군단 내에서 자주 마찰을 일으키다가 나와서 혼자 싸운다.</description>
+		</creature>
+		<creature>
+			<code>2503</code>
+			<area code="1010">어비스 하층</area>
+			<name>몬트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>707|2852</realcoord>
+			<mapcoord>634|86</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련 교관. 성문과 성문 재생석, 공성 병기에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2504</code>
+			<area code="1010">어비스 하층</area>
+			<name>뮤어</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>어비스층간순간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1645|2881</realcoord>
+			<mapcoord>639|247</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 동쪽 줄기 하층에 있는 어비스 층간 이동사. 자기 임무에 충실하다.</description>
+		</creature>
+		<creature>
+			<code>2505</code>
+			<area code="1010">어비스 하층</area>
+			<name>미논</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3015|942</realcoord>
+			<mapcoord>305|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 방어구 상인. 성실하며 순수한 성품을 지니고 있다.</description>
+		</creature>
+		<creature>
+			<code>2506</code>
+			<area code="1010">어비스 하층</area>
+			<name>바레</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1057|2886</realcoord>
+			<mapcoord>640|146</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장에 있는 프리뭄의 수호자 군단병. 배식, 잠자리 등 보급품과 근무 환경에 대해 바라는 것이 많다.</description>
+		</creature>
+		<creature>
+			<code>2507</code>
+			<area code="1010">어비스 하층</area>
+			<name>바로노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2905|1016</realcoord>
+			<mapcoord>317|465</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장에 있는 테미논의 수호자 군단병. 항상 배가 고픈 상태이다.</description>
+		</creature>
+		<creature>
+			<code>5548</code>
+			<area code="1010">어비스 하층</area>
+			<name>바르부르크</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>마법계열스티그마담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>901|2973</realcoord>
+			<mapcoord>655|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5668</code>
+			<area code="1010">어비스 하층</area>
+			<name>바실레이데스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2985|885</realcoord>
+			<mapcoord>295|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 요새에 있는 엘리시움 특수작전부 요원. 보상 관련 일을 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>5539</code>
+			<area code="1010">어비스 하층</area>
+			<name>바칸</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의인장담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1030|2868</realcoord>
+			<mapcoord>637|141</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 요새에 있는 고대의 목걸이 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2508</code>
+			<area code="1010">어비스 하층</area>
+			<name>바흐트</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>972|3029</realcoord>
+			<mapcoord>665|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 방어구상인. 실없는 농담을 즐긴다.</description>
+		</creature>
+		<creature>
+			<code>5666</code>
+			<area code="1010">어비스 하층</area>
+			<name>발렌티누스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2988|902</realcoord>
+			<mapcoord>298|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 거점에 있는 엘리시움 특수작전부 소속 요원.</description>
+		</creature>
+		<creature>
+			<code>2509</code>
+			<area code="1010">어비스 하층</area>
+			<name>발테르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>953|3004</realcoord>
+			<mapcoord>660|128</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 프리뭄의 수호자 군단병. 판데모니움의 발데르 신관과 이름이 비슷해서 귀찮은 일이 많다.</description>
+		</creature>
+		<creature>
+			<code>2510</code>
+			<area code="1010">어비스 하층</area>
+			<name>베덴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1084|2853</realcoord>
+			<mapcoord>634|151</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장에 있는 프리뭄의 수호자 군단병. 근면성실하다.</description>
+		</creature>
+		<creature>
+			<code>2511</code>
+			<area code="1010">어비스 하층</area>
+			<name>베르그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1106|3132</realcoord>
+			<mapcoord>682|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 부서진 키벨리움에서 서성이는 침묵의 심판관. 어비스에서 수상한 움직임이 있다고 하여 조사 중. 지나가는 사람들을 떠보며 정보를 캐고 있다.</description>
+		</creature>
+		<creature>
+			<code>5551</code>
+			<area code="1010">어비스 하층</area>
+			<name>베르길라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2876|989</realcoord>
+			<mapcoord>313|460</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 고대의 왕관 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2512</code>
+			<area code="1010">어비스 하층</area>
+			<name>벤투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2981|921</realcoord>
+			<mapcoord>301|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 정보관. 수치와 자료의 신봉자이며 항상 정보 분석에 여념이 없다.</description>
+		</creature>
+		<creature>
+			<code>2513</code>
+			<area code="1010">어비스 하층</area>
+			<name>벨리타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2880|993</realcoord>
+			<mapcoord>313|461</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장에 있는 테미논의 수호자 군단병. 데바인지 의심스러울 정도로 어리버리하고 무능하다. 그러나 위급시에는 생존력이 뛰어나다.</description>
+		</creature>
+		<creature>
+			<code>2514</code>
+			<area code="1010">어비스 하층</area>
+			<name>보니트라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2867|1000</realcoord>
+			<mapcoord>315|458</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 타리스 광장과 수송선 선착장 사이를 순찰하고 있는 테미논의 수호자 군단병. 제대가 멀지 않아서 군기가 풀려 있는 상태이다.</description>
+		</creature>
+		<creature>
+			<code>2515</code>
+			<area code="1010">어비스 하층</area>
+			<name>보르드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1035|2863</realcoord>
+			<mapcoord>636|142</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장에 있는 프리뭄의 수호자 군단병. 농사짓다가 각성한 아칸으로 홀로 남아 고생하는 아내를 걱정하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2516</code>
+			<area code="1010">어비스 하층</area>
+			<name>보크보르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1003|2941</realcoord>
+			<mapcoord>650|137</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 주변을 경계하는 프리뭄의 수호자 군단병. 어비스의 아름다운 하늘에 빠져 있다.</description>
+		</creature>
+		<creature>
+			<code>2517</code>
+			<area code="1010">어비스 하층</area>
+			<name>보탄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>924|3005</realcoord>
+			<mapcoord>660|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 요새에 있는 어비스 총사령관. 날카롭고 냉철한 전략가 스타일의 뛰어난 군인.</description>
+		</creature>
+		<creature>
+			<code>5526</code>
+			<area code="1010">어비스 하층</area>
+			<name>부리</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1151|2954</realcoord>
+			<mapcoord>652|162</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 키벨리움의 파편에 있는 특수임무 담당관. 일정한 시간에만 데바들을 드레드기온으로 보내 준다.</description>
+		</creature>
+		<creature>
+			<code>2536</code>
+			<area code="1010">어비스 하층</area>
+			<name>뷰이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3149|3389</realcoord>
+			<mapcoord>727|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 유배의 섬에 있는 파멸의 외침 군단병. 게퓬과 어릴 적부터 친한 친구. 게퓬을 위로해주고 도와준다.</description>
+		</creature>
+		<creature>
+			<code>2537</code>
+			<area code="1010">어비스 하층</area>
+			<name>브리알렌</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1082|2835</realcoord>
+			<mapcoord>631|150</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장에 있는 요새간 이동사. 성실하다.</description>
+		</creature>
+		<creature>
+			<code>2538</code>
+			<area code="1010">어비스 하층</area>
+			<name>브리제</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>691|2799</realcoord>
+			<mapcoord>625|83</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련교관. 아티팩트의 기능과 역할에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2539</code>
+			<area code="1010">어비스 하층</area>
+			<name>브린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1105|2959</realcoord>
+			<mapcoord>653|154</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 부상으로 좀 쉬더니 출정에 안달이 나 있다.</description>
+		</creature>
+		<creature>
+			<code>2540</code>
+			<area code="1010">어비스 하층</area>
+			<name>블리르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>963|2844</realcoord>
+			<mapcoord>633|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 보급병. 보급에 열심이다. 짠돌이 스퓌르를 못마땅해 한다.</description>
+		</creature>
+		<creature>
+			<code>2541</code>
+			<area code="1010">어비스 하층</area>
+			<name>블리스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2901|1025</realcoord>
+			<mapcoord>319|464</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장과 출전 광장 사이를 순찰하고 있는 테미논의 수호자 군단병. 조부부터 손자까지 모두 가디언이나 딱히 크게 성공한 사람은 없는 집안의 손자이다.</description>
+		</creature>
+		<creature>
+			<code>2542</code>
+			<area code="1010">어비스 하층</area>
+			<name>비겔란드</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>900|3010</realcoord>
+			<mapcoord>661|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 창고 관리인. 창고를 깨끗하게 유지하는 것이 창고 관리인의 긍지라고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2543</code>
+			<area code="1010">어비스 하층</area>
+			<name>비르고</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2967|894</realcoord>
+			<mapcoord>296|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 테미논의 수호자 군단병. 예술을 사랑하며 음유시인의 꿈을 아직 버리지 못하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2544</code>
+			<area code="1010">어비스 하층</area>
+			<name>비스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1036|2845</realcoord>
+			<mapcoord>633|143</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장과 보급선 기항지를 오가는 프리뭄의 수호자 군단병. 아무리 힘든 일이 있어도 나와서 경계를 서는 책임감 강한 성격.</description>
+		</creature>
+		<creature>
+			<code>5657</code>
+			<area code="1010">어비스 하층</area>
+			<name>비스콤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>916|3002</realcoord>
+			<mapcoord>660|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새에 있는 판데모니움 특수사령부 요원. 판데모니움 특수사령부의 가입과 탈퇴에 관한 일을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2545</code>
+			<area code="1010">어비스 하층</area>
+			<name>비후구드</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>899|2970</realcoord>
+			<mapcoord>654|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 식품 상인. 고기를 찬미하는 식품상인. 단체급식에도 능한데 가끔 이물질이 나온다.</description>
+		</creature>
+		<creature>
+			<code>2551</code>
+			<area code="1010">어비스 하층</area>
+			<name>사크미스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2984|912</realcoord>
+			<mapcoord>299|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 잿빛 바람 군단장. 데바의 영원한 삶이 축복이라고 생각하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>2553</code>
+			<area code="1010">어비스 하층</area>
+			<name>세모토르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>939|2833</realcoord>
+			<mapcoord>631|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 붉은 헤시아 백부장. 생명의 은인인 갈바게스를 충실하게 따른다.</description>
+		</creature>
+		<creature>
+			<code>2554</code>
+			<area code="1010">어비스 하층</area>
+			<name>세실리에</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2971|1055</realcoord>
+			<mapcoord>324|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 백부장. 애교가 많으며 군단의 인기인이다.</description>
+		</creature>
+		<creature>
+			<code>2555</code>
+			<area code="1010">어비스 하층</area>
+			<name>셉티무스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>어비스층간순간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1642|3042</realcoord>
+			<mapcoord>667|247</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 동쪽 줄기 하층에 있는 어비스 층간 이동사. 테온과 안부를 주고받는 사이이다.</description>
+		</creature>
+		<creature>
+			<code>2556</code>
+			<area code="1010">어비스 하층</area>
+			<name>소닉시우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2974|1055</realcoord>
+			<mapcoord>324|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 백부장. 약간 결벽증이 있으며 외모를 잘 꾸민다.</description>
+		</creature>
+		<creature>
+			<code>2561</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 갈린티아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3005|917</realcoord>
+			<mapcoord>300|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2562</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 스코에굴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>939|3014</realcoord>
+			<mapcoord>662|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2563</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 아그나르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>925|3004</realcoord>
+			<mapcoord>660|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2564</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 우라노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2990|896</realcoord>
+			<mapcoord>297|480</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2565</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 흘린</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>915|2990</realcoord>
+			<mapcoord>658|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2566</code>
+			<area code="1010">어비스 하층</area>
+			<name>수호자 히페리온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2967|884</realcoord>
+			<mapcoord>295|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2567</code>
+			<area code="1010">어비스 하층</area>
+			<name>슈에</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>982|2955</realcoord>
+			<mapcoord>652|133</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 입구를 지키는 프리뭄의 수호자 군단병. 외모에 엄청 신경을 쓰고 있다.</description>
+		</creature>
+		<creature>
+			<code>5525</code>
+			<area code="1010">어비스 하층</area>
+			<name>스림</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2785|2660</realcoord>
+			<mapcoord>601|444</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 서부 요새 깊숙한 곳에 있는 왼쪽 날개 그늘을 지키는 관리인.</description>
+		</creature>
+		<creature>
+			<code>2568</code>
+			<area code="1010">어비스 하층</area>
+			<name>스베크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1106|2963</realcoord>
+			<mapcoord>653|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 백전노장으로 여유만만하다.</description>
+		</creature>
+		<creature>
+			<code>2569</code>
+			<area code="1010">어비스 하층</area>
+			<name>스코다</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>904|3028</realcoord>
+			<mapcoord>664|120</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 신성의 보호자. 출정 전 축복기도 전문이다.</description>
+		</creature>
+		<creature>
+			<code>7268</code>
+			<area code="1010">어비스 하층</area>
+			<name>스키미르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>898|2999</realcoord>
+			<mapcoord>659|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2570</code>
+			<area code="1010">어비스 하층</area>
+			<name>스테인켈</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>무기담당공훈관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>899|2957</realcoord>
+			<mapcoord>652|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 어비스 공훈 기록관. 어비스 포인트의 보상으로 무기를 지급하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2571</code>
+			<area code="1010">어비스 하층</area>
+			<name>스파데</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>마법계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>909|3026</realcoord>
+			<mapcoord>664|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 마법계열 담당 행정관. 어비스의 임무도 어렵지 않다며 많은 데바들이 전투에 참여하기를 독려한다.</description>
+		</creature>
+		<creature>
+			<code>2572</code>
+			<area code="1010">어비스 하층</area>
+			<name>스퓌르</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>보급담당관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>939|2830</realcoord>
+			<mapcoord>630|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 보급담당관. 자기 것뿐만 아니라 보급품에도 매우 인색하다. 가끔 그가 아껴 둔 보급품이 창고에서 썩고 있다.</description>
+		</creature>
+		<creature>
+			<code>5538</code>
+			<area code="1010">어비스 하층</area>
+			<name>시르</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>전투계열스티그마담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>910|2964</realcoord>
+			<mapcoord>653|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2573</code>
+			<area code="1010">어비스 하층</area>
+			<name>시마온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2861|916</realcoord>
+			<mapcoord>300|457</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 보급병. 자신의 위치와 권한을 적절히 이용한다.</description>
+		</creature>
+		<creature>
+			<code>2574</code>
+			<area code="1010">어비스 하층</area>
+			<name>시아나</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>904|2965</realcoord>
+			<mapcoord>654|120</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 잡화상인. 키르헨자르와 부부. 억척 아줌마로 돈 벌러 어비스까지 왔다. 슈고 못지 않은 장사 수완을 가졌다.</description>
+		</creature>
+		<creature>
+			<code>2575</code>
+			<area code="1010">어비스 하층</area>
+			<name>시엘의 동부 마족 수호탑</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2020|3216:3159|3392:3140|3407</realcoord>
+			<mapcoord>697|312:727|509:730|505</mapcoord>
+			<aggressive>0</aggressive>
+			<description>시엘의 동부 요새에 위치한 마족의 수호탑. 점령 상태에 따라 요새 입구나 관문 주변, 거점에 존재한다.</description>
+		</creature>
+		<creature>
+			<code>2576</code>
+			<area code="1010">어비스 하층</area>
+			<name>시엘의 동부 용족 수호탑</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2683|3067:2824|3205:2797|3243:2639|3086</realcoord>
+			<mapcoord>671|427:695|451:702|446:674|419</mapcoord>
+			<aggressive>0</aggressive>
+			<description>시엘의 동부 요새에 위치한 용족의 수호탑. 점령 상태에 따라 요새 입구나 관문 주변, 거점에 존재한다.</description>
+		</creature>
+		<creature>
+			<code>2577</code>
+			<area code="1010">어비스 하층</area>
+			<name>시엘의 서부 용족 수호탑</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3219|2673:2995|2617:3187|2710:3003|2567</realcoord>
+			<mapcoord>603|519:594|480:610|514:585|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>시엘의 서부 요새에 위치한 용족의 수호탑. 점령 상태에 따라 요새 입구나 관문 주변, 거점에 존재한다.</description>
+		</creature>
+		<creature>
+			<code>2578</code>
+			<area code="1010">어비스 하층</area>
+			<name>시엘의 서부 천족 수호탑</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3468|3025:3216|1830:3468|3001</realcoord>
+			<mapcoord>664|562:458|519:660|562</mapcoord>
+			<aggressive>0</aggressive>
+			<description>시엘의 서부 요새에 위치한 천족의 수호탑. 점령 상태에 따라 요새 입구나 관문 주변, 거점에 존재한다.</description>
+		</creature>
+		<creature>
+			<code>2579</code>
+			<area code="1010">어비스 하층</area>
+			<name>실레니</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3097|971</realcoord>
+			<mapcoord>310|498</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 요새를 둘러싸고 있는 요새 결계막이 어떤 기능을 하는지, 상대 진영의 요새 결계막을 어떻게 공략해야 하는지 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2580</code>
+			<area code="1010">어비스 하층</area>
+			<name>아니카</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2946|975</realcoord>
+			<mapcoord>310|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 앞을 순찰하고 있는 테미논의 수호자 군단병. 아모스를 짝사랑한다. 계속 차여도 끝없이 고백하는 집요함을 보인다.</description>
+		</creature>
+		<creature>
+			<code>2581</code>
+			<area code="1010">어비스 하층</area>
+			<name>아델리안</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2942|963</realcoord>
+			<mapcoord>308|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 입구를 지키는 테미논의 수호자 군단병. 소심하고 내성적이며 우유부단하다.</description>
+		</creature>
+		<creature>
+			<code>2582</code>
+			<area code="1010">어비스 하층</area>
+			<name>아드라스테아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3112|959</realcoord>
+			<mapcoord>308|501</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 성문과 성문 재생석, 공성 병기에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2583</code>
+			<area code="1010">어비스 하층</area>
+			<name>아라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3005|883</realcoord>
+			<mapcoord>294|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 신관. 무슨 일이든 아는 척을 하는 버릇이 있다.</description>
+		</creature>
+		<creature>
+			<code>2584</code>
+			<area code="1010">어비스 하층</area>
+			<name>아레아드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2103|747</realcoord>
+			<mapcoord>271|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 서쪽 줄기 하층에 있는 테미논의 수호자 군단병. 성실하다.</description>
+		</creature>
+		<creature>
+			<code>2585</code>
+			<area code="1010">어비스 하층</area>
+			<name>아르비드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2880|1044</realcoord>
+			<mapcoord>322|461</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장에 있는 테미논의 수호자 군단병. 전투의 긴장감을 즐긴다.</description>
+		</creature>
+		<creature>
+			<code>2586</code>
+			<area code="1010">어비스 하층</area>
+			<name>아리에스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2993|889</realcoord>
+			<mapcoord>296|480</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 테미논의 수호자 군단병. 아무 생각 없이 바람부는 대로 살고 싶어한다.</description>
+		</creature>
+		<creature>
+			<code>7272</code>
+			<area code="1010">어비스 하층</area>
+			<name>아말리엔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>967|3035</realcoord>
+			<mapcoord>666|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2587</code>
+			<area code="1010">어비스 하층</area>
+			<name>아모스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2918|948</realcoord>
+			<mapcoord>306|467</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 앞을 순찰하고 있는 테미논의 수호자 군단병. 무뚝뚝하다.</description>
+		</creature>
+		<creature>
+			<code>2588</code>
+			<area code="1010">어비스 하층</area>
+			<name>아문디</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3149|3398</realcoord>
+			<mapcoord>728|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 유배의 섬에 있는 파멸의 외침 백부장. 매우 호전적이다.</description>
+		</creature>
+		<creature>
+			<code>2589</code>
+			<area code="1010">어비스 하층</area>
+			<name>아뮤</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1111|3126</realcoord>
+			<mapcoord>681|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 부서진 키벨리움에서 서성이는 침묵의 집행자. 아무한테나 윽박지른다.</description>
+		</creature>
+		<creature>
+			<code>2590</code>
+			<area code="1010">어비스 하층</area>
+			<name>아벤드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>687|2842</realcoord>
+			<mapcoord>632|82</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련 교관. 수호 신장이 무엇인지, 요새 점령에 있어서 수호 신장이 어떤 역할을 하는지에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2591</code>
+			<area code="1010">어비스 하층</area>
+			<name>아스무</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>970|2944</realcoord>
+			<mapcoord>650|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 입구를 지키는 프리뭄의 수호자 군단병. 전형적으로 근면성실한 아칸.</description>
+		</creature>
+		<creature>
+			<code>2592</code>
+			<area code="1010">어비스 하층</area>
+			<name>아스칼론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2974|903</realcoord>
+			<mapcoord>298|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 네자칸의 방패 군단장. 검에 대한 애정이 각별하다.</description>
+		</creature>
+		<creature>
+			<code>2593</code>
+			<area code="1010">어비스 하층</area>
+			<name>아스타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2602|2823</realcoord>
+			<mapcoord>629|413</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 동부 요새 내 작전참모. 치밀한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2594</code>
+			<area code="1010">어비스 하층</area>
+			<name>아시냐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1173|1960</realcoord>
+			<mapcoord>480|166</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황나무 열도의 크라티온 분쟁지에 파견된 붉은 헤시아 정찰조장. 신중한 성격으로 정보수집을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5663</code>
+			<area code="1010">어비스 하층</area>
+			<name>아우룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2891|989</realcoord>
+			<mapcoord>313|462</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 거점에 있는 욕심이 매우 많고 의뭉스러운 슈고. 무슨 일 때문인지 늘 전전긍긍하고 있다.</description>
+		</creature>
+		<creature>
+			<code>7269</code>
+			<area code="1010">어비스 하층</area>
+			<name>아우미노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3010|948</realcoord>
+			<mapcoord>306|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5544</code>
+			<area code="1010">어비스 하층</area>
+			<name>아울렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1343|1241</realcoord>
+			<mapcoord>356|195</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황 나무 요새 깊숙한 곳에 있는 유황 나무 둥지를 지키는 관리인.</description>
+		</creature>
+		<creature>
+			<code>2595</code>
+			<area code="1010">어비스 하층</area>
+			<name>아카스토스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2989|924</realcoord>
+			<mapcoord>302|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 테미논의 수호자 군단병. 타라니스에게 잘 보여서 출세하기 바라고 있다.</description>
+		</creature>
+		<creature>
+			<code>2596</code>
+			<area code="1010">어비스 하층</area>
+			<name>아켈로스</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>전투계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2998|883</realcoord>
+			<mapcoord>294|481</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 전투계열 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2597</code>
+			<area code="1010">어비스 하층</area>
+			<name>아크바</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2962|900</realcoord>
+			<mapcoord>297|475</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 테미논의 수호자 군단병. 어비스의 아름다움에 매혹되었다. 예술적이지만 미적 기준이 독특한 편이다.</description>
+		</creature>
+		<creature>
+			<code>2598</code>
+			<area code="1010">어비스 하층</area>
+			<name>아힌</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>930|3003</realcoord>
+			<mapcoord>660|124</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 영혼치유사. 인품이 좋다.</description>
+		</creature>
+		<creature>
+			<code>2599</code>
+			<area code="1010">어비스 하층</area>
+			<name>안드라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1103|2965</realcoord>
+			<mapcoord>654|154</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 에레슈란타의 지리에 통달해 있다. 감도 뛰어나서 길잡이 역할을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2600</code>
+			<area code="1010">어비스 하층</area>
+			<name>안드라스테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1110|2959</realcoord>
+			<mapcoord>653|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에 있는 파멸의 외침 백부장. 전쟁광으로 스릴을 위해서는 죽음도 두려워하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>2601</code>
+			<area code="1010">어비스 하층</area>
+			<name>알타크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>923|2976</realcoord>
+			<mapcoord>656|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 프리뭄의 수호자 군단병. 곧 어비스 근무가 끝나는 아칸 말년병. 2층 구석에서 시간을 보내고 있다.</description>
+		</creature>
+		<creature>
+			<code>2602</code>
+			<area code="1010">어비스 하층</area>
+			<name>에드바르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>925|2972</realcoord>
+			<mapcoord>655|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 프리뭄의 수호자 군단병. 시를 안 쓰고는 못 배긴다는 청년. 습작을 보건대 재능은 전혀 없어 보인다.</description>
+		</creature>
+		<creature>
+			<code>2603</code>
+			<area code="1010">어비스 하층</area>
+			<name>에리니에스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2846|918</realcoord>
+			<mapcoord>301|455</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 잿빛 바람 백부장. 무덤덤하고 차가운 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2604</code>
+			<area code="1010">어비스 하층</area>
+			<name>에리시페</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2949|754</realcoord>
+			<mapcoord>272|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 작업 감독관. 겁먹은 인부들을 안심시키는 데 애먹고 있다.</description>
+		</creature>
+		<creature>
+			<code>2605</code>
+			<area code="1010">어비스 하층</area>
+			<name>에리크</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>959|2989</realcoord>
+			<mapcoord>658|129</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 황혼의 아칸. 왕자병 증상이 있어 여성들이 다 자신의 손아귀에 있다고 착각한다. 입만 떼면 느끼한 대사를 내지른다.</description>
+		</creature>
+		<creature>
+			<code>2606</code>
+			<area code="1010">어비스 하층</area>
+			<name>에반데르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2963|934</realcoord>
+			<mapcoord>303|475</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 입구를 지키는 테미논의 수호자 군단병. 명령에 절대 복종을 바라며 매우 고지식하다.</description>
+		</creature>
+		<creature>
+			<code>2607</code>
+			<area code="1010">어비스 하층</area>
+			<name>에우로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3065|1011</realcoord>
+			<mapcoord>317|493</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 어비스와 요새에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2608</code>
+			<area code="1010">어비스 하층</area>
+			<name>에우리티온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2985|936</realcoord>
+			<mapcoord>304|479</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 테미논의 수호자 군단병. 때로 지나칠 정도로 오지랖이 넓다.</description>
+		</creature>
+		<creature>
+			<code>5550</code>
+			<area code="1010">어비스 하층</area>
+			<name>에이르갸파</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의성상담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1029|2858</realcoord>
+			<mapcoord>635|141</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 요새에 있는 고대의 반지 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2609</code>
+			<area code="1010">어비스 하층</area>
+			<name>에코</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>어비스층간순간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2098|754</realcoord>
+			<mapcoord>272|326</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 서쪽 줄기 하층에 있는 어비스 층간 이동사.</description>
+		</creature>
+		<creature>
+			<code>2610</code>
+			<area code="1010">어비스 하층</area>
+			<name>엔노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>937|2968</realcoord>
+			<mapcoord>654|125</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 황혼의 아칸. 싸움을 싫어해서 치유성이 되지 않은 것을 후회하는 수호성. 직업이 적성에 맞지 않아 고민이 많다.</description>
+		</creature>
+		<creature>
+			<code>2611</code>
+			<area code="1010">어비스 하층</area>
+			<name>엔다이온</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3148|991</realcoord>
+			<mapcoord>313|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 훈련소에 있는 어비스 훈련 교관. 아티팩트의 기능과 역할에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2612</code>
+			<area code="1010">어비스 하층</area>
+			<name>엘린토스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2975|1048</realcoord>
+			<mapcoord>323|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병.</description>
+		</creature>
+		<creature>
+			<code>2613</code>
+			<area code="1010">어비스 하층</area>
+			<name>엘사나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2970|1046</realcoord>
+			<mapcoord>323|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 계속되는 전투를 지겨워하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2627</code>
+			<area code="1010">어비스 하층</area>
+			<name>오그문드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3149|3409</realcoord>
+			<mapcoord>730|507</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 유배의 섬에 있는 파멸의 외침 군단병. 평범한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2631</code>
+			<area code="1010">어비스 하층</area>
+			<name>오벨</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2973|859</realcoord>
+			<mapcoord>290|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 창고 관리인. 가족을 모두 잃은 과거 때문에 회의적인 성격이 되었다. 삶에 의미가 없다고 생각한다.</description>
+		</creature>
+		<creature>
+			<code>2632</code>
+			<area code="1010">어비스 하층</area>
+			<name>오쥬르</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>전투계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>904|3023</realcoord>
+			<mapcoord>664|120</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 전투계열 담당 행정관. 공무 중에는 사적인 이야기를 절대 하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>5537</code>
+			<area code="1010">어비스 하층</area>
+			<name>오컴</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>964|2825</realcoord>
+			<mapcoord>629|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 특수임무 담당관. 일정한 시간에만 데바들을 드레드기온으로 보내 준다.</description>
+		</creature>
+		<creature>
+			<code>2633</code>
+			<area code="1010">어비스 하층</area>
+			<name>요우룽</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>920|3030</realcoord>
+			<mapcoord>665|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 위탁판매인. 위탁 판매의 달인으로 티에룽과 경쟁관계이다.</description>
+		</creature>
+		<creature>
+			<code>2634</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 감시자의 눈</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2771|2649:2773|2609:3177|2700:2992|2553:3210|2664:3199|2674:2824|2622:3167|2710:2983|2610:2986|2589:2990|2566:2745|2598:2795|2560:2980|2635</realcoord>
+			<mapcoord>599|442:592|442:608|512:583|480:602|517:603|516:594|451:610|510:592|478:589|479:585|480:590|437:584|446:597|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2639</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 공중기뢰</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2667|3076:2639|3088:2805|3210:2789|3235:2821|3184:2626|3095:2699|3060:2681|3070:2781|3250:2656|3080:2796|3223:2813|3199</realcoord>
+			<mapcoord>673|424:675|419:696|448:700|445:691|450:676|417:670|429:672|426:703|443:674|422:698|446:694|449</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7149</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 상급 궁병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2640|2905:1447|1241:2854|2628:2877|2596:2879|2618:1419|1246:1447|1206:2851|2588:1411|1150:1344|1219:1357|1231:1402|1144</realcoord>
+			<mapcoord>643|419:356|213:596|456:590|460:594|460:357|209:350|213:589|456:341|207:352|196:355|198:339|206</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7151</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 상급 법사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2790|2568:2789|2646:2610|2854</realcoord>
+			<mapcoord>585|445:599|445:634|414</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7147</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 상급 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1388|1169:1345|1223:1403|1192:1393|1171:2605|2855:2596|2873:1353|1176:2584|2865:2609|2821:2587|2861:2814|2620:2598|2877:2768|2599:2773|2597</realcoord>
+			<mapcoord>344|203:353|196:348|206:344|204:635|413:638|412:345|197:636|410:629|414:594|449:590|441:590|442</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>7105</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 상급 정예전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1323|1149:1434|1226:1309|1095:1301|1101</realcoord>
+			<mapcoord>340|192:354|211:331|190:332|188</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2707</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 생기의 샘</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2609|2861</realcoord>
+			<mapcoord>636|414</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2724</code>
+			<area code="1010">어비스 하층</area>
+			<name>용족 철갑기뢰</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2774|2646:2794|2558</realcoord>
+			<mapcoord>599|442:583|446</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2726</code>
+			<area code="1010">어비스 하층</area>
+			<name>운드란</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>953|2821</realcoord>
+			<mapcoord>629|128</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 프리뭄의 수호자 군단병. 일을 똑똑히 못하는 퓌라 때문에 일이 엄청 늘어서 괴로운 상태.</description>
+		</creature>
+		<creature>
+			<code>5518</code>
+			<area code="1010">어비스 하층</area>
+			<name>위베르</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급무기담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>898|2958</realcoord>
+			<mapcoord>652|119</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2727</code>
+			<area code="1010">어비스 하층</area>
+			<name>유디티오</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2966|676</realcoord>
+			<mapcoord>259|475</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 폭파 전문가. 전투에 이용하기 위해 폭발물을 연구하게 되었다고 한다.</description>
+		</creature>
+		<creature>
+			<code>2736</code>
+			<area code="1010">어비스 하층</area>
+			<name>이글라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>956|2978</realcoord>
+			<mapcoord>656|129</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 입구 안쪽에 서 있는 프리뭄의 수호자 군단병. 바나할 출신으로 경력관리차 어비스에 왔다.</description>
+		</creature>
+		<creature>
+			<code>2738</code>
+			<area code="1010">어비스 하층</area>
+			<name>이네이아스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2103|762</realcoord>
+			<mapcoord>274|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 서쪽 줄기 하층에 있는 테미논의 수호자 군단병. 다른 층으로 근무지를 옮기고 싶어한다.</description>
+		</creature>
+		<creature>
+			<code>2739</code>
+			<area code="1010">어비스 하층</area>
+			<name>이바</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1099|2966</realcoord>
+			<mapcoord>654|153</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 매우 이기적이다. 동료들과 함께 전투할 때도 이기적인 면모를 보인다.</description>
+		</creature>
+		<creature>
+			<code>2740</code>
+			<area code="1010">어비스 하층</area>
+			<name>이발디</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>전투계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>912|3014</realcoord>
+			<mapcoord>662|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 전투계열 담당 행정관. 딱딱한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>5528</code>
+			<area code="1010">어비스 하층</area>
+			<name>이아쿠스</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의성상담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2912|1019</realcoord>
+			<mapcoord>318|466</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 고대의 반지 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2741</code>
+			<area code="1010">어비스 하층</area>
+			<name>이카링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3028|902</realcoord>
+			<mapcoord>298|486</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 거래중개인. 나요링링의 남편이다.</description>
+		</creature>
+		<creature>
+			<code>2742</code>
+			<area code="1010">어비스 하층</area>
+			<name>잉엔</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1097|2958</realcoord>
+			<mapcoord>652|153</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 다소 비겁한 성격.</description>
+		</creature>
+		<creature>
+			<code>2757</code>
+			<area code="1010">어비스 하층</area>
+			<name>제스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2939|880</realcoord>
+			<mapcoord>294|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 약품 상인. 연금술 실험을 위해 어비스로 온 적극적인 연구가이다.</description>
+		</creature>
+		<creature>
+			<code>2758</code>
+			<area code="1010">어비스 하층</area>
+			<name>조미룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2956|759</realcoord>
+			<mapcoord>273|474</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 슈고 일꾼. 인간 손에 자라서 인간의 말투를 쓴다. 형인 나구룬의 말을 잘 따른다.</description>
+		</creature>
+		<creature>
+			<code>5536</code>
+			<area code="1010">어비스 하층</area>
+			<name>주르겐</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의왕관담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1061|2891</realcoord>
+			<mapcoord>641|147</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 요새에 있는 고대의 왕관 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>5653</code>
+			<area code="1010">어비스 하층</area>
+			<name>치엔슝</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1057|2892</realcoord>
+			<mapcoord>641|146</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점에 있는 귀가 얇아서 남한테 휩쓸려 사고를 잘 치기로 유명하다는 슈고. 무슨 일 때문인지 늘 전전긍긍하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2761</code>
+			<area code="1010">어비스 하층</area>
+			<name>카노메네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2093|762</realcoord>
+			<mapcoord>274|325</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 서쪽 줄기 하층에 있는 테미논의 수호자 군단병. 힘들어도 일에 만족하고 있으며 자부심도 있다.</description>
+		</creature>
+		<creature>
+			<code>2762</code>
+			<area code="1010">어비스 하층</area>
+			<name>카라노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2880|1019</realcoord>
+			<mapcoord>318|461</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 라티스 광장과 테미논 요새 사이를 순찰하고 있는 테미논의 수호자 군단병.</description>
+		</creature>
+		<creature>
+			<code>2763</code>
+			<area code="1010">어비스 하층</area>
+			<name>카오량</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>870|3102</realcoord>
+			<mapcoord>677|114</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 밖 한쪽 구석에 실험실을 마련한 슈고 발명가. 슈고를 위한 접이식 날개 발명에 몰두하고 있다.</description>
+		</creature>
+		<creature>
+			<code>5671</code>
+			<area code="1010">어비스 하층</area>
+			<name>칼데론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3002|900</realcoord>
+			<mapcoord>297|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 요새에 있는 엘리시움 특수작전부 요원. 엘리시움 특수작전부의 가입과 탈퇴에 관한 일을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>7273</code>
+			<area code="1010">어비스 하층</area>
+			<name>칼릭스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2981|867</realcoord>
+			<mapcoord>292|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5522</code>
+			<area code="1010">어비스 하층</area>
+			<name>케레스</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의인장담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2911|1009</realcoord>
+			<mapcoord>316|466</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 고대의 목걸이 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2764</code>
+			<area code="1010">어비스 하층</area>
+			<name>코스카</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1110|3131</realcoord>
+			<mapcoord>682|155</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 부서진 키벨리움에서 서성이는 침묵의 집행자. 겉으로는 유한 척 굴지만 잔혹하다.</description>
+		</creature>
+		<creature>
+			<code>2765</code>
+			<area code="1010">어비스 하층</area>
+			<name>코아그</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>967|3023</realcoord>
+			<mapcoord>664|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 약품상인. 직접 만들어 효능을 알 수 없는 약을 손님에게 먹여 임상실험을 한다는 소문이 있다.</description>
+		</creature>
+		<creature>
+			<code>2766</code>
+			<area code="1010">어비스 하층</area>
+			<name>콘토</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>943|2999</realcoord>
+			<mapcoord>659|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 상시대기하고 있는 어비스 전령. 누구보다 발 빠른 전령이 되기를 희망한다.</description>
+		</creature>
+		<creature>
+			<code>2767</code>
+			<area code="1010">어비스 하층</area>
+			<name>콜가</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>916|3018</realcoord>
+			<mapcoord>663|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 마법계열 담당 행정관. 전형적으로 사무적인 행정관이다.</description>
+		</creature>
+		<creature>
+			<code>2768</code>
+			<area code="1010">어비스 하층</area>
+			<name>크로그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>943|3016</realcoord>
+			<mapcoord>662|126</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 프리뭄의 수호자 군단병. 근무했던 지역의 추억으로 돌멩이를 모은다. 돌에서 소우주를 본다는데 남들 눈엔 그냥 돌멩이.</description>
+		</creature>
+		<creature>
+			<code>2769</code>
+			<area code="1010">어비스 하층</area>
+			<name>크리사오르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3468|3012</realcoord>
+			<mapcoord>662|562</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 왼쪽 날개 버림받은 섬에 있는 네자칸의 방패 백부장. 격양된 말투를 사용하며 강압적인 성격의 소유자이다.</description>
+		</creature>
+		<creature>
+			<code>2770</code>
+			<area code="1010">어비스 하층</area>
+			<name>클라사</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1098|2962</realcoord>
+			<mapcoord>653|153</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 전투에 피가 끓는다.</description>
+		</creature>
+		<creature>
+			<code>2771</code>
+			<area code="1010">어비스 하층</area>
+			<name>클라우디아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>보급담당관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2848|917</realcoord>
+			<mapcoord>300|455</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 보급 담당관. 책임감이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2772</code>
+			<area code="1010">어비스 하층</area>
+			<name>클레타난</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2859|916</realcoord>
+			<mapcoord>300|457</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 수송선 선착장에 있는 보급병. 전투에 미숙한 편으로 출전을 안 하게 되어서 다행이라고 생각하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2773</code>
+			<area code="1010">어비스 하층</area>
+			<name>클리미스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2094|747</realcoord>
+			<mapcoord>271|325</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 서쪽 줄기 하층에 있는 테미논의 수호자 군단병. 매우 피곤한 상태이다.</description>
+		</creature>
+		<creature>
+			<code>2774</code>
+			<area code="1010">어비스 하층</area>
+			<name>키르텐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>912|2987</realcoord>
+			<mapcoord>657|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 프리뭄의 수호자 군단병. 술을 좋아하지만 엄격한 군령으로 마시지 못하자 쥬스로나마 기분을 낸다.</description>
+		</creature>
+		<creature>
+			<code>2775</code>
+			<area code="1010">어비스 하층</area>
+			<name>키르헨자르</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>896|3007</realcoord>
+			<mapcoord>661|118</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 창고 관리인. 어비스를 무서워하지만 억척같은 아내에게 이끌려 왔다.</description>
+		</creature>
+		<creature>
+			<code>5555</code>
+			<area code="1010">어비스 하층</area>
+			<name>키젤마논</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급방어구담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2937|885</realcoord>
+			<mapcoord>295|470</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2776</code>
+			<area code="1010">어비스 하층</area>
+			<name>타라니스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2983|904</realcoord>
+			<mapcoord>298|478</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 어비스 총사령관. 엄격한 성격으로 규율을 중요하게 여긴다.</description>
+		</creature>
+		<creature>
+			<code>2782</code>
+			<area code="1010">어비스 하층</area>
+			<name>테노에릴</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3006|952</realcoord>
+			<mapcoord>306|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 식품 상인. 낙관적인 성격이다. 데바로 각성하기를 기대하고 어비스로 왔다.</description>
+		</creature>
+		<creature>
+			<code>2783</code>
+			<area code="1010">어비스 하층</area>
+			<name>테레스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2976|1044</realcoord>
+			<mapcoord>322|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 책임감이 강하다.</description>
+		</creature>
+		<creature>
+			<code>2784</code>
+			<area code="1010">어비스 하층</area>
+			<name>테른</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>981|2924</realcoord>
+			<mapcoord>646|133</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 주변을 도는 프리뭄의 수호자 군단병. 경계를 서느라 다리가 아프다고 하소연 중이다.</description>
+		</creature>
+		<creature>
+			<code>2785</code>
+			<area code="1010">어비스 하층</area>
+			<name>테리타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2865|1034</realcoord>
+			<mapcoord>320|458</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새와 라티스 광장을 오가며 소식을 전하는 어비스 전령. 급박한 상황에서도 잘난 척하는 것을 잊지 않는다.</description>
+		</creature>
+		<creature>
+			<code>5542</code>
+			<area code="1010">어비스 하층</area>
+			<name>테베나즈</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2543|2854</realcoord>
+			<mapcoord>634|402</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 동부 요새 깊숙한 곳에 있는 오른쪽 날개 그늘을 지키는 관리인.</description>
+		</creature>
+		<creature>
+			<code>5540</code>
+			<area code="1010">어비스 하층</area>
+			<name>테아</name>
+			<type>NPC</type>
+			<mclass>테미논</mclass>
+			<sclass>상급무기담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2946|888</realcoord>
+			<mapcoord>295|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5547</code>
+			<area code="1010">어비스 하층</area>
+			<name>테우케르</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>전투계열스티그마담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2948|890</realcoord>
+			<mapcoord>296|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2786</code>
+			<area code="1010">어비스 하층</area>
+			<name>텔루스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2862|1041</realcoord>
+			<mapcoord>322|457</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점에 있는 공간 이동사.</description>
+		</creature>
+		<creature>
+			<code>5659</code>
+			<area code="1010">어비스 하층</area>
+			<name>토스티그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>926|2999</realcoord>
+			<mapcoord>659|124</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점에 있는 판데모니움 특수사령부 소속 요원.</description>
+		</creature>
+		<creature>
+			<code>5636</code>
+			<area code="1010">어비스 하층</area>
+			<name>투르케스탄</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>928|3013</realcoord>
+			<mapcoord>662|124</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새에 있는 판데모니움 특수사령부 요원. 보상 관련 일을 맡고 있다.</description>
+		</creature>
+		<creature>
+			<code>2787</code>
+			<area code="1010">어비스 하층</area>
+			<name>트리미노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1648|1137</realcoord>
+			<mapcoord>338|248</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 유황 나무 열도 낙인의 섬에 있는 엘림. 대파국 때 어비스로 오게 되어 아직까지 살아남았다.</description>
+		</creature>
+		<creature>
+			<code>2788</code>
+			<area code="1010">어비스 하층</area>
+			<name>트리안</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2995|918</realcoord>
+			<mapcoord>301|480</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 테미논의 수호자 군단병. 전형적인 군인이다.</description>
+		</creature>
+		<creature>
+			<code>2789</code>
+			<area code="1010">어비스 하층</area>
+			<name>티에룽</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>924|3034</realcoord>
+			<mapcoord>665|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 위탁판매인. 위탁 판매의 달인으로 요우롱과 경쟁관계이다</description>
+		</creature>
+		<creature>
+			<code>2790</code>
+			<area code="1010">어비스 하층</area>
+			<name>티엔슝</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3219|1838</realcoord>
+			<mapcoord>459|519</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 시엘의 날개 군도 황혼의 전장에 있는 검은구름 무역단 소속의 슈고. 슈고 치고는 겁이 없다.</description>
+		</creature>
+		<creature>
+			<code>5532</code>
+			<area code="1010">어비스 하층</area>
+			<name>틸레</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>고대의성배담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1051|2891</realcoord>
+			<mapcoord>641|145</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 프리뭄 요새에 있는 고대의 홀 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>5638</code>
+			<area code="1010">어비스 하층</area>
+			<name>파라룽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>971|3030</realcoord>
+			<mapcoord>665|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2793</code>
+			<area code="1010">어비스 하층</area>
+			<name>파레텐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>923|3010</realcoord>
+			<mapcoord>661|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 프리뭄의 수호자 군단병. 하는 일 없이 존경받는 신관 스코다를 부러워한다.</description>
+		</creature>
+		<creature>
+			<code>2794</code>
+			<area code="1010">어비스 하층</area>
+			<name>파우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>713|2793</realcoord>
+			<mapcoord>624|87</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 훈련소에 있는 훈련교관. 어비스 전투에서의 필수품 키스크의 사용법과 효용에 대해 교육하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2795</code>
+			<area code="1010">어비스 하층</area>
+			<name>페로니아드</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>어비스층간순간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2101|593</realcoord>
+			<mapcoord>244|326</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 라테스란의 서쪽 줄기 하층에 있는 어비스 층간 이동사. 작은 오드 조각을 이용하는 다른 순간이동사와 달리 순수하게 자신의 힘으로 오드 에너지를 조절할 수 있다.</description>
+		</creature>
+		<creature>
+			<code>5543</code>
+			<area code="1010">어비스 하층</area>
+			<name>펠라스고스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2845|948</realcoord>
+			<mapcoord>306|455</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 거점의 수송선 선착장에 있는 특수임무 담당관. 일정한 시간에만 데바들을 드레드기온으로 보내 준다.</description>
+		</creature>
+		<creature>
+			<code>2796</code>
+			<area code="1010">어비스 하층</area>
+			<name>펠라티노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2973|1046</realcoord>
+			<mapcoord>323|477</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 두고 온 가족을 그리워한다.</description>
+		</creature>
+		<creature>
+			<code>2797</code>
+			<area code="1010">어비스 하층</area>
+			<name>포마</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2943|691</realcoord>
+			<mapcoord>261|471</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 건설현장 인부. 호리아와 레콘디타를 안쓰럽게 여기며 잘 대해준다.</description>
+		</creature>
+		<creature>
+			<code>2802</code>
+			<area code="1010">어비스 하층</area>
+			<name>푸엘라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2950|906</realcoord>
+			<mapcoord>298|473</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 테미논의 수호자 군단병. 냉소적이다.</description>
+		</creature>
+		<creature>
+			<code>2803</code>
+			<area code="1010">어비스 하층</area>
+			<name>퓌라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>950|2821</realcoord>
+			<mapcoord>629|128</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 보급선 기항지에 있는 보급병. 대체로 아무 생각이 없고 먹는 것에만 관심이 많다.</description>
+		</creature>
+		<creature>
+			<code>2804</code>
+			<area code="1010">어비스 하층</area>
+			<name>프라이반</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>969|3021</realcoord>
+			<mapcoord>663|131</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 1층에 있는 무기상인. 발령받고 온 반 공무원의 신분으로 장사에는 심드렁하다.</description>
+		</creature>
+		<creature>
+			<code>2805</code>
+			<area code="1010">어비스 하층</area>
+			<name>플라비우스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방패상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3011|932</realcoord>
+			<mapcoord>303|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새 2층에 있는 방패 상인. 방패에 대한 집착이 강하다. 방패를 윤기나게 닦고 일렬로 늘어놓는 것이 취미이다.</description>
+		</creature>
+		<creature>
+			<code>2806</code>
+			<area code="1010">어비스 하층</area>
+			<name>플레타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2967|1044</realcoord>
+			<mapcoord>322|476</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 출전 광장에 있는 네자칸의 방패 군단병. 어비스에 온 지 얼마 안 된 신병이다.</description>
+		</creature>
+		<creature>
+			<code>5531</code>
+			<area code="1010">어비스 하층</area>
+			<name>피히테</name>
+			<type>NPC</type>
+			<mclass>공훈</mclass>
+			<sclass>상급방어구담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>906|2961</realcoord>
+			<mapcoord>653|120</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>5519</code>
+			<area code="1010">어비스 하층</area>
+			<name>필레몬</name>
+			<type>NPC</type>
+			<mclass>고대유물</mclass>
+			<sclass>고대의성배담당</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2886|988</realcoord>
+			<mapcoord>313|462</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새에 있는 고대의 홀 담당 행정관.</description>
+		</creature>
+		<creature>
+			<code>2807</code>
+			<area code="1010">어비스 하층</area>
+			<name>하우그</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>913|3021</realcoord>
+			<mapcoord>663|121</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 시공의 데바. 그룬과 함께 연구를 하고 있다. 시공간에 관해선 마계 제일이다.</description>
+		</creature>
+		<creature>
+			<code>2808</code>
+			<area code="1010">어비스 하층</area>
+			<name>할로나스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2846|694</realcoord>
+			<mapcoord>262|455</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 건설현장 인부. 힘이 좋고 일을 잘해서 좋은 대우를 받고 있다. 고기를 좋아한다.</description>
+		</creature>
+		<creature>
+			<code>5523</code>
+			<area code="1010">어비스 하층</area>
+			<name>헤니르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1151|2957</realcoord>
+			<mapcoord>652|162</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 키벨리움의 파편에 있는 아칸 백부장. 드레드기온 침투 비밀 임무를 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2809</code>
+			<area code="1010">어비스 하층</area>
+			<name>헤르츠</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>935|3005</realcoord>
+			<mapcoord>660|125</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 요새에 있는 붉은 헤시아 군단장. 원리원칙에 투철한 전형적인 군인.</description>
+		</creature>
+		<creature>
+			<code>2810</code>
+			<area code="1010">어비스 하층</area>
+			<name>헤보넨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1054|2834</realcoord>
+			<mapcoord>631|146</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점 붉은 중앙광장에 있는 프리뭄의 수호자 군단병. 혹시 전쟁에서 마족이 질까봐 두려워하고 있다.</description>
+		</creature>
+		<creature>
+			<code>2811</code>
+			<area code="1010">어비스 하층</area>
+			<name>헤카베</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2957|929</realcoord>
+			<mapcoord>302|474</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 요새의 입구를 지키는 테미논의 수호자 군단병. 완벽주의자이다.</description>
+		</creature>
+		<creature>
+			<code>2812</code>
+			<area code="1010">어비스 하층</area>
+			<name>헬프리드</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>3160|3398</realcoord>
+			<mapcoord>728|509</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 시엘의 날개 군도 중 하나인 유배의 섬에 있는 파멸의 외침 군단병. 가문의 마지막 데바로 집안을 다시 일으켜야 한다는 의지가 강하다. 혼인할 마땅한 처자를 찾고 있다.</description>
+		</creature>
+		<creature>
+			<code>2813</code>
+			<area code="1010">어비스 하층</area>
+			<name>호그니</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>962|3028</realcoord>
+			<mapcoord>665|130</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 마석 제거사. 마석에 집착한다.</description>
+		</creature>
+		<creature>
+			<code>2814</code>
+			<area code="1010">어비스 하층</area>
+			<name>호리아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2873|748</realcoord>
+			<mapcoord>271|459</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 테미논 거점 창고 건설현장에 있는 건설현장 인부. 눈에 띄지 않는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>2815</code>
+			<area code="1010">어비스 하층</area>
+			<name>홀름</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1076|2841</realcoord>
+			<mapcoord>632|149</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새와 붉은 중앙광장을 오가는 어비스 전령. 늘 정신없이 바쁘다.</description>
+		</creature>
+		<creature>
+			<code>2816</code>
+			<area code="1010">어비스 하층</area>
+			<name>후세트</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>920|3006</realcoord>
+			<mapcoord>661|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 요새 2층에 있는 프리뭄의 수호자 군단병. 미천한 집안 출신으로 실력에 비해 출세를 하지 못하자 바나할 출신에게 반감을 갖게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2817</code>
+			<area code="1010">어비스 하층</area>
+			<name>히믈렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1102|2961</realcoord>
+			<mapcoord>653|154</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 프리뭄 거점의 프리뭄 동쪽 광장에서 출정 준비 중인 파멸의 외침 군단병. 어릴 때부터 데바가 되어 어비스에서 싸우는 것이 꿈이었다.</description>
+		</creature>
+		<creature>
+			<code>2818</code>
+			<area code="1010">어비스 하층</area>
+			<name>히켈렌</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1637|3037</realcoord>
+			<mapcoord>666|246</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타의 라테스란의 동쪽 줄기 하층에 있는 테미논의 수호자 군단병. 소심하고 내숭을 잘 떤다. 루시리스와 앙숙이다.</description>
+		</creature>
+		<creature>
+			<code>5534</code>
+			<area code="1010">어비스 하층</area>
+			<name>히포타데스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2954|1023</realcoord>
+			<mapcoord>319|473</mapcoord>
+			<aggressive>0</aggressive>
+			<description>에레슈란타 테미논 거점의 출전 광장에 있는 특수임무 담당관. 일정한 시간에만 데바들을 드레드기온으로 보내 준다.</description>
+		</creature>
+		<creature>
+			<code>2520</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 검투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2162|3247:2103|3218:2137|3213:2160|3200:2168|3181:2174|3147:2127|3174:2160|3297:2139|3193:2191|3299:2245|3238:2230|3288:2192|3114</realcoord>
+			<mapcoord>702|337:697|327:696|332:694|336:691|338:685|339:690|331:711|336:693|333:711|342:701|351:709|348:679|342</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 있는 마족 아칸의 유령.</description>
+		</creature>
+		<creature>
+			<code>2523</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 경비병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2151|3265:2188|3185:2107|3192:2135|3137:2127|3271:2121|3231:2154|3156:2155|3103</realcoord>
+			<mapcoord>705|335:692|341:693|327:683|332:706|331:699|330:687|335:677|335</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 있는 마족 아칸의 유령.</description>
+		</creature>
+		<creature>
+			<code>2526</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 마도병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3246|2007:3063|2123:3161|1909:3139|1951:3008|2097</realcoord>
+			<mapcoord>488|524:508|492:471|509:479|505:504|483</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에서 싸우다 자신의 죽음도 인지하지 못한 채 배회하고 있는 마도병.</description>
+		</creature>
+		<creature>
+			<code>2528</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 마법병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2247|3267:2240|3221:2205|3253:2272|3281</realcoord>
+			<mapcoord>706|351:698|350:703|344:708|356</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 있는 마족 아칸의 유령.</description>
+		</creature>
+		<creature>
+			<code>2531</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3146|1917:3039|2121:3083|2100:3223|1994:3205|1969:3076|2130:3168|1953:3248|1974:3163|1936:3113|2098:3202|2003</realcoord>
+			<mapcoord>473|506:508|488:504|496:486|520:482|517:510|494:479|510:483|524:476|509:504|501:488|516</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에서 싸우다 자신의 죽음도 인지하지 못한 채 배회하고 있는 전투병.</description>
+		</creature>
+		<creature>
+			<code>2616</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 마도병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3188|1925:3189|1949:3200|1910:3275|1977</realcoord>
+			<mapcoord>474|514:478|514:472|516:483|529</mapcoord>
+			<aggressive>2</aggressive>
+			<description>황혼의 전장에 있는 천족 가디언의 유령.</description>
+		</creature>
+		<creature>
+			<code>2620</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3182|1902:3224|1904:3216|1922</realcoord>
+			<mapcoord>470|513:471|520:474|518</mapcoord>
+			<aggressive>2</aggressive>
+			<description>황혼의 전장에 있는 천족 가디언의 유령.</description>
+		</creature>
+		<creature>
+			<code>2625</code>
+			<area code="1010">어비스 하층</area>
+			<name>영혼 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2035|3152:2127|3065:2109|3471:2111|3325:2079|3416:2168|3490:2132|3347:2075|3224:2121|3107:2064|3391:2128|3393:2127|3044:2057|3138:2074|3319:2049|3351:2019|3332</realcoord>
+			<mapcoord>686|315:671|331:741|328:716|328:731|322:744|338:719|331:698|322:678|330:727|320:727|331:667|331:683|319:715|321:720|317:717|312</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 있는 언데드. 데바의 영혼을 파괴한다고 알려져있다.</description>
+		</creature>
+		<creature>
+			<code>2628</code>
+			<area code="1010">어비스 하층</area>
+			<name>오디움 영혼석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3269|1914:3093|2050:3257|1915:3342|2016:3331|2005:3245|2078:3255|2072:3348|2000:3067|2075:3081|2076:3279|1924:3268|1939:3246|2056:3328|2027:3077|2061</realcoord>
+			<mapcoord>472|528:496|497:473|526:490|540:488|538:501|523:500|525:487|541:500|493:500|495:474|529:477|527:497|524:492|538:498|495</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에 있는 오디움 영혼석. 오디움 결정이 붙은 바위에 사악한 기운이 깃들어 탄생했다.</description>
+		</creature>
+		<creature>
+			<code>2746</code>
+			<area code="1010">어비스 하층</area>
+			<name>정신 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3123|2013:3165|2029:3118|2032:3191|2071:3201|2060:3098|2075:3217|2034:3213|2081:3122|2073:3221|2061:3108|2082:3147|2007:3153|2059</realcoord>
+			<mapcoord>489|502:492|510:493|502:499|514:498|516:500|498:493|519:501|518:500|502:498|519:501|500:488|507:497|508</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 서편에 위치한 황혼의 전장 근처를 떠도는 언데드.</description>
+		</creature>
+		<creature>
+			<code>2759</code>
+			<area code="1010">어비스 하층</area>
+			<name>진화한 영혼석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2254|3353:2203|3363:2219|3334:2313|3367:2233|3386:2273|3369</realcoord>
+			<mapcoord>721|353:722|344:717|346:723|363:726|349:723|356</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 있다. 푸른 결정 영혼석과 같은 모습을 하고 있지만 좀 더 진화된 영혼석이다.</description>
+		</creature>
+		<creature>
+			<code>2778</code>
+			<area code="1010">어비스 하층</area>
+			<name>타락한 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2091|3157:2097|3293:2103|3402:2034|3297:2048|3325:2091|3336:2045|3177:2076|3127:2068|3149:2107|3155:2069|3365:2137|3445:2087|3382:2078|3343:2042|3109:2034|3359:2002|3387:2144|3466:2099|3124:2118|3374:2060|3410:2121|3306:2110|3135:2074|3183:2078|3206:2128|3420:2041|3375:2050|3295</realcoord>
+			<mapcoord>687|324:710|326:729|326:711|315:716|317:718|325:690|317:681|322:685|320:686|327:723|321:736|332:726|324:719|322:678|316:722|315:726|309:740|334:681|326:724|329:730|319:712|330:683|328:691|322:695|322:732|331:724|316:710|317</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 남은 전사. 타락하여 악한 기운을 가진 괴물이 되었다.</description>
+		</creature>
+		<creature>
+			<code>5652</code>
+			<area code="1010">어비스 하층</area>
+			<name>파괴된 영혼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3073|1555:3066|1542</realcoord>
+			<mapcoord>410|494:408|493</mapcoord>
+			<aggressive>3</aggressive>
+			<description>테미논 거점 동쪽의 작은 부유도에서 볼 수 있는 언데드. 장검으로 시도하는 일격은 위협적이다.</description>
+		</creature>
+		<creature>
+			<code>2791</code>
+			<area code="1010">어비스 하층</area>
+			<name>파괴된 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>3272|2116:3113|1920:3066|1972:3043|1965:3257|2101:3052|1984:3292|2061:3110|1953:3275|2017:3284|2088:3067|1950:3089|1981:3288|2107:3275|2043:3080|1951:3305|2030</realcoord>
+			<mapcoord>507|528:473|501:482|493:481|489:505|526:484|490:498|532:479|500:490|529:502|530:479|493:484|497:506|531:495|529:479|495:492|534</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에서 부활한 언데드.</description>
+		</creature>
+		<creature>
+			<code>2800</code>
+			<area code="1010">어비스 하층</area>
+			<name>푸른 결정 영혼석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2075|3256:2353|3383:2249|3397:2338|3363:1965|3369:2001|3126:2079|3276:2345|3353:2362|3376:2253|3408:2252|3376:1970|3379:2242|3405:2088|3265:2350|3366:1980|3129:2342|3373</realcoord>
+			<mapcoord>704|322:726|370:728|352:722|367:723|303:681|309:707|322:721|368:724|371:730|352:724|352:725|304:730|351:705|324:723|369:682|305:724|368</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에서 찾아볼 수 있는 영혼석. 푸른 결정을 가진 바위에 영혼이 깃들어 생겨났다.</description>
+		</creature>
+		<creature>
+			<code>2533</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 치료병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>2295|3246:2243|3164:2312|3187:2324|3212</realcoord>
+			<mapcoord>702|360:688|351:692|363:696|365</mapcoord>
+			<aggressive>1</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2535</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 치유병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>3180|2180:3099|2174:3102|2191:3119|2238:3130|2278:3155|2216:3200|2266:3098|2216:3201|2248:3169|2237</realcoord>
+			<mapcoord>518|512:517|498:520|499:528|502:535|504:524|508:533|516:524|498:530|516:528|510</mapcoord>
+			<aggressive>1</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에서 싸우다 자신의 죽음도 인지하지 못한 채 배회하고 있는 치유병.</description>
+		</creature>
+		<creature>
+			<code>2548</code>
+			<area code="1010">어비스 하층</area>
+			<name>사나운 영혼석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>2988|2169:3436|2102:2972|2166:3384|2256:3406|2265:3150|2332:2993|2193:3459|2051:3409|2244:3440|2077:3163|2333:3164|2351:3457|2093</realcoord>
+			<mapcoord>516|479:505|556:516|476:531|547:533|551:544|507:521|480:496|560:529|552:500|557:545|509:548|510:503|560</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도 황혼의 전장에서 볼 수 있는 영혼석. 결정이 붙은 바위에 사악한 기운이 깃들어 탄생했다.</description>
+		</creature>
+		<creature>
+			<code>2614</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 검투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>2165|3031:2316|2988:2316|3016:2164|2991:2242|3090:2157|3060</realcoord>
+			<mapcoord>665|337:658|363:662|363:658|337:675|351:670|336</mapcoord>
+			<aggressive>2</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 남아있는 검투병의 영혼. 검의 기를 모아 내뿜는 기술을 사용한다.</description>
+		</creature>
+		<creature>
+			<code>2615</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 경비병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>2257|2969:2192|3046:2250|3008:2293|3023:2299|3063:2278|2992:2205|3009</realcoord>
+			<mapcoord>654|353:668|342:661|352:664|359:671|360:658|357:661|344</mapcoord>
+			<aggressive>2</aggressive>
+			<description>시엘의 날개 군도 강철의 무덤에 남아있는 경비병의 영혼. 활을 사용하며 이동 속도를 감소시키는 기술을 사용한다.</description>
+		</creature>
+		<creature>
+			<code>2618</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 저격병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>3417|2145:3409|2219:3401|2178:3416|2083:3407|2119:3409|2196</realcoord>
+			<mapcoord>512|553:525|552:518|551:502|553:508|551:521|552</mapcoord>
+			<aggressive>2</aggressive>
+			<description>영원의 저격병</description>
+		</creature>
+		<creature>
+			<code>2624</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 회복병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>26</level>
+			<realcoord>2219|3042:2214|3065:2179|3086:2236|3033:2260|3052:2250|3069</realcoord>
+			<mapcoord>667|347:671|346:675|340:665|350:669|354:671|352</mapcoord>
+			<aggressive>2</aggressive>
+			<description>영원의 검투병, 영원의 경비병들과 함께 강철의 무덤에 남아있는 영혼. 전곤을 들고 마력구 기술을 사용한다.</description>
+		</creature>
+		<creature>
+			<code>2412</code>
+			<area code="1010">어비스 하층</area>
+			<name>공포의 기억 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>3114|2700</realcoord>
+			<mapcoord>608|501</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2413</code>
+			<area code="1010">어비스 하층</area>
+			<name>공포의 영혼 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>2731|3257:2685|3261</realcoord>
+			<mapcoord>704|435:705|427</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2424</code>
+			<area code="1010">어비스 하층</area>
+			<name>기억 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>3611|2972:3583|2969:3425|3077:3586|3007:3474|2939:3546|2911:3414|3036:3551|2915:3615|2986:3410|2997:3395|3083:3591|3008:3502|2905:3502|3070:3529|3070:3524|2938:3519|2913:3506|3093:3493|2904:3479|2922:3529|3093</realcoord>
+			<mapcoord>655|587:654|582:673|555:661|582:649|563:644|575:666|553:645|576:657|587:659|552:674|549:661|583:643|568:672|568:672|572:649|572:645|571:676|569:643|566:646|564:676|573</mapcoord>
+			<aggressive>3</aggressive>
+			<description>시엘의 날개 군도에 버림받은 섬을 차지하고 있는 언데드. 거대한 낫을 들고 사람들의 기억을 파괴한다.</description>
+		</creature>
+		<creature>
+			<code>2456</code>
+			<area code="1010">어비스 하층</area>
+			<name>뜨거운 화염 부유석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>984|1756:936|1758:981|1772:924|1769</realcoord>
+			<mapcoord>445|134:445|125:448|133:447|123</mapcoord>
+			<aggressive>0</aggressive>
+			<description>유황 나무 열도 크라티온 분쟁지에 있다. 화염 부유석과 유사한 모양을 하고 있지만 왜곡된 어비스의 오드 에너지로 인해 더욱 뜨거운 기운을 갖게 되었다.</description>
+		</creature>
+		<creature>
+			<code>2525</code>
+			<area code="1010">어비스 하층</area>
+			<name>불사의 돌격병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>2728|3278:2681|3250</realcoord>
+			<mapcoord>708|434:703|426</mapcoord>
+			<aggressive>1</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2546</code>
+			<area code="1010">어비스 하층</area>
+			<name>뿌리 정찰수</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>1640|1189:1709|1172:1668|986:1000|1893:974|1742:1618|1173:982|1908:904|1682:1057|1789:1675|1172:886|1748:1735|1169:1172|1911:1599|1134:1657|1112:1122|1957:888|1786:1029|1800:990|1778:1688|1017:1160|1939:1679|1095:1684|1201:1653|1001:1730|1062:927|1724:1696|1074:1031|1879:1597|1066:1135|1906</realcoord>
+			<mapcoord>347|247:344|259:312|251:469|136:443|132:345|243:471|133:432|120:451|146:344|253:444|117:344|263:472|166:338|240:334|250:480|157:450|117:453|141:449|135:318|255:477|164:331|253:349|254:315|249:325|262:440|124:327|256:466|142:326|239:471|160</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 내 낙인의 섬에 있는 나무 괴물. 땅에 묻혀 있는 것처럼 보이지만 공격하면 땅에 박았던 뿌리를 뽑아 반격한다.</description>
+		</creature>
+		<creature>
+			<code>2550</code>
+			<area code="1010">어비스 하층</area>
+			<name>사악한 고대마술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>3451|3093:3526|3050:3408|3062:3541|3015:3436|3071:3563|2990:3473|3105:3541|2962:3496|3077</realcoord>
+			<mapcoord>676|559:668|572:670|552:662|575:672|556:658|578:678|563:653|575:673|567</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2552</code>
+			<area code="1010">어비스 하층</area>
+			<name>생명 파괴자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>3201|3336:3083|3406:3226|3301:3245|3312:3028|3399:3221|3327:3198|3297:3079|3400:3215|3413:3225|3494:3058|3427:3008|3428:3036|3394:3222|3463:3016|3425:3213|3439:3208|3286:3050|3419:3238|3282</realcoord>
+			<mapcoord>718|516:730|496:711|520:713|524:729|486:716|519:711|515:729|495:731|518:745|520:733|491:733|483:728|487:739|520:733|484:735|518:709|517:732|490:708|522</mapcoord>
+			<aggressive>3</aggressive>
+			<description>긴 사신의 낫을 들고 유배의 섬을 떠도는 언데드.</description>
+		</creature>
+		<creature>
+			<code>2623</code>
+			<area code="1010">어비스 하층</area>
+			<name>영원의 치유병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>2934|2624:2915|2527:2965|2533</realcoord>
+			<mapcoord>595|470:578|467:579|475</mapcoord>
+			<aggressive>2</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2733</code>
+			<area code="1010">어비스 하층</area>
+			<name>유황의 주시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>1101|1965:1090|1823:1020|1772:1133|1882:864|1705:784|1840:1033|1749:1116|1839:997|1861:808|1849:806|1784:1095|1898:842|1801:1073|1935:887|1713:863|1765:972|1808:1050|1833</realcoord>
+			<mapcoord>481|154:457|152:448|140:467|159:436|113:460|99:444|142:459|156:463|136:461|103:450|103:470|153:453|109:476|149:438|117:447|113:454|131:458|145</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 북동쪽 크라티온 분쟁지에 있는 괴물. 거대한 눈알처럼 생겼다.</description>
+		</creature>
+		<creature>
+			<code>2737</code>
+			<area code="1010">어비스 하층</area>
+			<name>이끼 낀 카몬</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>27</level>
+			<realcoord>3080|3146:3295|2985</realcoord>
+			<mapcoord>685|495:657|532</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2743</code>
+			<area code="1010">어비스 하층</area>
+			<name>잊혀진 전사 네베드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>27</level>
+			<realcoord>3155|2219:3226|1977:3043|2129:3328|2153</realcoord>
+			<mapcoord>525|508:483|520:509|489:514|538</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2744</code>
+			<area code="1010">어비스 하층</area>
+			<name>잿빛 나무인간</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>1667|1052:1698|1045:1603|1187:1643|1049:1648|1095:1634|1015:1638|977:1625|1119:1586|1038:1668|1127:1641|1164:1679|1153:1692|1173:1621|1139:1723|1197:1618|1038:1619|1079:1724|1147:1675|1017:1656|1060</realcoord>
+			<mapcoord>324|251:322|257:347|240:323|247:331|248:317|246:311|246:335|244:321|237:336|252:343|247:341|253:344|256:339|243:349|261:321|243:328|243:340|261:318|253:325|249</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 내 낙인의 섬에 있는 나무 괴물. 이 지역에 나무 괴물이 많은 이유는 토지가 불타기 전 울창한 숲이었기 때문이라는 설이 유력하다.</description>
+		</creature>
+		<creature>
+			<code>2750</code>
+			<area code="1010">어비스 하층</area>
+			<name>제30 드라코뉴트 강습병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>1109|1790:1082|1791:875|1821:936|1811:899|1834:922|1864:951|1767:946|1840</realcoord>
+			<mapcoord>451|155:451|150:456|115:455|125:458|119:464|123:447|128:460|127</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 크라티온 분쟁지에 있는 용족. 양 손에 장검을 들고 칼끝에 독을 묻혀 공격한다.</description>
+		</creature>
+		<creature>
+			<code>2754</code>
+			<area code="1010">어비스 하층</area>
+			<name>제30 드라코뉴트 돌격병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>941|1787:1198|1811:908|1805:1194|1779:1018|1950:1052|1977:1021|1981:1150|1806:1092|1985:1041|2003:998|1965:1011|2012</realcoord>
+			<mapcoord>450|126:455|170:453|120:449|170:479|139:483|145:484|140:454|162:485|152:488|143:481|136:489|138</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도에 나타나는 드라코뉴트 돌격병.</description>
+		</creature>
+		<creature>
+			<code>2777</code>
+			<area code="1010">어비스 하층</area>
+			<name>타락한 고대마술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>27</level>
+			<realcoord>3225|3439:3232|3469:3155|3477:3194|3490:3243|3396:3233|3496:3218|3499</realcoord>
+			<mapcoord>735|520:740|521:742|508:744|515:728|523:745|521:746|519</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2429</code>
+			<area code="1010">어비스 하층</area>
+			<name>나무 감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1396|862:1431|944:1239|810:1216|940:1290|872:1205|935:1304|836:1435|977</realcoord>
+			<mapcoord>291|205:305|211:282|177:304|174:292|186:303|172:286|189:311|211</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2496</code>
+			<area code="1010">어비스 하층</area>
+			<name>메마른 뿌리 정찰수</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1329|1624:1127|1635:1324|1602:784|1616:802|1642:1097|1719:1141|1620:1171|1766:1126|1814:811|1602</realcoord>
+			<mapcoord>422|193:424|158:418|192:421|99:425|102:439|153:422|161:447|166:455|158:418|104</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도에 있는 뿌리 정찰수.</description>
+		</creature>
+		<creature>
+			<code>2557</code>
+			<area code="1010">어비스 하층</area>
+			<name>수용소 용족 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1581|1474</realcoord>
+			<mapcoord>396|237</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2559</code>
+			<area code="1010">어비스 하층</area>
+			<name>수용소 용족 경비병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1546|1407:1552|1400:1599|1454:1504|1511:1556|1547:1514|1511</realcoord>
+			<mapcoord>385|230:384|232:393|240:403|223:409|232:403|225</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>2731</code>
+			<area code="1010">어비스 하층</area>
+			<name>유황 식인충</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1432|959:1409|907:1433|884:1375|865</realcoord>
+			<mapcoord>308|211:299|207:295|211:291|201</mapcoord>
+			<aggressive>3</aggressive>
+			<description>어비스 유황 나무 열도에 있는 썩은 수액의 강에 서식하는 불꽃의 괴물.</description>
+		</creature>
+		<creature>
+			<code>2748</code>
+			<area code="1010">어비스 하층</area>
+			<name>제30 나가 법사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1071|1624:918|1671:929|1595:1198|1658:913|1483</realcoord>
+			<mapcoord>422|149:430|122:417|124:428|170:398|121</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 크라티온 분쟁지에 있는 용족. 푸른 수정의 법봉을 들고 불꽃을 뿜어 타격을 입힌다.</description>
+		</creature>
+		<creature>
+			<code>2752</code>
+			<area code="1010">어비스 하층</area>
+			<name>제30 드라코뉴트 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>28</level>
+			<realcoord>1213|1688:942|1466:1197|1566:899|1653:984|1687:963|1709:988|1492:1155|1584:881|1446:904|1429:888|1476:951|1649:925|1527</realcoord>
+			<mapcoord>433|173:395|126:412|170:427|119:433|134:437|130:400|134:415|163:392|116:389|120:397|117:427|128:406|123</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 크라티온 분쟁지에 있는 우나바룬 군단 소속의 용족. 커다란 장궁을 들고 기류를 교란시켜 타격을 입힌다.</description>
+		</creature>
+		<creature>
+			<code>2408</code>
+			<area code="1010">어비스 하층</area>
+			<name>검은 나무인간</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>1223|1372:1079|1164:1161|1117:1117|1162:1170|1319:1172|1242:1156|1139:1262|1387:1192|1384:1230|1350:1103|1122:1185|1335:1130|1198:1179|1289</realcoord>
+			<mapcoord>379|175:343|150:335|164:343|157:370|166:356|166:339|163:381|181:381|169:375|176:336|154:372|168:349|159:365|167</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 유황의 늪에 있는 다 타버린 나무인간. 불꽃 빛깔을 띠고 있지만 나무는 다 타서 검다.</description>
+		</creature>
+		<creature>
+			<code>2414</code>
+			<area code="1010">어비스 하층</area>
+			<name>괴성의 나무 감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>769|916:975|776:961|798:868|904:1015|844:855|921:993|788:984|812:977|854:708|869:1041|867</realcoord>
+			<mapcoord>300|97:276|132:280|130:298|114:288|139:301|111:278|135:282|133:289|132:292|86:292|143</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 뿌리의 섬에 있는 나무 괴물. 자신의 몸을 철갑화하여 방어력을 높이는 기술을 갖고 있다.</description>
+		</creature>
+		<creature>
+			<code>2425</code>
+			<area code="1010">어비스 하층</area>
+			<name>끈끈한 유황 식인충</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>1093|1215:1130|1173</realcoord>
+			<mapcoord>352|152:344|159</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 유황의 늪에 있는 식인충. 유황 식인충과 비슷하지만 끈끈한 독액을 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>2494</code>
+			<area code="1010">어비스 하층</area>
+			<name>메마른 나무인간</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>959|812:693|863:895|944:935|833:967|1361:938|790:1235|1390:789|868:793|937:992|1369:705|1042:891|909:814|957:1049|1349:873|883:1032|1318:1023|1340:727|858:914|817:1025|1287:729|1034:1001|829:993|767:1163|1350:707|1024:774|863:830|908:756|942:787|771:911|966:971|832:683|889</realcoord>
+			<mapcoord>282|129:291|83:305|118:286|125:377|131:278|126:382|177:292|100:304|100:378|135:322|85:299|117:307|104:375|145:294|114:370|142:373|140:290|89:283|121:364|141:320|90:285|136:274|135:375|164:319|86:291|97:299|107:305|94:275|99:309|121:286|131:296|82</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도 유황의 늪에서 엘림이 변하여 탄생한 괴물. 사악한 기운이 깃든 유황물을 마신 엘림의 최후.</description>
+		</creature>
+		<creature>
+			<code>2518</code>
+			<area code="1010">어비스 하층</area>
+			<name>봉인의 감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>947|935:667|1033:668|1018:659|1024:958|938</realcoord>
+			<mapcoord>303|127:320|79:318|79:319|77:304|129</mapcoord>
+			<aggressive>3</aggressive>
+			<description>에레슈란타 유황 나무 열도의 뿌리의 섬에 있는 괴물. 거대한 눈알처럼 생겼다.</description>
+		</creature>
+		<creature>
+			<code>2756</code>
+			<area code="1010">어비스 하층</area>
+			<name>제30 드라코뉴트 보병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>735|1076:623|973:715|1071:723|993:754|1036:614|1001:701|985:763|1071:594|978:661|913:759|964:635|1004:566|993:605|1013:775|1012:718|1100:588|1003:764|993:777|1038:634|937:643|957:636|1033:692|923:684|1002</realcoord>
+			<mapcoord>328|91:310|71:327|87:313|89:321|94:315|70:312|85:327|95:311|66:300|78:309|95:315|73:313|61:317|68:317|97:332|88:315|65:313|96:321|98:304|73:307|75:320|74:301|83:315|82</mapcoord>
+			<aggressive>3</aggressive>
+			<description>유황 나무 열도에 있는 우나바룬 군단 소속의 드라코뉴트 전투병.</description>
+		</creature>
+		<creature>
+			<code>2780</code>
+			<area code="1010">어비스 하층</area>
+			<name>타오르는 용암 부유석</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>29</level>
+			<realcoord>851|940:1122|1351:880|853:1161|1279:1035|964:1129|1341:936|982:1048|904:1031|948:842|983:1108|1321:974|987:857|974:933|881:1076|1337:900|820:1090|1352:1112|1364:1098|1321:1147|1255:1074|1352:1142|1274:829|969:907|841:1032|896:1106|1345:830|938</realcoord>
+			<mapcoord>304|111:375|157:289|116:363|164:308|142:374|159:312|125:298|145:306|142:312|109:370|155:312|132:310|112:294|125:373|149:284|119:375|152:377|156:370|153:359|162:375|149:362|161:309|107:287|120:297|142:374|155:304|107</mapcoord>
+			<aggressive>0</aggressive>
+			<description>유황 나무 열도 유황의 늪의 용암 덩어리에 영혼이 깃들어 탄생한 괴물.</description>
+		</creature>
+		<creature>
+			<code>2448</code>
+			<area code="1010">어비스 하층</area>
+			<name>돌격대장 라후</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>32</level>
+			<realcoord>1046|1737</realcoord>
+			<mapcoord>442|144</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>4</code>
+			<area code="1010">어비스 하층</area>
+			<name>타이탄</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>801|997:1035|1985:710|951:750|933:2212|3013:1071|1755:1087|1578:1231|885:1054|926:1209|973:835|710:705|1050:774|609:1111|1570:1082|1325:1082|1967:1585|1361:2342|3155:985|1604:739|875:829|895:1600|1450:787|1092:1415|1425:3050|1936:801|1627:973|1027:994|813:1091|1513:1278|1630:786|1032:990|938:1034|1661:977|1663:2258|3079:1216|1919:1058|979:750|752:1226|1817:652|1033:1008|2000:2116|3343:1023|1825:619|989:852|969:1300|1625:702|1119:1482|1515:748|679:979|1923:932|1815:792|1840:930|1759:1081|1638:918|1686:898|915:2330|3240:1620|1113:1957|3377:669|973:3297|1986:1699|1060:1100|1883:1138|1134:2248|3211:952|1752:913|828:1520|1591:2284|3257:1412|828:1222|1626:1069|1965:2063|3338:2142|2992:908|1471:1217|1372:1410|1516:693|821:752|979:3125|2345:1090|1818:851|1717:2155|3204:837|1637:1511|1474:1041|1896:907|1545:3080|2098:591|748:1090|1693:1175|1116:3306|2100:1676|1013:1171|1781:2326|3333:1048|1138:1019|1796:3341|2260:1778|956:680|893:1369|1481:792|843:873|616:1383|852:1652|1248:883|727:3141|1919:1062|1905:989|787:3172|2000:989|1836:1120|1949:1734|1010:3422|2243:2078|3156:1219|1653:1011|1345:2101|3375:870|1649:1179|1699:935|620:965|1722:2369|3328:928|1513:900|1822:1178|1344:761|1104:1016|1910:953|917:866|799:1382|944:1271|839:1325|879:1300|784:1024|1709:796|688:1332|811:1150|1244:1707|1170:2133|3157:1077|1277:2185|3247:835|1810:1023|1629:1455|1481:2119|3237:1198|723:916|1623:865|1048:3342|2168:1596|1041:2206|3108:3122|2060:1198|1939:2904|2099:920|1865:1170|1903:1323|1496:819|750:970|806:1118|1361:3003|2134:936|1693:2228|3184:1606|1146:1764|1157:3227|1969:958|1535</realcoord>
+			<mapcoord>314|102:485|142:306|86:303|93:662|345:445|149:414|151:295|176:302|146:310|172:265|108:323|85:247|97:413|155:371|150:481|150:377|237:686|368:419|134:293|91:296|107:392|240:330|100:388|208:476|490:423|102:319|132:282|135:403|152:423|184:320|99:304|135:429|142:429|132:673|353:473|174:311|146:272|93:456|175:320|76:487|138:719|329:457|140:313|70:309|111:422|188:335|85:403|219:259|93:474|133:455|125:460|100:446|124:425|150:433|122:300|119:701|366:334|243:725|301:310|79:485|533:325|257:467|154:338|160:696|352:444|128:285|121:417|226:704|358:285|207:423|175:481|148:718|320:658|333:396|120:379|174:404|207:284|83:311|94:547|503:456|152:438|111:695|335:424|108:396|224:469|143:409|120:504|495:271|66:434|152:335|166:504|534:317|253:449|166:717|365:338|145:452|140:532|540:307|270:296|81:398|200:287|100:248|114:289|202:357|249:268|116:473|506:471|147:278|134:487|511:459|134:478|157:316|263:529|554:687|322:427|174:374|138:724|326:427|114:435|167:249|125:439|130:716|372:403|124:456|119:374|167:333|95:472|139:300|128:280|113:305|202:287|183:294|192:277|188:437|140:261|101:282|194:357|162:344|258:687|332:362|149:702|341:454|108:423|140:398|215:700|329:267|170:422|122:323|113:516|540:322|239:678|344:497|502:477|171:504|465:464|122:470|166:400|192:272|105:281|131:377|157:510|482:434|125:691|348:340|241:342|268:482|520:407|129</mapcoord>
+			<level>100</level>
+			<harvests>,152000202:8000000:1:icon_item_rock01b:타이탄 광석,152000203:2000000:2:icon_item_rock01b_r:순도 높은 타이탄 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>17</code>
+			<area code="1010">어비스 하층</area>
+			<name>토파즈</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1254|855:1284|893:1428|948:1214|919:1235|774</realcoord>
+			<mapcoord>290|180:296|185:306|210:301|173:276|177</mapcoord>
+			<level>145</level>
+			<harvests>,152000304:10000000:2:icon_item_gemstone02c:토파즈 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>9</code>
+			<area code="1010">어비스 하층</area>
+			<name>커다란 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1677|1096:1650|1208:1243|1186:2349|2918:2850|2147:1307|1260:3243|2301:1151|1169:1435|1286:2396|2939:1303|1300:3270|2367:2474|3293:1568|1027:1356|1166:1440|1265:2923|2204:1379|1092:2869|2299:3296|2312:1275|1239:3165|2381:2422|2986:3122|2372:960|1368:1430|1170:2388|2895:1446|1064:3073|2308:3404|2354:1768|1085:2962|2446:3441|2244:1694|1237:2393|3054:1097|1202:1439|1143:2986|2368:2917|2259:1316|1173:3029|2311:1659|1051:1193|1110:1148|1351:1355|1185:1346|1128:1622|1040:2419|3025:1467|1217:2417|3112:2452|3098:1624|1240:1653|975:1484|1159:3359|2403:1333|1249:2500|3239:1307|1221:2949|2304:1613|1157:1395|1215:1393|1197:1209|1409:1099|1116:1006|1251:2910|2343:1354|1211:1052|1177:1421|1249:1213|1276:1174|1366:2397|3090:2480|3106:1701|1182:2448|2931:1025|1331:1448|1196:1418|1112:2497|3197:1771|1020:3352|2328:1264|1159:1367|1295:2477|3150:1766|971:1733|1021:1296|1116:1637|1268:3204|2314:1377|1260:1093|1283:1260|1389:2460|2990:1402|1167:2525|3114:2510|3050:2442|3202:1466|1128:2375|3000:1135|1244</realcoord>
+			<mapcoord>331|253:351|248:347|178:645|369:513|455:359|189:539|523:344|162:364|211:649|377:366|189:550|528:710|391:319|234:343|198:360|212:522|468:331|202:539|459:541|532:356|184:553|510:657|382:551|502:378|129:344|210:642|376:326|213:540|494:548|551:329|269:564|475:529|557:355|256:669|377:349|153:339|212:551|479:532|467:344|191:541|486:323|250:334|170:375|162:347|197:337|196:322|243:664|381:352|217:679|381:676|387:356|244:310|249:342|220:557|543:358|194:701|395:353|189:540|472:342|242:352|204:349|204:385|172:335|153:358|137:546|466:351|197:345|145:358|209:362|173:378|166:675|377:678|392:346|257:648|386:372|141:349|214:334|208:694|395:318|269:544|542:342|182:366|200:686|391:310|268:318|263:335|187:361|246:541|516:360|201:363|152:382|181:658|388:343|206:679|399:668|397:695|385:337|217:660|374:357|159</mapcoord>
+			<level>150</level>
+			<harvests>,152000902:7500000:1:icon_item_od03:오드 결정체,152000903:2500000:2:icon_item_od03_r:순도 높은 오드 결정체,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>10</code>
+			<area code="1010">어비스 하층</area>
+			<name>아쿠아마린</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1429|878:1300|813:1461|940:1330|911:1220|991</realcoord>
+			<mapcoord>294|210:282|188:304|216:299|193:313|174</mapcoord>
+			<level>155</level>
+			<harvests>,152000305:10000000:2:icon_item_gemstone02b:아쿠아마린 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>6</code>
+			<area code="1010">어비스 하층</area>
+			<name>금</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1630|1467:1396|1461:1469|1548:1552|1547:3548|3106:1462|1570:3421|3008:1431|1480:3098|3413:1593|1369:1548|1449:3237|3442:3205|3361:3204|3508:3486|3063:1440|1513:1512|1621:1541|1486:1596|1514:1431|1661:3242|3324:1493|1575:1476|1614:3628|3030:3525|2963:1474|1646</realcoord>
+			<mapcoord>395|245:394|205:409|217:409|231:678|576:413|216:661|554:397|211:731|498:378|239:392|231:736|522:722|517:747|516:670|565:403|212:422|225:399|230:403|239:429|211:716|523:414|221:420|218:665|590:653|572:426|218</mapcoord>
+			<level>160</level>
+			<harvests>,152000102:8000000:1:icon_item_rock02b:금 광석,152000103:2000000:2:icon_item_rock02b_r:순도 높은 금 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>8</code>
+			<area code="1010">어비스 하층</area>
+			<name>커다란 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2615|2554:764|1086:767|700:911|679:602|1003:595|1081:982|696:834|774:2430|2950:960|581:688|634:2745|2478:988|463:2706|2456:770|633:548|1011:847|733:870|985:2476|2773:1057|832:835|1077:637|856:615|786:824|979:2614|2431:2671|2525:872|651:998|872:959|916:2603|2736:933|715:754|851:824|615:885|811:856|1027:812|1158:2634|2629:928|980:818|798:2721|2379:719|1157:1011|835:809|937:2558|2717:792|697:797|665:1056|1029:797|841:654|920:2496|2829:752|888:625|723:715|850:2620|2779:2484|2858:870|589:728|921:699|1079:2477|2732:2461|2912:795|977:684|851:2470|2975:875|895:1081|939:571|792:2591|2479:2793|2419:968|759:941|873:2461|2823:743|600:2412|2770:795|1026:908|934:2522|2770:769|931:635|662:2428|2841:678|696:699|570:2675|2658:902|1059:1108|1011:2667|2449:2839|2463:916|606:920|838:551|755:607|819:727|1025:850|798:2715|2539:797|1083:565|703:854|698:731|753:1037|976:972|847:2404|2892:585|747:723|682:850|633:671|985:629|1044:1091|891:2580|2593:890|721:755|1005:2679|2576</realcoord>
+			<mapcoord>583|415:329|95:263|96:259|121:315|68:329|66:262|133:276|108:651|383:242|129:251|82:570|437:222|134:566|431:251|97:316|58:269|110:312|114:620|391:286|146:328|108:290|74:278|70:311|106:561|415:578|425:254|114:293|136:300|129:614|413:265|125:289|94:248|106:282|116:319|112:342|104:596|418:311|124:280|105:552|433:342|88:286|138:304|103:611|405:262|100:257|101:320|146:287|101:301|77:630|394:295|94:267|72:289|87:622|416:635|392:244|114:301|89:328|84:613|391:644|388:311|101:289|82:655|390:296|115:304|150:279|62:570|411:559|446:273|131:293|126:629|388:246|92:620|380:319|101:303|120:620|399:303|96:256|73:632|383:262|81:241|84:601|425:325|119:316|155:565|424:567|453:247|122:287|122:272|59:283|69:319|89:280|110:580|432:329|101:263|61:263|111:272|90:311|143:288|131:641|378:271|65:260|89:251|110:312|80:322|72:296|152:589|409:267|117:316|94:586|426</mapcoord>
+			<level>175</level>
+			<harvests>,152000902:7000000:1:icon_item_od03:오드 결정체,152000903:3000000:2:icon_item_od03_r:순도 높은 오드 결정체,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>13</code>
+			<area code="1010">어비스 하층</area>
+			<name>지르콘</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1027|2015:902|792:1049|1724:1029|1880:750|630:863|1694:652|826:753|771:657|847:937|585:1091|1711:948|1569:821|884:619|765:739|714:1157|1747:1329|1611:1150|1615:1143|1906:833|664:867|589:930|632:643|744:593|973:744|1034</realcoord>
+			<mapcoord>490|141:279|119:440|145:466|141:251|93:434|113:285|76:275|94:288|77:243|125:437|152:413|127:295|105:274|71:265|91:444|163:420|193:421|162:471|161:257|107:244|113:251|124:270|75:310|66:320|92</mapcoord>
+			<level>185</level>
+			<harvests>,152000306:10000000:2:icon_item_gemstone02e:지르콘 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>11</code>
+			<area code="1010">어비스 하층</area>
+			<name>아다만타이트</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2996|2975:2179|3088:2431|3135:681|1012:965|643:901|631:2368|3035:720|734:658|800:772|869:820|679:574|729:760|890:2452|3281:863|709:686|954:775|1099:916|588:653|744:747|596:796|642:2924|2870:686|819:3072|2863:2103|3043:2343|3038:532|748:2134|3054:815|706:2099|3060:725|1006:604|1011:2245|3038:669|928:990|906:535|1012:866|788:691|854:2115|3030:2880|2950:626|742:727|785:3047|2947:2909|2989:789|743:2311|2936:2920|2782:2302|2942:1016|919:952|953:2980|2925:599|1001:2475|3264:823|635:2930|2935:707|699:2410|3200:967|783:2309|3146:2390|3204:831|867:807|1156:2358|3099:855|633:3001|2898:640|843:710|877:763|835:3000|2933:772|749:2245|2969:2299|3072:3002|2872:723|1126:929|994:3051|2983:2326|3155:975|491:850|777:575|868:2960|2884:643|690:881|862:737|631</realcoord>
+			<mapcoord>655|481:675|340:683|383:317|81:253|130:251|119:666|372:269|88:280|77:292|97:259|105:268|63:296|95:708|387:264|113:307|82:332|98:244|122:271|76:245|93:253|101:637|468:283|82:636|494:667|326:666|368:271|56:669|332:264|104:670|326:316|89:317|68:666|351:302|79:298|135:317|56:278|113:290|83:665|329:651|461:270|72:278|89:651|489:658|466:270|100:649|362:622|467:650|361:301|139:307|128:647|478:315|67:705|391:252|106:648|469:263|86:694|380:277|131:685|362:695|376:292|107:342|103:677|371:251|111:642|481:288|74:293|86:286|95:648|481:271|97:654|351:672|360:637|482:336|89:314|124:657|490:686|365:227|132:276|110:292|63:640|474:261|75:291|116:251|91</mapcoord>
+			<level>200</level>
+			<harvests>,152000204:7600000:1:icon_item_rock01c:아다만타이트 광석,152000205:2000000:2:icon_item_rock01c_r:순도 높은 아다만타이트 광석,152000206:400000:3:icon_item_rock01c_l:순수한 아다만타이트 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>18</code>
+			<area code="1010">어비스 하층</area>
+			<name>백금</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1019|1985:713|805:1297|1615:909|1601:710|964:1014|1726:1108|1558:1192|1779:678|775:1093|1929:702|1017:1031|1862:1178|1920:801|1852:600|726</realcoord>
+			<mapcoord>485|140:281|87:421|188:418|120:308|86:440|139:411|155:449|169:276|81:475|152:318|85:463|142:473|167:462|102:267|67</mapcoord>
+			<level>210</level>
+			<harvests>,152000104:7600000:1:icon_item_rock02c:백금 광석,152000105:2000000:2:icon_item_rock02c_r:순도 높은 백금 광석,152000106:400000:3:icon_item_rock02c_l:순수한 백금 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>12</code>
+			<area code="1010">어비스 하층</area>
+			<name>빛나는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>532|875:943|524:1005|982:665|725:617|967:771|812:945|637:811|1045:572|1048:842|914:886|562:772|991:522|714:1027|778:1061|939:765|1182:995|638:661|1148:798|560:590|913:937|774:889|860:677|1031:509|1020:980|1014:655|1097:545|953:801|756:588|661:1109|1051</realcoord>
+			<mapcoord>293|56:232|126:312|137:267|78:309|70:282|97:252|127:322|104:323|63:300|109:239|117:313|97:265|54:276|141:304|147:346|96:252|135:340|78:239|101:300|66:276|125:290|117:320|81:318|52:317|133:331|77:307|58:273|102:256|65:323|155</mapcoord>
+			<level>225</level>
+			<harvests>,152000904:7500000:1:icon_item_od02:오드 조각,152000905:2000000:2:icon_item_od02_r:순도 높은 오드 조각,152000906:400000:3:icon_item_od02_l:순수한 오드 조각,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>295</code>
+			<area code="1010">어비스 하층</area>
+			<name>빛나는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1167|1734:1212|1543:1096|1674:1419|1607:841|1563:1143|1365:1218|1968:1290|1552:1143|1445:844|1902:1070|2049:1011|1559:1371|1694:1281|1426:962|1459:1302|1701:807|1726:1199|1820:1008|1908:998|1392</realcoord>
+			<mapcoord>441|165:408|173:431|153:419|209:412|109:378|161:482|174:410|186:391|161:470|109:496|148:411|138:434|200:388|185:394|130:436|188:440|103:456|171:471|138:382|136</mapcoord>
+			<level>275</level>
+			<harvests>,152000904:6400000:1:icon_item_od02:오드 조각,152000905:3000000:2:icon_item_od02_r:순도 높은 오드 조각,152000906:500000:3:icon_item_od02_l:순수한 오드 조각,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>294</code>
+			<area code="1010">어비스 하층</area>
+			<name>타오르는 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1148|1848:876|1710:882|1571:844|1700:995|2015:1090|1835:3209|2749:3054|3340:1000|1941:913|1889:935|1910:3356|2862:3367|2841:942|1418:852|1491:2973|3192:2982|3318:1014|1689:3324|2802:982|1978:905|1629:823|1506:1018|1739:829|1540:948|1532:3366|2924:2953|3284:3080|3072:3155|3302:3401|2897:1190|1499:873|1781:1145|1965:3212|2938:1091|1689:2881|3278:821|1714:3139|2825:3145|3083:3298|2765:3070|3274:3149|2942:3014|3306:3190|3201:958|2042:3193|3096:3384|2960:1095|1973:2989|3103:3181|3054:3027|3226:3268|2968:1259|1808:3291|2915:942|1920:1043|2008:3129|3238:1313|1580:1081|1508:3238|3043:3325|3005:3347|2987:853|1608:3442|2903:3070|3303:3335|2903:910|1472:913|1807:1103|1769:1212|1833:1307|1648:1109|1475:1012|1630:1172|1791:1102|1612:866|1862:3147|3026:2856|3246:3100|3166:894|1406:1260|1569:1230|1773:2906|3219:3158|2869:1026|1524:1006|2055:1031|1465:949|1795:3057|3126:1363|1569:1201|1535:3383|2985:3419|2850:3170|3148:1245|1735:3204|2842:1211|1631:988|1438:1187|1944:1149|1681:3117|3271:792|1821:3036|3053:981|1470:1032|1595:1083|1905:1292|1698:3125|3194:853|1654:1194|1890:1273|1936:969|1851:1240|1908:1153|1549:3280|3084:961|1703:2929|3306:797|1683:1063|1560:776|1791</realcoord>
+			<mapcoord>461|162:437|115:413|116:435|109:490|135:459|152:616|517:718|491:477|136:468|121:472|125:636|543:632|545:387|126:399|111:693|477:714|478:433|139:626|537:483|133:423|120:402|106:442|139:408|107:406|127:646|544:709|473:672|495:712|508:642|551:401|169:449|114:481|161:649|518:434|152:708|461:438|105:630|505:674|506:619|533:707|493:650|507:712|484:694|514:494|129:676|515:653|547:482|153:677|479:669|512:699|486:654|528:454|181:645|531:473|126:488|144:701|504:415|190:402|150:667|522:660|537:657|541:420|111:643|557:712|493:643|539:396|121:454|121:447|154:458|173:426|189:397|155:423|138:451|166:420|154:463|113:664|507:702|456:688|499:385|118:413|181:448|176:697|465:637|509:405|141:497|137:395|142:452|128:681|491:413|199:407|171:657|547:634|553:685|511:441|178:632|516:424|173:390|134:477|168:432|162:706|501:456|100:669|487:396|133:417|142:471|151:435|187:693|503:427|111:468|170:476|183:461|131:471|178:409|163:674|530:436|129:712|469:432|101:411|147:451|98</mapcoord>
+			<level>325</level>
+			<harvests>,152000907:5900000:1:icon_item_od01:오드,152000908:3500000:2:icon_item_od01_r:순도 높은 오드,152000909:400000:3:icon_item_od01_l:순수한 오드,162000063:100000:2:icon_item_elementalstone02g:바람의 정수,152000910:100000:4:icon_item_od01_u:찬란한 오드,</harvests>
+			<count>5</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1010</code>
+			<name>어비스 하층</name>
+			<mmap>1010_768m_a</mmap>
+			<smap>1010_768m_a</smap>
+		</area>
+	</areas>
+</resultdata>

@@ -44,19 +44,19 @@ namespace AionDPS
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.파일ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.아이온폴더열기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.부가기능ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.유물계산기ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.systemcfg편집ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.아이온옵션ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.설정ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.도움말ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.개발자블로그ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.개발자방명록ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.소프트웨어정보ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
-            this.아이온폴더열기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.설정ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.소프트웨어정보ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -138,7 +138,6 @@ namespace AionDPS
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-            this.checkBox2.Enabled = false;
             this.checkBox2.Location = new System.Drawing.Point(12, 144);
             this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.checkBox2.Name = "checkBox2";
@@ -146,6 +145,7 @@ namespace AionDPS
             this.checkBox2.TabIndex = 8;
             this.checkBox2.Text = "격노맞은 불쌍한 영혼들 보기";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // openFileDialog1
             // 
@@ -189,6 +189,7 @@ namespace AionDPS
             this.menuStrip1.Size = new System.Drawing.Size(326, 24);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Visible = false;
             // 
             // 파일ToolStripMenuItem
             // 
@@ -202,6 +203,13 @@ namespace AionDPS
             this.파일ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
             this.파일ToolStripMenuItem.Text = "파일";
             // 
+            // 아이온폴더열기ToolStripMenuItem
+            // 
+            this.아이온폴더열기ToolStripMenuItem.Name = "아이온폴더열기ToolStripMenuItem";
+            this.아이온폴더열기ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.아이온폴더열기ToolStripMenuItem.Text = "아이온 폴더 열기";
+            this.아이온폴더열기ToolStripMenuItem.Click += new System.EventHandler(this.아이온폴더열기ToolStripMenuItem_Click);
+            // 
             // 부가기능ToolStripMenuItem
             // 
             this.부가기능ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -212,34 +220,40 @@ namespace AionDPS
             this.부가기능ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.부가기능ToolStripMenuItem.Text = "부가기능";
             // 
-            // 종료ToolStripMenuItem
+            // 유물계산기ToolStripMenuItem1
             // 
-            this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
-            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.종료ToolStripMenuItem.Text = "종료";
+            this.유물계산기ToolStripMenuItem1.Name = "유물계산기ToolStripMenuItem1";
+            this.유물계산기ToolStripMenuItem1.Size = new System.Drawing.Size(159, 22);
+            this.유물계산기ToolStripMenuItem1.Text = "유물계산기";
+            // 
+            // systemcfg편집ToolStripMenuItem1
+            // 
+            this.systemcfg편집ToolStripMenuItem1.Name = "systemcfg편집ToolStripMenuItem1";
+            this.systemcfg편집ToolStripMenuItem1.Size = new System.Drawing.Size(159, 22);
+            this.systemcfg편집ToolStripMenuItem1.Text = "system.cfg 편집";
+            // 
+            // 아이온옵션ToolStripMenuItem
+            // 
+            this.아이온옵션ToolStripMenuItem.Name = "아이온옵션ToolStripMenuItem";
+            this.아이온옵션ToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.아이온옵션ToolStripMenuItem.Text = "아이온 옵션";
+            // 
+            // 설정ToolStripMenuItem
+            // 
+            this.설정ToolStripMenuItem.Name = "설정ToolStripMenuItem";
+            this.설정ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.설정ToolStripMenuItem.Text = "설정";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
             // 
-            // 유물계산기ToolStripMenuItem1
+            // 종료ToolStripMenuItem
             // 
-            this.유물계산기ToolStripMenuItem1.Name = "유물계산기ToolStripMenuItem1";
-            this.유물계산기ToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
-            this.유물계산기ToolStripMenuItem1.Text = "유물계산기";
-            // 
-            // systemcfg편집ToolStripMenuItem1
-            // 
-            this.systemcfg편집ToolStripMenuItem1.Name = "systemcfg편집ToolStripMenuItem1";
-            this.systemcfg편집ToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
-            this.systemcfg편집ToolStripMenuItem1.Text = "system.cfg 편집";
-            // 
-            // 아이온옵션ToolStripMenuItem
-            // 
-            this.아이온옵션ToolStripMenuItem.Name = "아이온옵션ToolStripMenuItem";
-            this.아이온옵션ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.아이온옵션ToolStripMenuItem.Text = "아이온 옵션";
+            this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
+            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.종료ToolStripMenuItem.Text = "종료";
             // 
             // 도움말ToolStripMenuItem
             // 
@@ -255,38 +269,25 @@ namespace AionDPS
             // 개발자블로그ToolStripMenuItem
             // 
             this.개발자블로그ToolStripMenuItem.Name = "개발자블로그ToolStripMenuItem";
-            this.개발자블로그ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.개발자블로그ToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.개발자블로그ToolStripMenuItem.Text = "개발자 블로그";
             // 
             // 개발자방명록ToolStripMenuItem
             // 
             this.개발자방명록ToolStripMenuItem.Name = "개발자방명록ToolStripMenuItem";
-            this.개발자방명록ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.개발자방명록ToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.개발자방명록ToolStripMenuItem.Text = "개발자 방명록";
-            // 
-            // 소프트웨어정보ToolStripMenuItem
-            // 
-            this.소프트웨어정보ToolStripMenuItem.Name = "소프트웨어정보ToolStripMenuItem";
-            this.소프트웨어정보ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.소프트웨어정보ToolStripMenuItem.Text = "소프트웨어 정보";
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(159, 6);
             // 
-            // 아이온폴더열기ToolStripMenuItem
+            // 소프트웨어정보ToolStripMenuItem
             // 
-            this.아이온폴더열기ToolStripMenuItem.Name = "아이온폴더열기ToolStripMenuItem";
-            this.아이온폴더열기ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.아이온폴더열기ToolStripMenuItem.Text = "아이온 폴더 열기";
-            this.아이온폴더열기ToolStripMenuItem.Click += new System.EventHandler(this.아이온폴더열기ToolStripMenuItem_Click);
-            // 
-            // 설정ToolStripMenuItem
-            // 
-            this.설정ToolStripMenuItem.Name = "설정ToolStripMenuItem";
-            this.설정ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.설정ToolStripMenuItem.Text = "설정";
+            this.소프트웨어정보ToolStripMenuItem.Name = "소프트웨어정보ToolStripMenuItem";
+            this.소프트웨어정보ToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.소프트웨어정보ToolStripMenuItem.Text = "소프트웨어 정보";
             // 
             // Main
             // 
@@ -321,7 +322,6 @@ namespace AionDPS
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox guardianComboBox;
-        private System.Windows.Forms.ComboBox fortressComboBox;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
@@ -345,6 +345,7 @@ namespace AionDPS
         private System.Windows.Forms.ToolStripMenuItem 소프트웨어정보ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 아이온폴더열기ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 설정ToolStripMenuItem;
+        public System.Windows.Forms.ComboBox fortressComboBox;
     }
 }
 

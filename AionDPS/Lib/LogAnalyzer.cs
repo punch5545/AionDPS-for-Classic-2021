@@ -45,8 +45,9 @@ namespace AionDPS
             {
                 if (logResult.hittedObjectName != "")
                     userName = logResult.hittedObjectName;
+                else
+                    userName = logResult.userName;
             }
-
 
             if (!userList.ContainsKey(userName))
             {
@@ -61,6 +62,13 @@ namespace AionDPS
                 userLog.castSpeedCount++;
                 userList[userName] = userLog;
                 userLog.lastLog = logResult;
+                return;
+            }
+
+            if (logResult.rage)
+            {
+                userLog.rage = true;
+                userLog.rageDamage = logResult.rageDamage;
                 return;
             }
 
@@ -96,11 +104,11 @@ namespace AionDPS
             if (logResult.skillName != null && userLog.userClass == "")
                 userLog.userClass = getUserClass(userLog, logResult);
 
-            userLog.skillCriticalPercentage = userLog.skillTimes != 0 ? (int)((float)userLog.skillCriticalTimes / (float)userLog.skillTimes * 100) : 0;
-            userLog.avgAtkDamage = userLog.atkTimes != 0 ? (int)((float)userLog.atkAccDamage / (float)userLog.atkTimes) : 0;
-            userLog.avgSkillDamage = userLog.atkTimes != 0 ? (int)((float)userLog.skillAccDamage / (float)userLog.skillTimes) : 0;
-            userLog.skillPercentage = userLog.accDamage != 0 ? userLog.skillAccDamage * 100 / userLog.accDamage : 0;
+            userLog.skillCriticalPercentage = userLog.skillTimes != 0 ? Convert.ToInt32(userLog.skillCriticalTimes / userLog.skillTimes * 100) : 0;
+            userLog.avgAtkDamage = userLog.atkTimes != 0 ? Convert.ToInt32(userLog.atkAccDamage / userLog.atkTimes) : 0;
+            userLog.avgSkillDamage = userLog.skillTimes != 0 ? Convert.ToInt32(userLog.skillAccDamage / userLog.skillTimes) : 0;
             userLog.atkPercentage = userLog.accDamage != 0 ? userLog.atkAccDamage * 100 / userLog.accDamage : 0;
+            userLog.skillPercentage = userLog.accDamage != 0 ? userLog.skillAccDamage * 100 / userLog.accDamage : 0;
 
 
             userList[userName] = userLog;
@@ -176,7 +184,6 @@ namespace AionDPS
                         userLog.atkTimes++;
                         userLog.currentAtkCancel = 0;
                     }
-                    
                 }
             }
 
@@ -199,9 +206,7 @@ namespace AionDPS
                 }
             }
             
-
             return userLog.userClass;
-
         }
     }
 }

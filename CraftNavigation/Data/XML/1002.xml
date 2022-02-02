@@ -1,0 +1,3465 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultdata areacode="1002" data="Monster,Object,NPC">
+
+	<creatures>
+		<creature>
+			<code>722</code>
+			<area code="1002">베르테론</area>
+			<name>가노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1366|1843</realcoord>
+			<mapcoord>405|239</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 마을에 사는 채집꾼. 발보아의 농장 근처에서 약초를 캐고 있으므로 그쪽으로 가야 만날 수 있다.</description>
+		</creature>
+		<creature>
+			<code>723</code>
+			<area code="1002">베르테론</area>
+			<name>가우링</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1685|1537</realcoord>
+			<mapcoord>326|321</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 판매 대행소에 있는 슈고족 상인. 아첨쟁이 장사치 슈고의 전형. 검은구름 무역단이 되기를 동경하였으나, 꿈을 이루지 못하고 베르테론에서 장사를 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>724</code>
+			<area code="1002">베르테론</area>
+			<name>가이오네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1588|1556</realcoord>
+			<mapcoord>331|296</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새 주변을 떠도는 토그. 과거에 가디언이었다고 한다.</description>
+		</creature>
+		<creature>
+			<code>725</code>
+			<area code="1002">베르테론</area>
+			<name>가피르</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>892|2024</realcoord>
+			<mapcoord>452|117</mapcoord>
+			<aggressive>0</aggressive>
+			<description>크랄에게 잡혀 베르테론의 두카키 채굴장에 있는 슈고족. 브라우니인 긴 눈썹 미미티에 반한 것 같다.</description>
+		</creature>
+		<creature>
+			<code>729</code>
+			<area code="1002">베르테론</area>
+			<name>겐</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2360|807</realcoord>
+			<mapcoord>139|494</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칸타스 해안의 가디언 군단병.</description>
+		</creature>
+		<creature>
+			<code>731</code>
+			<area code="1002">베르테론</area>
+			<name>고고하스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1677|2271</realcoord>
+			<mapcoord>515|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 숲 동부에 있는 생태학자. 숲의 오염을 연구하는 조사단의 책임자이다.</description>
+		</creature>
+		<creature>
+			<code>741</code>
+			<area code="1002">베르테론</area>
+			<name>나다엘로</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>방어구상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1649|1455</realcoord>
+			<mapcoord>305|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 방어구 상인. 지독한 구두쇠로, 방어구 판매로 시작하여 직접 방어구를 만드는 기술을 익혔다.</description>
+		</creature>
+		<creature>
+			<code>9453</code>
+			<area code="1002">베르테론</area>
+			<name>나르실</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1714|1506</realcoord>
+			<mapcoord>319|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>742</code>
+			<area code="1002">베르테론</area>
+			<name>나이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1279|2236</realcoord>
+			<mapcoord>506|216</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 주민. 로스테스의 아내로, 농땡이가 주특기인 남편을 못마땅해한다.</description>
+		</creature>
+		<creature>
+			<code>746</code>
+			<area code="1002">베르테론</area>
+			<name>네미아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1333|2244</realcoord>
+			<mapcoord>508|230</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 주민. 히아누의 아내로 남편을 잘 챙긴다.</description>
+		</creature>
+		<creature>
+			<code>6330</code>
+			<area code="1002">베르테론</area>
+			<name>네스토스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1289|2206</realcoord>
+			<mapcoord>499|219</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>747</code>
+			<area code="1002">베르테론</area>
+			<name>네시아</name>
+			<type>NPC</type>
+			<mclass>창고</mclass>
+			<sclass>창고지기</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1622|1492</realcoord>
+			<mapcoord>315|304</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>748</code>
+			<area code="1002">베르테론</area>
+			<name>넬토니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1261|2299</realcoord>
+			<mapcoord>522|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 낚시꾼. 비록 각성하지는 않았지만 자신의 낚시 실력은 데바에 못지않다는 자부심을 갖고 있다.</description>
+		</creature>
+		<creature>
+			<code>749</code>
+			<area code="1002">베르테론</area>
+			<name>노토스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2366|848</realcoord>
+			<mapcoord>149|496</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 칸타스 해안에서 베르테론 결계탑을 지키는 가디언. 의심이 많고 호기심도 강하다. 모라이와 모종의 관계가 있는 것 같다.</description>
+		</creature>
+		<creature>
+			<code>751</code>
+			<area code="1002">베르테론</area>
+			<name>덩굴호박</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1270|1890:1175|1716:1283|1889:1294|1890:1181|1732:1176|1735:1302|1918:1287|1879:1263|1882:1168|1724:1265|1925:1297|1906:1268|1879:1272|1865:1260|1916:1271|1932:1278|1893:1251|1909:1170|1710:1201|1784:1248|1926:1211|1771:1189|1766:1245|1895:1238|1885:1205|1763:1240|1908</realcoord>
+			<mapcoord>417|214:372|190:417|217:417|220:377|191:377|190:424|222:414|218:415|212:375|188:426|213:421|221:414|214:411|215:424|211:428|214:418|216:422|209:371|188:390|196:427|208:387|199:385|193:419|208:416|206:385|197:422|206</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>9445</code>
+			<area code="1002">베르테론</area>
+			<name>데스카오이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1662|1476</realcoord>
+			<mapcoord>311|315</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에 있는 데바. 엘리시움 예비 템페르의 가입과 탈퇴에 관한 일을 담당하고 있다.</description>
+		</creature>
+		<creature>
+			<code>754</code>
+			<area code="1002">베르테론</area>
+			<name>돌 주먹 스토니</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2070|2424</realcoord>
+			<mapcoord>555|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>779</code>
+			<area code="1002">베르테론</area>
+			<name>두카키족 경보종</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>759|2474</realcoord>
+			<mapcoord>567|83</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>780</code>
+			<area code="1002">베르테론</area>
+			<name>드라시아</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1677|1439</realcoord>
+			<mapcoord>301|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 음식 상인. 요리 솜씨가 형편없으나 자신이 요리를 잘한다고 굳게 믿고 있다.</description>
+		</creature>
+		<creature>
+			<code>781</code>
+			<area code="1002">베르테론</area>
+			<name>드로노아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1268|2629</realcoord>
+			<mapcoord>607|214</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 주미온 협곡에 있는 순례자. 아내 아나시아와 함께 대순례 중에 곤경에 처했다.</description>
+		</creature>
+		<creature>
+			<code>782</code>
+			<area code="1002">베르테론</area>
+			<name>라스키스</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>마법계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2323|1801</realcoord>
+			<mapcoord>394|485</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>783</code>
+			<area code="1002">베르테론</area>
+			<name>레토</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1263|2181</realcoord>
+			<mapcoord>492|212</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에서 파견 나온 가디언. 톨바스 마을 키벨리움 앞에 있다.</description>
+		</creature>
+		<creature>
+			<code>784</code>
+			<area code="1002">베르테론</area>
+			<name>레피오스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1756|2463</realcoord>
+			<mapcoord>565|339</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론에 있는 톨바스 숲의 오염을 연구하는 생태조사원. 자료를 구하다가 다쳐서 프릴파이맘 서식지에 있다.</description>
+		</creature>
+		<creature>
+			<code>785</code>
+			<area code="1002">베르테론</area>
+			<name>로세이노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1725|2756</realcoord>
+			<mapcoord>640|331</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 오염된 늪을 지키는 가디언. 단호한 성격으로 오염 원인 규명에 열심이다. 인근 마을의 인간 남정네들에게 인기가 많지만 정작 자신은 모르고 있다.</description>
+		</creature>
+		<creature>
+			<code>786</code>
+			<area code="1002">베르테론</area>
+			<name>로스테스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1646|2228</realcoord>
+			<mapcoord>504|311</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 자경단원이자 나이아의 남편. 임무를 수행한다는 핑계로 항상 톨바스 숲 동부에서 노닥거리고 있다.</description>
+		</creature>
+		<creature>
+			<code>787</code>
+			<area code="1002">베르테론</area>
+			<name>루낙스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2318|1798</realcoord>
+			<mapcoord>394|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 환영신의 성소를 지키는 가디언. 고지식한 그는 매우 규칙적인 생활을 하고 있다고 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>788</code>
+			<area code="1002">베르테론</area>
+			<name>루시스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1247|2272</realcoord>
+			<mapcoord>516|208</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 자경단원. 베리쿠논의 친구로 항상 활기차다.</description>
+		</creature>
+		<creature>
+			<code>789</code>
+			<area code="1002">베르테론</area>
+			<name>리노라사</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2369|831</realcoord>
+			<mapcoord>145|497</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>790</code>
+			<area code="1002">베르테론</area>
+			<name>마노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1656|1520</realcoord>
+			<mapcoord>322|313</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에 사는 노인. 퀴드로의 아버지이자 발보아의 형으로 깐깐한 성격이다.</description>
+		</creature>
+		<creature>
+			<code>791</code>
+			<area code="1002">베르테론</area>
+			<name>마니파라스</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1348|2226</realcoord>
+			<mapcoord>504|234</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 상인. 막내라고 응석받이로 키워져서 그런지 나이 들어서도 철이 없다.</description>
+		</creature>
+		<creature>
+			<code>792</code>
+			<area code="1002">베르테론</area>
+			<name>마이론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1676|1472</realcoord>
+			<mapcoord>310|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민. 붙임성이 좋고 약간 촐싹맞다. 위험한 곳에서 일하는 로세이노 걱정을 많이 한다.</description>
+		</creature>
+		<creature>
+			<code>793</code>
+			<area code="1002">베르테론</area>
+			<name>메테이나</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1553|1160</realcoord>
+			<mapcoord>230|287</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 엘룬강 하구를 지키는 가디언. 크랄어를 잘 하며, 생포한 크랄을 취조하는 능력도 탁월하다.</description>
+		</creature>
+		<creature>
+			<code>794</code>
+			<area code="1002">베르테론</area>
+			<name>멜리오다스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1720|2755</realcoord>
+			<mapcoord>640|330</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 오염된 늪에서 보초를 서는 가디언. 경계심이 많으나 근본은 친절하다.</description>
+		</creature>
+		<creature>
+			<code>795</code>
+			<area code="1002">베르테론</area>
+			<name>모라이</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2315|1801</realcoord>
+			<mapcoord>394|483</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 엘데스 신전을 지키는 가디언. 암호같은 표현을 사용하며, 뭔가 숨기는 것이 있다.</description>
+		</creature>
+		<creature>
+			<code>798</code>
+			<area code="1002">베르테론</area>
+			<name>미노스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1337|2255</realcoord>
+			<mapcoord>511|231</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>799</code>
+			<area code="1002">베르테론</area>
+			<name>미르디에나</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1639|1501</realcoord>
+			<mapcoord>317|309</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에 있는 비행 이동사. 방랑벽이 있어, 인간으로서 아트레이아 전역을 떠돌다가 정체를 알 수 없는 데바에게 비행 이동의 능력을 전수 받았다.</description>
+		</creature>
+		<creature>
+			<code>800</code>
+			<area code="1002">베르테론</area>
+			<name>밀레노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2274|1717</realcoord>
+			<mapcoord>373|472</mapcoord>
+			<aggressive>0</aggressive>
+			<description>환영신의 성소에 있는 엘림족.</description>
+		</creature>
+		<creature>
+			<code>9444</code>
+			<area code="1002">베르테론</area>
+			<name>밀리티아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1708|1510</realcoord>
+			<mapcoord>319|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>802</code>
+			<area code="1002">베르테론</area>
+			<name>바스쿠스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2071|2416</realcoord>
+			<mapcoord>552|420</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 순례자의 쉼터에 있는 신비석 채집꾼. 성지를 여행하고 많은 경험을 쌓으면 데바가 될 수 있을 것이라 믿었으나, 소용 없다는 것을 깨닫고 채집꾼으로 정착했다.</description>
+		</creature>
+		<creature>
+			<code>803</code>
+			<area code="1002">베르테론</area>
+			<name>발보아의 술통</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1183|1699</realcoord>
+			<mapcoord>368|192</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>805</code>
+			<area code="1002">베르테론</area>
+			<name>베리쿠논</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1329|2183</realcoord>
+			<mapcoord>493|229</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 자경단원. 자기 일에 열심이다.</description>
+		</creature>
+		<creature>
+			<code>806</code>
+			<area code="1002">베르테론</area>
+			<name>벨피누</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2386|788</realcoord>
+			<mapcoord>134|501</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 칸타스 해안의 비행 이동사.</description>
+		</creature>
+		<creature>
+			<code>808</code>
+			<area code="1002">베르테론</area>
+			<name>붉은 용의 향로</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1738|2554</realcoord>
+			<mapcoord>588|334</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>818</code>
+			<area code="1002">베르테론</area>
+			<name>사미넬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1243|2269</realcoord>
+			<mapcoord>515|207</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 마을의 자경단원.</description>
+		</creature>
+		<creature>
+			<code>819</code>
+			<area code="1002">베르테론</area>
+			<name>산테니우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1245|2166</realcoord>
+			<mapcoord>488|208</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 신관. 주신들에 대한 신앙이 깊다.</description>
+		</creature>
+		<creature>
+			<code>9449</code>
+			<area code="1002">베르테론</area>
+			<name>세이라</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1714|1511</realcoord>
+			<mapcoord>320|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에 있는 아라크네 자매회 소속 데바.</description>
+		</creature>
+		<creature>
+			<code>822</code>
+			<area code="1002">베르테론</area>
+			<name>셀레네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1723|1451</realcoord>
+			<mapcoord>304|331</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 신관. 친절한 듯하면서 어딘가 거만하다. 베르테론 요새에서 초심자들에게 조언을 해주고 있다.</description>
+		</creature>
+		<creature>
+			<code>824</code>
+			<area code="1002">베르테론</area>
+			<name>수다쟁이 진</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2120|637</realcoord>
+			<mapcoord>95|433</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6328</code>
+			<area code="1002">베르테론</area>
+			<name>수상한 유적터</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2531|850</realcoord>
+			<mapcoord>150|538</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 칸타스 해안에 있는 유적터. 수상한 오디움의 출처인 것 같다.</description>
+		</creature>
+		<creature>
+			<code>826</code>
+			<area code="1002">베르테론</area>
+			<name>수카투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1326|2200</realcoord>
+			<mapcoord>497|229</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 자경단원. 근무 중엔 한눈팔지 않는다.</description>
+		</creature>
+		<creature>
+			<code>829</code>
+			<area code="1002">베르테론</area>
+			<name>슈고 짐꾼</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1653|1518:1669|1548</realcoord>
+			<mapcoord>322|313:329|317</mapcoord>
+			<aggressive>0</aggressive>
+			<description>알트가르드의 우르툼헤임에 있는 슈고 짐꾼.</description>
+		</creature>
+		<creature>
+			<code>830</code>
+			<area code="1002">베르테론</area>
+			<name>스파탈로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1725|1494</realcoord>
+			<mapcoord>315|331</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 요새 대장으로 키네소스가 지키고 있는 건물 안에 있다. 목적을 위해 수단을 가리지 않는 성격인데, 그렇게 된 이유는 대크랄 전투에서 아내와 아들을 잃은 가슴 아픈 사연이 있기 때문이다.</description>
+		</creature>
+		<creature>
+			<code>831</code>
+			<area code="1002">베르테론</area>
+			<name>스피로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1688|1483</realcoord>
+			<mapcoord>313|321</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새 내부를 순찰하는 가디언. 여자들에게 인기가 많다.</description>
+		</creature>
+		<creature>
+			<code>836</code>
+			<area code="1002">베르테론</area>
+			<name>아나시아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1270|2627</realcoord>
+			<mapcoord>607|214</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 주미온 협곡의 순례자. 남편 드로노아와 함께 배를 곯아가며 대순례 중이다.</description>
+		</creature>
+		<creature>
+			<code>837</code>
+			<area code="1002">베르테론</area>
+			<name>아논트리테</name>
+			<type>NPC</type>
+			<mclass>주화</mclass>
+			<sclass>전투계열담당행정관</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2318|1807</realcoord>
+			<mapcoord>396|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 엘데스 신전에 있는 행정관. 엘리시움에서 파견되어 주화 관련 임무를 돕고 있다.</description>
+		</creature>
+		<creature>
+			<code>838</code>
+			<area code="1002">베르테론</area>
+			<name>아델리아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1652|1488</realcoord>
+			<mapcoord>314|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민. 명랑한 성격으로 가디언 스피로스에게 호감을 갖고 있다. 장이 약해서 장거리 여행은 하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>839</code>
+			<area code="1002">베르테론</area>
+			<name>아레미네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1637|1520</realcoord>
+			<mapcoord>322|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새 의 가디언 파수병. 착실하게 맡은 일을 하고 있다.</description>
+		</creature>
+		<creature>
+			<code>840</code>
+			<area code="1002">베르테론</area>
+			<name>아볼로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1282|2167</realcoord>
+			<mapcoord>489|217</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론에 있는 톨바스 마을의 자경단장. 마을에 자경단장을 할 만한 인물이 없던 터에 젊다는 이유만으로 단장이 되었다. 나름 자상하게 자경단장을 이끌어가고 있다.</description>
+		</creature>
+		<creature>
+			<code>841</code>
+			<area code="1002">베르테론</area>
+			<name>아이로테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1340|2204</realcoord>
+			<mapcoord>498|232</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 마을의 자경단원.</description>
+		</creature>
+		<creature>
+			<code>6331</code>
+			<area code="1002">베르테론</area>
+			<name>아케메네스</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2337|1817</realcoord>
+			<mapcoord>399|488</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>842</code>
+			<area code="1002">베르테론</area>
+			<name>아토리누스</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2053|2406</realcoord>
+			<mapcoord>550|416</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>843</code>
+			<area code="1002">베르테론</area>
+			<name>안테이아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1843|1303</realcoord>
+			<mapcoord>266|362</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새 의 가디언 파수병. 요새 절벽 어딘가에서 정찰 중이다. 숲에서 엘림족의 보살핌으로 자라나 데바가 되었다.</description>
+		</creature>
+		<creature>
+			<code>844</code>
+			<area code="1002">베르테론</area>
+			<name>알룬타</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2280|1901</realcoord>
+			<mapcoord>420|474</mapcoord>
+			<aggressive>0</aggressive>
+			<description>환영신의 성소에 있는 엘림족.</description>
+		</creature>
+		<creature>
+			<code>845</code>
+			<area code="1002">베르테론</area>
+			<name>알테노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1637|1505</realcoord>
+			<mapcoord>318|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민으로 에니아의 남편. 영혼 치유를 공부하는 중이나 진도가 영 더디다.</description>
+		</creature>
+		<creature>
+			<code>9451</code>
+			<area code="1002">베르테론</area>
+			<name>암미아누스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1665|1476</realcoord>
+			<mapcoord>311|316</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새에 있는 엘리시움 예비 템페르 소속 데바.</description>
+		</creature>
+		<creature>
+			<code>849</code>
+			<area code="1002">베르테론</area>
+			<name>어비스 파편</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1649|1484:1695|1548:1732|1440:1677|1422:1680|1530:1688|1499:1661|1464:1717|1505:1656|1510:1586|1486:1699|1440:1621|1420:1719|1401:1660|1575:1739|1498:1732|1532:1695|1501:1686|1454:1648|1500:1720|1465:1710|1479:1610|1485:1704|1469:1644|1447</realcoord>
+			<mapcoord>313|312:329|323:302|333:297|319:325|320:317|322:308|315:318|329:319|313:313|295:302|324:296|304:292|329:336|314:316|335:325|333:317|323:305|321:317|311:308|330:312|327:313|302:309|326:303|310</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>850</code>
+			<area code="1002">베르테론</area>
+			<name>에니아</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1674|1459</realcoord>
+			<mapcoord>306|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민으로 알테노의 아내. 남편이 영혼 치유사가 되는 날만 기다리며 뒷바라지하고 있지만, 가끔은 그런 자신의 처지를 비관한다.</description>
+		</creature>
+		<creature>
+			<code>851</code>
+			<area code="1002">베르테론</area>
+			<name>에르디오</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>식품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1337|2240</realcoord>
+			<mapcoord>507|231</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 음식 상인. 요리 솜씨가 좋아 자부심을 가져도 좋으련만, 가족은 모두 데바가 되고 자기만 인간으로 남아 음식업에 종사하는 것을 내심 부끄러워 한다.</description>
+		</creature>
+		<creature>
+			<code>852</code>
+			<area code="1002">베르테론</area>
+			<name>에스티노</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1547|1158</realcoord>
+			<mapcoord>229|285</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 엘룬강 하구를 지키는 가디언. 내기를 좋아하며 허풍이 심하다. 델트라스와 폭풍의 레기온을 흠모하고 있다.</description>
+		</creature>
+		<creature>
+			<code>854</code>
+			<area code="1002">베르테론</area>
+			<name>엘로테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2439|1773</realcoord>
+			<mapcoord>387|515</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 환영신의 성소에 있는 엘림족. 주변의 숲을 지키고 있다.</description>
+		</creature>
+		<creature>
+			<code>856</code>
+			<area code="1002">베르테론</area>
+			<name>오르다이스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1693|1517</realcoord>
+			<mapcoord>321|323</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민. 아버지 이페노쿰을 이어 무기 상인이 되는 것이 꿈이다. 실없는 말을 잘한다.</description>
+		</creature>
+		<creature>
+			<code>859</code>
+			<area code="1002">베르테론</area>
+			<name>오염된 늪 식물</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1632|2738:1680|2743:1672|2753:1791|2703:1740|2748:1849|2717:1787|2673:1644|2730:1782|2728:1795|2639:1669|2731:1847|2672:1790|2747:1834|2687:1753|2733:1843|2647:1670|2765:1647|2780:1815|2728:1813|2612:1661|2727:1757|2716:1869|2668:1882|2638:1634|2771:1633|2752:1829|2654:1618|2740:1777|2701:1878|2682:1867|2635:1651|2752</realcoord>
+			<mapcoord>635|307:637|319:639|318:626|348:638|335:630|363:619|347:633|310:633|346:610|349:633|317:618|362:638|348:622|359:634|338:612|361:642|317:646|311:633|354:603|354:633|315:630|339:618|368:610|372:644|308:639|307:614|358:636|303:626|344:621|370:609|368:639|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description>오염된 늪에 생겨난 변이된 식물의 씨앗.</description>
+		</creature>
+		<creature>
+			<code>862</code>
+			<area code="1002">베르테론</area>
+			<name>온다니우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1364|1843</realcoord>
+			<mapcoord>405|238</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 발보아의 농장 근처에서 약초를 캐는 채집꾼. 슈고족과 연줄이 있어 검은구름 무역단과 특이한 약초를 종종 거래한다.</description>
+		</creature>
+		<creature>
+			<code>864</code>
+			<area code="1002">베르테론</area>
+			<name>우라크론</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>공간이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1639|1499</realcoord>
+			<mapcoord>317|309</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 공간 이동사. 포에타의 쿠스타논에게 맺힌 게 있다는 소문이다.</description>
+		</creature>
+		<creature>
+			<code>865</code>
+			<area code="1002">베르테론</area>
+			<name>음모의 근원지</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2532|1160</realcoord>
+			<mapcoord>230|539</mapcoord>
+			<aggressive>0</aggressive>
+			<description>쿠라카의 거처에 있다고 알려진 크랄 무리의 진지. 최근 이곳에서 벌어지고 있는 일에 대해 아무도 제대로 아는 자가 없다.</description>
+		</creature>
+		<creature>
+			<code>866</code>
+			<area code="1002">베르테론</area>
+			<name>이로나</name>
+			<type>NPC</type>
+			<mclass>이동</mclass>
+			<sclass>비행이동사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2064|2413</realcoord>
+			<mapcoord>552|418</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 순례자의 쉼터에 있는 비행 이동사.</description>
+		</creature>
+		<creature>
+			<code>867</code>
+			<area code="1002">베르테론</area>
+			<name>이메룬</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1327|2179</realcoord>
+			<mapcoord>492|229</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 마을의 자경단원.</description>
+		</creature>
+		<creature>
+			<code>868</code>
+			<area code="1002">베르테론</area>
+			<name>이비온</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2052|2424</realcoord>
+			<mapcoord>555|415</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 순례자의 쉼터에서 장사를 하는 보따리장수. 유난히 키나를 밝힌다.</description>
+		</creature>
+		<creature>
+			<code>869</code>
+			<area code="1002">베르테론</area>
+			<name>이스피오</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>약품상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1632|1488</realcoord>
+			<mapcoord>314|307</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 약품 상인. 물약 장사를 하며 독학으로 약초학을 공부하여 상당한 수준에 오른 학구파.</description>
+		</creature>
+		<creature>
+			<code>870</code>
+			<area code="1002">베르테론</area>
+			<name>이안</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>잡화상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1705|1529</realcoord>
+			<mapcoord>324|326</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 잡화 상인. 유쾌한 성격으로 누구에게나 친절하다.</description>
+		</creature>
+		<creature>
+			<code>871</code>
+			<area code="1002">베르테론</area>
+			<name>이페노쿰</name>
+			<type>NPC</type>
+			<mclass>상인</mclass>
+			<sclass>무기상인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1651|1451</realcoord>
+			<mapcoord>304|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 무기 상점 주인으로, 이익보다는 좋은 장비를 공급한다는 자부심으로 일하고 있다. 인간은 물론 데바에게도 반말을 사용하지만, 워낙 호탕하고 좋은 무기를 저렴하게 팔고 있어 누구 하나 뭐라하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>872</code>
+			<area code="1002">베르테론</area>
+			<name>일로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1677|2265</realcoord>
+			<mapcoord>514|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>고고하스와 함께 톨바스 숲 동부에서 생태 연구를 하는 조사원.</description>
+		</creature>
+		<creature>
+			<code>873</code>
+			<area code="1002">베르테론</area>
+			<name>작업 감독 누몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1662|1544</realcoord>
+			<mapcoord>328|315</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새서 일하는 슈고 일꾼의 감독관. 산들바람 상회 소속이다.</description>
+		</creature>
+		<creature>
+			<code>884</code>
+			<area code="1002">베르테론</area>
+			<name>제피로스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2370|852</realcoord>
+			<mapcoord>150|497</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 칸타스 해안에서 베르테론 결계탑을 지키는 가디언. 카이시넬의 추종자로 알려져 있다.</description>
+		</creature>
+		<creature>
+			<code>890</code>
+			<area code="1002">베르테론</area>
+			<name>카이론</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1629|1523</realcoord>
+			<mapcoord>323|306</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 북동쪽 입구를 지키는 가디언.</description>
+		</creature>
+		<creature>
+			<code>891</code>
+			<area code="1002">베르테론</area>
+			<name>칼데우스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1667|1497</realcoord>
+			<mapcoord>316|316</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 가디언 백부장. 처음 배속받았을 때는 베르테론의 습기에 적응을 못해 고생을 했으나 이제는 베르테론이 제2의 고향이 되었다.</description>
+		</creature>
+		<creature>
+			<code>892</code>
+			<area code="1002">베르테론</area>
+			<name>케리오스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2327|1810</realcoord>
+			<mapcoord>397|486</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 엘데스 신전을 지키는 가디언. 철저히 복종하는 심복같은 성격이다.</description>
+		</creature>
+		<creature>
+			<code>893</code>
+			<area code="1002">베르테론</area>
+			<name>퀴드로</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1279|2250</realcoord>
+			<mapcoord>510|216</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 주민으로 마노스의 아들. 학문을 한답시고 개똥철학을 자주 주억거려 마을 사람들의 비웃음을 샀다. 하지만 웃어른을 공경하고 아버지에게 편지를 자주 쓰는 일면이 있다.</description>
+		</creature>
+		<creature>
+			<code>894</code>
+			<area code="1002">베르테론</area>
+			<name>크로디스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1245|2209</realcoord>
+			<mapcoord>499|207</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 마을의 농부.</description>
+		</creature>
+		<creature>
+			<code>895</code>
+			<area code="1002">베르테론</area>
+			<name>크리스털</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1616|1313:1905|1426:1605|1267:1864|1459:1461|1484:1633|1313:1440|1423:1573|1368:1462|1447:1445|1359:1484|1523:1867|1406:1467|1333:1491|1540:1511|1576:1886|1429</realcoord>
+			<mapcoord>269|303:298|377:257|300:306|367:313|263:269|307:297|258:283|292:303|263:281|259:323|269:293|368:274|265:327|271:336|276:299|372</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>898</code>
+			<area code="1002">베르테론</area>
+			<name>키네소스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1709|1490</realcoord>
+			<mapcoord>314|327</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 가디언 백부장. 요새의 치안을 담당하고 있다. 전장에서 휘아킨테의 목숨을 구했다고 알려져 있으나, 사실은 오해로 얼떨결에 은인이 되었다.</description>
+		</creature>
+		<creature>
+			<code>899</code>
+			<area code="1002">베르테론</area>
+			<name>타이오투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1671|1497</realcoord>
+			<mapcoord>316|317</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새 의 공보관. 단순 무식한 그에게 공보 임무를 맡긴 것은 단순히 목청이 커서이다.</description>
+		</creature>
+		<creature>
+			<code>900</code>
+			<area code="1002">베르테론</area>
+			<name>토오룽</name>
+			<type>NPC</type>
+			<mclass>거래중개</mclass>
+			<sclass>거래중개인</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1684|1537</realcoord>
+			<mapcoord>326|321</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 판매 대행소에 있는 슈고족 상인.</description>
+		</creature>
+		<creature>
+			<code>901</code>
+			<area code="1002">베르테론</area>
+			<name>톨바스 마을 도난품</name>
+			<type>Object</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>937|2248:919|2149:908|2209:858|2100:906|2115:928|2300:856|2303:840|2170:984|2057:937|2302:898|2013:910|2241</realcoord>
+			<mapcoord>509|128:484|124:499|121:471|108:475|120:523|126:524|108:489|103:460|141:523|128:449|118:508|122</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>937</code>
+			<area code="1002">베르테론</area>
+			<name>티타니아</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2320|1800</realcoord>
+			<mapcoord>394|484</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 환영신의 성소에 있는 영혼 치유사.</description>
+		</creature>
+		<creature>
+			<code>9441</code>
+			<area code="1002">베르테론</area>
+			<name>파벨</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1055|1892</realcoord>
+			<mapcoord>418|159</mapcoord>
+			<aggressive>0</aggressive>
+			<description>미라젠트 성기사 8인 중 하나로 베르테론에서 활동하고 있다.</description>
+		</creature>
+		<creature>
+			<code>939</code>
+			<area code="1002">베르테론</area>
+			<name>팔라이몬</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1691|1478</realcoord>
+			<mapcoord>311|322</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 영혼 치유사. 친절하다.</description>
+		</creature>
+		<creature>
+			<code>940</code>
+			<area code="1002">베르테론</area>
+			<name>페리넨스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1633|1527</realcoord>
+			<mapcoord>324|307</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 가디언. 세린과 바스, 두 아이를 돌보는 어머니이지만 본디 성격이 호전적이다. 아이들은 주로 가노에게 맡긴다.</description>
+		</creature>
+		<creature>
+			<code>941</code>
+			<area code="1002">베르테론</area>
+			<name>페이몽</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>2333|1810</realcoord>
+			<mapcoord>397|487</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>944</code>
+			<area code="1002">베르테론</area>
+			<name>포비나</name>
+			<type>NPC</type>
+			<mclass>마석제거</mclass>
+			<sclass>마석제거사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1650|1472</realcoord>
+			<mapcoord>310|312</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>945</code>
+			<area code="1002">베르테론</area>
+			<name>푸리네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1673|1516</realcoord>
+			<mapcoord>321|318</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 주민. 사서 걱정하는 성격이다.</description>
+		</creature>
+		<creature>
+			<code>946</code>
+			<area code="1002">베르테론</area>
+			<name>필라모니아</name>
+			<type>NPC</type>
+			<mclass>영혼치유</mclass>
+			<sclass>영혼치유사</sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1266|2172</realcoord>
+			<mapcoord>490|213</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 영혼치유사.</description>
+		</creature>
+		<creature>
+			<code>947</code>
+			<area code="1002">베르테론</area>
+			<name>하논투스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1304|2280</realcoord>
+			<mapcoord>518|223</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 톨바스 마을 농부. 주신에 대한 신앙심이 각별하다.</description>
+		</creature>
+		<creature>
+			<code>9452</code>
+			<area code="1002">베르테론</area>
+			<name>하라엔느</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1716|1509</realcoord>
+			<mapcoord>319|329</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>9439</code>
+			<area code="1002">베르테론</area>
+			<name>헤라니안</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1713|1513</realcoord>
+			<mapcoord>320|328</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>949</code>
+			<area code="1002">베르테론</area>
+			<name>휘아킨테</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1721|1491</realcoord>
+			<mapcoord>315|330</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 가디언. 요새에 주둔한 가디언의 재정을 담당하고 있다. 전장에서 키네소스의 도움을 받아 살아났다고 굳게 믿고 있다.</description>
+		</creature>
+		<creature>
+			<code>950</code>
+			<area code="1002">베르테론</area>
+			<name>히놉스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1679|1487</realcoord>
+			<mapcoord>314|319</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 요새의 지붕에 있는 가디언. 어비스 관문에서 쏟아지는 부유석을 처리하느라 바쁘다.</description>
+		</creature>
+		<creature>
+			<code>951</code>
+			<area code="1002">베르테론</area>
+			<name>히아누</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>0</level>
+			<realcoord>1641|2230</realcoord>
+			<mapcoord>505|309</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 숲 동부에 있는 사냥꾼.</description>
+		</creature>
+		<creature>
+			<code>726</code>
+			<area code="1002">베르테론</area>
+			<name>갈색부리 하이브</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1910|1445:1743|1724:1529|1706:1500|1572:1914|1411:1580|1707:1754|1711:1798|1576:1598|1269:1952|1452:1837|1563:1938|1426:1454|1494:1575|1369:1587|1349:1510|1575</realcoord>
+			<mapcoord>303|379:374|336:370|281:336|273:294|380:370|294:371|339:337|350:257|298:304|389:333|360:298|386:315|261:283|292:278|296:336|276</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에 서식하는 조류. 주로 물이 있는 곳에 산다.</description>
+		</creature>
+		<creature>
+			<code>834</code>
+			<area code="1002">베르테론</area>
+			<name>습지 레피스마</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1647|1602:1766|1554:1565|1494:1819|1680:1645|1622:1841|1370:1759|1398:1712|1626:1524|1585:1482|1458:1794|1488:1528|1599:1738|1309:1492|1469:1890|1491:1573|1495:1518|1332:1676|1272:1710|1308:1791|1445:1658|1299:1469|1405:1789|1606:1699|1608:1853|1624:1885|1493:1612|1691:1792|1723:1768|1564:1652|1384:1786|1297:1668|1701:1761|1394:1554|1481:1866|1346:1488|1491:1634|1622</realcoord>
+			<mapcoord>343|311:331|342:316|290:363|355:348|311:283|361:291|340:349|328:339|279:306|269:314|349:342|280:268|335:309|271:315|373:316|292:274|278:258|318:268|327:303|348:265|314:293|265:344|347:345|324:349|364:315|372:366|302:374|348:333|342:287|312:265|347:369|316:290|340:312|287:277|367:315|270:348|308</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에 사는 동물. 주로 물이 있는 곳에 산다.</description>
+		</creature>
+		<creature>
+			<code>855</code>
+			<area code="1002">베르테론</area>
+			<name>염탐꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1476|1532:1500|1524:1613|1282:1625|1296:1610|1302:1484|1510:1627|1298:1863|1405:1626|1283:1857|1423:1879|1426:1844|1388</realcoord>
+			<mapcoord>325|267:323|273:261|302:264|305:266|301:319|269:265|306:293|367:261|306:297|365:298|371:288|362</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>874</code>
+			<area code="1002">베르테론</area>
+			<name>작은 배꼽 랍나이트</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1535|1508:1519|1459:1548|1456:1832|1492:1616|1640:1568|1310:1531|1535:1543|1320:1781|1634:1519|1516:1741|1359:1673|1345:1691|1641:1714|1672:1559|1551:1563|1416:1821|1412</realcoord>
+			<mapcoord>319|282:306|278:306|286:315|359:353|303:268|291:326|281:271|284:351|346:321|278:281|335:277|318:353|322:361|328:330|288:295|289:294|356</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에서 볼 수 있는 갑각류. 뾰족한 집게발과 날카로운 촉수를 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>887</code>
+			<area code="1002">베르테론</area>
+			<name>진흙살이 캔서리드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>9</level>
+			<realcoord>1724|1686:1470|1377:1760|1623:1810|1605:1730|1688:1766|1623:1535|1366:1817|1350:1742|1385:1854|1559:1622|1387:1659|1652:1588|1645:1603|1333:1680|1670:1456|1387:1866|1554:1514|1480:1483|1420:1814|1353:1533|1301:1684|1300:1563|1428:1467|1369:1533|1298:1680|1303:1453|1376:1505|1491:1547|1301:1746|1380:1795|1556:1794|1553:1828|1467:1529|1368:1822|1462:1584|1638:1480|1414</realcoord>
+			<mapcoord>365|331:285|265:348|340:344|353:365|332:349|342:282|282:278|355:287|335:332|364:288|305:356|314:354|296:274|300:361|320:288|262:331|367:312|277:296|269:279|354:266|282:266|321:299|289:283|265:265|282:266|319:285|261:315|274:266|285:286|336:331|349:330|349:308|358:283|281:307|356:352|295:295|268</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에서 벌레를 잡아먹고 사는 갑각류. 독성 물질을 내뿜는다.</description>
+		</creature>
+		<creature>
+			<code>735</code>
+			<area code="1002">베르테론</area>
+			<name>굶주린 자이프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1399|1830:1530|1667:1491|1704:1389|1785:1394|1879:1351|1772:1423|1865:1334|1793:1424|1898:1372|1761:1521|1674:1413|1755:1418|1685:1390|1912:1339|1833:1429|1796</realcoord>
+			<mapcoord>402|247:360|281:369|271:390|245:415|246:387|235:411|253:392|230:419|254:384|240:362|279:383|251:365|252:423|245:403|232:393|255</mapcoord>
+			<aggressive>3</aggressive>
+			<description>발보아의 농장 근처에 사는  자이프. 농장이 폐허가 되어서 굶주리고 있다.</description>
+		</creature>
+		<creature>
+			<code>807</code>
+			<area code="1002">베르테론</area>
+			<name>부역꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1484|1513:1496|1498:1889|1420:1477|1527:1641|1286:1859|1402:1467|1505:1642|1307:1628|1296:1846|1409</realcoord>
+			<mapcoord>320|269:316|272:296|373:324|267:262|309:292|365:318|265:267|310:264|306:294|362</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>812</code>
+			<area code="1002">베르테론</area>
+			<name>뾰족뿔 케프라</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1766|1351:1734|1641:1821|1390:1824|1623:1578|1314:1805|1535:1799|1529:1489|1383:1550|1585:1780|1334:1513|1532:1698|1349:1530|1430:1836|1442:1495|1391:1625|1336:1621|1348:1694|1353:1532|1486:1653|1328:1535|1348:1657|1334:1604|1291:1800|1632:1696|1709:1693|1707:1732|1639:1552|1587:1528|1434</realcoord>
+			<mapcoord>279|342:353|333:289|356:349|357:269|293:326|352:324|350:287|270:339|286:274|345:325|277:278|324:299|281:302|360:289|272:275|305:278|304:279|323:313|282:273|313:278|282:274|313:263|300:351|350:371|324:370|323:339|287:300|280</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에 서식하는 갑각류.</description>
+		</creature>
+		<creature>
+			<code>832</code>
+			<area code="1002">베르테론</area>
+			<name>습지 느림보 안킬로틀</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>10</level>
+			<realcoord>1455|1424:1431|1379:1498|1311:1435|1418:1523|1284:1469|1345</realcoord>
+			<mapcoord>297|262:286|256:268|273:296|256:261|279:277|265</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론 습지에 서식하는 동물. 움직임이 매우 느리고 인간이나 데바를 먼저 공격하지 않는다.</description>
+		</creature>
+		<creature>
+			<code>752</code>
+			<area code="1002">베르테론</area>
+			<name>도적</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1275|1917:1241|1819:1181|1815:1166|1867:1293|1795:1273|1799:1287|1900:1317|1903:1180|1783:1265|1826:1196|1800:1240|1876:1187|1835:1205|1815:1225|1839:1173|1767:1179|1752:1244|1939:1256|1869:1292|1865:1272|1852:1119|1823:1278|1937:1159|1871:1170|1690:1144|1838:1226|1942</realcoord>
+			<mapcoord>424|215:399|206:398|191:411|187:393|220:394|215:420|219:421|226:390|191:401|213:394|195:414|206:403|193:398|197:404|202:386|189:382|190:430|207:412|211:411|220:407|215:400|175:429|216:412|185:366|188:404|182:431|203</mapcoord>
+			<aggressive>3</aggressive>
+			<description>톨바스 숲 서부 부근의 발보아 농장을 점령한 레파르 혁명단의 일원.</description>
+		</creature>
+		<creature>
+			<code>827</code>
+			<area code="1002">베르테론</area>
+			<name>술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1257|1902:1275|1794:1256|1852:1255|1776</realcoord>
+			<mapcoord>420|211:392|215:408|210:388|210</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>876</code>
+			<area code="1002">베르테론</area>
+			<name>잡역꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>11</level>
+			<realcoord>1246|1843:1290|1784:1246|1916:1295|1882:1271|1783:1261|1923:1274|1871:1244|1898:1277|1887:1289|1805:1323|1875:1242|1861:1259|1788:1246|1782:1290|1822:1235|1847:1291|1919</realcoord>
+			<mapcoord>405|208:390|219:424|208:415|220:390|214:426|212:412|215:419|207:416|216:395|219:413|228:410|207:391|211:389|208:400|219:406|205:425|220</mapcoord>
+			<aggressive>3</aggressive>
+			<description>발보아의 농장을 점령한 레파르 혁명단의 일원.</description>
+		</creature>
+		<creature>
+			<code>745</code>
+			<area code="1002">베르테론</area>
+			<name>난폭한 자이프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1393|1985:1129|2203:1320|1945:1428|1967:1111|2343:1507|1922:1346|1925:1314|1995:1363|1958:1221|2328:1525|1943:1174|2249:1139|2330:1357|1991:1095|2215:1454|1964:1487|1941:1180|2316:1156|2356:1175|2283:1335|1977:1141|2277:1299|1969</realcoord>
+			<mapcoord>442|246:498|178:431|227:437|255:534|173:425|275:426|234:444|225:435|238:530|201:431|280:510|189:530|180:443|236:501|169:436|261:430|270:527|191:537|185:518|190:440|231:517|181:438|222</mapcoord>
+			<aggressive>3</aggressive>
+			<description>발보아의 농장 근처에 서식하는 자이프. 매우 굶주려서 난폭한 상태이다.</description>
+		</creature>
+		<creature>
+			<code>756</code>
+			<area code="1002">베르테론</area>
+			<name>두목 카빌</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>12</level>
+			<realcoord>1146|1861</realcoord>
+			<mapcoord>410|182</mapcoord>
+			<aggressive>3</aggressive>
+			<description>발보아의 농장을 점령한 레파르 혁명단의 두목.</description>
+		</creature>
+		<creature>
+			<code>815</code>
+			<area code="1002">베르테론</area>
+			<name>사나운 자이프</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1399|2023:1323|2020:1547|1920:1340|2017:1546|1952:1420|2022</realcoord>
+			<mapcoord>451|247:451|228:425|285:450|232:433|285:451|253</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>846</code>
+			<area code="1002">베르테론</area>
+			<name>야생 점박이 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1339|2024:1398|2033:1417|2032:1320|2026:1558|1927:1558|1944</realcoord>
+			<mapcoord>452|232:454|247:454|252:452|227:427|288:431|288</mapcoord>
+			<aggressive>3</aggressive>
+			<description>중복 수정으로 사라진 토그.</description>
+		</creature>
+		<creature>
+			<code>847</code>
+			<area code="1002">베르테론</area>
+			<name>야생 줄무늬 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>12</level>
+			<realcoord>1403|2059:1349|2049:1587|1923:1543|2098:1517|2165:1272|2086:1522|2200:1582|2036:1398|2230:1251|2064:1452|2233:1524|2129:1580|1966:1279|2053:1553|2061:1432|2207:1308|2049:1533|2019:1377|2076:1404|2180:1493|2129:1396|2127:1430|2066:1549|2197:1576|2083:1416|2258:1373|2161</realcoord>
+			<mapcoord>461|248:458|234:426|296:471|284:488|278:468|214:497|279:455|294:505|247:462|209:505|261:479|279:437|294:459|216:461|287:499|256:458|224:451|282:465|242:492|248:479|271:478|246:463|255:496|286:467|293:512|252:487|241</mapcoord>
+			<aggressive>3</aggressive>
+			<description>톨바스 숲 동부에 사는 야수. 날카로운 이빨이 특징이다.</description>
+		</creature>
+		<creature>
+			<code>728</code>
+			<area code="1002">베르테론</area>
+			<name>갈퀴발톱 프릴파이맘</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1643|2115:1659|2003:1464|2152:1486|2069:1505|2090:1433|2163:1667|2172:1690|2193:1614|2078:1716|2158:1626|2022:1632|2141:1663|2069:1650|2038:1635|1975:1452|2119:1458|2081:1689|2095:1422|2125:1509|2053:1660|1969:1634|1922:1480|2105:1480|2029:1664|2143:1456|2179</realcoord>
+			<mapcoord>475|310:446|314:485|264:463|270:469|275:487|256:490|316:495|322:466|303:486|329:451|306:482|307:463|315:455|312:439|308:476|261:466|262:470|322:478|253:459|275:438|314:426|308:473|268:453|268:482|315:492|262</mapcoord>
+			<aggressive>3</aggressive>
+			<description>톨바스 숲 동부에 서식하는 파충류. 동료 의식이 있어서 한 마리를 공격하면 여럿이 몰려 든다.</description>
+		</creature>
+		<creature>
+			<code>738</code>
+			<area code="1002">베르테론</area>
+			<name>긴 눈썹 미미티</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>907|2104</realcoord>
+			<mapcoord>472|121</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두카키 채굴장에 사는 브라우니. 브라우니 중에서는 미모가 빼어나다.</description>
+		</creature>
+		<creature>
+			<code>758</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 경계꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>768|2463:731|2545:856|2337:897|2087:777|2668:828|2629:847|2427:871|2495:796|2460:851|2669</realcoord>
+			<mapcoord>565|85:586|75:532|108:468|118:617|87:607|100:555|105:573|111:564|92:618|106</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>761</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 광부</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>899|2296:837|2247:971|2242:988|2299:1020|2230:838|2214:993|2313:930|2350:847|2331:1007|2306:895|2431:957|2232:879|2153:839|2197:958|2364:1038|2271:1021|2360:899|2210:929|2215:854|2199:888|2414:985|2208:930|2277:900|2379:893|2242:915|2180</realcoord>
+			<mapcoord>522|119:509|103:508|137:523|141:505|150:501|103:526|143:536|127:531|105:524|146:556|118:505|133:485|113:496|103:539|134:515|154:538|150:500|118:501|126:497|107:552|116:499|141:517|127:543|119:508|117:492|123</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두카키 부락에 사는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>766</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 수색꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1014|2268:883|2249:923|2427:1055|2368:963|2393:860|2480:969|2309:879|2368:1005|2369:851|2537:1027|2275:917|2248:846|2592:747|2463:893|2036:930|2098:1059|2212:878|2608:952|2385:919|2200</realcoord>
+			<mapcoord>514|148:510|114:555|125:540|159:547|135:569|109:525|137:540|113:540|146:584|106:516|151:509|123:598|105:565|79:455|117:471|126:500|160:602|113:545|132:497|124</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두카키 부락에 사는 브라우니. 수색 임무를 당당하므로 많은 정보를 가지고 있다.</description>
+		</creature>
+		<creature>
+			<code>771</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 심부름꾼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>783|2599:934|2575:1043|2339:779|2531</realcoord>
+			<mapcoord>600|89:594|128:533|156:582|88</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>773</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 잡역부</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>972|2256:961|2198:974|2192:825|2240:840|2344:918|2379:1013|2226:1017|2213:1044|2162:1042|2402:1008|2316:1045|2248:989|2244:936|2383:961|2369:1032|2146:919|2269:917|2282:971|2123:862|2142:847|2276:949|2215:847|2236:952|2345:924|2334:951|2529</realcoord>
+			<mapcoord>511|137:497|134:495|138:507|99:534|103:543|123:504|148:500|149:487|156:549|155:527|147:509|156:508|142:544|128:541|134:483|153:515|124:518|123:477|137:482|109:517|105:501|131:506|105:534|132:531|125:582|132</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두카키 부락에 사는 브라우니.</description>
+		</creature>
+		<creature>
+			<code>775</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>815|2676:681|2449:855|2517:906|2445</realcoord>
+			<mapcoord>619|97:561|63:579|107:560|120</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>777</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 투사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>993|2420:826|2647:795|2535:1014|2274:943|2418</realcoord>
+			<mapcoord>554|143:612|100:583|92:516|148:553|130</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>888</code>
+			<area code="1002">베르테론</area>
+			<name>초목 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1479|1909:1239|2075:1580|2172:1630|2001:1560|2038:1258|2080:1700|2134:1560|2116:1357|2031:1479|2238:1507|1953:1438|1919:1395|2255:1674|2011:1453|2256:1631|2157:1614|1981:1494|1898:1553|2075:1554|2017:1630|2203:1639|2048:1374|2044:1613|1946:1530|1911:1670|1991:1463|1944:1637|2096:1436|1940</realcoord>
+			<mapcoord>422|268:465|206:490|294:446|307:455|289:466|211:480|325:476|289:454|236:507|268:434|275:425|257:511|246:448|318:511|261:486|307:441|302:419|272:465|287:450|287:498|307:458|309:457|241:432|302:423|281:443|317:431|264:470|308:430|257</mapcoord>
+			<aggressive>0</aggressive>
+			<description>톨바스 숲 동부에 서식하는 조류. 꽁지깃이 길고 아름답다.</description>
+		</creature>
+		<creature>
+			<code>938</code>
+			<area code="1002">베르테론</area>
+			<name>파크시게</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>13</level>
+			<realcoord>1541|1442</realcoord>
+			<mapcoord>302|284</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>757</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 감시병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>859|2303:1049|2192:787|2421</realcoord>
+			<mapcoord>523|108:495|157:554|90</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>804</code>
+			<area code="1002">베르테론</area>
+			<name>번개발 투카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>1018|2260</realcoord>
+			<mapcoord>513|149</mapcoord>
+			<aggressive>0</aggressive>
+			<description>두카키 부락에 사는 브라우니. 발이 빠르고 민첩해서 도둑질을 일삼는다.</description>
+		</creature>
+		<creature>
+			<code>809</code>
+			<area code="1002">베르테론</area>
+			<name>브라우니 요리사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>963|2467:863|2614:790|2556:647|2552:778|2640</realcoord>
+			<mapcoord>566|135:603|109:589|91:587|54:610|88</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>906</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 감시자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>14</level>
+			<realcoord>979|2246:889|2429:931|2387:930|2342:958|2312:920|2064:967|2199:1001|2115:957|2311:997|2154:1023|2219:845|2195:1039|2171:995|2297:877|2079:963|2134:947|2095:885|2053:922|2275</realcoord>
+			<mapcoord>509|139:556|116:545|127:534|126:526|134:462|124:497|136:475|145:526|133:485|144:502|151:496|105:489|155:522|143:466|113:480|135:470|131:459|115:516|125</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소 근처에서 망을 보는 크랄.</description>
+		</creature>
+		<creature>
+			<code>750</code>
+			<area code="1002">베르테론</area>
+			<name>덤불숲 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1540|2320:1583|2259:1582|2239:1610|2266:1544|2268:1574|2297</realcoord>
+			<mapcoord>528|283:512|295:507|294:514|301:515|284:522|292</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>753</code>
+			<area code="1002">베르테론</area>
+			<name>독침 옥타사이드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1596|2452</realcoord>
+			<mapcoord>562|298</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>857</code>
+			<area code="1002">베르테론</area>
+			<name>오염된 네펜데스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1714|2351:1735|2235:1582|2305:1699|2214:1637|2349</realcoord>
+			<mapcoord>536|328:506|334:524|294:501|324:535|308</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>861</code>
+			<area code="1002">베르테론</area>
+			<name>오염된 뮤타</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1779|2444:1777|2409</realcoord>
+			<mapcoord>560|345:551|345</mapcoord>
+			<aggressive>0</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>880</code>
+			<area code="1002">베르테론</area>
+			<name>절벽길 페슬롯</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1219|2658:1209|2713</realcoord>
+			<mapcoord>615|201:629|198</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아르타미아 고개에 서식하는 동물.</description>
+		</creature>
+		<creature>
+			<code>896</code>
+			<area code="1002">베르테론</area>
+			<name>큰 갈퀴발톱 프릴파이맘</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>1775|2466:1618|2381</realcoord>
+			<mapcoord>565|344:544|304</mapcoord>
+			<aggressive>3</aggressive>
+			<description>프릴파이맘 서식지에 서식하는 파충류. 동료 의식이 있어서 한 마리를 공격하면 여럿이 몰려 든다.</description>
+		</creature>
+		<creature>
+			<code>904</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 감시병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>890|2391:958|2225:982|2130:983|2067:711|2521:899|2343:864|2593:921|2368:992|2221:982|2270:981|2353:971|2167:650|2631:918|2400:802|2636:945|2118:887|2146:663|2480:951|2041:930|2079:889|2079:881|2059:844|2180:911|2136</realcoord>
+			<mapcoord>546|116:503|134:479|140:463|140:579|70:534|119:598|110:540|124:502|143:515|140:536|140:489|137:608|55:549|124:609|94:476|130:483|116:569|58:456|132:466|127:466|116:461|114:492|104:480|122</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>909</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>824|2083:1000|2069:999|2062:825|2075:824|2158:824|2167</realcoord>
+			<mapcoord>467|99:463|145:461|144:465|100:486|99:488|99</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>911</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 망루병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>882|2586:919|2152:701|2592:903|2351</realcoord>
+			<mapcoord>596|114:485|124:598|68:536|120</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>912</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 보초</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>15</level>
+			<realcoord>875|2573:803|2429:720|2593:849|2096:680|2522:845|2168:864|2012:751|2581</realcoord>
+			<mapcoord>593|112:556|94:598|73:470|106:580|62:489|105:449|110:595|81</mapcoord>
+			<aggressive>3</aggressive>
+			<description>두카키 부락에 있다. 타종 막대로 종을 쳐서 오디움을 정제하는 가마솥에 약품을 넣을 시간을 알린다.</description>
+		</creature>
+		<creature>
+			<code>730</code>
+			<area code="1002">베르테론</area>
+			<name>경계대장 하카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>16</level>
+			<realcoord>1926|1059</realcoord>
+			<mapcoord>203|383</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>737</code>
+			<area code="1002">베르테론</area>
+			<name>금이 간 칼크겔름</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1630|2845:1608|2786:1715|2827</realcoord>
+			<mapcoord>663|307:648|301:658|329</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>763</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 기수</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1932|883:1793|1090:1635|1070:1729|1021:1674|1080</realcoord>
+			<mapcoord>158|384:211|349:206|308:194|332:209|318</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>765</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 난폭투사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1569|1115:1657|1077:1750|976:1758|1003:1640|1077:1862|1109:1938|1040:1560|1127:1578|1147:1549|1120:1609|1070</realcoord>
+			<mapcoord>218|291:208|313:182|338:189|339:208|309:216|366:199|386:221|289:226|293:219|286:206|301</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>772</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 용맹전사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1590|1126:1571|1113:1664|1064:1760|1003:1615|1104:1861|1110</realcoord>
+			<mapcoord>221|296:217|291:205|315:189|340:215|303:217|366</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>825</code>
+			<area code="1002">베르테론</area>
+			<name>수상한 상자</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1739|2538</realcoord>
+			<mapcoord>584|335</mapcoord>
+			<aggressive>0</aggressive>
+			<description>카이단 본진의 움막에서 발견되는 상자. 무엇이 들어있을까?</description>
+		</creature>
+		<creature>
+			<code>879</code>
+			<area code="1002">베르테론</area>
+			<name>전투대장 툰카라</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>16</level>
+			<realcoord>1856|757</realcoord>
+			<mapcoord>126|365</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>886</code>
+			<area code="1002">베르테론</area>
+			<name>진홍 네펜데스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1603|1124:1579|1079:1609|1047</realcoord>
+			<mapcoord>220|300:209|294:200|301</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>917</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 감시병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1824|989:1874|1042:1758|999:1781|973:1867|1055:1887|1109:1851|1081:1785|1090:1824|995:1784|837:1863|1111:1725|1022:1801|878</realcoord>
+			<mapcoord>186|357:199|369:188|340:181|345:203|368:216|373:209|364:211|347:187|356:146|346:217|367:194|331:157|351</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>920</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 망루병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1926|888:1742|1025:1800|1076:1816|797:1853|873</realcoord>
+			<mapcoord>160|383:195|335:208|350:136|354:156|364</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>922</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 전초병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>16</level>
+			<realcoord>1824|1065:1840|1052:1856|811:1817|1091:1738|981:1927|1099:1842|920:1897|1074:1833|1085:1892|1036:1809|988:1778|974:1822|856:1763|1025:1792|1101:1836|1083:1748|977:1852|1079:1746|1003:1790|1014:1813|878:1890|1109:1787|1018:1900|1077:1880|857</realcoord>
+			<mapcoord>205|356:202|361:140|365:212|355:183|335:214|383:168|361:207|375:210|359:198|374:185|353:182|345:151|356:195|341:214|348:210|360:182|337:209|364:189|336:192|348:157|354:216|373:193|347:208|376:151|371</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>732</code>
+			<area code="1002">베르테론</area>
+			<name>고대 천인의 영혼</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2163|2304:2101|2272:2045|2300:1987|2759:2043|2333:2152|2135:2075|2312:2183|2380</realcoord>
+			<mapcoord>524|444:516|428:523|413:641|399:531|413:480|441:526|421:543|449</mapcoord>
+			<aggressive>3</aggressive>
+			<description>밤이 되면 아르타미아 고개 부근을 떠도는 영혼. 천년전쟁 때 죽은 천인의 영혼이다.</description>
+		</creature>
+		<creature>
+			<code>739</code>
+			<area code="1002">베르테론</area>
+			<name>깨진 바위 칼크겔름</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1947|2765:1887|2744:1966|2706:1928|2569:1960|2553:1950|2808:1988|2711:1916|2824:1998|2785:1858|2552:2002|2683:1945|2686:2011|2587:1882|2793:1984|2647:1941|2617:1797|2772:1959|2649:1826|2761:1976|2572:1962|2735:1870|2765:2017|2652</realcoord>
+			<mapcoord>642|388:637|373:627|393:592|383:588|392:654|389:628|399:657|380:648|401:588|365:621|402:622|388:597|405:649|371:612|398:604|387:644|350:613|391:641|357:593|396:635|392:642|368:613|406</mapcoord>
+			<aggressive>3</aggressive>
+			<description>아르타미아 고개에 자주 나타난다. 바위 정령이었으나 대파국 후 인간과 데바를 해치는 생명체로 변했다.</description>
+		</creature>
+		<creature>
+			<code>769</code>
+			<area code="1002">베르테론</area>
+			<name>두카키 신도</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2304|1212:2318|1174:2302|1187:2327|1186:2285|1197:2317|1205</realcoord>
+			<mapcoord>243|480:233|484:236|480:236|486:239|475:241|483</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>797</code>
+			<area code="1002">베르테론</area>
+			<name>뭉툭꼬리 토그</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2075|2179</realcoord>
+			<mapcoord>492|421</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>860</code>
+			<area code="1002">베르테론</area>
+			<name>오염된 루필리니</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2180|2361:1973|2738:1998|2753:2003|2697:2016|2373:1973|2397:2123|2282:1982|2477:1936|2717:2095|2350:2164|2387:2188|2125:1918|2759:2180|2328</realcoord>
+			<mapcoord>538|448:635|395:639|401:625|403:541|406:548|395:518|433:568|397:630|385:535|426:545|444:478|450:641|381:530|448</mapcoord>
+			<aggressive>0</aggressive>
+			<description>아르타미아 고개에서 사는 날짐승. 낮에만 나타나고 밤에는 전혀 볼 수 없다.</description>
+		</creature>
+		<creature>
+			<code>882</code>
+			<area code="1002">베르테론</area>
+			<name>정찰대장 파루카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>17</level>
+			<realcoord>2021|1024</realcoord>
+			<mapcoord>195|407</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>889</code>
+			<area code="1002">베르테론</area>
+			<name>초원 옥타사이드</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1949|2663:2044|2642:1867|2549:1908|2537:2041|2625:1848|2557:2014|2604:1953|2637:1921|2528:1967|2664:2029|2598:1969|2645:1894|2543:1939|2545:1954|2539</realcoord>
+			<mapcoord>616|389:611|413:587|368:584|378:606|412:589|363:601|405:609|390:581|382:616|393:599|409:611|394:585|375:586|386:584|390</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>907</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 감시조장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1641|1052:1640|1080</realcoord>
+			<mapcoord>202|309:209|309</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 주둔지에 근무하는 크랄. 크랄 내부의 많은 정보를 알고 있다.</description>
+		</creature>
+		<creature>
+			<code>918</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2030|1065:1844|1016:1792|788:1772|861:1850|945:1888|1003:2003|731:1998|824:1903|900:2031|906:1894|968:2020|719:1905|879:1924|1020:2054|959:1882|855:1930|865</realcoord>
+			<mapcoord>205|410:193|362:134|348:152|343:174|363:189|373:119|403:143|401:163|377:164|410:180|374:116|407:157|377:193|382:178|416:151|371:154|384</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 전초기지에서 경계 근무를 서는 크랄.</description>
+		</creature>
+		<creature>
+			<code>923</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 전투병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1983|844:1788|893:1769|822:1862|786:2020|981:1989|862:1897|784:1826|770:1838|760:2108|835:1928|1055:1995|785:1897|919:1907|1056:1777|878:1905|897:1849|1016:1932|907:1921|1073:2054|955:1867|924:2040|879:1886|760:2087|816:1824|896:1948|808:2008|876:1797|874:2026|957</realcoord>
+			<mapcoord>148|398:161|347:143|342:133|366:183|407:153|399:133|375:129|357:127|360:146|430:202|383:133|400:168|375:203|378:157|344:162|377:192|363:164|384:207|381:177|416:169|368:157|412:127|373:141|424:161|357:139|388:156|404:156|349:177|408</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 전초기지에서 전투를 담당하는 크랄 전투병.</description>
+		</creature>
+		<creature>
+			<code>925</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 정찰병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>2075|841:1996|835:1753|1053:1838|823:1986|770:1940|1041:1771|855:2031|930:1868|919:1823|785:1881|810:1972|831:1914|1023:2120|852:2041|957:1879|783:1896|1034:1902|806:1870|1076:2089|854:2027|941:2019|883:1917|912:1803|833:2028|1020:1776|876:2056|1018:1874|999</realcoord>
+			<mapcoord>147|421:146|401:202|338:143|360:129|398:199|386:151|343:170|410:167|368:133|356:139|371:145|395:194|380:150|433:177|412:133|371:197|375:138|377:208|368:151|425:173|409:158|407:166|381:145|351:193|409:156|344:193|416:188|369</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소에서 투르신 주둔지로 들어가는 길목에 진을 친 크랄.</description>
+		</creature>
+		<creature>
+			<code>927</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 주술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1833|758:2001|743:1827|895:1909|1054:1924|1070:1786|891:1767|822:1984|848:1895|916:1877|908:1873|756:1877|812:1923|910:1937|912</realcoord>
+			<mapcoord>126|359:122|402:161|357:202|378:206|382:160|347:142|342:149|398:167|375:165|370:126|369:140|370:165|382:166|386</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소에 나타난다. 성격이 매우 공격적이어서 사람과 데바를 무조건 공격한다.</description>
+		</creature>
+		<creature>
+			<code>929</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 치유사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>17</level>
+			<realcoord>1883|760:1859|811:1861|782:2108|832:1900|782:1820|854:2104|855:2016|1015</realcoord>
+			<mapcoord>127|372:140|365:132|366:145|430:132|376:151|355:151|429:192|406</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>733</code>
+			<area code="1002">베르테론</area>
+			<name>공기의 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2412|1586:2567|1864:2479|1864:2241|1802:2214|1939:2397|1674:2190|1935:2497|1773:2533|1907:2420|1599:2249|1952:2573|1799:2440|1705:2160|1989:2424|1682:2567|1691:2137|1952:2222|1961:2214|1705:2540|1808:2275|1933:2461|1765:2292|2027:2208|1756:2398|1869:2467|1687:2338|1992:2191|1845:2520|1824:2205|1749:2155|1909:2284|1909:2207|2004:2476|1796:2336|1630:2357|1896:2272|1712:2527|1628:2556|1773:2343|1691:2322|1948:2579|1825:2453|1904:2272|2017:2582|1647:2263|2010:2380|1670:2217|2054:2143|1962:2393|1974:2453|1696:2238|1842:2509|1671:2187|1871:2536|1758:2268|1980:2231|1886:2457|1734:2452|1829:2549|1716:2292|1610:2438|1632:2175|1788:2236|1654:2204|1906:2462|1898:2581|1684</realcoord>
+			<mapcoord>339|508:410|548:410|525:395|464:430|457:362|504:429|451:387|530:422|539:342|510:433|466:394|549:370|515:443|443:364|511:366|548:433|437:435|459:370|457:396|541:428|473:385|520:453|477:383|455:412|504:365|522:444|489:406|451:400|536:381|455:422|442:422|475:447|455:393|524:350|488:419|494:372|472:350|538:387|545:366|490:432|485:400|551:421|518:450|472:355|552:448|470:361|500:459|458:436|439:439|503:367|518:405|463:361|533:412|450:383|540:440|471:416|461:377|519:402|518:373|543:345|477:351|514:391|447:356|462:421|454:419|521:364|551</mapcoord>
+			<aggressive>3</aggressive>
+			<description>엘데스 신전 근처에 서식하는 정령. 어떤 이유에서인가 변이되어 난폭해져있다.</description>
+		</creature>
+		<creature>
+			<code>796</code>
+			<area code="1002">베르테론</area>
+			<name>물기포 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2359|1720:2282|1784:2295|1888:2426|1779:2297|1848:2263|1767:2392|1776:2284|1879:2330|1863:2268|1803:2408|1833:2380|1802:2273|1832:2301|1730:2339|1755:2373|1837:2269|1758:2310|1727</realcoord>
+			<mapcoord>374|494:390|474:417|478:389|511:406|478:386|470:388|503:414|475:410|487:395|471:403|507:395|500:402|472:376|479:383|489:404|498:383|471:375|482</mapcoord>
+			<aggressive>0</aggressive>
+			<description>환영신의 성소의 호수에 사는 정령. 최근 들어 매우 난폭해 졌다.</description>
+		</creature>
+		<creature>
+			<code>811</code>
+			<area code="1002">베르테론</area>
+			<name>비밀주술사 쿰바차</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>18</level>
+			<realcoord>2071|1115</realcoord>
+			<mapcoord>218|420</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>814</code>
+			<area code="1002">베르테론</area>
+			<name>사나운 수액 그리마</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2364|1999:2272|1959:2551|1674:2400|1683:2386|1623:2207|1802:2207|1887:2488|1718:2220|1980:2470|1842:2241|1811:2529|1787:2503|1874:2451|1874:2499|1889:2385|1939:2354|1936:2275|1676:2260|1672:2219|1888:2563|1822:2237|1722:2529|1861:2263|1968:2444|1691:2425|1903</realcoord>
+			<mapcoord>445|495:435|472:362|543:364|505:349|501:395|455:417|455:373|527:440|458:405|523:397|464:391|538:413|531:413|518:417|530:430|501:429|493:362|473:361|469:417|458:400|547:374|463:410|538:437|469:366|516:421|511</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소에 사는 벌레. 대파국 이후 날아다니게 됐다. 수액을 빨아먹어 나무에게 피해를 준다.</description>
+		</creature>
+		<creature>
+			<code>878</code>
+			<area code="1002">베르테론</area>
+			<name>전투대장 쿤투라</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>18</level>
+			<realcoord>2141|940</realcoord>
+			<mapcoord>173|438</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>919</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 경계조장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2401|1496:2486|1573:2057|1086:2337|1460:2074|847:2476|1615:2087|1073:2089|1058:2050|914:2086|987:2411|1385:2044|985:2048|848:2073|796:2207|1043:2283|1033:2043|1098</realcoord>
+			<mapcoord>316|505:336|527:210|417:307|488:149|421:346|524:207|424:203|425:166|415:185|424:287|508:185|413:149|414:136|421:199|455:197|475:213|413</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소 깊은 곳에 있는 크랄 고참병.</description>
+		</creature>
+		<creature>
+			<code>924</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 상급 전투조장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2136|989:2101|823:2424|1364:2483|1547:2072|878:2216|1023:2430|1488:2057|1109:2051|1071:2075|795:2238|988:2194|1046:2063|816:2124|1007:2070|937:2062|979:2074|1116:2245|1042:2108|938:2250|1019:2120|960:2175|1029:2101|857</realcoord>
+			<mapcoord>186|437:143|428:282|511:329|526:157|420:194|457:314|513:216|417:207|415:136|421:185|463:200|452:141|418:190|434:172|420:183|418:218|421:199|465:172|430:193|466:178|433:196|447:152|428</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소에서 투르신 주둔지로 들어가는 길목에 진을 친 크랄.</description>
+		</creature>
+		<creature>
+			<code>932</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 정예 망루병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2305|1259:2418|1187:2294|1115</realcoord>
+			<mapcoord>255|480:236|509:218|477</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>721</code>
+			<area code="1002">베르테론</area>
+			<name>환영신의 성소 수호상</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>18</level>
+			<realcoord>2342|1801:2369|1825:2345|1851:2319|1826</realcoord>
+			<mapcoord>394|490:401|497:407|490:401|484</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>744</code>
+			<area code="1002">베르테론</area>
+			<name>난파선 선원</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2172|684:2128|689:2104|691:2129|692:2132|651:2178|675:2207|665:2107|704:2236|661:2120|700:2085|703:2137|661:2127|639:2218|651:2146|702</realcoord>
+			<mapcoord>107|446:108|435:109|429:109|435:99|436:105|448:102|455:112|429:101|463:111|433:112|424:101|437:95|435:99|458:112|439</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>755</code>
+			<area code="1002">베르테론</area>
+			<name>돌연변이 아이시</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>19</level>
+			<realcoord>2203|1986:2144|1975:2213|1661:2167|1756:2267|1628</realcoord>
+			<mapcoord>442|454:439|439:358|457:383|445:350|471</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>801</code>
+			<area code="1002">베르테론</area>
+			<name>바다 느림보 안킬로틀</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2285|916</realcoord>
+			<mapcoord>167|475</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칸타스 해안에서 볼 수 있는 파충류 거북목의 동물. 물 속에 있기도 하지만 주로 해안가에 나와 숲 근처까지 먹이를 찾아다닌다.</description>
+		</creature>
+		<creature>
+			<code>817</code>
+			<area code="1002">베르테론</area>
+			<name>사나운 히드로램피스</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2425|1804:2302|1867:2361|1873:2390|1740:2285|1741</realcoord>
+			<mapcoord>395|511:411|479:413|495:379|502:379|475</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>820</code>
+			<area code="1002">베르테론</area>
+			<name>서릿바람의 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2308|1607:2518|1632:2594|1652:2341|2012:2175|1797:2238|1666:2203|1711:2477|1811:2412|1943:2362|1680:2247|1655:2409|1860:2374|1926:2342|1636:2252|1877:2571|1751:2284|1618:2467|1750:2213|1639:2395|1658:2522|1900:2524|1685</realcoord>
+			<mapcoord>345|481:351|535:356|555:449|490:393|447:360|463:371|454:397|525:431|508:363|495:357|465:409|507:427|498:352|490:414|467:382|549:347|475:381|522:353|457:357|504:420|536:365|536</mapcoord>
+			<aggressive>3</aggressive>
+			<description>엘데스 신전 근처에 서식하는 정령. 어떤 이유에서인가 변이되어 난폭해져있다.</description>
+		</creature>
+		<creature>
+			<code>823</code>
+			<area code="1002">베르테론</area>
+			<name>소용돌이 정령</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2348|1761:2414|1826:2279|1824:2294|1784:2300|1843:2416|1764:2359|1842:2323|1879</realcoord>
+			<mapcoord>384|491:401|508:400|474:390|477:405|479:385|509:405|494:415|485</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>881</code>
+			<area code="1002">베르테론</area>
+			<name>정찰대장 타카타</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>19</level>
+			<realcoord>2215|1301</realcoord>
+			<mapcoord>266|457</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>6329</code>
+			<area code="1002">베르테론</area>
+			<name>제사장 무누카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2227|944</realcoord>
+			<mapcoord>174|460</mapcoord>
+			<aggressive>3</aggressive>
+			<description>제사장 사이에서 일어난 세력 다툼으로 칸타스 해안으로 피신해 있지만 막강한 힘을 가진 제사장이다.</description>
+		</creature>
+		<creature>
+			<code>883</code>
+			<area code="1002">베르테론</area>
+			<name>제사장 질루타</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>19</level>
+			<realcoord>2306|1188</realcoord>
+			<mapcoord>237|480</mapcoord>
+			<aggressive>3</aggressive>
+			<description>많은 브라우니 신도를 거느리고 있는 트루신 크랄 교주. 투르신 주둔지 입구 왼편에 있는 커다란 바위 회당 안에 있다.</description>
+		</creature>
+		<creature>
+			<code>902</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 감시대장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2276|1190:2351|1155:2339|1093:2333|1207:2303|1165:2382|1095</realcoord>
+			<mapcoord>237|473:228|492:212|489:242|488:231|480:213|500</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 주둔지에서 브라우니의 작업을 감시하는 크랄 대장</description>
+		</creature>
+		<creature>
+			<code>6327</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 고참 지휘병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2462|1569:2405|1373:2226|1044:2424|1509:2350|1390:2242|974:2385|1365:2338|1404:2253|1046:2213|953:2334|1438:2410|1359:2355|1467:2406|1467:2191|1024:2210|973:2470|1589:2480|1627:2236|960:2464|1620</realcoord>
+			<mapcoord>335|521:284|506:200|460:319|511:289|492:182|464:282|501:292|489:200|467:176|457:301|488:281|507:308|493:308|506:195|451:181|456:340|523:350|525:178|463:348|521</mapcoord>
+			<aggressive>3</aggressive>
+			<description>환영신의 성소 부근에 정찰병을 보내는 투르신 지휘병.</description>
+		</creature>
+		<creature>
+			<code>910</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 고참 호위병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2530|1158:2360|1215:2261|1154:2289|1155:2533|1162:2343|1326:2513|1167:2472|1179:2364|1083:2485|1147:2341|1268:2315|1295:2329|1137:2384|1070:2313|1142:2468|1170:2332|1090:2187|1189:2269|1180</realcoord>
+			<mapcoord>229|538:244|495:228|469:228|476:230|539:272|490:231|534:234|523:210|496:226|526:257|489:264|483:224|486:206|501:225|482:232|522:212|487:237|450:235|471</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 주둔지에 있는 크랄 호위병.</description>
+		</creature>
+		<creature>
+			<code>913</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 비밀 주술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2207|1248:2602|1140:2369|1082:2290|1207:2286|1241:2371|1120</realcoord>
+			<mapcoord>252|455:224|557:209|497:242|476:250|475:219|497</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>915</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 비밀 치유사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2321|1312:2333|1133:2208|1217:2216|1330:2250|1205</realcoord>
+			<mapcoord>269|484:222|487:244|455:273|457:241|466</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>931</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 정예 경계병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2397|1098:2332|1166:2492|1193:2289|1069:2270|1161:2499|1145:2385|1342:2372|1126:2347|1124:2297|1062:2525|1192</realcoord>
+			<mapcoord>214|504:231|487:238|528:206|476:230|471:226|530:276|501:221|498:220|491:204|478:238|537</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>933</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 정예 수색병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>19</level>
+			<realcoord>2506|1197:2284|1121:2344|1264:2357|1184:2352|1160:2479|1145:2337|1326:2316|1268:2353|1113:2487|1195:2299|1165:2421|1484:2525|1185:2350|1078:2298|1085:2469|1159</realcoord>
+			<mapcoord>239|532:220|475:256|490:236|494:229|492:226|525:272|488:257|483:217|493:239|527:231|479:313|510:236|537:208|492:210|478:229|523</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 전초기지에 있는 크랄 전투병.</description>
+		</creature>
+		<creature>
+			<code>948</code>
+			<area code="1002">베르테론</area>
+			<name>호위대장 탐바쿠</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>1</mongrade>
+			<mongradetext>네임드</mongradetext>
+			<level>19</level>
+			<realcoord>2419|1177</realcoord>
+			<mapcoord>234|510</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>743</code>
+			<area code="1002">베르테론</area>
+			<name>난파선 갑판원</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2099|634:2116|642:2116|630:2109|627:2091|611:2088|604:2141|657:2100|614:2112|630:2099|615</realcoord>
+			<mapcoord>94|427:96|432:93|432:92|430:88|425:86|424:100|438:89|427:93|431</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>863</code>
+			<area code="1002">베르테론</area>
+			<name>우네</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2387|789</realcoord>
+			<mapcoord>134|501</mapcoord>
+			<aggressive>0</aggressive>
+			<description>칸타스 해안에 주둔하고 있는 가디언 군단병.</description>
+		</creature>
+		<creature>
+			<code>885</code>
+			<area code="1002">베르테론</area>
+			<name>족장 쿠라카</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2617|1111</realcoord>
+			<mapcoord>217|561</mapcoord>
+			<aggressive>3</aggressive>
+			<description>투르신 주둔지에 머무는 투르신 크랄의 족장.</description>
+		</creature>
+		<creature>
+			<code>908</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 경계대장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2240|1188:2590|1116:2181|1190:2392|1335:2413|1171:2391|1280:2161|1255:2407|1222:2240|1294:2355|1210:2254|1237:2578|1143:2304|1225:2197|1195</realcoord>
+			<mapcoord>237|464:218|554:237|448:275|503:232|508:260|502:254|443:245|507:264|464:242|493:249|467:225|551:246|480:238|453</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>916</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 비밀 호위주술사</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2610|1123</realcoord>
+			<mapcoord>220|559</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>935</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 정예 호위병</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2356|1190:2599|1140:2182|1244:2393|1184:2489|1174:2325|1312:2211|1327:2196|1278:2575|1135:2235|1276:2169|1226:2244|1206:2392|1274:2212|1249:2332|1239:2587|1118</realcoord>
+			<mapcoord>237|493:224|556:251|449:236|503:233|528:268|485:272|456:260|452:223|550:259|462:246|445:241|465:259|503:252|456:250|487:219|553</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>936</code>
+			<area code="1002">베르테론</area>
+			<name>투르신 족장 호위대장</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>20</level>
+			<realcoord>2609|1116</realcoord>
+			<mapcoord>218|558</mapcoord>
+			<aggressive>3</aggressive>
+			<description></description>
+		</creature>
+		<creature>
+			<code>821</code>
+			<area code="1002">베르테론</area>
+			<name>선장 킨스그린</name>
+			<type>Monster</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>21</level>
+			<realcoord>2117|635</realcoord>
+			<mapcoord>94|432</mapcoord>
+			<aggressive>3</aggressive>
+			<description>칸타스 해안에 있는 수상한 난파선을 점거한 레파르 혁명단의 우두머리.</description>
+		</creature>
+		<creature>
+			<code>943</code>
+			<area code="1002">베르테론</area>
+			<name>포르키스</name>
+			<type>NPC</type>
+			<mclass></mclass>
+			<sclass></sclass>
+			<mongrade>0</mongrade>
+			<mongradetext>일반</mongradetext>
+			<level>25</level>
+			<realcoord>2377|796</realcoord>
+			<mapcoord>136|499</mapcoord>
+			<aggressive>0</aggressive>
+			<description>베르테론의 칸타스 해안에서 낚시를 즐기는 가디언 백부장. 카이시넬의 추종자로 알려져 있다.</description>
+		</creature>
+	</creatures>
+
+	<resources>
+		<resource>
+			<code>163</code>
+			<area code="1002">베르테론</area>
+			<name>쉐리</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1546|1372:1553|1561:1577|1268:1613|1274:1514|1306:1480|1384:1579|1688:1455|1377:1610|1648:1611|1711:1479|1475:1556|1652:1597|1567:1543|1302:1473|1429</realcoord>
+			<mapcoord>284|285:333|287:257|293:259|302:267|277:287|268:365|293:285|262:355|301:371|302:311|268:356|288:334|298:266|284:299|266</mapcoord>
+			<level>1</level>
+			<harvests>,152001001:10000000:1:icon_item_seefood07:쉐리,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>165</code>
+			<area code="1002">베르테론</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>1827|1505:1576|1503:1618|1650:1626|1333:1740|1561:1781|1545:1517|1487:1555|1544:1906|1438:1724|1678:1706|1378:1573|1376:1758|1638:1817|1427:1688|1321:1799|1329:1554|1302:1654|1508:1513|1439:1558|1611</realcoord>
+			<mapcoord>318|357:318|293:356|304:274|306:333|335:328|345:314|277:328|287:301|378:363|331:285|326:285|292:353|340:298|355:271|322:273|350:266|287:319|313:301|277:345|288</mapcoord>
+			<level>1</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>179</code>
+			<area code="1002">베르테론</area>
+			<name>안젤리카</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1364|2028:1304|1816:1559|2131:1605|1972:1720|1270:1249|2085:1549|2025:1269|1788:1914|1515:1858|1670:1349|1807:1913|1491:1424|1862:1728|2189:1891|1335:1463|2127:1641|1731:1436|1924:1240|1863:1290|1865</realcoord>
+			<mapcoord>453|238:398|223:479|288:438|300:258|330:468|209:452|286:391|214:321|380:361|365:396|234:315|380:410|254:494|332:275|374:478|264:376|309:426|257:410|206:411|219</mapcoord>
+			<level>1</level>
+			<harvests>,152000401:8000000:1:icon_item_herb01:안젤리카,152000402:2000000:2:icon_item_herb01_r:신선한 안젤리카,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>181</code>
+			<area code="1002">베르테론</area>
+			<name>안젤리카</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1613|1747:1639|1756:1911|1618:1810|1757:1846|1296:1726|1259:1988|1470:1777|1766:1658|1766</realcoord>
+			<mapcoord>380|302:383|309:347|379:383|353:264|362:255|331:309|399:385|345:385|314</mapcoord>
+			<level>1</level>
+			<harvests>,152000401:8000000:1:icon_item_herb01:안젤리카,152000402:2000000:2:icon_item_herb01_r:신선한 안젤리카,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>174</code>
+			<area code="1002">베르테론</area>
+			<name>킬리</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1156|1769:1263|2310:1560|1284:1813|1581:1494|1309:1128|1698:1249|2299:1898|1427:1161|1645:1147|1802:1452|1438:1746|1714:1505|1567:1553|1692:1571|1364:1457|1490</realcoord>
+			<mapcoord>386|185:525|212:261|289:338|354:268|272:368|178:522|209:298|376:354|186:395|182:301|261:372|336:334|275:366|287:282|292:314|262</mapcoord>
+			<level>5</level>
+			<harvests>,152000801:10000000:1:icon_item_fish02:킬리,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>175</code>
+			<area code="1002">베르테론</area>
+			<name>멜라</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1348|1813:1480|1902:1413|1861:1346|1935:1343|1932:1432|1931:1306|1819:1222|1867</realcoord>
+			<mapcoord>398|234:420|268:410|251:429|233:428|233:428|256:399|223:411|202</mapcoord>
+			<level>10</level>
+			<harvests>,152000701:10000000:1:icon_item_fruit07:멜라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>162</code>
+			<area code="1002">베르테론</area>
+			<name>철</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>691|2445:2584|1743:780|2695:2418|1984:1184|2725:840|2551:1465|2714:1961|2771:920|2353:1454|1824:1982|714:1287|2732:1125|1847:936|2061:1876|867:1239|2739:868|2039:2002|2319:2086|2114:1998|947:1927|935:2418|1569:1011|2316:1540|1107:1917|2559:618|2570:957|2367:1863|1120:1898|2725:1292|1930:1731|2801:2249|1590:726|2677:1894|2844:2089|2266:2295|1247:1990|895:1335|2729:2126|1945:1929|2680:839|2195:2135|820:1704|2850:2096|1105:1502|2693:918|2049:1225|2737:1958|2731:2325|1190:2271|1159:850|2641:1645|2853:1162|1740:965|2143:775|2495:1568|1097:2207|1279:1223|2663:1291|2030:919|1996:891|2460:1486|2023:1597|2818:1397|2725:921|2563:1763|2767:2345|1077:1642|1100:1961|2381:989|2253:2223|1064:908|2075:891|2139:2300|1303:2159|2157:1813|2776:1276|1952:1536|2710:1729|2151:2091|2431:2395|1136:1546|2776:972|2189:986|2288:1591|2215:1637|1909:1226|1795:878|2446:863|2070:2149|975:2630|1821:1419|2272:1493|2150:837|2573:881|2112:1558|1175:2382|1296:970|2121:1844|2777:692|2645:2050|2646:2011|2508:2180|1829:918|2332:1584|1156:1002|2146:615|2516:838|2147:2510|1205:1224|2700:2354|1581:991|2320:1614|2830:899|2563:2523|1924:2287|2052:1419|2712:2337|1247:947|2090:923|2218:1274|2721</realcoord>
+			<mapcoord>560|65:379|552:624|88:442|509:632|192:587|103:629|264:644|392:536|124:400|261:115|397:634|218:406|177:461|128:154|370:636|206:455|111:528|402:475|424:175|401:172|383:335|509:527|147:216|283:589|380:592|46:540|134:219|367:632|376:428|220:652|333:340|466:620|74:663|375:514|425:252|478:161|399:633|231:432|434:620|383:496|103:142|436:664|326:215|426:624|274:458|124:635|202:634|391:237|486:229|472:610|106:665|310:379|186:482|135:573|87:213|291:260|455:616|202:453|219:445|124:564|116:451|270:656|298:632|247:590|124:643|341:208|491:214|310:543|392:511|142:205|459:465|121:481|117:266|479:486|443:645|354:433|215:628|282:484|332:557|425:223|503:645|285:494|137:520|141:501|297:422|309:393|203:560|113:464|109:182|440:400|564:516|252:484|271:593|103:474|114:233|288:264|500:477|137:645|362:611|65:612|415:576|405:402|448:531|123:229|295:483|145:578|45:483|103:241|533:626|202:338|493:528|142:659|302:590|118:426|536:459|476:629|252:252|489:469|131:502|125:631|215</mapcoord>
+			<level>15</level>
+			<harvests>,152000201:10000000:1:icon_item_rock01e:철 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>171</code>
+			<area code="1002">베르테론</area>
+			<name>쿠쿠르</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1179|1729:1243|1890:1174|1830:1163|1844:1162|1829:1177|1849:1288|1873:1262|1927:1294|1888:1165|1713:1171|1717:1250|1915:1171|1734:1241|1902:1274|1880:1281|1894</realcoord>
+			<mapcoord>376|191:417|207:402|189:405|186:402|186:407|190:413|219:427|212:417|220:372|187:373|189:424|209:377|189:420|206:415|215:418|217</mapcoord>
+			<level>20</level>
+			<harvests>,152000001:10000000:1:icon_item_vegetable03:쿠쿠르,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>161</code>
+			<area code="1002">베르테론</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2385|1729:1554|1443:1750|1443:2229|1870:2418|1864:1674|1269:1686|1437:2207|1791:2284|1716:2290|1940:1961|1565:1691|1569:1697|1640:2317|1757:2244|1806:1887|1704:1787|1469:2460|1778:2341|1884:1487|1384</realcoord>
+			<mapcoord>376|501:302|287:302|338:412|461:411|509:257|318:301|321:392|455:373|475:430|476:334|392:335|322:353|324:383|483:396|464:369|373:309|347:388|520:416|490:287|270</mapcoord>
+			<level>25</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>168</code>
+			<area code="1002">베르테론</area>
+			<name>류코</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2008|2674:1318|1891:2062|2138:2104|2351:1318|2002:2082|2233:1933|2715:1325|1826:2201|2146:2127|2306:1513|2081:1942|2625:1965|2669:1841|2556:1887|2580:1986|2489:1924|2810:1647|2005:1973|2401:2143|2131:1367|1775:1509|1928:2057|2378:1574|1957:2167|2362:1430|1904:1241|1938:1578|2071:1460|2092:1921|2745:1864|2550:1232|1831:2024|2608:1435|2153:1366|1970:1954|2537:1913|2536:1962|2584</realcoord>
+			<mapcoord>619|404:417|226:481|418:536|429:446|226:505|423:629|385:401|228:483|454:524|435:466|277:606|387:618|393:589|361:595|373:571|398:654|382:447|311:549|395:479|439:388|239:427|275:543|416:434|292:539|445:421|255:430|207:464|293:469|263:637|382:587|367:402|204:602|408:485|257:438|239:584|390:583|379:596|392</mapcoord>
+			<level>25</level>
+			<harvests>,152000601:10000000:1:icon_item_jute01g:류코 솜,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>173</code>
+			<area code="1002">베르테론</area>
+			<name>비르케 나무</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2602|1649:2133|2364:2217|2352:1424|2234:1534|2020:2158|2385:1335|2016:2152|1778:2438|1610:2210|2324:2345|1946:2289|1643:1629|1983:2185|2001:1482|2089:1674|2157:2202|1729:1511|2145:1525|2208:2507|1833:1594|2112:2178|2360:2167|2338:2170|1893:2315|2034:1380|2072</realcoord>
+			<mapcoord>355|557:539|436:536|458:506|254:451|282:545|442:450|231:388|441:345|514:529|456:432|491:354|476:441|306:446|449:468|268:486|318:376|454:483|276:499|280:403|532:474|297:538|448:532|445:418|445:454|483:464|242</mapcoord>
+			<level>30</level>
+			<harvests>,152000501:10000000:1:icon_item_log01a:비르케 나무,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>170</code>
+			<area code="1002">베르테론</area>
+			<name>은</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>706|2671:796|2599:855|2568:970|2116:937|2224:708|2430:791|2460:911|2023:623|2624:925|2057:835|2203:833|2631:1053|2418:1016|2166:864|2051:866|2667:850|2144:803|2520:839|2067:1045|2155:890|2440:733|2698:863|2129:957|2013:1015|2456:904|1991:836|2343:1006|2092:1022|2128:814|2700:651|2590:972|2548:907|2550</realcoord>
+			<mapcoord>618|69:600|92:592|107:475|137:503|128:556|70:564|91:452|122:606|48:460|125:498|102:608|101:553|158:488|149:459|110:617|110:482|106:579|94:463|103:485|156:559|116:625|76:479|109:449|134:563|148:443|120:534|102:469|146:478|150:626|97:597|55:587|137:587|121</mapcoord>
+			<level>35</level>
+			<harvests>,152000101:10000000:1:icon_item_rock02a:은 광석,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>178</code>
+			<area code="1002">베르테론</area>
+			<name>로즈쿼츠</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>666|2681:1013|2479:920|2073:1244|2514:853|2117:883|2409:1102|2541:830|2394:603|2484:985|2515:797|2444:736|2419:1324|2514</realcoord>
+			<mapcoord>621|59:569|148:464|124:578|207:476|107:551|115:585|171:547|101:570|42:578|141:560|92:553|77:578|228</mapcoord>
+			<level>40</level>
+			<harvests>,152000301:10000000:2:icon_item_gemstone02c:로즈쿼츠 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>176</code>
+			<area code="1002">베르테론</area>
+			<name>타라곤</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1883|2636:2520|1694:1156|2567:1111|2555:1650|2775:1074|2635:2190|1923:2196|1660:2154|1968:2431|1731:1301|2572:2250|1629:1194|2535:2230|1985:2409|1936:2421|1625:1260|2705:1248|2734:1615|2736:1266|2564:1282|2640:1806|2733:2542|1811:2208|1834:2320|1676:2232|1757:1308|2530:1690|2778:1861|2679:2254|1896:1881|2715</realcoord>
+			<mapcoord>609|372:367|536:591|185:588|173:645|312:609|164:426|451:358|452:437|442:376|513:593|222:350|466:583|195:442|461:429|507:349|510:627|211:634|208:635|303:591|213:610|217:634|352:397|541:403|455:362|484:383|462:582|224:646|322:620|366:419|467:629|371</mapcoord>
+			<level>45</level>
+			<harvests>,152000403:8000000:1:icon_item_herb03:타라곤,152000404:2000000:2:icon_item_herb03_r:신선한 타라곤,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>166</code>
+			<area code="1002">베르테론</area>
+			<name>비노</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1736|2458:1331|2084:1318|2108:1674|2439:2008|2586:1307|2081:1290|2103:1309|2110:1980|2734:1907|2577:1619|2449:2051|2303:1288|2076</realcoord>
+			<mapcoord>563|334:467|230:473|226:559|318:596|404:466|224:472|219:474|224:634|397:594|378:561|304:524|415:465|219</mapcoord>
+			<level>50</level>
+			<harvests>,152000702:10000000:1:icon_item_fruit03:비노,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>172</code>
+			<area code="1002">베르테론</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2370|1779:2303|1850:2505|1862:1632|1472:1774|1381:1658|1595:1823|1628:1761|1343:2259|1723:2484|1744:2382|1682:2258|1915:1634|1396:1529|1528:1684|1713:2196|1828:2304|1911:1651|1541:1956|1498:2231|1688</realcoord>
+			<mapcoord>389|497:407|480:410|532:310|307:286|344:341|314:350|356:277|340:374|468:380|526:364|500:424|468:290|308:324|281:372|321:401|452:423|480:327|312:317|391:365|461</mapcoord>
+			<level>50</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>180</code>
+			<area code="1002">베르테론</area>
+			<name>오르주</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1498|2731:1228|2759:1241|2620:1514|2740:1357|2747:1306|2729:1285|2753:1194|2770:1219|2809:1273|2785:1274|2620:1197|2734:1166|2725</realcoord>
+			<mapcoord>634|273:641|203:605|207:636|277:638|236:633|223:639|218:644|195:654|201:647|215:605|215:634|195:632|187</mapcoord>
+			<level>55</level>
+			<harvests>,152000002:10000000:1:icon_item_vegetable05:오르주,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>167</code>
+			<area code="1002">베르테론</area>
+			<name>크리스탈</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2230|2314:2018|2781:1900|2715:2113|925:1862|2782:2463|1148:1946|2836:2105|1040:2407|1070:1822|2773:2114|2186:1794|965:2060|1020:2058|786:1858|728:1951|1061:1831|2590:1852|2746</realcoord>
+			<mapcoord>526|461:646|407:629|376:169|431:647|366:226|521:661|388:199|429:206|507:644|356:493|431:179|349:193|417:133|417:118|365:204|389:597|358:637|364</mapcoord>
+			<level>60</level>
+			<harvests>,152000303:10000000:2:icon_item_gemstone02e:크리스탈 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>160</code>
+			<area code="1002">베르테론</area>
+			<name>피스키스</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>1743|2736:2392|1786:1703|2531:1782|2711:1871|2617:1838|2636:1846|2696:2402|1769:1736|2515:2262|1782:2341|1865:2364|1746:2376|1813:2315|1744:1817|2662:1876|2656:2366|1859:2290|1843:1681|2746:1678|2768:1796|2618:1631|2490:2295|1770:1663|2752:1896|2686:1639|2739</realcoord>
+			<mapcoord>635|336:391|503:582|326:628|346:604|369:609|360:625|362:386|505:578|334:390|469:411|490:380|495:398|499:380|483:616|355:614|370:409|496:405|476:637|320:643|319:604|349:572|307:386|478:639|315:622|375:636|309</mapcoord>
+			<level>65</level>
+			<harvests>,152000802:10000000:1:icon_item_fish03:피스키스,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>182</code>
+			<area code="1002">베르테론</area>
+			<name>바따따</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2107|2262:2068|2346:2017|2469:2034|2410:2017|2353</realcoord>
+			<mapcoord>513|429:535|419:566|406:551|411:536|406</mapcoord>
+			<level>75</level>
+			<harvests>,152000003:10000000:1:icon_item_vegetable04:바따따,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>185</code>
+			<area code="1002">베르테론</area>
+			<name>작은 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2215|2009:2529|1698:2349|1754:2552|1813:2258|1830:2475|1618:2465|1684:2255|1646:2349|1896:2584|1843</realcoord>
+			<mapcoord>448|457:368|538:382|492:397|544:402|468:347|524:364|522:355|468:419|492:405|552</mapcoord>
+			<level>75</level>
+			<harvests>,152000901:10000000:1:icon_item_od04:오드 가루,</harvests>
+			<count>5</count>
+		</resource>
+		<resource>
+			<code>169</code>
+			<area code="1002">베르테론</area>
+			<name>아메시스트</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2584|1885:2261|2040:2353|2018:2302|1602:2150|1895:2551|1917:2499|1587:2548|1636:2589|1789:2598|1688</realcoord>
+			<mapcoord>416|552:456|469:450|493:343|480:418|440:424|543:339|530:352|543:391|553:365|556</mapcoord>
+			<level>80</level>
+			<harvests>,152000302:10000000:2:icon_item_gemstone02b:아메시스트 원석,</harvests>
+			<count>1</count>
+		</resource>
+		<resource>
+			<code>177</code>
+			<area code="1002">베르테론</area>
+			<name>베네라</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2427|867:2281|787:2312|908:2364|819:2285|858:2308|716:2354|910:2408|793</realcoord>
+			<mapcoord>154|512:133|474:165|482:142|495:152|475:115|481:165|493:135|507</mapcoord>
+			<level>85</level>
+			<harvests>,152001002:10000000:1:icon_item_seefood02:베네라,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>183</code>
+			<area code="1002">베르테론</area>
+			<name>꼬꼬메</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2319|704:2271|758:2350|933:2405|907:2244|900</realcoord>
+			<mapcoord>112|484:126|472:171|492:164|506:163|464</mapcoord>
+			<level>90</level>
+			<harvests>,152000703:10000000:1:icon_item_fruit04:꼬꼬메,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>184</code>
+			<area code="1002">베르테론</area>
+			<name>뽀렐</name>
+			<type>Resource</type>
+			<mclass>정기추출</mclass>
+			<realcoord>2308|822:2352|769:2333|870:2398|770:2452|843</realcoord>
+			<mapcoord>143|481:129|492:155|487:129|504:148|518</mapcoord>
+			<level>95</level>
+			<harvests>,152000803:10000000:1:icon_item_fish04:뽀렐,</harvests>
+			<count>3</count>
+		</resource>
+		<resource>
+			<code>164</code>
+			<area code="1002">베르테론</area>
+			<name>커다란 오드</name>
+			<type>Resource</type>
+			<mclass>오드추출</mclass>
+			<realcoord>2580|1671:2279|1754:2233|1613:2335|1620:2334|1695:2562|1738:2194|1969:2184|1724:2392|1613:2518|1762:2397|1895:2145|1921:2398|1826:2416|1744:2459|1814:2275|1996</realcoord>
+			<mapcoord>361|551:382|474:346|462:348|488:367|488:378|547:437|452:374|449:346|503:384|535:419|504:425|439:401|504:380|509:398|520:444|472</mapcoord>
+			<level>100</level>
+			<harvests>,152000902:8000000:1:icon_item_od03:오드 결정체,152000903:2000000:2:icon_item_od03_r:순도 높은 오드 결정체,</harvests>
+			<count>5</count>
+		</resource>
+	</resources>
+
+	<areas>
+		<area>
+			<code>1002</code>
+			<name>베르테론</name>
+			<mmap>1002_768m</mmap>
+			<smap>1002_768s</smap>
+		</area>
+	</areas>
+</resultdata>
