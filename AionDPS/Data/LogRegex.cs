@@ -26,7 +26,7 @@ namespace AionDPS
         {
             Regex rx = new Regex(loggedTimestamp + @"(?<isCritical>치명타! )?((?<userName>[가-힣A-Za-z\s]+)(가|이) )?((?<skillName>[가-힣\s]+ (I)?(I)?(V)?(I)?(I)?)을 사용해 )?" + $@"(?<hittedObjectName>{hittedObjectName})" + @"(에게|이) (?<damage>[0-9,]+)의 (치명적인 )?대미지를 (받고|받았|줬습|주고)");
             Regex rx2 = new Regex(loggedTimestamp + @"((?<userName>[가-힣A-Za-z]+)(가|이) )?(사용한 )?신속의 주문 I(을 사용해|의 영향으로) ((?<targetName>[가-힣A-Za-z]+)의 )?시전속도(가|를) (변동됐습니다|변경했습니다)");
-            Regex rx3 = new Regex(loggedTimestamp + $@"{hittedObjectName}이 신장의 격노를 사용해 ((?<targetName>[가-힣A-Za-z]+)에게) (?<damage>[0-9,]+)의 대미지를 줬습니다.");
+            Regex rx3 = new Regex(loggedTimestamp + $@"{hittedObjectName}이 (사용한 )?신장의 격노(를 사용해|의 영향으로) ((?<targetName>[가-힣A-Za-z]+)에게 )?(?<damage>[0-9,]+)의 대미지를 (줬습니다|받았습니다).");
 
             Analyzed analyzed = new Analyzed();
 
@@ -35,8 +35,9 @@ namespace AionDPS
                 Match matched = rx3.Match(log);
 
                 string userName = matched.Groups["targetName"].Value;
+                
                 string damage = matched.Groups["damage"].Value;
-                analyzed.userName = userName;
+                analyzed.userName = userName == "" ? Main.form.textBox1.Text : userName;
                 analyzed.rage = true;
                 analyzed.rageDamage = int.Parse(damage, NumberStyles.AllowThousands);
 
