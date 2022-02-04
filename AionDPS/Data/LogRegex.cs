@@ -95,7 +95,7 @@ namespace AionDPS
                 analyzed.skillName = matched.Groups["skillName"].Value.Length > 0 ? matched.Groups["skillName"].Value : "";
                 analyzed.hittedObjectName = matched.Groups["hittedObjectName"].Value;
                 analyzed.damage = int.Parse(matched.Groups["damage"].Value, NumberStyles.AllowThousands);
-                analyzed.isCritical = matched.Groups["isCritical"].Value == "치명타! " ? true : false;
+                analyzed.isCritical = matched.Groups["isCritical"].Value.Contains("치명타!");
                 analyzed.rage = false;
 
             }

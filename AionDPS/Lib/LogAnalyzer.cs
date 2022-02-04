@@ -64,6 +64,20 @@ namespace AionDPS
                 userLog.lastLog = logResult;
                 return;
             }
+            if (logResult.isCritical)
+            {
+
+                if (userLog.userName != Main.form.textBox1.Text)
+                {
+                    userLog.skillCriticalTimes++;
+                }
+                else
+                {
+                    if (logResult.skillName == "")
+                        userLog.criticalTimes++;
+                    else userLog.skillCriticalTimes++;
+                }
+            }
 
             if (logResult.rage)
             {
@@ -77,52 +91,43 @@ namespace AionDPS
             else if (userName == "빙판" && skillName.StartsWith("빙판") && skillName.EndsWith("효과"))
                 return;
 
-            GetNewAtk(userLog, logResult);
 
-            userLog.accDamage += logResult.damage;
-            userLog.time = GetTime(userLog, logResult.loggedTime);
-            userLog.DPS = userLog.accDamage / userLog.time;
-            userLog.lastLoggedTime = logResult.loggedTime;
-            userLog.MaxDamage = userLog.MaxDamage < logResult.damage ? logResult.damage : userLog.MaxDamage;
-            userLog.atkAccDamage += logResult.skillName == "" ? logResult.damage : 0;
-            userLog.skillAccDamage += logResult.skillName != "" ? logResult.damage : 0;
 
-            if (logResult.isCritical)
+            if (logResult.damage > 1)
             {
-                
-                if(userLog.userName != Main.form.textBox1.Text)
-                {
-                    userLog.skillCriticalTimes++;
-                }
-                else
-                {
-                    if (logResult.skillName == "")
-                        userLog.criticalTimes++;
-                    else userLog.skillCriticalTimes++;
-                }
+                GetNewAtk(userLog, logResult);
+
+                userLog.accDamage += logResult.damage;
+                userLog.time = GetTime(userLog, logResult.loggedTime);
+                userLog.DPS = userLog.accDamage / userLog.time;
+                userLog.lastLoggedTime = logResult.loggedTime;
+                userLog.MaxDamage = userLog.MaxDamage < logResult.damage ? logResult.damage : userLog.MaxDamage;
+                userLog.atkAccDamage += logResult.skillName == "" ? logResult.damage : 0;
+                userLog.skillAccDamage += logResult.skillName != "" ? logResult.damage : 0;
+
+                if (logResult.skillName != null && userLog.userClass == "")
+                    userLog.userClass = getUserClass(userLog, logResult);
+
+
+                userLog.skillCriticalPercentage = userLog.skillTimes != 0 ? Convert.ToInt32((float)userLog.skillCriticalTimes / (float)userLog.skillTimes * 100) : 0;
+                userLog.avgAtkDamage = userLog.atkTimes != 0 ? Convert.ToInt32(userLog.atkAccDamage / userLog.atkTimes) : 0;
+                userLog.avgSkillDamage = userLog.skillTimes != 0 ? Convert.ToInt32(userLog.skillAccDamage / userLog.skillTimes) : 0;
+                userLog.atkPercentage = userLog.accDamage != 0 ? userLog.atkAccDamage * 100 / userLog.accDamage : 0;
+                userLog.skillPercentage = userLog.accDamage != 0 ? userLog.skillAccDamage * 100 / userLog.accDamage : 0;
+
+
+                userList[userName] = userLog;
+
+                userLog.lastLog = logResult;
+                userLog.logStr.Add(logStr);
+
+                if (!userLog.usedSkills.ContainsKey(skillName))
+                    userLog.usedSkills.Add(skillName, new Log.UsedSkill());
+
+                userLog.usedSkills[skillName].log.Add(logStr);
+                userLog.usedSkills[skillName].logDamage.Add(logResult.damage);
+                userLog.usedSkills[skillName].AccDamage += logResult.damage;
             }
-            if (logResult.skillName != null && userLog.userClass == "")
-                userLog.userClass = getUserClass(userLog, logResult);
-
-            userLog.skillCriticalPercentage = userLog.skillTimes != 0 ? Convert.ToInt32(userLog.skillCriticalTimes / userLog.skillTimes * 100) : 0;
-            userLog.avgAtkDamage = userLog.atkTimes != 0 ? Convert.ToInt32(userLog.atkAccDamage / userLog.atkTimes) : 0;
-            userLog.avgSkillDamage = userLog.skillTimes != 0 ? Convert.ToInt32(userLog.skillAccDamage / userLog.skillTimes) : 0;
-            userLog.atkPercentage = userLog.accDamage != 0 ? userLog.atkAccDamage * 100 / userLog.accDamage : 0;
-            userLog.skillPercentage = userLog.accDamage != 0 ? userLog.skillAccDamage * 100 / userLog.accDamage : 0;
-
-
-            userList[userName] = userLog;
-
-            userLog.lastLog = logResult;
-            userLog.logStr.Add(logStr);
-
-            if (!userLog.usedSkills.ContainsKey(skillName))
-                userLog.usedSkills.Add(skillName, new Log.UsedSkill());
-
-            userLog.usedSkills[skillName].log.Add(logStr);
-            userLog.usedSkills[skillName].logDamage.Add(logResult.damage);
-            userLog.usedSkills[skillName].AccDamage += logResult.damage;
-         
         }
 
         public int GetTime(Log userLog, DateTime logTime)

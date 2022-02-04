@@ -189,7 +189,6 @@ namespace AionDPS
             this.menuStrip1.Size = new System.Drawing.Size(326, 24);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.Visible = false;
             // 
             // 파일ToolStripMenuItem
             // 
@@ -206,7 +205,7 @@ namespace AionDPS
             // 아이온폴더열기ToolStripMenuItem
             // 
             this.아이온폴더열기ToolStripMenuItem.Name = "아이온폴더열기ToolStripMenuItem";
-            this.아이온폴더열기ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.아이온폴더열기ToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.아이온폴더열기ToolStripMenuItem.Text = "아이온 폴더 열기";
             this.아이온폴더열기ToolStripMenuItem.Click += new System.EventHandler(this.아이온폴더열기ToolStripMenuItem_Click);
             // 
@@ -235,24 +234,25 @@ namespace AionDPS
             // 아이온옵션ToolStripMenuItem
             // 
             this.아이온옵션ToolStripMenuItem.Name = "아이온옵션ToolStripMenuItem";
-            this.아이온옵션ToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
+            this.아이온옵션ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.아이온옵션ToolStripMenuItem.Text = "아이온 옵션";
+            this.아이온옵션ToolStripMenuItem.Click += new System.EventHandler(this.아이온옵션ToolStripMenuItem_Click);
             // 
             // 설정ToolStripMenuItem
             // 
             this.설정ToolStripMenuItem.Name = "설정ToolStripMenuItem";
-            this.설정ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.설정ToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.설정ToolStripMenuItem.Text = "설정";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(163, 6);
             // 
             // 종료ToolStripMenuItem
             // 
             this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
-            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
             this.종료ToolStripMenuItem.Text = "종료";
             // 
             // 도움말ToolStripMenuItem

@@ -136,5 +136,12 @@ namespace AionDPS
         {
 
         }
+
+        private void 아이온옵션ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SystemConfig sysConfig = new SystemConfig();
+
+            sysConfig.Show();
+        }
     }
 }
