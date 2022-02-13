@@ -5,7 +5,7 @@
 
 # 개발진행상황
 ## 요새전 DPS순위집계 프로그램
-* 아이온 지켈서버 미니갤러리([링크](https://gall.dcinside.com/mini/board/lists?id=zikel))에 업로드되는 DPS순위 집계를 손쉽게 하기 위한 프로그램입니다.
+* 아이온 클래식 요새전 미니갤러리([링크](https://gall.dcinside.com/mini/board/lists?id=aionfortress))에 업로드되는 DPS순위 집계를 손쉽게 하기 위한 프로그램입니다.
 * 엑셀이나 메모장 등의 사전작업이 필요 없이 바로 집계가 가능합니다.
 * TODO: 파티에 호법(신속, 질풍, 불패) 포함 여부 체크(요청사항), 
 
